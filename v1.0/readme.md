@@ -1,1 +1,1 @@
-DOI related 3D models for V1.0.
+DOI v1.0 related files: 3D models, XML, and markdown.
