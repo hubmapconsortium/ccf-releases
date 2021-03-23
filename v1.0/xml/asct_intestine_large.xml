@@ -1,0 +1,62 @@
+<resource xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.3/metadata.xsd">
+    <link type="text/css" rel="stylesheet" id="dark-mode-custom-link" />
+    <link type="text/css" rel="stylesheet" id="dark-mode-general-link" />
+    <style lang="en" type="text/css" id="dark-mode-custom-style" />
+    <style lang="en" type="text/css" id="dark-mode-native-style" />
+    <identifier identifierType="DOI">10.5072/example-full</identifier>
+    <creators>
+        <creator>
+            <creatorName nameType="Personal">Longacre, Teri A.</creatorName>
+            <givenName>Teri A.</givenName>
+            <familyName>Longacre</familyName>
+            <nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID">0000-0002-0935-7300</nameIdentifier>
+        </creator>
+        <creator>
+            <creatorName nameType="Personal">Hickey, John</creatorName>
+            <givenName>John</givenName>
+            <familyName>Hickey</familyName>
+            <nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID">0000-0001-5675-3974</nameIdentifier>
+        </creator>
+        <creator>
+            <creatorName nameType="Personal">Lin, Yiing</creatorName>
+            <givenName>Yiing</givenName>
+            <familyName>Lin</familyName>
+            <nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID">0000-0002-0317-7608</nameIdentifier>
+        </creator>
+    </creators>
+    <contributors>
+        <contributor contributorType="ProjectLeader">
+            <contributorName>Börner, Katy</contributorName>
+            <givenName>Katy</givenName>
+            <familyName>Börner</familyName>
+            <nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID">0000-0002-3321-6137</nameIdentifier>
+        </contributor>
+    </contributors>
+    <dates>
+        <date dateType="Available" dateInformation="Date when the item was finalized">2021-03-12</date>
+    </dates>
+    <titles>Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Intestine, Large v1.0</titles>
+    <subjects>
+        <subject>Intestine, Large v1.0 ASCT+B Table</subject>
+    </subjects>
+    <descriptions>
+        <description descriptionType="Abstract">Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables aim to capture the nested part_of structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts.</description>
+    </descriptions>
+    <rightsList>
+        <rights rightsIdentifier="CC-BY-4.0" rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
+    </rightsList>
+    <publisher xml:lang="en">HuBMAP</publisher>
+    <fundingReferences>
+        <fundingReference>
+            <funderName>National Institutes of Health</funderName>
+            <awardNumber>OT2OD026671</awardNumber>
+        </fundingReference>
+    </fundingReferences>
+    <relatedIdentifiers>
+        <relatedIdentifier relatedIdentifierType="URL" relationType="IsDocumentedBy">https://portal.hubmapconsortium.org/docs/asct-b/intestine-large</relatedIdentifier>
+    </relatedIdentifiers>
+    <publicationYear>2021</publicationYear>
+    <alternateIdentifiers>
+        <alternateIdentifier alternateIdentifierType="How to cite">Quardokus, Ellen, Hrishikesh Paul, Bruce W. Herr II, Lisel Record, Katy Börner. 2021. HuBMAP ASCT+B Tables. https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html. Accessed on March 12, 2021.</alternateIdentifier>
+    </alternateIdentifiers>
+</resource>
