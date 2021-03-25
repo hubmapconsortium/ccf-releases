@@ -28,7 +28,6 @@ body {
 
 .main h1 {
   margin-top: 0;
-  line-height: 1.25em;
 }
 
 .main h3 {
@@ -85,7 +84,7 @@ body {
 
 .main-header .main-logo {
   max-width: 1302px;
-  max-height: 64px;
+  height: 64px;
   margin: auto;
   display: flex;
   align-content: flex-start;
