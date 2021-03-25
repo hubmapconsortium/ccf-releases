@@ -1,8 +1,5 @@
-<resource xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.3/metadata.xsd">
-    <link type="text/css" rel="stylesheet" id="dark-mode-custom-link" />
-    <link type="text/css" rel="stylesheet" id="dark-mode-general-link" />
-    <style lang="en" type="text/css" id="dark-mode-custom-style" />
-    <style lang="en" type="text/css" id="dark-mode-native-style" />
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.3/metadata.xsd">
     <identifier identifierType="DOI">10.5072/example-full</identifier>
     <creators>
         <creator>
@@ -35,7 +32,9 @@
     <dates>
         <date dateType="Available" dateInformation="Date when the item was finalized">2021-03-12</date>
     </dates>
-    <titles>Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Bone Marrow and Blood/Pelvis v1.0</titles>
+    <titles>
+        <title>Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Bone Marrow and Blood/Pelvis v1.0</title>
+    </titles>
     <subjects>
         <subject>Bone Marrow and Blood/Pelvis v1.0 ASCT+B Table</subject>
     </subjects>
