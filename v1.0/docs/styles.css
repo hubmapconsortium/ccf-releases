@@ -28,6 +28,7 @@ body {
 
 .main h1 {
   margin-top: 0;
+  line-height: 1.25em;
 }
 
 .main h3 {
