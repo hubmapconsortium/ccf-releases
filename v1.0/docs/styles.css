@@ -82,8 +82,16 @@ body {
 }
 
 .main-header .main-logo {
-  max-width: 1110px;
+  max-width: 1302px;
   max-height: 64px;
+  margin: auto;
+  display: flex;
+  align-content: flex-start;
+  align-items: center;
+}
+
+.main-header .main-logo .logo {
+  max-height: 24px;
 }
 
 .main-footer {
@@ -102,6 +110,7 @@ body {
 .main a:hover {
   background-color: #fafafa;
   text-decoration: underline;
+  cursor: pointer;
 }
 
 @media screen and (min-width: 640px) {
