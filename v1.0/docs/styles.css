@@ -10,6 +10,7 @@ body {
 
 .main {
   display: block;
+  width: 100%;
   max-width: 1110px;
   margin-top: 1rem;
   margin-left: 0;
@@ -111,6 +112,20 @@ body {
   background-color: #fafafa;
   text-decoration: underline;
   cursor: pointer;
+}
+
+.list-page h2 {
+  margin-top: 3rem;
+}
+
+.list-style-none {
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.list-style-none li {
+  line-height: 2rem;
 }
 
 @media screen and (min-width: 640px) {
