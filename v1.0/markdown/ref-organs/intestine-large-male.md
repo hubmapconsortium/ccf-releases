@@ -1,5 +1,4 @@
 # 3D Reference Organ for Intestine, Large, Male v1.0
-## Intestine, Large, Male 3D Organ v1.0
 
 ### Description
 This reference organ was created using data provided by Arie Kaufman, Stony Brook University.
@@ -15,6 +14,8 @@ This reference organ was created using data provided by Arie Kaufman, Stony Broo
 | **Publisher:** | HuBMAP |
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
+| **HuBMAP ID:** | HBM235.QFTP.824 |
+| **Data:** | https://hubmapconsortium.github.io/ccf-releases/v1.0/models/SBU_Intestine_Large.glb |
 | **Publication:** | *Nature Cell Biology Paper* |
 | **Publication DOI:** | DOI |
-| **How to Cite:** | Browne, K., Cross, L. E., Herr II, B. W., Record, L,  Quardokus, E, Bueckle, A., B&ouml;rner, K. (2021). *HuBMAP CCF 3D Reference Object Library*. https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html. Accessed on March 12, 2021. |
+| **How to Cite:** | Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2021. *HuBMAP CCF 3D Reference Object Library*. https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html. Accessed on March 12, 2021. |

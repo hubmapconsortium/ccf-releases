@@ -1,5 +1,4 @@
 # 3D Reference Organ for Skin, Female v1.0
-## Skin, Female 3D Organ v1.0
 
 ### Description
 This reference organ was created with the Open Source modelling tool MakeHuman; screenshots of Visible Human Female provided by the National Library of Medicine were used to model dimensions. The head and neck regions were replaced with custom models and the bodies were further adjusted using Pixelogic Zbrush.
@@ -15,6 +14,8 @@ This reference organ was created with the Open Source modelling tool MakeHuman; 
 | **Publisher:** | HuBMAP |
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
+| **HuBMAP ID:** | HBM287.TJZD.872 |
+| **Data:** | https://hubmapconsortium.github.io/ccf-releases/v1.0/models/VH_F_Skin.glb |
 | **Publication:** | *Nature Cell Biology Paper* |
 | **Publication DOI:** | DOI |
-| **How to Cite:** | Browne, K., Cross, L. E., Herr II, B. W., Record, L,  Quardokus, E, Bueckle, A., B&ouml;rner, K. (2021). *HuBMAP CCF 3D Reference Object Library*. https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html. Accessed on March 12, 2021. |
+| **How to Cite:** | Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2021. *HuBMAP CCF 3D Reference Object Library*. https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html. Accessed on March 12, 2021. |
