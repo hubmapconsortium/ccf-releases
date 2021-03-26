@@ -44,7 +44,7 @@
     <relatedIdentifiers>
         <relatedIdentifier relatedIdentifierType="DOI" relationType= "References">10.1002/cne.24080</relatedIdentifier>
         <relatedIdentifier relatedIdentifierType="URL" relationType="IsDerivedFrom">https://alleninstitute.org/</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="URL" relationType="IsDocumentedBy">https://portal.hubmapconsortium.org/docs/ref-organs/brain-female</relatedIdentifier>
+        <relatedIdentifier relatedIdentifierType="URL" relationType="IsDocumentedBy">https://entity.api.hubmapconsortium.org/redirect/HBM927.XKJR.426</relatedIdentifier>
     </relatedIdentifiers>
     <publicationYear>2021</publicationYear>
     <alternateIdentifiers>
