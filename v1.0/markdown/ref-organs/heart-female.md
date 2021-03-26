@@ -1,4 +1,5 @@
 # 3D Reference Organ for Heart, Female v1.0
+**doi:** https://entity.api.hubmapconsortium.org/redirect/HBM894.FGQN.237
 
 ### Description
 This reference organ was created using data from the Visible Human Female provided by the National Library of Medicine.
@@ -15,7 +16,5 @@ This reference organ was created using data from the Visible Human Female provid
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM894.FGQN.237 |
-| **Data:** | https://hubmapconsortium.github.io/ccf-releases/v1.0/models/VH_F_Heart.glb |
-| **Publication:** | *Nature Cell Biology Paper* |
-| **Publication DOI:** | DOI |
-| **How to Cite:** | Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2021. *HuBMAP CCF 3D Reference Object Library*. https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html. Accessed on March 12, 2021. |
+| **Data:** | https://entity.api.hubmapconsortium.org/redirect/HBM894.FGQN.237 |
+| **3D Reference Library:** | Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2021. *HuBMAP CCF 3D Reference Object Library*. https://entity.api.hubmapconsortium.org/redirect/HBM894.FGQN.237. Accessed on March 12, 2021. |
