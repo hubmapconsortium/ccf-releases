@@ -40,7 +40,7 @@
         </fundingReference>
     </fundingReferences>
     <relatedIdentifiers>
-        <relatedIdentifier relatedIdentifierType="URL" relationType="IsDocumentedBy">https://portal.hubmapconsortium.org/docs/ref-organs/kidney-male-left</relatedIdentifier>
+        <relatedIdentifier relatedIdentifierType="URL" relationType="IsDocumentedBy">https://entity.api.hubmapconsortium.org/redirect/HBM792.NPXX.335</relatedIdentifier>
     </relatedIdentifiers>
     <publicationYear>2021</publicationYear>
     <alternateIdentifiers>

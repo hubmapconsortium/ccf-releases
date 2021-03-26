@@ -52,7 +52,7 @@
         </fundingReference>
     </fundingReferences>
     <relatedIdentifiers>
-        <relatedIdentifier relatedIdentifierType="URL" relationType="IsDocumentedBy">https://portal.hubmapconsortium.org/docs/asct-b/lymph-node</relatedIdentifier>
+        <relatedIdentifier relatedIdentifierType="URL" relationType="IsDocumentedBy">https://entity.api.hubmapconsortium.org/redirect/HBM375.LMPC.837</relatedIdentifier>
     </relatedIdentifiers>
     <publicationYear>2021</publicationYear>
     <alternateIdentifiers>
