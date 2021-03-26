@@ -20,7 +20,9 @@
     <dates>
         <date dateType="Available" dateInformation="Date when the item was finalized">2021-03-12</date>
     </dates>
-    <titles>3D Reference Organ for Intestine, Large, Male v1.0</titles>
+    <titles>
+        <title>3D Reference Organ for Intestine, Large, Male v1.0</title>
+    </titles>
     <subjects>
         <subject>Intestine, Large, Male 3D Organ v1.0</subject>
     </subjects>
