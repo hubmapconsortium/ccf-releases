@@ -10,7 +10,6 @@ body {
 
 .main {
   display: block;
-  width: 100%;
   max-width: 1110px;
   margin-top: 1rem;
   margin-left: 0;
@@ -76,6 +75,7 @@ body {
 
 .main-header {
   position: sticky;
+  margin-left: 1rem;
   height: 4rem;
   width: 100%;
   background-color: rgba(68, 76, 101, 1);
@@ -98,6 +98,11 @@ body {
 .main-footer {
   max-width: 1302px;
   margin: auto;
+}
+
+.main-footer p {
+  margin-left: 1rem;
+  margin-right: 1rem;
 }
 
 .main a {
