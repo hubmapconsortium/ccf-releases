@@ -3,7 +3,10 @@
     <identifier identifierType="DOI">10.5072/example-full</identifier>
     <creators>
         <creator>
-            <creatorName nameType="Organizational">Allen Institute</creatorName>
+            <creatorName nameType="Personal">Browne, Kristen</creatorName>
+            <givenName>Kristen</givenName>
+            <familyName>Browne</familyName>
+            <nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID">0000-0003-4066-7531</nameIdentifier>
         </creator>
     </creators>
     <contributors>
@@ -39,7 +42,8 @@
         </fundingReference>
     </fundingReferences>
     <relatedIdentifiers>
-        <relatedIdentifier relatedIdentifierType="DOI">10.1002/cne.24080</relatedIdentifier>
+        <relatedIdentifier relatedIdentifierType="DOI" relationType= "References">10.1002/cne.24080</relatedIdentifier>
+        <relatedIdentifier relatedIdentifierType="URL" relationType="IsDerivedFrom">https://alleninstitute.org/</relatedIdentifier>
         <relatedIdentifier relatedIdentifierType="URL" relationType="IsDocumentedBy">https://portal.hubmapconsortium.org/docs/ref-organs/brain-female</relatedIdentifier>
     </relatedIdentifiers>
     <publicationYear>2021</publicationYear>
