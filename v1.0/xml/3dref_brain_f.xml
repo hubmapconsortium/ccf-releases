@@ -29,7 +29,7 @@
         <subject>Brain 3D Organ Female v1.0</subject>
     </subjects>
     <descriptions>
-        <description descriptionType="Abstract">This reference organ was created using data from the "Allen Human Reference Atlas – 3D, 2020" representing one half of the human brain (Ding et al., 2016). The 141 anatomical structures were mirrored to arrive at a whole human brain (as intended) and resized to fit the Visible Human Male and Female bodies.</description>
+        <description descriptionType="Abstract">[This reference organ](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created using data from the "Allen Human Reference Atlas – 3D, 2020" representing one half of the human brain (Ding et al., 2016). The 141 anatomical structures were mirrored to arrive at a whole human brain (as intended) and resized to fit the Visible Human Male and Female bodies.</description>
     </descriptions>
     <rightsList>
         <rights rightsIdentifier="CC-BY-4.0" rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>

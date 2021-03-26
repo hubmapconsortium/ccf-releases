@@ -15,7 +15,7 @@
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM325.PTQS.258 |
-| **Data Table:** | https://hubmapconsortium.github.io/ccf-releases/v1.0/asct-b/ASCT-B_VH_Kidney.csv |
-| **DOI:** | [https://doi.org/10.35079/HBM325.PTQS.258](https://doi.org/10.35079/HBM325.PTQS.258) |
-| **How to Cite This Data Table:** | Sanjay Jain; M. Todd Valerius; Yongqun He. HuBMAP ASCT+B Tables. Bone Marrow and Blood/Pelvis v1.0 [https://doi.org/10.35079/HBM325.PTQS.258](https://doi.org/10.35079/HBM325.PTQS.258) |
+| **Data Table:** | [Kidney v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.0/asct-b/ASCT-B_VH_Kidney.csv) |
+| **DOI:** | [https://doi.org/10.35079/hbm325.ptqs.258](https://doi.org/10.35079/hbm325.ptqs.258) |
+| **How to Cite This Data Table:** | Sanjay Jain; M. Todd Valerius; Yongqun He. HuBMAP ASCT+B Tables. Kidney v1.0 [https://doi.org/10.35079/hbm325.ptqs.258](https://doi.org/10.35079/hbm325.ptqs.258) |
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Hrishikesh Paul, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2021. *HuBMAP ASCT+B Tables*. https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html. Accessed on March 12, 2021. |
