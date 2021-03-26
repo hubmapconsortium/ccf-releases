@@ -3,10 +3,10 @@
     <identifier identifierType="DOI">10.5072/example-full</identifier>
     <creators>
         <creator>
-            <creatorName nameType="Personal">Browne, Kristen</creatorName>
-            <givenName>Kristen</givenName>
-            <familyName>Browne</familyName>
-            <nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID">0000-0003-4066-7531</nameIdentifier>
+            <creatorName nameType="Personal">Cross, Leonard</creatorName>
+            <givenName>Leonard</givenName>
+            <familyName>Cross</familyName>
+            <nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID">0000-0003-3398-5507</nameIdentifier>
         </creator>
     </creators>
     <contributors>
@@ -21,15 +21,13 @@
         <date dateType="Available" dateInformation="Date when the item was finalized">2021-03-12</date>
     </dates>
     <titles>
-        <title>
-            3D Reference Organ for Brain, Male v1.0
-        </title>
+        <title>CCF Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables</title>
     </titles>
     <subjects>
-        <subject>Brain 3D Organ Male v1.0</subject>
+        <subject>CCF Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables</subject>
     </subjects>
     <descriptions>
-        <description descriptionType="Abstract">This reference organ was created using data from the "Allen Human Reference Atlas – 3D, 2020" representing one half of the human brain (Ding et al., 2016). The 141 anatomical structures were mirrored to arrive at a whole human brain (as intended) and resized to fit the Visible Human Male and Female bodies.</description>
+        <description descriptionType="Abstract">Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables aim to capture the nested part_of structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types (e.g., gene, protein, lipid or metabolic markers). The tables are authored and reviewed by an international team of anatomists, pathologists, physicians, and other experts. </description>
     </descriptions>
     <rightsList>
         <rights rightsIdentifier="CC-BY-4.0" rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
@@ -42,13 +40,11 @@
         </fundingReference>
     </fundingReferences>
     <relatedIdentifiers>
-        <relatedIdentifier relatedIdentifierType="DOI" relationType= "References">10.1002/cne.24080</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="URL" relationType="IsDerivedFrom">https://alleninstitute.org/</relatedIdentifier>
-        <relatedIdentifier relatedIdentifierType="URL" relationType="IsDocumentedBy">https://entity.api.hubmapconsortium.org/redirect/HBM927.XKJR.426</relatedIdentifier>
+        <relatedIdentifier relatedIdentifierType="URL" relationType="IsDocumentedBy">https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html</relatedIdentifier>
     </relatedIdentifiers>
     <publicationYear>2021</publicationYear>
     <alternateIdentifiers>
         <alternateIdentifier alternateIdentifierType="How to cite">Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record, Ellen Quardokus, Andreas Bueckle, Katy Börner. 2021. HuBMAP CCF 3D Reference Object Library. https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html. Accessed on March 12, 2021.</alternateIdentifier>
-        <alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM927.XKJR.426</alternateIdentifier>
+        <alternateIdentifier alternateIdentifierType="HuBMAP ID"></alternateIdentifier>
     </alternateIdentifiers>
 </resource>
