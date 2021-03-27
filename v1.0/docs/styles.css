@@ -51,7 +51,7 @@ body {
 }
 
 .main thead tr th:first-child {
-  min-width: 9rem;
+  min-width: 14.5rem;
 }
 
 .main table tr td, .main table {
