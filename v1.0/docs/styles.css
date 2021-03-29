@@ -8,6 +8,10 @@ body {
   font-family: 'Inter', sans-serif;
 }
 
+.main, .main-header, .main-footer {
+  box-sizing: border-box;
+}
+
 .main {
   display: block;
   max-width: 1110px;
@@ -82,7 +86,7 @@ body {
 }
 
 .main-header .main-logo {
-  max-width: 1302px;
+  max-width: 1110px;
   height: 64px;
   margin: auto;
   display: flex;
@@ -96,7 +100,7 @@ body {
 }
 
 .main-footer {
-  max-width: 1302px;
+  max-width: 1110px;
   margin: auto;
 }
 
