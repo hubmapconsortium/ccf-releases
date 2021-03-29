@@ -6,7 +6,7 @@
 | Label | Value |
 | :------------- |:-------------|
 | **Creator(s):** | Muzlifah A. Haniffa; Laura Jardine; Sarah A. Teichmann |
-| **Creator ORCID(s):** | [0000-0002-3927-2084](https://orcid.org/0000-0002-3927-2084); [0000-0003-4495-8205](https://orcid.org/0000-0003-4495-8205); [0000-0002-6294-6366](https://orcid.org/0000-0003-4495-8205) |
+| **Creator ORCID(s):** | [0000-0002-3927-2084](https://orcid.org/0000-0002-3927-2084); [0000-0003-4495-8205](https://orcid.org/0000-0003-4495-8205); [0000-0002-6294-6366](https://orcid.org/0000-0002-6294-6366) |
 | **Project Lead:** | Katy B&ouml;rner |
 | **Project Lead ORCID:** | [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137) |
 | **Creation Date:** | 2021-03-12 |
