@@ -150,6 +150,9 @@ body {
   .main {
     padding: 6rem;
   }
+}
+
+@media screen and (min-width: 1142px) {
   .main-header .main-logo .logo {
     margin-left: 0;
   }
