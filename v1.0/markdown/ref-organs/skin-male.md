@@ -6,7 +6,7 @@
 | Label | Value |
 | :------------- |:-------------|
 | **Creator(s):** | Kristen Browne; Leonard Cross |
-| **Creator ORCID:** | [0000-0003-4066-7531](https://orcid.org/0000-0003-4066-7531); 0000-0003-3398-5507 |
+| **Creator ORCID:** | [0000-0003-4066-7531](https://orcid.org/0000-0003-4066-7531); [0000-0003-3398-5507](https://orcid.org/0000-0003-3398-5507) |
 | **Project Lead:** | Katy B&ouml;rner |
 | **Project Lead ORCID:** | [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137) |
 | **Date:** | 2021-03-12 |
