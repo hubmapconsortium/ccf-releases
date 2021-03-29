@@ -16,6 +16,6 @@
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM264.CCRF.525 |
 | **Data Table:** | [Brain v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.0/asct-b/ASCT-B_Allen_Brain.csv) |
-| **DOI:** | [https://doi.org/10.35079/hbm264.ccrf.525](https://doi.org/10.35079/hbm264.ccrf.525) |
-| **How to Cite This Data Table:** | Song-Lin Ding; Jeremy A. Miller; Amy Bernard. HuBMAP ASCT+B Tables. Brain v1.0 [https://doi.org/10.35079/hbm264.ccrf.525](https://doi.org/10.35079/hbm264.ccrf.525) |
+| **DOI:** | [https://doi.org/10.48539/hbm264.ccrf.525](https://doi.org/10.48539/hbm264.ccrf.525) |
+| **How to Cite This Data Table:** | Song-Lin Ding; Jeremy A. Miller; Amy Bernard. HuBMAP ASCT+B Tables. Brain v1.0 [https://doi.org/10.48539/hbm264.ccrf.525](https://doi.org/10.48539/hbm264.ccrf.525) |
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Hrishikesh Paul, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2021. *HuBMAP ASCT+B Tables*. https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html. Accessed on March 12, 2021. |
