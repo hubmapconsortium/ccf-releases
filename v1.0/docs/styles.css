@@ -150,7 +150,7 @@ body {
     padding: 6rem;
   }
   .main-header .main-logo .logo {
-    margin-left: 1rem;
+    margin-left: 0;
   }
 }
 
