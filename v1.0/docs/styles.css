@@ -97,6 +97,7 @@ body {
 .main-header .main-logo .logo {
   margin-left: 1rem;
   height: 24px;
+  line-height: 0;
 }
 
 .main-footer {
