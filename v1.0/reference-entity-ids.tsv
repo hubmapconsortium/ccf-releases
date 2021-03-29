@@ -1,38 +1,38 @@
-hubmap_id	landing_page_to_register	data_information_page
-HBM963.TBFP.428	https://entity.api.hubmapconsortium.org/redirect/HBM963.TBFP.428	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/asct-b/bone-marrow-and-blood.html         
-HBM264.CCRF.525	https://entity.api.hubmapconsortium.org/redirect/HBM264.CCRF.525	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/asct-b/brain.html                         
-HBM873.NNVD.559	https://entity.api.hubmapconsortium.org/redirect/HBM873.NNVD.559	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/asct-b/heart.html                         
-HBM287.KVCD.758	https://entity.api.hubmapconsortium.org/redirect/HBM287.KVCD.758	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/asct-b/intestine-large.html               
-HBM325.PTQS.258	https://entity.api.hubmapconsortium.org/redirect/HBM325.PTQS.258	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/asct-b/kidney.html                        
-HBM868.DWJZ.874	https://entity.api.hubmapconsortium.org/redirect/HBM868.DWJZ.874	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/asct-b/lung.html                          
-HBM375.LMPC.837	https://entity.api.hubmapconsortium.org/redirect/HBM375.LMPC.837	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/asct-b/lymph-node.html                    
-HBM227.WHPG.367	https://entity.api.hubmapconsortium.org/redirect/HBM227.WHPG.367	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/asct-b/skin.html                          
-HBM625.VPLJ.455	https://entity.api.hubmapconsortium.org/redirect/HBM625.VPLJ.455	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/asct-b/spleen.html                        
-HBM934.JMVN.957	https://entity.api.hubmapconsortium.org/redirect/HBM934.JMVN.957	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/asct-b/thymus.html                        
-HBM426.GZPN.888	https://entity.api.hubmapconsortium.org/redirect/HBM426.GZPN.888	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/asct-b/vasculature.html                   
-HBM438.XKJT.666	https://entity.api.hubmapconsortium.org/redirect/HBM438.XKJT.666	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/brain-female.html              
-HBM927.XKJR.426	https://entity.api.hubmapconsortium.org/redirect/HBM927.XKJR.426	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/brain-male.html                
-HBM894.FGQN.237	https://entity.api.hubmapconsortium.org/redirect/HBM894.FGQN.237	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/heart-female.html              
-HBM384.FDPD.646	https://entity.api.hubmapconsortium.org/redirect/HBM384.FDPD.646	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/heart-male.html                
-HBM734.KXRL.243	https://entity.api.hubmapconsortium.org/redirect/HBM734.KXRL.243	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/intestine-large-female.html    
-HBM235.QFTP.824	https://entity.api.hubmapconsortium.org/redirect/HBM235.QFTP.824	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/intestine-large-male.html      
-HBM765.JWFB.892	https://entity.api.hubmapconsortium.org/redirect/HBM765.JWFB.892	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/kidney-female-left.html        
-HBM726.HWKT.534	https://entity.api.hubmapconsortium.org/redirect/HBM726.HWKT.534	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/kidney-female-right.html       
-HBM792.NPXX.335	https://entity.api.hubmapconsortium.org/redirect/HBM792.NPXX.335	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/kidney-male-left.html          
-HBM693.RTRN.866	https://entity.api.hubmapconsortium.org/redirect/HBM693.RTRN.866	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/kidney-male-right.html         
-HBM467.NHKR.974	https://entity.api.hubmapconsortium.org/redirect/HBM467.NHKR.974	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/lung-female.html               
-HBM373.VPSC.692	https://entity.api.hubmapconsortium.org/redirect/HBM373.VPSC.692	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/lung-male.html                 
-HBM897.HVMV.989	https://entity.api.hubmapconsortium.org/redirect/HBM897.HVMV.989	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/lymph-node-female-left.html    
-HBM439.ZTGH.778	https://entity.api.hubmapconsortium.org/redirect/HBM439.ZTGH.778	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/lymph-node-female-right.html   
-HBM668.RBLW.256	https://entity.api.hubmapconsortium.org/redirect/HBM668.RBLW.256	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/lymph-node-male-left.html      
-HBM699.BLKS.298	https://entity.api.hubmapconsortium.org/redirect/HBM699.BLKS.298	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/lymph-node-male-right.html
-HBM539.RRDB.894	https://entity.api.hubmapconsortium.org/redirect/HBM539.RRDB.894	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/pelvis-female.html             
-HBM672.KSST.448	https://entity.api.hubmapconsortium.org/redirect/HBM672.KSST.448	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/pelvis-male.html               
-HBM287.TJZD.872	https://entity.api.hubmapconsortium.org/redirect/HBM287.TJZD.872	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/skin-female.html               
-HBM689.CGPV.442	https://entity.api.hubmapconsortium.org/redirect/HBM689.CGPV.442	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/skin-male.html                 
-HBM626.WZGS.532	https://entity.api.hubmapconsortium.org/redirect/HBM626.WZGS.532	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/spleen-female.html             
-HBM583.DRHV.265	https://entity.api.hubmapconsortium.org/redirect/HBM583.DRHV.265	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/spleen-male.html               
-HBM896.TWPT.542	https://entity.api.hubmapconsortium.org/redirect/HBM896.TWPT.542	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/thymus-female.html             
-HBM955.BGTP.947	https://entity.api.hubmapconsortium.org/redirect/HBM955.BGTP.947	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/thymus-male.html               
-HBM253.DKWB.737	https://entity.api.hubmapconsortium.org/redirect/HBM253.DKWB.737	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/vasculature-female.html        
-HBM784.ZDZF.357	https://entity.api.hubmapconsortium.org/redirect/HBM784.ZDZF.357	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/vasculature-male.html          
+hubmap_id	landing_page_to_register	data_information_page	doi
+HBM963.TBFP.428	https://entity.api.hubmapconsortium.org/redirect/HBM963.TBFP.428	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/asct-b/bone-marrow-and-blood.html         	https://doi.org/10.48539/HBM963.TBFP.428
+HBM264.CCRF.525	https://entity.api.hubmapconsortium.org/redirect/HBM264.CCRF.525	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/asct-b/brain.html                         	https://doi.org/10.48539/HBM264.CCRF.525
+HBM873.NNVD.559	https://entity.api.hubmapconsortium.org/redirect/HBM873.NNVD.559	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/asct-b/heart.html                         	https://doi.org/10.48539/HBM873.NNVD.559
+HBM287.KVCD.758	https://entity.api.hubmapconsortium.org/redirect/HBM287.KVCD.758	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/asct-b/intestine-large.html               	https://doi.org/10.48539/HBM287.KVCD.758
+HBM325.PTQS.258	https://entity.api.hubmapconsortium.org/redirect/HBM325.PTQS.258	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/asct-b/kidney.html                        	https://doi.org/10.48539/HBM325.PTQS.258
+HBM868.DWJZ.874	https://entity.api.hubmapconsortium.org/redirect/HBM868.DWJZ.874	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/asct-b/lung.html                          	https://doi.org/10.48539/HBM868.DWJZ.874
+HBM375.LMPC.837	https://entity.api.hubmapconsortium.org/redirect/HBM375.LMPC.837	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/asct-b/lymph-node.html                    	https://doi.org/10.48539/HBM375.LMPC.837
+HBM227.WHPG.367	https://entity.api.hubmapconsortium.org/redirect/HBM227.WHPG.367	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/asct-b/skin.html                          	https://doi.org/10.48539/HBM227.WHPG.367
+HBM625.VPLJ.455	https://entity.api.hubmapconsortium.org/redirect/HBM625.VPLJ.455	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/asct-b/spleen.html                        	https://doi.org/10.48539/HBM625.VPLJ.455
+HBM934.JMVN.957	https://entity.api.hubmapconsortium.org/redirect/HBM934.JMVN.957	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/asct-b/thymus.html                        	https://doi.org/10.48539/HBM934.JMVN.957
+HBM426.GZPN.888	https://entity.api.hubmapconsortium.org/redirect/HBM426.GZPN.888	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/asct-b/vasculature.html                   	https://doi.org/10.48539/HBM426.GZPN.888
+HBM438.XKJT.666	https://entity.api.hubmapconsortium.org/redirect/HBM438.XKJT.666	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/brain-female.html              	https://doi.org/10.48539/HBM438.XKJT.666
+HBM927.XKJR.426	https://entity.api.hubmapconsortium.org/redirect/HBM927.XKJR.426	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/brain-male.html                	https://doi.org/10.48539/HBM927.XKJR.426
+HBM894.FGQN.237	https://entity.api.hubmapconsortium.org/redirect/HBM894.FGQN.237	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/heart-female.html              	https://doi.org/10.48539/HBM894.FGQN.237
+HBM384.FDPD.646	https://entity.api.hubmapconsortium.org/redirect/HBM384.FDPD.646	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/heart-male.html                	https://doi.org/10.48539/HBM384.FDPD.646
+HBM734.KXRL.243	https://entity.api.hubmapconsortium.org/redirect/HBM734.KXRL.243	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/intestine-large-female.html    	https://doi.org/10.48539/HBM734.KXRL.243
+HBM235.QFTP.824	https://entity.api.hubmapconsortium.org/redirect/HBM235.QFTP.824	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/intestine-large-male.html      	https://doi.org/10.48539/HBM235.QFTP.824
+HBM765.JWFB.892	https://entity.api.hubmapconsortium.org/redirect/HBM765.JWFB.892	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/kidney-female-left.html        	https://doi.org/10.48539/HBM765.JWFB.892
+HBM726.HWKT.534	https://entity.api.hubmapconsortium.org/redirect/HBM726.HWKT.534	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/kidney-female-right.html       	https://doi.org/10.48539/HBM726.HWKT.534
+HBM792.NPXX.335	https://entity.api.hubmapconsortium.org/redirect/HBM792.NPXX.335	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/kidney-male-left.html          	https://doi.org/10.48539/HBM792.NPXX.335
+HBM693.RTRN.866	https://entity.api.hubmapconsortium.org/redirect/HBM693.RTRN.866	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/kidney-male-right.html         	https://doi.org/10.48539/HBM693.RTRN.866
+HBM467.NHKR.974	https://entity.api.hubmapconsortium.org/redirect/HBM467.NHKR.974	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/lung-female.html               	https://doi.org/10.48539/HBM467.NHKR.974
+HBM373.VPSC.692	https://entity.api.hubmapconsortium.org/redirect/HBM373.VPSC.692	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/lung-male.html                 	https://doi.org/10.48539/HBM373.VPSC.692
+HBM897.HVMV.989	https://entity.api.hubmapconsortium.org/redirect/HBM897.HVMV.989	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/lymph-node-female-left.html    	https://doi.org/10.48539/HBM897.HVMV.989
+HBM439.ZTGH.778	https://entity.api.hubmapconsortium.org/redirect/HBM439.ZTGH.778	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/lymph-node-female-right.html   	https://doi.org/10.48539/HBM439.ZTGH.778
+HBM668.RBLW.256	https://entity.api.hubmapconsortium.org/redirect/HBM668.RBLW.256	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/lymph-node-male-left.html      	https://doi.org/10.48539/HBM668.RBLW.256
+HBM699.BLKS.298	https://entity.api.hubmapconsortium.org/redirect/HBM699.BLKS.298	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/lymph-node-male-right.html     	https://doi.org/10.48539/HBM699.BLKS.298
+HBM539.RRDB.894	https://entity.api.hubmapconsortium.org/redirect/HBM539.RRDB.894	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/pelvis-female.html             	https://doi.org/10.48539/HBM539.RRDB.894
+HBM672.KSST.448	https://entity.api.hubmapconsortium.org/redirect/HBM672.KSST.448	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/pelvis-male.html               	https://doi.org/10.48539/HBM672.KSST.448
+HBM287.TJZD.872	https://entity.api.hubmapconsortium.org/redirect/HBM287.TJZD.872	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/skin-female.html               	https://doi.org/10.48539/HBM287.TJZD.872
+HBM689.CGPV.442	https://entity.api.hubmapconsortium.org/redirect/HBM689.CGPV.442	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/skin-male.html                 	https://doi.org/10.48539/HBM689.CGPV.442
+HBM626.WZGS.532	https://entity.api.hubmapconsortium.org/redirect/HBM626.WZGS.532	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/spleen-female.html             	https://doi.org/10.48539/HBM626.WZGS.532
+HBM583.DRHV.265	https://entity.api.hubmapconsortium.org/redirect/HBM583.DRHV.265	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/spleen-male.html               	https://doi.org/10.48539/HBM583.DRHV.265
+HBM896.TWPT.542	https://entity.api.hubmapconsortium.org/redirect/HBM896.TWPT.542	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/thymus-female.html             	https://doi.org/10.48539/HBM896.TWPT.542
+HBM955.BGTP.947	https://entity.api.hubmapconsortium.org/redirect/HBM955.BGTP.947	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/thymus-male.html               	https://doi.org/10.48539/HBM955.BGTP.947
+HBM253.DKWB.737	https://entity.api.hubmapconsortium.org/redirect/HBM253.DKWB.737	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/vasculature-female.html        	https://doi.org/10.48539/HBM253.DKWB.737
+HBM784.ZDZF.357	https://entity.api.hubmapconsortium.org/redirect/HBM784.ZDZF.357	https://hubmapconsortium.github.io/ccf-releases/v1.0/docs/ref-organs/vasculature-male.html          	https://doi.org/10.48539/HBM784.ZDZF.357
