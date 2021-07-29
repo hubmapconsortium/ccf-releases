@@ -17,5 +17,5 @@ This lookup table maps [Anatomical Structures, Cell Types and Biomarkers (ASCT+B
 | **HuBMAP ID:** | HBM527.RCXM.366 |
 | **Data Table:** | [Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 3D Reference Object Library Mapping v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.0/models/ASCT-B_3D_Models_Mapping.csv) |
 | **DOI:** | [https://doi.org/10.48539/hbm527.rcxm.366](https://doi.org/10.48539/hbm527.rcxm.366) |
-| **How to Cite This Data Table:** | Kristen Browne. 2021. *3D Reference Organ for Brain, Female v1.0*. [https://doi.org/10.48539/hbm527.rcxm.366](https://doi.org/10.48539/hbm527.rcxm.366). Accessed on March 12, 2021. |
-| **How to Cite 3D Data Overall:** | Ellen M. Quardokus; Kristen Browne; Andreas Bueckle; Bruce W. Herr II; Katy B&ouml;rner. (2021). Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 3D Reference Object Library Mapping v1.0. Accessed on July 28, 2021. |
+| **How to Cite This Data Table:** | Ellen M. Quardokus; Kristen Browne; Andreas Bueckle; Bruce W. Herr II; Katy Börner. (2021). [Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 3D Reference Object Library Mapping v1.0](https://doi.org/10.48539/hbm527.rcxm.366).  Accessed on July 28, 2021. |
+| **How to Cite 3D Data Overall:** | Kristen Browne; Leonard E. Cross; Bruce W. Herr II; Lisel Record; Ellen M. Quardokus; Andreas Bueckle; Katy B&ouml;rner. 2021. HuBMAP CCF 3D Reference Object Library. https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html. Accessed on July 28, 2021. |
