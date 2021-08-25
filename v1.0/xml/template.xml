@@ -1,0 +1,71 @@
+<!-- Biolerplate code until line 4 -->
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.3/metadata.xsd">
+    <identifier identifierType="DOI">10.5072/example-full</identifier>
+    <creators>
+        <!-- Add one <creator> tag per creator -->
+        <creator>
+            <creatorName nameType="Personal">LASTNAME1, FIRSTNAME1</creatorName>
+            <givenName>FIRSTNAME1</givenName>
+            <familyName>LASTNAME1</familyName>
+            <!-- List ORCID for individuals -->
+            <nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID">0000-0002-9185-3994</nameIdentifier>
+        </creator>
+         <creator>
+            <creatorName nameType="Personal">LASTNAME2, FIRSTNAME2</creatorName>
+            <givenName>FIRSTNAME2</givenName>
+            <familyName>LASTNAME2</familyName>
+            <!-- List ORCID for individuals -->
+            <nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID">0000-0002-9185-3994</nameIdentifier>
+        </creator>
+    </creators>
+    <contributors>
+        <!-- This refers to the PI -->
+        <contributor contributorType="ProjectLeader">
+            <contributorName>Börner, Katy</contributorName>
+            <givenName>Katy</givenName>
+            <familyName>Börner</familyName>
+            <nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID">0000-0002-3321-6137</nameIdentifier>
+        </contributor>
+    </contributors>
+    <!-- Add the date the asset was "frozen" -->
+    <dates>
+        <date dateType="Available" dateInformation="Date when the item was finalized">YYYY-MM-DD</date>
+    </dates>
+    <titles>
+        <!-- This is either
+        Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for ORGAN version number or
+    3D Reference Organ for ORGAN, SEX version number -->
+        <title>Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for ORGAN version number</title>
+    </titles>
+    <subjects>
+        <!-- Short version of title
+        ORGAN version number, ASCT+B Table or
+    ORGAN, SEX 3D Organ version number -->
+        <subject>Organ version number ASCT+B Table</subject>
+    </subjects>
+    <descriptions>
+        <!-- Update as needed -->
+        <description descriptionType="Abstract">Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables aim to capture the nested part_of structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts.</description>
+    </descriptions>
+    <rightsList>
+        <rights rightsIdentifier="CC-BY-4.0" rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
+    </rightsList>
+    <publisher xml:lang="en">HuBMAP</publisher>
+    <fundingReferences>
+        <fundingReference>
+            <funderName>National Institutes of Health</funderName>
+            <awardNumber>OT2OD026671</awardNumber>
+        </fundingReference>
+    </fundingReferences>
+    <relatedIdentifiers>
+        <!-- IMPORTANT: UPDATE AS NEEDED WITH API URL AND DOI! -->
+        <relatedIdentifier relatedIdentifierType="URL" relationType="IsDocumentedBy">https://entity.api.hubmapconsortium.org/redirect/HBM868.DWJZ.874</relatedIdentifier>
+    </relatedIdentifiers>
+    <!-- Update as needed -->
+    <publicationYear>2021</publicationYear>
+    <alternateIdentifiers>
+        <!-- IMPORTANT: UPDATE AS NEEDED WITH DOI! -->
+        <alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM868.DWJZ.874</alternateIdentifier>
+    </alternateIdentifiers>
+</resource>
