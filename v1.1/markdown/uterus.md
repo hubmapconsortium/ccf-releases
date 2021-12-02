@@ -17,5 +17,5 @@
 | **HuBMAP ID:** | HBM265.DQZW.372 |
 | **Data Table:** | ??[Bone Marrow and Blood/Pelvis v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.0/asct-b/ASCT-B_VH_BM_Blood_Pelvis.csv)  |
 | **DOI:** | ??[https://doi.org/10.48539/hbm963.tbfp.428](https://doi.org/10.48539/hbm963.tbfp.428) |
-| **How to Cite This Data Table:** | ??Muzlifah A. Haniffa; Laura Jardine; Sarah A. Teichmann. HuBMAP ASCT+B Tables. Bone Marrow and Blood/Pelvis v1.0 [https://doi.org/10.48539/hbm963.tbfp.428](https://doi.org/10.48539/hbm963.tbfp.428) |
-| **How to Cite ASCT+B Tables Overall:** | ??Quardokus, Ellen, Hrishikesh Paul, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2021. *HuBMAP ASCT+B Tables*. https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html. Accessed on March 12, 2021. |
+| **How to Cite This Data Table:** | ??Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. HuBMAP ASCT+B Tables. Bone Marrow and Blood/Pelvis v1.0 [https://doi.org/10.48539/hbm963.tbfp.428](https://doi.org/10.48539/hbm963.tbfp.428) |
+| **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2021. *HuBMAP ASCT+B Tables*. https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html. Accessed on March 12, 2021. |
