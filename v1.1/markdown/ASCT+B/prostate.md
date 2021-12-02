@@ -5,7 +5,7 @@
 
 | Label | Value |
 | :------------- |:-------------|
-| **Creator(s):** | Douglas, Strand; Chad Vezina |
+| **Creator(s):** | Douglas Strand; Chad Vezina |
 | **Creator ORCID(s):** | [0000-0002-0746-927X](https://orcid.org/0000-0002-0746-927X); [0000-0001-7058-5399](https://orcid.org/0000-0001-7058-5399) |
 | **Project Lead:** | Katy B&ouml;rner |
 | **Project Lead ORCID:** | [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137) |
