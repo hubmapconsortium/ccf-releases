@@ -5,7 +5,7 @@
 
 | Label | Value |
 | :------------- |:-------------|
-| **Creator(s):** | Douglas, Strand; Sanjay, Jain |
+| **Creator(s):** | Douglas Strand; Sanjay Jain |
 | **Creator ORCID(s):** | [0000-0002-0746-927X](https://orcid.org/0000-0002-0746-927X); [0000-0003-2804-127X](https://orcid.org/0000-0003-2804-127X) |
 | **Project Lead:** | Katy B&ouml;rner |
 | **Project Lead ORCID:** | [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137) |
