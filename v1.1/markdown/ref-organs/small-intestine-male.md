@@ -17,5 +17,5 @@
 | **HuBMAP ID:** | HBM373.JKLS.694 |
 | **3D Data:** |  |
 | **DOI:** |  |
-| **How to Cite This 3D Data:** | Kristen Browne. 2021. *3D Reference Organ for Gallbladder, Male v1.1.* [https://doi.org/10.48539/HBM373.JKLS.694](https://doi.org/10.48539/HBM373.JKLS.694). Accessed on December 1, 2021. |
+| **How to Cite This 3D Data:** | Kristen Browne. 2021. *3D Reference Organ for Small Intestine, Male v1.1.* [https://doi.org/10.48539/HBM373.JKLS.694](https://doi.org/10.48539/HBM373.JKLS.694). Accessed on December 1, 2021. |
 | **How to Cite 3D Data Overall:** | Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2021. *HuBMAP CCF 3D Reference Object Library*. https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html. Accessed on December 1, 2021. |
