@@ -20,4 +20,4 @@ The OMAP Lymph Node panel was designed for IBEX (Iterative Bleaching Extends mul
 | **HuBMAP ID:** | HBM445.CZKW.526 |
 | **Data Table:** | [Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Lymph Node with IBEX v1.1](../v1.1/v1.1/OMAPs/OMAP_LN.csv)  |
 | **DOI:** |  |
-| **How to Cite This Data Table:** |  |
+| **How to Cite This Data Table:** |Andrea J. Radtke. Organ Mapping Antibody Panel (OMAP)for Multiplexed Antibody-Based Imaging of Human Lymph Node with IBEX. [DOI] (  ). |
