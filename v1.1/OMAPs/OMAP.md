@@ -17,6 +17,6 @@
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM445.CZKW.526 |
-| **Data Table:** |   |
+| **Data Table:** | [Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Lymph Node with IBEX v1.1](../v1.1/v1.1/OMAPs/OMAP_LN.csv)  |
 | **DOI:** |  |
 | **How to Cite This Data Table:** |  |
