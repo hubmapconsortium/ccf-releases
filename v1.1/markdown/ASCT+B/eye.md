@@ -1,4 +1,4 @@
-# Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Eye v1.1
+# Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Eye v1.0
 
 ### Description
 [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html) aim to capture the nested *part_of* structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts.
@@ -16,6 +16,6 @@
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM369.RBVN.935 |
 | **Data Table:** |   |
-| **DOI:** |  |
+| **DOI:** | https://doi.org/10.48539/HBM369.RBVN.935 |
 | **How to Cite This Data Table:** |  |
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2021. *HuBMAP ASCT+B Tables*. https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html. Accessed on Dec 1, 2021. |
