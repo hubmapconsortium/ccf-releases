@@ -16,6 +16,6 @@
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM369.RBVN.935 |
 | **Data Table:** |   |
-| **DOI:** | https://doi.org/10.48539/HBM369.RBVN.935 |
+| **DOI:** |https://doi.org/10.5072/HBM369.RBVN.935 |
 | **How to Cite This Data Table:** |  |
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2021. *HuBMAP ASCT+B Tables*. https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html. Accessed on Dec 1, 2021. |
