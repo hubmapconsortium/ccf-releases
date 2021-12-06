@@ -39,10 +39,10 @@
         <date dateType="Available" dateInformation="Date when the item was finalized">2021-12-01</date>
     </dates>
     <titles>
-        <title>Organ Mapping Antibody Panel (OMAP) Lymph Node IBEX v1.1</title>
+        <title>Organ Mapping Antibody Panel (OMAP) Lymph Node IBEX v1.0</title>
     </titles>
     <subjects>
-        <subject>OMAP Lymph Node IBEX table v1.1</subject>
+        <subject>OMAP Lymph Node IBEX table v1.0</subject>
     </subjects>
     <descriptions>
         <description descriptionType="Abstract">Organ Mapping Antibody Panels (OMAPs) allow spatial mapping of the anatomical structures and cell types present in diverse human organs using multiplexed antibody-based imaging. The panels are authored and reviewed by experts in pathology, tissue biology, and multiplexed imaging.</description>
@@ -58,10 +58,10 @@
         </fundingReference>
     </fundingReferences>
     <relatedIdentifiers>
-        <relatedIdentifier relatedIdentifierType="URL" relationType="IsDocumentedBy">https://entity.api.hubmapconsortium.org/redirect/HBM934.JMVN.957</relatedIdentifier>
+        <relatedIdentifier relatedIdentifierType="URL" relationType="IsDocumentedBy">https://entity.api.hubmapconsortium.org/redirect/HBM445.CZKW.526</relatedIdentifier>
     </relatedIdentifiers>
     <publicationYear>2021</publicationYear>
     <alternateIdentifiers>
-        <alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM934.JMVN.957</alternateIdentifier>
+        <alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM445.CZKW.526</alternateIdentifier>
     </alternateIdentifiers>
 </resource>
