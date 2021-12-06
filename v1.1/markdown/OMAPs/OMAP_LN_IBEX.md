@@ -12,6 +12,8 @@ The OMAP Lymph Node panel was designed for IBEX (Iterative Bleaching Extends mul
 | **Creator ORCID(s):** | [0000-0003-4379-8967](https://orcid.org/0000-0003-4379-8967) |
 | **Project Lead:** | Andrea J. Radtke, Katy B&ouml;rner, Neil Kelleher, Ronald N. Germain |
 | **Project Lead ORCID:** | [0000-0003-4379-8967](https://orcid.org/0000-0003-4379-8967); [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137); [0000-0002-8815-3372](https://orcid.org/0000-0002-8815-3372); [0000-0003-1495-9143](https://orcid.org/0000-0003-1495-9143) |
+| **Reviewer(s):** | Elaine Jaffe ; Stefania Pittaluga ; Robert Seifert;Ronald N. Germain;  Ellen M. Quardokus
+| **Reviewer ORCID(s):** |[0000-0003-4632-0301](https://doi.org/10.5072/0000-0003-4632-0301); [0000-0001-7688-1439](https://doi.org/10.5072/0000-0001-7688-1439); [0000-0002-4404-8116 ](https://doi.org/10.5072/0000-0002-4404-8116); [0000-0003-1495-9143](https://orcid.org/0000-0003-1495-9143); [0000-0001-7655-4833](https://doi.org/10.5072/0000-0001-7655-4833)
 | **Creation Date:** | 2021-12-01 |
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
