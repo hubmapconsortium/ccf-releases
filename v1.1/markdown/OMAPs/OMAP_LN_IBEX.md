@@ -1,4 +1,4 @@
-# Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Lymph Node with IBEX v1.1
+# Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Lymph Node with IBEX v1.0
 
 ### Description
 Organ Mapping Antibody Panels (OMAP) [link to SOP](https://doi.org/10.5281/zenodo.5749883) allow spatial mapping of the anatomical structures and cell types present in diverse organs (Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables) using multiplexed antibody-based imaging [Hickey et al, 2021](https://doi.org/10.1038/s41592-021-01316-y). The panels are authored and reviewed by experts in pathology, tissue biology, and multiplexed imaging. Information on antibody lots and recommended concentrations vary across experiments and, in the case of antibody dilutions, must be empirically determined. 
@@ -20,6 +20,7 @@ The OMAP Lymph Node panel was designed for IBEX (Iterative Bleaching Extends mul
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM445.CZKW.526 |
-| **Data Table:** | [Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Lymph Node with IBEX v1.1](https://hubmapconsortium.github.io/ccf-releases/v1.1/OMAPs/OMAP_LN.csv)  |
-| **DOI:** | https://doi.org/10.5072/HBM445.CZKW.526|
-| **How to Cite This Data Table:** |Andrea J. Radtke. Organ Mapping Antibody Panel (OMAP)for Multiplexed Antibody-Based Imaging of Human Lymph Node with IBEX. [DOI](https://doi.org/10.48539/HBM445.CZKW.526). |
+| **Data Table:** | [Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Lymph Node with IBEX v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.1/OMAPs/OMAP_LN.csv)  |
+| **DOI:** | https://doi.org/10.5072/HBM445.CZKW.526 |
+| **How to Cite This Data Table:** |Andrea J. Radtke. Organ Mapping Antibody Panel (OMAP)for Multiplexed Antibody-Based Imaging of Human Lymph Node with IBEX. [DOI](https://doi.org/10.5072/HBM445.CZKW.526). |
+
