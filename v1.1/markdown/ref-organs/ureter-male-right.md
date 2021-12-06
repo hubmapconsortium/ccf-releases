@@ -1,4 +1,4 @@
-# 3D Reference Organ for Ureter, Male, Right v1.1
+# 3D Reference Organ for Ureter, Male, Right v1.0
 
 ### Description
 [This reference organ](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created using data from the Visible Human Male, provided by the National Library of Medicine.
