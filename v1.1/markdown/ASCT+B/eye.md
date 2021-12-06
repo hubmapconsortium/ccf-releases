@@ -1,7 +1,7 @@
 # Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Eye v1.0
 
 ### Description
-[Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html) aim to capture the nested *part_of* structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts.
+[Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html) aim to capture the nested *part_of* structure of anatomical human body parts, the typology of cells, and biomarkers used to characterize cell types. The tables are authored and reviewed by an international team of experts.
 
 | Label | Value |
 | :------------- |:-------------|
@@ -10,7 +10,7 @@
 | **Project Lead:** | Katy B&ouml;rner |
 | **Project Lead ORCID:** | [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137) |
 | **Reviewer(s):**| Jeffrey Spraggins; David Anderson; Ellen Quardokus|
-| **Reviewers ORCID(s):**|[000-0001-9198-5498)](https://orcid.org/0000-0001-9198-5498); ;[0000-0001-7655-4833](https://orcid.org/0000-0001-7655-4833)|
+| **Reviewer ORCID(s):**|[000-0001-9198-5498)](https://orcid.org/0000-0001-9198-5498);[0000-0002-3866-0923](https://orcid.org/0000-0002-3866-0923 );[0000-0001-7655-4833](https://orcid.org/0000-0001-7655-4833)|
 | **Creation Date:** | 2021-12-01 |
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
