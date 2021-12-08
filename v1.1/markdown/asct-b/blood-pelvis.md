@@ -18,6 +18,6 @@
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM957.CKRV.896 |
 | **Data Table:** | [Blood/Pelvis v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.1/asct-b/ASCT-B_VH_Blood_Pelvis.csv) |
-| **DOI:** | https://doi.org/10.5072/HBM957.CKRV.896 |
-| **How to Cite This Data Table:** | Muzlifah A. Haniffa; Laura Jardine; Sarah A. Teichmann. HuBMAP ASCT+B Tables. Blood/Pelvis v1.0 [https://doi.org/10.5072/HBM957.CKRV.896] (https://doi.org/10.5072/HBM957.CKRV.896) |
+| **DOI:** | https://doi.org/10.48539/HBM957.CKRV.896 |
+| **How to Cite This Data Table:** | Muzlifah A. Haniffa; Laura Jardine; Sarah A. Teichmann. HuBMAP ASCT+B Tables. Blood/Pelvis v1.0 [https://doi.org/10.48539/HBM957.CKRV.896](https://doi.org/10.48539/HBM957.CKRV.896) |
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2021. *HuBMAP ASCT+B Tables*. https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html. Accessed on Dec 1, 2021. |
