@@ -15,7 +15,7 @@
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM462.NJKR.937 |
-| **Data Table:** |   |
-| **DOI:** |  |
-| **How to Cite This Data Table:** |  |
+| **Data Table:** | [Peripheral Nervous System v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.1/asct-b/ASCT-B_VH_Peripheral_Nervous_System.csv)   |
+| **DOI:** | https://doi.org/10.48539/HBM462.NJKR.937 |
+| **How to Cite This Data Table:** | Nazanin Ebrahimi; Bernard de Bono, HuBMAP ASCT+B Tables. Eye v1.0 [https://doi.org/10.48539/HBM462.NJKR.937](https://doi.org/10.48539/HBM462.NJKR.937) |
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2021. *HuBMAP ASCT+B Tables*. https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html. Accessed on Dec 1, 2021. |
