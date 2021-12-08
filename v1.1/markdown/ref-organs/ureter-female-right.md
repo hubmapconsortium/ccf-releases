@@ -15,7 +15,7 @@
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM585.ZVKW.798 |
-| **3D Data:** |  |
-| **DOI:** |  |
-| **How to Cite This 3D Data:** | Kristen Browne. 2021. *3D Reference Organ for Ureter, Female, Right v1.1.* [https://doi.org/10.48539/HBM585.ZVKW.798](https://doi.org/10.48539/HBM585.ZVKW.798). Accessed on December 1, 2021. |
+| **3D Data:** | [Ureter, Female, Right v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.1/models/VH_F_Ureter_R.glb) |
+| **DOI:** | [https://doi.org/10.48539/HBM585.ZVKW.798](https://doi.org/10.48539/HBM585.ZVKW.798) |
+| **How to Cite This 3D Data:** | Kristen Browne. 2021. *3D Reference Organ for Ureter, Female, Right v1.0.* [https://doi.org/10.48539/HBM585.ZVKW.798](https://doi.org/10.48539/HBM585.ZVKW.798). Accessed on December 1, 2021. |
 | **How to Cite 3D Data Overall:** | Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2021. *HuBMAP CCF 3D Reference Object Library*. https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html. Accessed on December 1, 2021. |
