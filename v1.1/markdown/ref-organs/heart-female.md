@@ -17,5 +17,5 @@
 | **HuBMAP ID:** | HBM459.GVPS.249 |
 | **3D Data:** | [Heart, Female v1.1](https://hubmapconsortium.github.io/ccf-releases/v1.1/models/VH_F_Heart.glb) |
 | **DOI:** | [https://doi.org/10.48539/HBM459.GVPS.249](https://doi.org/10.48539/HBM459.GVPS.249) |
-| **How to Cite This 3D Data:** | Kristen Browne. 2021. *3D Reference Organ for Heart, Female v1.0.* [https://doi.org/10.48539/HBM459.GVPS.249](https://doi.org/10.48539cHBM459.GVPS.249). Accessed on December 01, 2021. |
+| **How to Cite This 3D Data:** | Kristen Browne. 2021. *3D Reference Organ for Heart, Female v1.1.* [https://doi.org/10.48539/HBM459.GVPS.249](https://doi.org/10.48539cHBM459.GVPS.249). Accessed on December 01, 2021. |
 | **How to Cite 3D Data Overall:** | Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2021. *HuBMAP CCF 3D Reference Object Library*. https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html. Accessed on December 01, 2021. |
