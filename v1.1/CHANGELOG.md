@@ -13,7 +13,8 @@ The following reference organs were added with ccf-release v1.1:
 10.	urethra
 11.	urinary bladder
 12.	uterus
-Changes to ccf-release v1.0 models include:
+
+**Changes to ccf-release v1.0 models include:**
 1.	All female models (with exception to the Allen Brain) were stretched in the Z-axis to accommodate for an error introduced by a derivative visible human dataset for v1.0.  The original visible human data was used to rescale v1.1 models.
 2.	The male and female Allen Brains were scaled, repositioned, and rotated to better fit the skin and align with the new eye models
 3.	Vasculature for the uterus, eye, and liver was added to the vasculature model
