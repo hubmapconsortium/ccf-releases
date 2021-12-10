@@ -1,49 +1,53 @@
-<?xml version="1.1" encoding="UTF-8"?>
-<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.3/metadata.xsd">
-    <identifier identifierType="DOI">10.5072/example-full</identifier>
-    <creators>
-        <creator>
-            <creatorName nameType="Personal">Browne, Kristen</creatorName>
-            <givenName>Kristen</givenName>
-            <familyName>Browne</familyName>
-            <nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID">0000-0003-4066-7531</nameIdentifier>
-        </creator>
-    </creators>
-    <contributors>
-        <contributor contributorType="ProjectLeader">
-            <contributorName>Börner, Katy</contributorName>
-            <givenName>Katy</givenName>
-            <familyName>Börner</familyName>
-            <nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID">0000-0002-3321-6137</nameIdentifier>
-        </contributor>
-    </contributors>
-    <dates>
-        <date dateType="Available" dateInformation="Date when the item was finalized">2021-12-01</date>
-    </dates>
-    <titles>
-        <title>3D Reference Organ for Knee, Male, Left v1.1</title>
-    </titles>
-    <subjects>
-        <subject>Knee, Male, Left 3D Organ v1.1</subject>
-    </subjects>
-    <descriptions>
-        <description descriptionType="Abstract">[This reference organ](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created using data from the Visible Human Female provided by the National Library of Medicine.</description>
-    </descriptions>
-    <rightsList>
-        <rights rightsIdentifier="CC-BY-4.0" rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
-    </rightsList>
-    <publisher xml:lang="en">HuBMAP</publisher>
-    <fundingReferences>
-        <fundingReference>
-            <funderName>National Institutes of Health</funderName>
-            <awardNumber>OT2OD026671</awardNumber>
-        </fundingReference>
-    </fundingReferences>
-    <relatedIdentifiers>
-        <relatedIdentifier relatedIdentifierType="URL" relationType="IsDocumentedBy">https://entity.api.hubmapconsortium.org/redirect/HBM825.XRZT.933</relatedIdentifier>
-    </relatedIdentifiers>
-    <publicationYear>2021</publicationYear>
-    <alternateIdentifiers>
-        <alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM825.XRZT.933</alternateIdentifier>
-    </alternateIdentifiers>
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">https://doi.org/10.48539/HBM825.XRZT.933</identifier>
+<titles>
+	<title>3D Reference Organ for Knee, Male, Left, v1.0</title>
+</titles>
+<creators>
+	<creator>
+		<creatorName>Kristen Browne</creatorName>
+		<givenName>Kristen</givenName>
+		<familyName>Browne</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-4066-7531">0000-0003-4066-7531</nameIdentifier>
+	</creator>
+</creators>
+<publisher>HuBMAP</publisher>
+<publicationYear>2021</publicationYear>
+<resourceType resourceTypeGeneral="Model">3D reference human organ model</resourceType>
+<subjects>
+	<subject>Knee, Male, Left, 3D Organ v1.0</subject>
+</subjects>
+<contributors>
+	<contributor contributorType="ProjectManager">
+		<contributorName>Katy Börner</contributorName>
+		<givenName>Katy </givenName>
+		<familyName>Börner</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3321-6137">0000-0002-3321-6137</nameIdentifier>
+	</contributor>
+</contributors>
+<dates>
+	<date dateType="Available">2021-12-01</date>
+</dates>
+<descriptions>
+	<description descriptionType="TechnicalInfo">This reference organ was adapted from the Visible Human Project Male dataset from the National Library of Medicine.</description>
+</descriptions>
+<language>EN</language>
+<alternateIdentifiers>
+	<alternateIdentifier alternateIdentifierType="How to Cite This Model">Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record, Ellen Quardokus, Andreas Bueckle, Katy Börner. 2021. HuBMAP CCF 3D Reference Object Library.https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html. Accessed on December 1, 2021.</alternateIdentifier>
+	<alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM825.XRZT.933</alternateIdentifier>
+	<alternateIdentifier alternateIdentifierType="How to Cite This 3D Data Overall">Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record, Ellen Quardokus, Andreas Bueckle, Katy Börner. 2021. HuBMAP CCF 3D Reference Object Library. https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html. Accessed on December 1, 2021.</alternateIdentifier>
+</alternateIdentifiers>
+<formats>
+	<format>.glb</format>
+</formats>
+<rightsList>
+	<rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
+</rightsList>
+<fundingReferences>
+	<fundingReference>
+		<funderName>National Institutes of Health</funderName>
+		<awardNumber>OT2OD026671</awardNumber>
+	</fundingReference>
+</fundingReferences>
 </resource>
