@@ -25,6 +25,12 @@
 		<familyName>Börner</familyName>
 		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3321-6137">0000-0002-3321-6137</nameIdentifier>
 	</contributor>
+	<contributor contributorType="Other">
+		<contributorName>Mark Arends</contributorName>
+		<givenName>Mark</givenName>
+		<familyName>Arends</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-6826-8770">0000-0002-6826-8770</nameIdentifier>
+	</contributor>
 </contributors>
 <dates>
 	<date dateType="Available">2021-12-01</date>
