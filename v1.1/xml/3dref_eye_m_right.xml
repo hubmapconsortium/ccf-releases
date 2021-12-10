@@ -1,33 +1,3 @@
-DataCite Metadata Generator - Kernel 4.0
-Mandatory Elements
-DOI:
- 	Title(s):
-  Creator(s):
-  Publisher:
-  Publication Year:
-  Resource Type:
-- Recommended Elements
-Subject(s):
-  Contributor(s):
-  Date(s):
-  Related Identifier(s):
-  Description:
- 	
-Geo Location Place:
-Geo Location Point:
-Geo Location Box:
-Geo Location Polygon:
-- Other Elements
-Language:
-  Alternate Identifier(s):
-  Size(s):
-  Format(s):
- 	Version:
-  Rights List:
-  Funding Reference:
-
-Metadata
-
 <?xml version="1.0" encoding="UTF-8"?>
 <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
 <identifier identifierType="DOI">https://doi.org/10.48539/HBM343.ZZKS.993</identifier>
