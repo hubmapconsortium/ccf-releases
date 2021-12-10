@@ -15,6 +15,9 @@
 <publisher>HuBMAP</publisher>
 <publicationYear>2021</publicationYear>
 <resourceType resourceTypeGeneral="Model">3D reference human organ model</resourceType>
+<subjects>
+	<subject>Small Intestine, Female, 3D Organ v1.0</subject>
+</subjects>
 <contributors>
 	<contributor contributorType="ProjectManager">
 		<contributorName>Katy Börner</contributorName>
