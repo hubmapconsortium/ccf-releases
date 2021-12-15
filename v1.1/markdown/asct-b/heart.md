@@ -9,6 +9,8 @@
 | **Creator ORCID(s):** | [0000-0003-0118-0413](https://orcid.org/0000-0003-0118-0413); [0000-0002-7112-7389](https://orcid.org/0000-0002-7112-7389); [0000-0003-0834-8274](https://orcid.org/0000-0003-0834-8274) |
 | **Project Lead:** | Katy B&ouml;rner |
 | **Project Lead ORCID:** | [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137) |
+| **Reviewer(s):** | Kalyanam Shivkumar; Peter Hanna; Ellen M. Quardokus
+| **Reviewers ORCID(s):** |[0000-0002-4121-1766](https://orcid.org/0000-0002-4121-1766); [0000-0003-3092-5090](https://orcid.org/0000-0003-3092-5090); [0000-0001-7655-4833](https://orcid.org/0000-0001-7655-4833)|
 | **Creation Date:** | 2021-12-01 |
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
