@@ -9,6 +9,8 @@
 | **Creator ORCID:** | [0000-0003-4066-7531](https://orcid.org/0000-0003-4066-7531) |
 | **Project Lead:** | Katy B&ouml;rner |
 | **Project Lead ORCID:** | [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137) |
+| **Reviewer(s):** | Alison Pouch; Kathleen O'Neill |
+| **Reviewer ORCID(s):** |[0000-0001-8854-5301](https://doi.org/10.5072/0000-0001-8854-5301); [0000-0003-1980-6840](https://doi.org/10.5072/0000-0003-1980-6840) |
 | **Date:** | 2021-12-01 |
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
