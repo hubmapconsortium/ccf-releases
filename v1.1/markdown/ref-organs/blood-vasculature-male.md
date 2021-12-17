@@ -9,7 +9,7 @@
 | **Creator ORCID:** | [0000-0003-4066-7531](https://orcid.org/0000-0003-4066-7531) |
 | **Project Lead:** | Katy B&ouml;rner |
 | **Project Lead ORCID:** | [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137) |
-| **Reviewer(s):** | Shin Lin
+| **Reviewer(s):** | Shin Lin |
 | **Reviewer ORCID(s):** |[0000-0003-0118-0413](https://doi.org/10.5072/0000-0003-0118-0413)
 | **Date:** | 2021-12-01 |
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
