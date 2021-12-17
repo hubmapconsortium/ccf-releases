@@ -9,6 +9,8 @@
 | **Creator ORCID(s):** | [0000-0002-7250-3569](https://orcid.org/0000-0002-7250-3569); [0000-0003-4379-8967](https://orcid.org/0000-0003-4379-8967); [0000-0001-6870-0300](https://orcid.org/0000-0001-6870-0300) |
 | **Project Lead:** | Katy B&ouml;rner |
 | **Project Lead ORCID:** | [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137) |
+| **Reviewer(s):** | Clive Wasserfall; Elaine Jaffe; Stefania Pittaluga; Robert Seifert; Ellen M. Quardokus  |
+| **Reviewer ORCID(s):** |[0000-0002-3522-8932](https://orcid.org/0000-0002-3522-8932); [0000-0003-4632-0301](https://orcid.org/0000-0003-4632-0301); [0000-0001-7688-1439](https://orcid.org/0000-0001-7688-1439); [0000-0002-4404-8116](https://orcid.org/0000-0002-4404-8116); [0000-0001-7655-4833](https://orcid.org/0000-0001-7655-4833) |
 | **Creation Date:** | 2021-12-01 |
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
