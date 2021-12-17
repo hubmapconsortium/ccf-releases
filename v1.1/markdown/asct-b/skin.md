@@ -10,7 +10,7 @@
 | **Project Lead:** | Katy B&ouml;rner |
 | **Project Lead ORCID:** | [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137) |
 | **Reviewer(s):** | Lou Falo; Muzlifah A. Haniffa; Hemali Phatnani; David M. Owens; Ellen M. Quardokus   |
-| **Reviewer ORCID(s):** | [0000-0001-9813-0433](https://orcid.org/0000-0001-9813-0433); [0000-0002-3927-2084](https://orcid.org/0000-0002-3927-2084); [0000-0002-6571-3891](https://orcid.org/0000-0002-6571-3891); [0000-0000-0000-0000](https://orcid.org/0000-0000-0000-0000); [0000-0001-7655-4833](https://orcid.org/0000-0001-7655-4833) |
+| **Reviewer ORCID(s):** | [0000-0001-9813-0433](https://orcid.org/0000-0001-9813-0433); [0000-0002-3927-2084](https://orcid.org/0000-0002-3927-2084); [0000-0002-6571-3891](https://orcid.org/0000-0002-6571-3891); [0000-0003-0297-4370](https://orcid.org/0000-0003-0297-4370); [0000-0001-7655-4833](https://orcid.org/0000-0001-7655-4833) |
 | **Creation Date:** | 2021-12-01 |
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
