@@ -18,6 +18,6 @@
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM673.ZZDK.622 |
 | **Data Table:** | [Kidney v1.1](https://hubmapconsortium.github.io/ccf-releases/v1.1/asct-b/ASCT-B_VH_Kidney.csv) |
-| **DOI:** | https://doi.org/10.48539/HBM673.ZZDK.622 |
-| **How to Cite This Data Table:** | Sanjay Jain; M. Todd Valerius; Yongqun He, HuBMAP ASCT+B Tables. Kidney v1.1 [https://doi.org/10.48539/HBM673.ZZDK.622](https://doi.org/10.48539/HBM673.ZZDK.622) |
+| **DOI:** | [](https://doi.org/10.48539/HBM673.ZZDK.622) |
+| **How to Cite This Data Table:** | Sanjay Jain; M. Todd Valerius; Yongqun He, HuBMAP ASCT+B Tables. Kidney v1.1 [](https://doi.org/10.48539/HBM673.ZZDK.622) |
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2021. *HuBMAP ASCT+B Tables*. https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html. Accessed on Dec 1, 2021. |

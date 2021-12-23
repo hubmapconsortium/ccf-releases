@@ -18,6 +18,6 @@
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM573.SHCQ.259 |
 | **Data Table:** | [Lymph Node v1.1](https://hubmapconsortium.github.io/ccf-releases/v1.1/asct-b/ASCT-B_VH_Lymph_Node.csv)  |
-| **DOI:** | https://doi.org/10.48539/HBM573.SHCQ.259 |
-| **How to Cite This Data Table:** | Marda Jorgensen; Andrea J. Radtke; Natalie Rodriguez, HuBMAP ASCT+B Tables. Lymph Node v1.1 [https://doi.org/10.48539/HBM573.SHCQ.259](https://doi.org/10.48539/HBM573.SHCQ.259) |
+| **DOI:** | [](https://doi.org/10.48539/HBM573.SHCQ.259) |
+| **How to Cite This Data Table:** | Marda Jorgensen; Andrea J. Radtke; Natalie Rodriguez, HuBMAP ASCT+B Tables. Lymph Node v1.1 [](https://doi.org/10.48539/HBM573.SHCQ.259) |
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2021. *HuBMAP ASCT+B Tables*. https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html. Accessed on Dec 1, 2021. |

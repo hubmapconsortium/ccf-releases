@@ -16,6 +16,6 @@ This lookup table maps [Anatomical Structures, Cell Types and Biomarkers (ASCT+B
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM263.FWKR.367 |
 | **Data Table:** | [Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 3D Reference Object Library Mapping v1.1](https://hubmapconsortium.github.io/ccf-releases/v1.1/models/ASCT-B_3D_Models_Mapping.csv) |
-| **DOI:** | [https://doi.org/10.48539/HBM263.FWKR.367](https://doi.org/10.48539/HBM263.FWKR.367) |
-| **How to Cite This Data Table:** | Ellen M. Quardokus; Kristen Browne; Andreas Bueckle; Bruce W. Herr II; Katy Börner. (2021). [Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 3D Reference Object Library Mapping v1.1](https://doi.org/10.48539/HBM263.FWKR.367).  Accessed on December 01, 2021. |
+| **DOI:** | [](https://doi.org/10.48539/HBM263.FWKR.367) |
+| **How to Cite This Data Table:** | Ellen M. Quardokus; Kristen Browne; Andreas Bueckle; Bruce W. Herr II; Katy Börner. (2021). [](https://doi.org/10.48539/HBM263.FWKR.367).  Accessed on December 01, 2021. |
 | **How to Cite 3D Data Overall:** | Kristen Browne; Leonard E. Cross; Bruce W. Herr II; Lisel Record; Ellen M. Quardokus; Andreas Bueckle; Katy B&ouml;rner. 2021. HuBMAP CCF 3D Reference Object Library. https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html. Accessed on December 01, 2021.
