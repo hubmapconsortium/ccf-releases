@@ -17,7 +17,7 @@
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM477.RWSM.936 |
-| **Data Table:** |[Brain v1.1](https://hubmapconsortium.github.io/ccf-releases/v1.1/asct-b/ASCT-B_VH_Brain.csv)|
+| **Data Table:** |[Brain v1.1](https://hubmapconsortium.github.io/ccf-releases/v1.1/asct-b/ASCT-B_Allen_Brain.csv)|
 | **DOI:** | [](https://doi.org/10.48539/HBM477.RWSM.936) |
 | **How to Cite This Data Table:** |  Song-Lin Ding; Jeremy A. Miller; Amy Bernard HuBMAP ASCT+B Tables. Brain v1.1 [](https://doi.org/10.48539/HBM477.RWSM.936)|
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen M., Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2021. *HuBMAP ASCT+B Tables*. https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html. Accessed on Dec 1, 2021. |
