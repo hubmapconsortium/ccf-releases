@@ -4,8 +4,8 @@ Author Name(s):,Andrea J. Radtke,,,,,,,,,,,,,,,,,,,
 Author ORCID(s):,0000-0003-4379-8967,,,,,,,,,,,,,,,,,,,
 Reviewer(s):,"Elaine Jaffe (0000-0003-4632-0301); Stefania Pittaluga (0000-0001-7688-1439); Ronald N. Germain (0000-0003-1495-9143),  Ellen Quardokus (0000-0001-7655-4833)",,,,,,,,,,,,,,,,,,,
 General Publication(s):,"DOI: 10.1073/pnas.2018488117, DOI: 10.1038/s41596-021-00644-9, DOI: 10.1038/s41556-021-00788-6",,,,,,,,,,,,,,,,,,,
-Data DOI:,,,,,,,,,,,,,,,,,,,,
-Date:,,,,,,,,,,,,,,,,,,,,
+Data DOI: https://doi.org/10.48539/HBM445.CZKW.526
+Date: 12-01-2021
 ,,,,,,,,,,,,,,,,,,,,
 UniProt Accession Number,Target Name/Protein Biomarker,Antibody Name,Host Organism and Isotype,Clonality,Vendor,Catalog Number,Lot Number,Recombinant,Dilution/Concentration,Conjugate,RRID,Application,Method,Tissue Preservation,Cycle Number,DOI for Protocol,ORCID ID of Author,Core Panel (4-6 markers),Essential 25-plex,Rationale
 NA-Nuclear dye,Hoechst 33342,NA,NA,NA,Biotium,40046,20H0212,NA,0.2 ug/mL,NA,NA,IHC,IBEX,1% PFA Fixed Frozen,All,10.1073/pnas.2018488117,0000-0003-4379-8967,Y,Y,"Defines functional unit, used for segmentation, fiducial for registering images"
