@@ -18,6 +18,6 @@
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM643.BVHM.572 |
 | **Data Table:** |  [Ovary v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.1/asct-b/ASCT-B_VH_Ovary.csv)  |
-| **DOI:** |[](https://doi.org/10.48539/HBM643.BVHM.572) |
-| **How to Cite This Data Table:** | Kathleen O'Neill; Elizabeth Tsui; Monica M. Laronda, HuBMAP ASCT+B Tables. Ovary v1.0 [](https://doi.org/10.48539/HBM643.BVHM.572) |
+| **DOI:** |[https://doi.org/10.48539/HBM643.BVHM.572](https://doi.org/10.48539/HBM643.BVHM.572) |
+| **How to Cite This Data Table:** | Kathleen O'Neill; Elizabeth Tsui; Monica M. Laronda, HuBMAP ASCT+B Tables. Ovary v1.0 [https://doi.org/10.48539/HBM643.BVHM.572](https://doi.org/10.48539/HBM643.BVHM.572) |
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2021. *HuBMAP ASCT+B Tables*. https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html. Accessed on Dec 1, 2021. |
