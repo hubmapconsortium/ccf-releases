@@ -18,6 +18,6 @@
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM987.QXZX.867 |
 | **3D Data:** | [Kidney, Male, Left v1.1](https://hubmapconsortium.github.io/ccf-releases/v1.1/models/VH_M_Kidney_L.glb) |
-| **DOI:** | [](https://doi.org/10.48539/HBM987.QXZX.867) |
-| **How to Cite This 3D Data:** | Kristen Browne. 2021. *3D Reference Organ for Kidney, Male, Left v1.1.* [](https://doi.org/10.48539/HBM987.QXZX.867). Accessed on December 1, 2021. |
+| **DOI:** | [https://doi.org/10.48539/HBM987.QXZX.867](https://doi.org/10.48539/HBM987.QXZX.867) |
+| **How to Cite This 3D Data:** | Kristen Browne. 2021. *3D Reference Organ for Kidney, Male, Left v1.1.* [https://doi.org/10.48539/HBM987.QXZX.867](https://doi.org/10.48539/HBM987.QXZX.867). Accessed on December 1, 2021. |
 | **How to Cite 3D Data Overall:** | Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2021. *HuBMAP CCF 3D Reference Object Library*. https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html. Accessed on December 1, 2021. |
