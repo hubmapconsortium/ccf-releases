@@ -18,6 +18,6 @@
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM423.RTRR.746 |
 | **Data Table:** | [Skin v1.1](https://hubmapconsortium.github.io/ccf-releases/v1.1/asct-b/ASCT-B_VH_Skin.csv)  |
-| **DOI:** | [](https://doi.org/10.48539/HBM423.RTRR.746) |
-| **How to Cite This Data Table:** | Fiona Ginty; Jonhan Ho; Joel Sunshine, HuBMAP ASCT+B Tables. Skin v1.1 [](https://doi.org/10.48539/HBM423.RTRR.746) |
+| **DOI:** | [https://doi.org/10.48539/HBM423.RTRR.746](https://doi.org/10.48539/HBM423.RTRR.746) |
+| **How to Cite This Data Table:** | Fiona Ginty; Jonhan Ho; Joel Sunshine, HuBMAP ASCT+B Tables. Skin v1.1 [https://doi.org/10.48539/HBM423.RTRR.746](https://doi.org/10.48539/HBM423.RTRR.746) |
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2021. *HuBMAP ASCT+B Tables*. https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html. Accessed on Dec 1, 2021. |

@@ -18,6 +18,6 @@
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM392.LPKF.942 |
 | **Data Table:** | [Thymus v1.1](https://hubmapconsortium.github.io/ccf-releases/v1.1/asct-b/ASCT-B_VH_Thymus.csv)  |
-| **DOI:** | [](https://doi.org/10.48539/HBM392.LPKF.942) |
-| **How to Cite This Data Table:** | Maigan Brusko; Rebecca T. Beuschel; Andrea J. Radtke, HuBMAP ASCT+B Tables. Thymus v1.1 [](https://doi.org/10.48539/HBM392.LPKF.942) |
+| **DOI:** | [https://doi.org/10.48539/HBM392.LPKF.942](https://doi.org/10.48539/HBM392.LPKF.942) |
+| **How to Cite This Data Table:** | Maigan Brusko; Rebecca T. Beuschel; Andrea J. Radtke, HuBMAP ASCT+B Tables. Thymus v1.1 [https://doi.org/10.48539/HBM392.LPKF.942](https://doi.org/10.48539/HBM392.LPKF.942) |
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2021. *HuBMAP ASCT+B Tables*. https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html. Accessed on Dec 1, 2021. |
