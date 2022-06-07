@@ -13,7 +13,7 @@ The OMAP kidney panel was designed for CODEX (CO Detection by IndEXing) of fresh
 | **Project Lead ORCID:** | [0000-0003-4379-8967](https://orcid.org/0000-0003-4379-8967); [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137); [0000-0002-8815-3372](https://orcid.org/0000-0002-8815-3372); [0000-0003-1495-9143](https://orcid.org/0000-0003-1495-9143)|
 | **Reviewer(s):** | Andrea J. Radtke, Ellen M. Quardokus, Christopher Werlein
 | **Reviewer ORCID(s):** |[0000-0003-4379-8967](https://orcid.org/0000-0003-4379-8967); [0000-0001-7655-4833](https://orcid.org/0000-0001-7655-4833); [0000-0002-7694-4257](0000-0002-7694-4257)|
-| **Creation Date:** | 2021-12-01 |
+| **Creation Date:** | 2022-05-06 |
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
 | **Funder:** | National Institutes of Health and National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)|
@@ -21,5 +21,5 @@ The OMAP kidney panel was designed for CODEX (CO Detection by IndEXing) of fresh
 | **HuBMAP ID:** |HBM373.TBKP.375|
 | **Data Table:** | [Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Kidney with CODEX v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.1/omap/OMAP_Kidney.csv)|
 | **DOI:** | [https://doi.org/10.48539/HBM373.TBKP.375]([https://doi.org/10.48539/HBM373.TBKP.375](https://doi.org/10.48539/HBM373.TBKP.375)) |
-| **How to Cite This Data Table:** |Elizabeth K. Neumann. Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Kidney with CODEX [https://doi.org/10.48539/HBM373.TBKP.375](https://doi.org/10.48539/HBM373.TBKP.375)|
+| **How to Cite This Data Table:** |Elizabeth K. Neumann. Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Kidney with CODEX v1.0[https://doi.org/10.48539/HBM373.TBKP.375](https://doi.org/10.48539/HBM373.TBKP.375)|
 
