@@ -1,24 +1,24 @@
-# Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Lymph Node with IBEX v1.0
+# Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Liver with SIMS v1.0
 
 ### Description
-The OMAP Lymph Node panel was designed for IBEX (Iterative Bleaching Extends multi-pleXity) imaging of fixed frozen human lymph nodes. The panel contains 39 antibodies and the nuclear marker Hoechst 33342 for image alignment and nuclear segmentation. This OMAP provides a spatial context for all anatomical structures and most cell types present in the ASCT+B lymph node table. Additionally, the inclusion of protein biomarkers BCL2 and CD10 and CD138 and CD44 allow profiling of lymph node disease states, e.g.  follicular lymphoma malignancy and metastasis, respectively. The core and essential protein biomarkers detailed here overlap (~50-85%) with panels developed for multiplexed imaging of lymphoid samples using other technologies  and sample preparations [Kennedy-Darling et al](https://doi.org/10.7554/eLife.31657.001), [Lin et al](https://doi.org/10.1002/eji.202048891). This OMAP does not contain antibodies for typing pericytes, plasmacytoid dendritic cells, or different T helper lineages in situ. 
+The OMAP Liver panel was designed for Secondary Ionization Mass Spectrometry (SIMS) imaging of fresh frozen human liver samples. The panel contains 20 antibodies and a nuclear marker.  Antibodies directed against EGFR and Na,K-ATPase are used for cell segmentation and image alignment. This OMAP provides spatial context for the anatomical structures, metabolic zonation, and  cell types present in the ASCT+B liver table . This OMAP does not contain antibodies for NK cells, dendritic cells, portal fibroblasts, MAIT cells,  and hepatic oval cells.
 
 
 | Label | Value |
 | :------------- |:-------------|
-| **Creator(s):** | Andrea J. Radtke |
-| **Creator ORCID(s):** | [0000-0003-4379-8967](https://orcid.org/0000-0003-4379-8967) |
+| **Creator(s):** | Hua Tian; Presha Rajbhandari; Taruna V Neelakantan; Aubrianna M Decker; Brent R Stockwell |
+| **Creator ORCID(s):** |[0000-0002-3598-0219](https://orcid.org/0000-0002-3598-0219); [0000-0003-2184-7238](https://orcid.org/0000-0003-2184-7238); [0000-0002-0646-1815](https://orcid.org/0000-0002-0646-1815); [0000-0002-3532-3868](https://orcid.org/0000-0002-3532-3868)|
 | **Project Lead:** | Andrea J. Radtke, Katy B&ouml;rner, Neil Kelleher, Ronald N. Germain |
 | **Project Lead ORCID:** | [0000-0003-4379-8967](https://orcid.org/0000-0003-4379-8967); [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137); [0000-0002-8815-3372](https://orcid.org/0000-0002-8815-3372); [0000-0003-1495-9143](https://orcid.org/0000-0003-1495-9143) |
-| **Reviewer(s):** | Elaine Jaffe ; Stefania Pittaluga ; Robert Seifert;Ronald N. Germain;  Ellen M. Quardokus
-| **Reviewer ORCID(s):** |[0000-0003-4632-0301](https://doi.org/10.5072/0000-0003-4632-0301); [0000-0001-7688-1439](https://doi.org/10.5072/0000-0001-7688-1439); [0000-0002-4404-8116 ](https://doi.org/10.5072/0000-0002-4404-8116); [0000-0003-1495-9143](https://orcid.org/0000-0003-1495-9143); [0000-0001-7655-4833](https://doi.org/10.5072/0000-0001-7655-4833)
-| **Creation Date:** | 2021-12-01 |
+| **Reviewer(s):** |Andrea J. Radtke,  Ellen  M. Quardokus, Christopher Werlein|
+| **Reviewer ORCID(s):** |[0000-0003-4379-8967](https://orcid.org/0000-0003-4379-8967); [0000-0001-7655-4833](https://orcid.org/0000-0001-7655-4833); [0000-0002-7694-4257](0000-0002-7694-4257)|
+| **Creation Date:** | 2022-05-06 |
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
-| **Funder:** | National Institutes of Health |
-| **Award Number:** | OT2OD026671 |
-| **HuBMAP ID:** | HBM445.CZKW.526 |
-| **Data Table:** | [Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Lymph Node with IBEX v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.1/omap/OMAP_Lymph_Node.csv)  |
-| **DOI:** | [https://doi.org/10.48539/HBM445.CZKW.526](https://doi.org/10.48539/HBM445.CZKW.526) |
-| **How to Cite This Data Table:** |Andrea J. Radtke. Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Lymph Node with IBEX. [https://doi.org/10.48539/HBM445.CZKW.526](https://doi.org/10.48539/HBM445.CZKW.526) |
+| **Funder:** | National Institutes of Health; National Institute of Allergy and Infectious Disease (NIAID)and National Cancer Institute (NCI) |
+| **Award Number:** | OT2OD026671;  UH3 CA246635|
+| **HuBMAP ID:** | HBM279.BTBC.847 |
+| **Data Table:** | [Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Liver with SIMS v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.2/omap/OMAP_Liver.csv)|
+| **DOI:** | [https://doi.org/10.48539/HBM279.BTBC.847](https://doi.org/10.48539/HBM279.BTBC.847) |
+| **How to Cite This Data Table:** |Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Liver with SIMS v1.0. [https://doi.org/10.48539/HBM279.BTBC.847](https://doi.org/10.48539/HBM279.BTBC.847)|
 
