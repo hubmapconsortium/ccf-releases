@@ -11,15 +11,15 @@ The OMAP Intestine panel was designed for CODEX (CO Detection by IndEXing) of fr
 | **Creator ORCID(s):** | [0000-0001-9961-7673](https://orcid.org/0000-0001-9961-7673) |
 | **Project Lead:** | Andrea J. Radtke, Katy B&ouml;rner, Neil Kelleher, Ronald N. Germain |
 | **Project Lead ORCID:** | [0000-0003-4379-8967](https://orcid.org/0000-0003-4379-8967); [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137); [0000-0002-8815-3372](https://orcid.org/0000-0002-8815-3372); [0000-0003-1495-9143](https://orcid.org/0000-0003-1495-9143) |
-| **Reviewer(s):** | 
-| **Reviewer ORCID(s):** |[)
-| **Creation Date:** | 2022 |
+| **Reviewer(s):** |Teri Longacre|
+| **Reviewer ORCID(s):** |[0000-0002-0935-7300](https://doi.org/10.5072/0000-0002-0935-7300)
+| **Creation Date:** | May 6, 2022 |
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
-| **HuBMAP ID:** | |
+| **HuBMAP ID:** |HBM373.HQCB.363|
 | **Data Table:** | [Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Intestine with CODEX v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.2/omap/OMAP_Intestines.csv)  |
-| **DOI:** | [https://doi.org/10.48539/](https://doi.org/10.48539/) |
-| **How to Cite This Data Table:** |John Hickey. Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Intestine with CODEX. [https://doi.org/10.48539/](https://doi.org/10.48539/) |
+| **DOI:** | [https://doi.org/10.48539/HBM373.HQCB.363](https://doi.org/10.48539/HBM373.HQCB.363) |
+| **How to Cite This Data Table:** |John Hickey. Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Intestine with CODEX. [https://doi.org/10.48539/HBM373.HQCB.363](https://doi.org/10.48539/HBM373.HQCB.363) |
 
