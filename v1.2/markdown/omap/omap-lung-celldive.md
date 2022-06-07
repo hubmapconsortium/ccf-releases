@@ -1,24 +1,25 @@
-# Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Lymph Node with IBEX v1.0
+# Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Lung with Cell DIVE v1.0
 
 ### Description
-The OMAP Lymph Node panel was designed for IBEX (Iterative Bleaching Extends multi-pleXity) imaging of fixed frozen human lymph nodes. The panel contains 39 antibodies and the nuclear marker Hoechst 33342 for image alignment and nuclear segmentation. This OMAP provides a spatial context for all anatomical structures and most cell types present in the ASCT+B lymph node table. Additionally, the inclusion of protein biomarkers BCL2 and CD10 and CD138 and CD44 allow profiling of lymph node disease states, e.g.  follicular lymphoma malignancy and metastasis, respectively. The core and essential protein biomarkers detailed here overlap (~50-85%) with panels developed for multiplexed imaging of lymphoid samples using other technologies  and sample preparations [Kennedy-Darling et al](https://doi.org/10.7554/eLife.31657.001), [Lin et al](https://doi.org/10.1002/eji.202048891). This OMAP does not contain antibodies for typing pericytes, plasmacytoid dendritic cells, or different T helper lineages in situ. 
+The OMAP Lung panel was designed for Cell DIVE imaging of  Formalin-Fixed Paraffin-Embedded (FFPE) lung tissue. The tissue slides were prepared with a two-step antigen retrieval process (pH 6 and pH 9, as described [here](dx.doi.org/10.17504/protocols.io.bpwumpew). Antigens were detected using either primary antibodies with fluorophore-labeled secondaries or fluorescent dye conjugated antibodies (protocol can be found [here](dx.doi.org/10.17504/protocols.io.b4kgqutw).  The panel contains 31 antibodies and the nuclear marker DAPI for image alignment and nuclear segmentation. This OMAP provides a spatial context for key lung cell types in the ASCT+B lung table.   Additionally, the inclusion of protein biomarkers such as AGTR1, Cathepsin L, TMPRSS2, ICAM-1, and CD55 allow characterization of proteins relevant to SARS-CoV-2 infection and profiling of the renin-angiotensin system (RAS) that may play a role in COVID-19 disease. The core and essential protein biomarkers detailed here overlap (~25%) with the panel developed for multiplexed imaging of lung samples established using conventional automated IHC staining for FFPE-material  (Dr. Christopher Werlein, an expert lung pathologist).  This OMAP does not contain antibodies for typing subsets of fibroblasts, macrophages, or endothelial cells.
+
 
 
 | Label | Value |
 | :------------- |:-------------|
-| **Creator(s):** | Andrea J. Radtke |
-| **Creator ORCID(s):** | [0000-0003-4379-8967](https://orcid.org/0000-0003-4379-8967) |
+| **Creator(s):** | Christine Surrette, Lisa Lowery, Gloria Pryhuber,Gail Deutsch, Fiona Ginty |
+| **Creator ORCID(s):** | [0000-0002-7334-4571](https://orcid.org/0000-0002-7334-4571); [0000-0002-9143-6509](https://orcid.org/0000-0002-9143-6509); [0000-0002-9185-3994](https://orcid.org/0000-0002-9185-3994); [0000-0002-0571-0285](https://orcid.org/0000-0002-0571-0285) ; [0000-0001-6638-683X](https://orcid.org/0000-0001-6638-683X)|
 | **Project Lead:** | Andrea J. Radtke, Katy B&ouml;rner, Neil Kelleher, Ronald N. Germain |
 | **Project Lead ORCID:** | [0000-0003-4379-8967](https://orcid.org/0000-0003-4379-8967); [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137); [0000-0002-8815-3372](https://orcid.org/0000-0002-8815-3372); [0000-0003-1495-9143](https://orcid.org/0000-0003-1495-9143) |
-| **Reviewer(s):** | Elaine Jaffe ; Stefania Pittaluga ; Robert Seifert;Ronald N. Germain;  Ellen M. Quardokus
-| **Reviewer ORCID(s):** |[0000-0003-4632-0301](https://doi.org/10.5072/0000-0003-4632-0301); [0000-0001-7688-1439](https://doi.org/10.5072/0000-0001-7688-1439); [0000-0002-4404-8116 ](https://doi.org/10.5072/0000-0002-4404-8116); [0000-0003-1495-9143](https://orcid.org/0000-0003-1495-9143); [0000-0001-7655-4833](https://doi.org/10.5072/0000-0001-7655-4833)
-| **Creation Date:** | 2021-12-01 |
+| **Reviewer(s):** |James Hagood, Gail Deutsch, Christopher Werlein, Andrea J. Radtke, Ellen M. Quardokus|
+| **Reviewer ORCID(s):** |[0000-0003-3938-0330](https://orcid.org/0000-0003-3938-0330); [0000-0002-0571-0285](https://orcid.org/0000-0002-0571-0285); [0000-0002-7694-4257](https://orcid.org/0000-0002-7694-4257); [0000-0003-4379-896](https://orcid.org/0000-0003-4379-896); [0000-0001-7655-4833](https://orcid.org/0000-0001-7655-4833)  
+| **Creation Date:** | 2022-05-06|
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
-| **Funder:** | National Institutes of Health |
-| **Award Number:** | OT2OD026671 |
-| **HuBMAP ID:** | HBM445.CZKW.526 |
-| **Data Table:** | [Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Lymph Node with IBEX v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.1/omap/OMAP_Lymph_Node.csv)  |
-| **DOI:** | [https://doi.org/10.48539/HBM445.CZKW.526](https://doi.org/10.48539/HBM445.CZKW.526) |
-| **How to Cite This Data Table:** |Andrea J. Radtke. Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Lymph Node with IBEX. [https://doi.org/10.48539/HBM445.CZKW.526](https://doi.org/10.48539/HBM445.CZKW.526) |
+| **Funder:** | Intramural Research Program of the NIH, National Institute of Allergy and Infectious Disease and National Cancer Institute, National Heart, Lung and Blood Institute|
+| **Award Number:** | 3UH3CA246594-02S1, UH3 CA246635, OT2OD026671, U01HL148861-02S1,  U54HL145608-04 |
+| **HuBMAP ID:** |HBM366.RQZK.248|
+| **Data Table:** | [Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Lung with Cell DIVE v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.1/omap/OMAP_Lung.csv)|
+| **DOI:** | [https://doi.org/10.48539/HBM366.RQZK.248](https://doi.org/10.48539/HBM366.RQZK.248) |
+| **How to Cite This Data Table:** |Christine Surrette, Lisa Lowery, Gloria Pryhuber,Gail Deutsch, Fiona Ginty. Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Lung with Cell DIVE v1.0 [https://doi.org/10.48539/HBM366.RQZK.248](https://doi.org/10.48539/HBM366.RQZK.248) |
 
