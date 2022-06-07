@@ -1,24 +1,31 @@
-# Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Lymph Node with IBEX v1.0
+# Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX v1.0
 
 ### Description
-The OMAP Lymph Node panel was designed for IBEX (Iterative Bleaching Extends multi-pleXity) imaging of fixed frozen human lymph nodes. The panel contains 39 antibodies and the nuclear marker Hoechst 33342 for image alignment and nuclear segmentation. This OMAP provides a spatial context for all anatomical structures and most cell types present in the ASCT+B lymph node table. Additionally, the inclusion of protein biomarkers BCL2 and CD10 and CD138 and CD44 allow profiling of lymph node disease states, e.g.  follicular lymphoma malignancy and metastasis, respectively. The core and essential protein biomarkers detailed here overlap (~50-85%) with panels developed for multiplexed imaging of lymphoid samples using other technologies  and sample preparations [Kennedy-Darling et al](https://doi.org/10.7554/eLife.31657.001), [Lin et al](https://doi.org/10.1002/eji.202048891). This OMAP does not contain antibodies for typing pericytes, plasmacytoid dendritic cells, or different T helper lineages in situ. 
-
+The OMAP Pancreas  panel was designed for CODEX (CO Detection by IndEXing) imaging of Formalin-Fixed Paraffin-Embedded (FFPE) human pancreas samples.
+Following antigen retrieval (citrate buffer pH=6, heating at high pressure 114-121°C for 20 minutes), tissue autofluorescence was reduced using a
+photobleaching protocol ([Du Z. et al, 2019](https://doi.org/10.1038/s41596-019-0206-y), modified by Derek Oldrige). CODEX is based on DNA-conjugated
+antibodies allowing the image acquisition of 3 antibodies per cycle and removal of complementary fluorescently labeled DNA probes afterwards [Goltsev,
+Y. et al, 2018](https://doi.org/10.1016/j.cell.2018.07.010). Cell junction markers (E-cadherin,Beta-catenin) and nuclear marker Hoechst are used for
+cell segmentation. The resulting OMAP contains 12 antibodies and provides a spatial context for most relevant anatomical structures and cell types in
+the pancreas including pancreatic cells (alpha, beta, gamma, delta),  ductal cells, endothelial cells,smooth muscle and mesenchymal cells present in the
+ASCT-B pancreas table. Acinar  and epsilon cells are not targeted in the existing panel due to the
+complexity of finding suitable and stable antibodies.
 
 | Label | Value |
 | :------------- |:-------------|
-| **Creator(s):** | Andrea J. Radtke |
-| **Creator ORCID(s):** | [0000-0003-4379-8967](https://orcid.org/0000-0003-4379-8967) |
-| **Project Lead:** | Andrea J. Radtke, Katy B&ouml;rner, Neil Kelleher, Ronald N. Germain |
-| **Project Lead ORCID:** | [0000-0003-4379-8967](https://orcid.org/0000-0003-4379-8967); [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137); [0000-0002-8815-3372](https://orcid.org/0000-0002-8815-3372); [0000-0003-1495-9143](https://orcid.org/0000-0003-1495-9143) |
-| **Reviewer(s):** | Elaine Jaffe ; Stefania Pittaluga ; Robert Seifert;Ronald N. Germain;  Ellen M. Quardokus
-| **Reviewer ORCID(s):** |[0000-0003-4632-0301](https://doi.org/10.5072/0000-0003-4632-0301); [0000-0001-7688-1439](https://doi.org/10.5072/0000-0001-7688-1439); [0000-0002-4404-8116 ](https://doi.org/10.5072/0000-0002-4404-8116); [0000-0003-1495-9143](https://orcid.org/0000-0003-1495-9143); [0000-0001-7655-4833](https://doi.org/10.5072/0000-0001-7655-4833)
-| **Creation Date:** | 2021-12-01 |
+| **Creator(s):** |Anna Martinez Casals; Frida Björklund |
+| **Creator ORCID(s):** |[0000-0003-2722-1965](https://orcid.org/0000-0003-2722-1965); [0000-0002-3343-349X](https://orcid.org/0000-0002-3343-349X)|
+| **Project Lead:** | Andrea J. Radtke; Katy B&ouml;rner; Neil Kelleher; Ronald N. Germain |
+| **Project Lead ORCID:** | [0000-0003-4379-8967](https://orcid.org/0000-0003-4379-8967); [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137); [0000-0002-8815-3372](https://orcid.org/0000-0002-8815-3372); [0000-0003-1495-9143](https://orcid.org/0000-0003-1495-9143)|
+| **Reviewer(s):** |Katja Steiger; Christopher Werlein |
+| **Reviewer ORCID(s):** |[0000-0002-7269-5433](https://orcid.org/0000-0002-7269-5433); [0000-0002-7694-4257](https://orcid.org/0000-0002-7694-4257)|
+| **Creation Date:** |2021-05-06|
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
-| **Funder:** | National Institutes of Health |
-| **Award Number:** | OT2OD026671 |
-| **HuBMAP ID:** | HBM445.CZKW.526 |
-| **Data Table:** | [Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Lymph Node with IBEX v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.1/omap/OMAP_Lymph_Node.csv)  |
-| **DOI:** | [https://doi.org/10.48539/HBM445.CZKW.526](https://doi.org/10.48539/HBM445.CZKW.526) |
-| **How to Cite This Data Table:** |Andrea J. Radtke. Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Lymph Node with IBEX. [https://doi.org/10.48539/HBM445.CZKW.526](https://doi.org/10.48539/HBM445.CZKW.526) |
+| **Funder:** | National Institutes of Health (NIH), National Institute of Allergy and Infectious Disease and National Cancer Institute, EU ESPACE|
+| **Award Number:** | OT2OD026671, UH3 CA246635|
+| **HuBMAP ID:** | HBM395.LXKX.734 |
+| **Data Table:** | [Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.1/omap/OMAP_Pancreas.csv)|
+| **DOI:** | [https://doi.org/10.48539/HBM395.LXKX.734](https://doi.org/10.48539/HBM395.LXKX.734) |
+| **How to Cite This Data Table:** |Anna Martinez Casals, Frida Björklund. Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX v1.0. [https://doi.org/10.48539/HBM395.LXKX.734](https://doi.org/10.48539/HBM395.LXKX.734) |
 
