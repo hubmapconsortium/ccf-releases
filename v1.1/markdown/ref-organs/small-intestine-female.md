@@ -1,7 +1,8 @@
 # 3D Reference Organ for Small Intestine, Female v1.1
 
 ### Description
-[This reference organ](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created using data from the Visible Human Female, provided by the National Library of Medicine.
+[This reference organ](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created using data from the Visible Human Female, provided by the National Library of Medicine.The small intestines have been updated to include a measurement system. A centerline was made in the center of the intestines, and markers placed along the centerline. The teal discs measure 5 cm along the intestines, the green dashes measure 1 cm. The yellow disc marks the jejunoileal junction. The VHF total length is 200 cm.
+
 
 | Label | Value |
 | :------------- |:-------------|
