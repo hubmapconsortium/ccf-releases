@@ -1,7 +1,7 @@
 # Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Intestine with CODEX v1.0
 
 ### Description
-The OMAP Intestine panel was designed for CODEX (CO Detection by IndEXing) of fresh frozen human intestine. The panel contains 54 antibodies and the nuclear marker Hoechst for image alignment and nuclear segmentation. This provides spatial context for all anatomical structures and most cell types present in the ASCT+B intestine table. In general the panel was aimed to get a broad representation of cell types found in the intestine spanning stromal, immune, and epithelial origins. All antibodies are custom conjugated in house with oligo bar codes (no lot number available).
+The OMAP Intestine panel was designed for CODEX (CO Detection by IndEXing) of fresh frozen human intestine. The panel contains 54 antibodies and the nuclear marker Hoechst for image alignment and nuclear segmentation. This provides spatial context for all anatomical structures and most cell types present in the [ASCT+B intestine table,v1.1](https://doi.org/10.48539/HBM325.NZPB.589). In general the panel was aimed to get a broad representation of cell types found in the intestine spanning stromal, immune, and epithelial origins. All antibodies are custom conjugated in house with oligo bar codes (no lot number available).
 
 
 
