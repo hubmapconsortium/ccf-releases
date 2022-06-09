@@ -21,7 +21,7 @@ This functional tissue unit (FTU) illustration was created from anatomical struc
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM373.JRGS.542 |
-| **2D Data:** | [2D Crypt of Lieberkuhn FTU v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.2/2d-ftu/crypt_lieberkuhn_large_intestine.svg) |
+| **2D Data:** | [Large Intestine, 2D Crypt of Lieberkuhn FTU v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.2/2d-ftu/crypt_lieberkuhn_large_intestine.svg) |
 | **DOI:** | Rachel Bajema 2022. *2D Crypt of Lieberkuhn FTU for Large Intestine, v1.0* [https://doi.org/10.48539/HBM373.JRGS.542](https://doi.org/10.48539/HBM373.JRGS.542). Accessed on May 6, 2022. |
 | **How to Cite This 2D Data:** | [https://doi.org/10.48539/HBM373.JRGS.542](https://doi.org/10.48539/HBM373.JRGS.542) |
 | **How to Cite 2D Data Overall:** | Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy Börner. 2022. HuBMAP CCF 2D Reference Object Library. https://hubmapconsortium.github.io/ccf/pages/ccf-2d-reference-library.html. Accessed on May 6, 2022. |
