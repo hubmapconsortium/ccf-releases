@@ -21,7 +21,7 @@ This functional tissue unit (FTU) illustration was created from anatomical struc
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM692.KXMT.939 |
-| **2D Data:** | [2D Liver Lobule FTU v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.2/2d-ftu/) |
+| **2D Data:** | [Liver, 2D Liver Lobule FTU v.1.0](https://hubmapconsortium.github.io/ccf-releases/v1.2/2d-ftu/) |
 | **DOI:** | Rachel Bajema 2022. *2D Liver Lobule Functional Tissue Unit (FTU) for Liver, v1.0.* [https://doi.org/10.48539/HBM692.KXMT.939](https://doi.org/10.48539/HBM692.KXMT.939). Accessed on May 6, 2022. |
 | **How to Cite This 2D Data:** | [https://doi.org/10.48539/HBM692.KXMT.939](https://doi.org/10.48539/HBM692.KXMT.939) |
 | **How to Cite 2D Data Overall:** | Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy Börner. 2022. HuBMAP CCF 2D Reference Object Library. https://hubmapconsortium.github.io/ccf/pages/ccf-2d-reference-library.html. Accessed on May 6, 2022. |
