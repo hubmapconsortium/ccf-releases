@@ -1,7 +1,7 @@
 # Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Liver with SIMS v1.0
 
 ### Description
-The OMAP Liver panel was designed for Secondary Ionization Mass Spectrometry (SIMS) imaging of fresh frozen human liver samples. The panel contains 20 antibodies and a nuclear marker.  Antibodies directed against EGFR and Na,K-ATPase are used for cell segmentation and image alignment. This OMAP provides spatial context for the anatomical structures, metabolic zonation, and  cell types present in the ASCT+B liver table . This OMAP does not contain antibodies for NK cells, dendritic cells, portal fibroblasts, MAIT cells,  and hepatic oval cells.
+The OMAP Liver panel was designed for Secondary Ionization Mass Spectrometry (SIMS) imaging of fresh frozen human liver samples. The panel contains 20 antibodies and a nuclear marker.  Antibodies directed against EGFR and Na,K-ATPase are used for cell segmentation and image alignment. This OMAP provides spatial context for the anatomical structures, metabolic zonation, and  cell types present in the [ASCT+B liver table v1.0](https://doi.org/10.48539/HBM476.BQCC.574). This OMAP does not contain antibodies for NK cells, dendritic cells, portal fibroblasts, MAIT cells,  and hepatic oval cells.
 
 
 | Label | Value |
