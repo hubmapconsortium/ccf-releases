@@ -8,7 +8,7 @@ antibodies allowing the image acquisition of 3 antibodies per cycle and removal 
 Y. et al, 2018](https://doi.org/10.1016/j.cell.2018.07.010). Cell junction markers (E-cadherin,Beta-catenin) and nuclear marker Hoechst are used for
 cell segmentation. The resulting OMAP contains 12 antibodies and provides a spatial context for most relevant anatomical structures and cell types in
 the pancreas including pancreatic cells (alpha, beta, gamma, delta),  ductal cells, endothelial cells,smooth muscle and mesenchymal cells present in the
-ASCT-B pancreas table. Acinar  and epsilon cells are not targeted in the existing panel due to the
+[ASCT-B pancreas table, v1.0](https://doi.org/10.48539/HBM332.TMXM.592). Acinar  and epsilon cells are not targeted in the existing panel due to the
 complexity of finding suitable and stable antibodies.
 
 | Label | Value |
