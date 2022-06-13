@@ -1,7 +1,7 @@
 # 2D Islets of Langerhans FTU for Pancreas, v1.0
 
 ### Description
-This functional tissue unit (FTU) illustration was created from anatomical structures and cell types listed in the [ASCT+B Table Pancreas_v1.0.](https://doi.org/10.48539/HBM332.TMXM.592). Multiple histology atlases, especially “Human Microscopic Anatomy” (R.V. Krstić, 1994) and “Histology: A Text and Atlas” (Michael H. Ross, et al., 2003) were referenced.
+This functional tissue unit (FTU) illustration was created from anatomical structures and cell types listed in the [ASCT+B Table Pancreas_v1.0.](https://doi.org/10.48539/HBM332.TMXM.592). Multiple histology atlases, especially “Human Microscopic Anatomy” (R.V. Krstić, 1994) and “Histology: A Text and Atlas” (Michael H. Ross, et al., 2003) were referenced. Especially helpful in determining the structure overall size and distribution of cell types was [(Da Silva Xavier 2018)](https://doi.org/10.3390/jcm7030054).
 
 
 
