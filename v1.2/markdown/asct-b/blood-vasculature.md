@@ -1,7 +1,7 @@
 # Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Blood Vasculature v1.2
 
 ### Description
-[Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html) aim to capture the nested *part_of* structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts. A more extensive description of this work may be found pre-print of Anatomical structures, cell types, and biomarkers of the healthy human blood vasculature by [(Boppana et al. 2022)](http://biorxiv.org/content/early/2022/03/01/2022.02.28.482302.abstract). The database and code used to generate the more simplified view of the blood vasculature in these ASCT+B tables may be found [here](https://github.com/hubmapconsortium/hra-vccf).
+[Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html) aim to capture the nested *part_of* structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts. A more extensive description of this work may be found in the pre-print of "Anatomical structures, cell types, and biomarkers of the healthy human blood vasculature" by [(Boppana et al. 2022)](http://biorxiv.org/content/early/2022/03/01/2022.02.28.482302.abstract). The database and code used to generate the more simplified view of the blood vasculature in these ASCT+B tables may be found [here](https://github.com/hubmapconsortium/hra-vccf).
 
 | Label | Value |
 | :------------- |:-------------|
