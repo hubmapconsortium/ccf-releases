@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
-<identifier identifierType="DOI">https://doi.org/10.48539/HBM445.CZKW.526</identifier>
+<identifier identifierType="DOI">https://doi.org/10.48539/HBM624.PJSR.685</identifier>
 <titles>
-	<title>Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Lymph Node with IBEX v1.0</title>
+	<title>Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Lymph Node with IBEX v1.1</title>
 </titles>
 <creators>
 	<creator>
@@ -16,7 +16,7 @@
 <publicationYear>2021</publicationYear>
 <resourceType resourceTypeGeneral="Dataset">Organ Mapping Antibody Panel (OMAP)</resourceType>
 <subjects>
-	<subject>OMAP Lymph Node IBEX table v1.0</subject>
+	<subject>OMAP Lymph Node IBEX table v1.1</subject>
 </subjects>
 <contributors>
 	<contributor contributorType="ProjectLeader">
@@ -75,13 +75,13 @@
 	</contributor>
 </contributors>
 <dates>
-	<date dateType="Available">2021-12-01</date>
+	<date dateType="Available">2022-05-06</date>
 </dates>
 <descriptions>
-	<description>The OMAP Lymph Node panel was designed for IBEX (Iterative Bleaching Extends multi-pleXity) imaging of fixed frozen human lymph nodes. The panel contains 39 antibodies and the nuclear marker Hoechst 33342 for image alignment and nuclear segmentation. This OMAP provides a spatial context for all anatomical structures and most cell types present in the ASCT+B lymph node table. Additionally, the inclusion of protein biomarkers BCL2 and CD10 and CD138 and CD44 allow profiling of lymph node disease states, e.g.  follicular lymphoma malignancy and metastasis, respectively. The core and essential protein biomarkers detailed here overlap (~50-85%) with panels developed for multiplexed imaging of lymphoid samples using other technologies  and sample preparations [Kennedy-Darling et al](https://doi.org/10.7554/eLife.31657.001), [Lin et al](https://doi.org/10.1002/eji.202048891). This OMAP does not contain antibodies for typing pericytes, plasmacytoid dendritic cells, or different T helper lineages in situ. </description>
+	<description>The OMAP Lymph Node panel was designed for IBEX (Iterative Bleaching Extends multi-pleXity) imaging of fixed frozen human lymph nodes. The panel contains 39 antibodies and the nuclear marker Hoechst 33342 for image alignment and nuclear segmentation. This OMAP provides a spatial context for all anatomical structures and most cell types present in the [ASCT+B lymph node table, v1.1](https://doi.org/10.48539/HBM573.SHCQ.259). Additionally, the inclusion of protein biomarkers BCL2 and CD10 and CD138 and CD44 allow profiling of lymph node disease states, e.g.  follicular lymphoma malignancy and metastasis, respectively. The core and essential protein biomarkers detailed here overlap (~50-85%) with panels developed for multiplexed imaging of lymphoid samples using other technologies  and sample preparations [Kennedy-Darling et al](https://doi.org/10.7554/eLife.31657.001), [Lin et al](https://doi.org/10.1002/eji.202048891). This OMAP does not contain antibodies for typing pericytes, plasmacytoid dendritic cells, or different T helper lineages in situ.</description>
 </descriptions>
 <alternateIdentifiers>
-	<alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM445.CZKW.526</alternateIdentifier>
+	<alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM624.PJSR.685</alternateIdentifier>
 </alternateIdentifiers>
 <rightsList>
 	<rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
