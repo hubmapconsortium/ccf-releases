@@ -1,8 +1,7 @@
 HuBMAP 3D Reference Objects ccf-release v1.2 Release Notes
 
-The following reference organs were added with ccf-release v1.1:
+The following reference organs were added with ccf-release v1.2:
 
-vagina
 spinal cord
 placenta
 small intestine measurements
