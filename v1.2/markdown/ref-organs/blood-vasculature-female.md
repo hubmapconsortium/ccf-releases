@@ -20,4 +20,4 @@
 | **3D Data:** | [Blood Vasculature, Female v1.2](https://hubmapconsortium.github.io/ccf-releases/v1.2/models/VH_F_Blood_Vasculature.glb)|
 | **DOI:** | [https://doi.org/10.48539/HBM232.FSRK.728](https://doi.org/10.48539/HBM232.FSRK.728) |
 | **How to Cite This 3D Data:** |Kristen Browne; Heidi Schlehlein. 2022. *3D Reference Organ for Blood Vasculature, Female v1.2* [https://doi.org/10.48539/HBM232.FSRK.728](https://doi.org/10.48539/HBM232.FSRK.728). Accessed on May 6, 2022. |
-| **How to Cite 3D Data Overall:** | Kristen Browne, Heidi Schlehlein , Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2022. [*HuBMAP CCF 3D Reference Object Library*.](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) Accessed on May 6, 2022. |
+| **How to Cite 3D Data Overall:** | Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2022. [*HuBMAP CCF 3D Reference Object Library*.](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) Accessed on May 6, 2022. |
