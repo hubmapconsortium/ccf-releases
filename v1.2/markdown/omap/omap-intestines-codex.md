@@ -22,4 +22,5 @@ The OMAP Intestine panel was designed for CODEX (CO Detection by IndEXing) of fr
 | **Data Table:** | [Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Intestine with CODEX v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.2/omap/OMAP_Intestines.csv)  |
 | **DOI:** | [https://doi.org/10.48539/HBM373.HQCB.363](https://doi.org/10.48539/HBM373.HQCB.363) |
 | **How to Cite This Data Table:** |John Hickey. Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Intestine with CODEX. [https://doi.org/10.48539/HBM373.HQCB.363](https://doi.org/10.48539/HBM373.HQCB.363) |
+| **How to Cite OMAP Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2022. *HuBMAP ASCT+B Tables*. https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html. Accessed on May 6, 2022. |
 
