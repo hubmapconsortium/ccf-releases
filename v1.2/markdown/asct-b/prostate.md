@@ -20,4 +20,4 @@
 | **Data Table:** | [Prostate v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.2/asct-b/ASCT-B_VH_Prostate.csv)  |
 | **DOI:** | [https://doi.org/10.48539/HBM835.WCGP.479](https://doi.org/10.48539/HBM835.WCGP.479) |
 | **How to Cite This Data Table:** | Douglas Strand; Chad Vezina, HuBMAP ASCT+B Tables. Prostate v1.0 [https://doi.org/10.48539/HBM835.WCGP.479](https://doi.org/10.48539/HBM835.WCGP.479) |
-| **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2021. *HuBMAP ASCT+B Tables*. https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html. Accessed on Dec 1, 2021. |
+| **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2021. [*HuBMAP ASCT+B Tables*](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html). Accessed on Dec 1, 2021. |
