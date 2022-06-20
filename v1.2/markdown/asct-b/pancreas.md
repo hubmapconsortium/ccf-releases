@@ -32,4 +32,4 @@ Immune cells are included though in low numbers as part of the innate immune sys
 | **Data Table:** | [Pancreas v1.1](https://hubmapconsortium.github.io/ccf-releases/v1.2/asct-b/ASCT-B_VH_Pancreas.csv) |
 | **DOI:** |[https://doi.org/10.48539/HBM557.XHHV.557](https://doi.org/10.48539/HBM557.XHHV.557) |
 | **How to Cite This Data Table:** | Martha Campbell-Thompson; Adel Eskaros; Diane Saunders, HuBMAP ASCT+B Tables. Pancreas v1.1 [https://doi.org/10.48539/HBM557.XHHV.557](https://doi.org/10.48539/HBM557.XHHV.557) |
-| **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2022. *HuBMAP ASCT+B Tables*. https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html. Accessed on May 6, 2022. |
+| **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2022. [*HuBMAP ASCT+B Tables*](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html). Accessed on May 6, 2022. |
