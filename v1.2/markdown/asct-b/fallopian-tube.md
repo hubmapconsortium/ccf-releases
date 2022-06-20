@@ -19,5 +19,5 @@
 | **HuBMAP ID:** | HBM522.SVHM.477 |
 | **Data Table:** | [Fallopian Tube v1.1](https://hubmapconsortium.github.io/ccf-releases/v1.2/asct-b/ASCT-B_VH_Fallopian_Tube.csv) |
 | **DOI:** | [https://doi.org/10.48539/HBM522.SVHM.477](https://doi.org/10.48539/HBM522.SVHM.477) |
-| **How to Cite This Data Table:** | Kathleen O'Neill; Stephen Fisher. HuBMAP ASCT+B Tables. Fallopian Tube v1.1 [https://doi.org/10.48539/HBM522.SVHM.477](https://doi.org/10.48539/HBM522.SVHM.477 |
-| **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2022. *HuBMAP ASCT+B Tables*. https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html. Accessed on May 6, 2022. |
+| **How to Cite This Data Table:** | Kathleen O'Neill; Stephen Fisher. HuBMAP ASCT+B Tables. Fallopian Tube v1.1 [https://doi.org/10.48539/HBM522.SVHM.477](https://doi.org/10.48539/HBM522.SVHM.477) |
+| **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2022. [*HuBMAP ASCT+B Tables*](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html). Accessed on May 6, 2022. |
