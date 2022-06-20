@@ -19,5 +19,5 @@
 | **HuBMAP ID:** | HBM527.JQCW.377 |
 | **Data Table:** |[Brain v1.2](https://hubmapconsortium.github.io/ccf-releases/v1.2/asct-b/ASCT-B_Allen_Brain.csv)|
 | **DOI:** | [https://doi.org/10.48539/HBM527.JQCW.377](https://doi.org/10.48539/HBM527.JQCW.377) |
-| **How to Cite This Data Table:** |  Song-Lin Ding; Jeremy A. Miller; Amy Bernard HuBMAP ASCT+B Tables. Brain v1.2 [https://doi.org/10.48539/HBM527.JQCW.377](https://doi.org/10.48539/HBM527.JQCW.377|
-| **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen M., Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2022. *HuBMAP ASCT+B Tables*. https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html. Accessed on May 06,2022. |
+| **How to Cite This Data Table:** |  Jeremy A. Miller; Raymond Sanchez; Richard Scheuermann. HuBMAP ASCT+B Tables. Brain v1.2 [https://doi.org/10.48539/HBM527.JQCW.377](https://doi.org/10.48539/HBM527.JQCW.377)|
+| **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen M., Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2022. [*HuBMAP ASCT+B Tables*](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html). Accessed on May 06, 2022. |
