@@ -21,4 +21,4 @@
 | **Data Table:** | [Kidney v1.2](https://hubmapconsortium.github.io/ccf-releases/v1.2/asct-b/ASCT-B_VH_Kidney.csv) |
 | **DOI:** | [https://doi.org/10.48539/HBM248.CBJV.556](https://doi.org/10.48539/HBM248.CBJV.556) |
 | **How to Cite This Data Table:** | Sanjay Jain; M. Todd Valerius; Yongqun He, HuBMAP ASCT+B Tables. Kidney v1.2 [https://doi.org/10.48539/HBM248.CBJV.556](https://doi.org/10.48539/HBM248.CBJV.556) |
-| **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2022. *HuBMAP ASCT+B Tables*. https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html. Accessed on May 6, 2022. |
+| **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2022. [*HuBMAP ASCT+B Tables*](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html). Accessed on May 6, 2022. |
