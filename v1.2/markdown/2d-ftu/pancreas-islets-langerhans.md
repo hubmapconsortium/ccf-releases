@@ -22,4 +22,4 @@ This functional tissue unit (FTU) illustration was created from anatomical struc
 | **2D Data:** | [Pancreas, 2D Islets of Langerhans FTU v.1.0](https://hubmapconsortium.github.io/ccf-releases/v1.2/2d-ftu/pancreas-islets-langerhans.svg) |
 | **DOI:** | Rachel Bajema 2022. *2D Islets of Langerhans FTU for Pancreas, v1.0.* [https://doi.org/10.48539/HBM344.CNNH.639](https://doi.org/10.48539/HBM344.CNNH.639). Accessed on May 6, 2022. |
 | **How to Cite This 2D Data:** | [https://doi.org/10.48539/HBM344.CNNH.639](https://doi.org/10.48539/HBM344.CNNH.639) |
-| **How to Cite 2D Data Overall:** | Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy Börner. 2022. [HuBMAP CCF 2D Reference Object Library](https://hubmapconsortium.github.io/ccf/pages/ccf-2d-reference-library.html). Accessed on May 6, 2022. |
+| **How to Cite 2D Data Overall:** | Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy Börner. 2022. [*HuBMAP CCF 2D Reference Object Library*](https://hubmapconsortium.github.io/ccf/pages/ccf-2d-reference-library.html). Accessed on May 6, 2022. |
