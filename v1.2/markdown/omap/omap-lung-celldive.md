@@ -19,7 +19,7 @@ The OMAP Lung panel was designed for Cell DIVE imaging of  Formalin-Fixed Paraff
 | **Funder:** | Intramural Research Program of the NIH, National Institute of Allergy and Infectious Disease and National Cancer Institute, National Heart, Lung and Blood Institute|
 | **Award Number:** | 3UH3CA246594-02S1, UH3 CA246635, OT2OD026671, U01HL148861-02S1,  U54HL145608-04 |
 | **HuBMAP ID:** |HBM366.RQZK.248|
-| **Data Table:** | [Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Lung with Cell DIVE v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.1/omap/OMAP_Lung.csv)|
+| **Data Table:** | [Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Lung with Cell DIVE v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.2/omap/OMAP_Lung.csv)|
 | **DOI:** | [https://doi.org/10.48539/HBM366.RQZK.248](https://doi.org/10.48539/HBM366.RQZK.248) |
 | **How to Cite This Data Table:** |Christine Surrette, Lisa Lowery, Gloria Pryhuber,Gail Deutsch, Fiona Ginty. Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Lung with Cell DIVE v1.0 [https://doi.org/10.48539/HBM366.RQZK.248](https://doi.org/10.48539/HBM366.RQZK.248) |
 | **How to Cite OMAP Tables Overall:** | Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo, Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021. “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for Multiplexed Antibody-Based Imaging.” Nature Methods, November. https://doi.org/10.1038/s41592-021-01316-y. |
