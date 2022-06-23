@@ -19,5 +19,5 @@ This lookup table maps [Anatomical Structures, Cell Types and Biomarkers (ASCT+B
 | **HuBMAP ID:** | HBM984.MZSG.873 |
 | **Data Table:** | [Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 2D Reference Object Library Mapping v1.2](https://hubmapconsortium.github.io/ccf-releases/v1.2/2d-ftu/asct-b-ftu-2d-illustration-mapping.csv) |
 | **DOI:** | [https://doi.org/10.48539/HBM984.MZSG.873](https://doi.org/10.48539/HBM984.MZSG.873) |
-| **How to Cite This Data Table:** | Supriya Bidanta; Fauzan Isnaini. (2022). [https://doi.org/10.48539/HBM984.MZSG.873](https://doi.org/10.48539/HBM984.MZSG.873).  Accessed on May 06, 2022. |
-| **How to Cite 3D Data Overall:** |  Supriya Bidanta; Fauzan Isnaini; Rachel Bajema; Ellen M. Quardokus; Bruce W. Herr II; Katy B&ouml;rner. 2022. [HuBMAP CCF 2D Reference Object Library](https://hubmapconsortium.github.io/ccf/pages/ccf-2d-reference-object-library.html). Accessed on May 06, 2022.
+| **How to Cite This Data Table:** | Supriya Bidanta; Fauzan Isnaini. (2022). *Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 2D Reference Object Library Mapping* [https://doi.org/10.48539/HBM984.MZSG.873](https://doi.org/10.48539/HBM984.MZSG.873).  Accessed on May 06, 2022. |
+| **How to Cite 3D Data Overall:** |  Supriya Bidanta; Fauzan Isnaini; Rachel Bajema; Ellen M. Quardokus; Bruce W. Herr II; Katy B&ouml;rner. 2022. [*HuBMAP CCF 2D Reference Object Library*](https://hubmapconsortium.github.io/ccf/pages/ccf-2d-reference-object-library.html). Accessed on May 06, 2022.
