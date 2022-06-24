@@ -13,7 +13,7 @@ This functional tissue unit (FTU) illustration was created from anatomical struc
 | **Project Lead:** | Katy B&ouml;rner |
 | **Project Lead ORCID:** | [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137) |
 | **Reviewer(s):** | Sanjay Jain; M. Todd Valerius |
-| **Reviewer ORCID(s):** | [0000-0003-2804-127X](https://orcid.org/0000-0003-2804-127X);[0000-0001-8143-9231](https://orcid.org/0000-0001-8143-9231) |
+| **Reviewer ORCID(s):** | [0000-0003-2804-127X](https://orcid.org/0000-0003-2804-127X); [0000-0001-8143-9231](https://orcid.org/0000-0001-8143-9231) |
 | **Creation Date:** | 2022-05-06 |
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
