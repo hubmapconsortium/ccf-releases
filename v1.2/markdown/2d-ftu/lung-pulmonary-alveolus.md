@@ -22,6 +22,6 @@ This functional tissue unit (FTU) illustration was created from anatomical struc
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM626.KZVN.453 |
 | **2D Data:** | [Lung, 2D Pulmonary Alveolus FTU v.1.0](https://hubmapconsortium.github.io/ccf-releases/v1.2/2d-ftu/pulmonary_alveolus_lung.svg) |
-| **DOI:** | Rachel Bajema 2022. *2D Pulmonary Alveolus Functional Tissue Unit (FTU) for Lung, v1.0.* [https://doi.org/10.48539/HBM626.KZVN.453](https://doi.org/10.48539/HBM626.KZVN.453). Accessed on May 6, 2022. |
-| **How to Cite This 2D Data:** | [https://doi.org/10.48539/HBM626.KZVN.453](https://doi.org/10.48539/HBM626.KZVN.453) |
+| **DOI:** | [https://doi.org/10.48539/HBM626.KZVN.453](https://doi.org/10.48539/HBM626.KZVN.453) |
+| **How to Cite This 2D Data:** | Rachel Bajema 2022. *2D Pulmonary Alveolus Functional Tissue Unit (FTU) for Lung, v1.0.* [https://doi.org/10.48539/HBM626.KZVN.453](https://doi.org/10.48539/HBM626.KZVN.453). Accessed on May 6, 2022.|
 | **How to Cite 2D Data Overall:** | Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy Börner. 2022. [*HuBMAP CCF 2D Reference Object Library*](https://hubmapconsortium.github.io/ccf/pages/ccf-2d-reference-library.html). Accessed on May 6, 2022. |
