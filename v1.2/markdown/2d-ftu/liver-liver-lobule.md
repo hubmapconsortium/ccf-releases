@@ -1,7 +1,7 @@
 # 2D Liver Lobule Functional Tissue Unit (FTU) for Liver, v1.0
 
 ### Description
-This functional tissue unit (FTU) illustration was created from anatomical structures and cell types listed in the [ASCT+B Table Liver_v1.0](https://doi.org/10.48539/HBM476.BQCC.574). Multiple histology atlases, especially “Human Microscopic Anatomy” (R.V. Krstić, 1994) and “Histology: A Text and Atlas” (Michael H. Ross, et al., 2003) were referenced. Measurements were taken from [(Hall et al. 2017)](https://doi.org/10.1038/srep40977).
+This functional tissue unit (FTU) illustration was created from anatomical structures and cell types listed in the ASCT+B Table [Liver v1.0](https://doi.org/10.48539/HBM476.BQCC.574). Multiple histology atlases, especially “Human Microscopic Anatomy” (R.V. Krstić, 1994) and “Histology: A Text and Atlas” (Michael H. Ross, et al., 2003) were referenced. Measurements were taken from [(Hall et al. 2017)](https://doi.org/10.1038/srep40977).
 
 
 
