@@ -1,7 +1,7 @@
 # 2D Prostate Glandular Acinus FTU for Prostate, v1.0
 
 ### Description
-This functional tissue unit (FTU) illustration was created from anatomical structures and cell types listed in the [ASCT+B Table Prostate_v1.0](https://doi.org/10.48539/HBM835.WCGP.479). Multiple histology atlases, especially “Human Microscopic Anatomy” (R.V. Krstić, 1994) and “Histology: A Text and Atlas” (Michael H. Ross, et al., 2003) were referenced. Definitive source: [(Henry et al. 2018)](https://doi.org/10.1016/j.celrep.2018.11.086).
+This functional tissue unit (FTU) illustration was created from anatomical structures and cell types listed in the ASCT+B Table [Prostate v1.0](https://doi.org/10.48539/HBM835.WCGP.479). Multiple histology atlases, especially “Human Microscopic Anatomy” (R.V. Krstić, 1994) and “Histology: A Text and Atlas” (Michael H. Ross, et al., 2003) were referenced. Definitive source: [(Henry et al. 2018)](https://doi.org/10.1016/j.celrep.2018.11.086).
 
 
 
