@@ -21,6 +21,6 @@ This functional tissue unit (FTU) illustration was created from anatomical struc
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM523.TDCH.662 |
 | **2D Data:** | [Prostate, 2D Prostate Glandular Acinus FTU v.1.0](https://hubmapconsortium.github.io/ccf-releases/v1.2/2d-ftu/prostate_glandular_acinus_prostate.svg) |
-| **DOI:** | Rachel Bajema 2022. *2D Prostate Glandular Acinus FTU for Prostate, v1.0.* [https://doi.org/10.48539/HBM523.TDCH.662](https://doi.org/10.48539/HBM523.TDCH.662). Accessed on May 6, 2022. |
-| **How to Cite This 2D Data:** | [https://doi.org/10.48539/HBM523.TDCH.662](https://doi.org/10.48539/HBM523.TDCH.662) |
+| **DOI:** | [https://doi.org/10.48539/HBM523.TDCH.662](https://doi.org/10.48539/HBM523.TDCH.662) |
+| **How to Cite This 2D Data:** | Rachel Bajema 2022. *2D Prostate Glandular Acinus FTU for Prostate, v1.0.* [https://doi.org/10.48539/HBM523.TDCH.662](https://doi.org/10.48539/HBM523.TDCH.662). Accessed on May 6, 2022. |
 | **How to Cite 2D Data Overall:** | Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy Börner. 2022. [*HuBMAP CCF 2D Reference Object Library*](https://hubmapconsortium.github.io/ccf/pages/ccf-2d-reference-library.html). Accessed on May 6, 2022. |
