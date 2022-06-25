@@ -1,7 +1,7 @@
 # 2D Thymus Lobule Functional Tissue Unit (FTU) for Thymus, v1.0
 
 ### Description
-This functional tissue unit (FTU) illustration was created from anatomical structures and cell types listed in the [ASCT+B Table Thymus v1.1](https://doi.org/10.48539/HBM392.LPKF.942). Multiple histology atlases, especially “Human Microscopic Anatomy” (R.V. Krstić, 1994) and “Histology: A Text and Atlas” (Michael H. Ross, et al., 2003) were referenced. Also helpful was [(Ayran Fidan, Kaymaz, and Dagdeviren 2019)](https://doi.org/10.1007/s12565-018-0456-8).
+This functional tissue unit (FTU) illustration was created from anatomical structures and cell types listed in the ASCT+B Table [Thymus v1.1](https://doi.org/10.48539/HBM392.LPKF.942). Multiple histology atlases, especially “Human Microscopic Anatomy” (R.V. Krstić, 1994) and “Histology: A Text and Atlas” (Michael H. Ross, et al., 2003) were referenced. Also helpful was [(Ayran Fidan, Kaymaz, and Dagdeviren 2019)](https://doi.org/10.1007/s12565-018-0456-8).
 
 
 
