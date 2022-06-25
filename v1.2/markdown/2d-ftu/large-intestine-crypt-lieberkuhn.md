@@ -1,7 +1,7 @@
 # 2D Crypt of Lieberkuhn FTU for Large Intestine, v1.0
 
 ### Description
-This functional tissue unit (FTU) illustration was created from anatomical structures and cell types listed in the ASCT+B Table “Large_Intestine_v1.1.” Multiple histology atlases, especially “Human Microscopic Anatomy” (R.V. Krstić, 1994) and “Histology: A Text and Atlas” (Michael H. Ross, et al., 2003) were referenced. Measurements were taken from [(Baker et al. 2014)](https://doi.org/10.1016/j.celrep.2014.07.019).
+This functional tissue unit (FTU) illustration was created from anatomical structures and cell types listed in the ASCT+B Table [Large Intestine v1.1](https://doi.org/10.48539/HBM325.NZPB.589). Multiple histology atlases, especially “Human Microscopic Anatomy” (R.V. Krstić, 1994) and “Histology: A Text and Atlas” (Michael H. Ross, et al., 2003) were referenced. Measurements were taken from [(Baker et al. 2014)](https://doi.org/10.1016/j.celrep.2014.07.019).
 
 
 
