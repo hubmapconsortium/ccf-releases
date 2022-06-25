@@ -14,7 +14,7 @@ This functional tissue unit (FTU) illustration was created from anatomical struc
 | **Project Lead:** | Katy B&ouml;rner |
 | **Project Lead ORCID:** | [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137) |
 | **Reviewer(s):** | Maigan Brusko; Andrea J. Radtke |
-| **Reviewer ORCID(s):** | [0000-0002-4331-2202](https://orcid.org/0000-0002-4331-2202);[0000-0003-4379-8967](https://orcid.org/0000-0003-4379-8967) |
+| **Reviewer ORCID(s):** | [0000-0002-4331-2202](https://orcid.org/0000-0002-4331-2202); [0000-0003-4379-8967](https://orcid.org/0000-0003-4379-8967) |
 | **Creation Date:** | 2022-05-06 |
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
@@ -22,6 +22,6 @@ This functional tissue unit (FTU) illustration was created from anatomical struc
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM794.PKVD.274 |
 | **2D Data:** | [Thymus, 2D Thymus Lobule FTU v.1.0](https://hubmapconsortium.github.io/ccf-releases/v1.2/2d-ftu/thymus_lobule_thymus.svg) |
-| **DOI:** | Rachel Bajema 2022. *2D Thymus Lobule Functional Tissue Unit (FTU) for Thymus, v1.0.* [https://doi.org/10.48539/HBM794.PKVD.274](https://doi.org/10.48539/HBM794.PKVD.274). Accessed on May 6, 2022. |
-| **How to Cite This 2D Data:** | [https://doi.org/10.48539/HBM794.PKVD.274](https://doi.org/10.48539/HBM794.PKVD.274) |
+| **DOI:** | [https://doi.org/10.48539/HBM794.PKVD.274](https://doi.org/10.48539/HBM794.PKVD.274) |
+| **How to Cite This 2D Data:** | Rachel Bajema 2022. *2D Thymus Lobule Functional Tissue Unit (FTU) for Thymus, v1.0.* [https://doi.org/10.48539/HBM794.PKVD.274](https://doi.org/10.48539/HBM794.PKVD.274). Accessed on May 6, 2022. |
 | **How to Cite 2D Data Overall:** | Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy Börner. 2022. [*HuBMAP CCF 2D Reference Object Library*]( https://hubmapconsortium.github.io/ccf/pages/ccf-2d-reference-library.html). Accessed on May 6, 2022. |
