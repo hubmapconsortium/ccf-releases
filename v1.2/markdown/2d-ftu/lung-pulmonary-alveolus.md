@@ -2,7 +2,7 @@
 
 
 ### Description
-This functional tissue unit (FTU) illustration was created from anatomical structures and cell types listed in the [ASCT+B Table Lung_v1.1](https://doi.org/10.48539/HBM323.SGDF.945). Multiple histology atlases, especially “Human Microscopic Anatomy” (R.V. Krstić, 1994) and “Histology: A Text and Atlas” (Michael H. Ross, et al., 2003) were referenced. Especially helpful in determining the structure of the fibroblast cell types was [(Rodríguez-Castillo et al. 2018)](https://doi.org/10.1186/s12931-018-0837-5).
+This functional tissue unit (FTU) illustration was created from anatomical structures and cell types listed in the ASCT+B Table [Lung v1.1](https://doi.org/10.48539/HBM323.SGDF.945). Multiple histology atlases, especially “Human Microscopic Anatomy” (R.V. Krstić, 1994) and “Histology: A Text and Atlas” (Michael H. Ross, et al., 2003) were referenced. Especially helpful in determining the structure of the fibroblast cell types was [(Rodríguez-Castillo et al. 2018)](https://doi.org/10.1186/s12931-018-0837-5).
 
 
 
