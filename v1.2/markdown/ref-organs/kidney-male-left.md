@@ -1,7 +1,7 @@
 # 3D Reference Organ for Kidney, Male, Left v1.2
 
 ### Description
-[This reference organ](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created using data from the Visible Human Male, provided by the National Library of Medicine.
+[This reference organ](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created using data from the Visible Human Male, provided by the National Library of Medicine. Changes include removing the renal calyces and renal papillae and adding them to the ureter model per subject matter expert input. 
 
 | Label | Value |
 | :------------- |:-------------|
