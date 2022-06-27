@@ -9,7 +9,7 @@ The OMAP Lung panel was designed for Cell DIVE imaging of  Formalin-Fixed Paraff
 | :------------- |:-------------|
 | **Creator(s):** | Christine Surrette, Lisa Lowery, Gloria Pryhuber,Gail Deutsch, Fiona Ginty |
 | **Creator ORCID(s):** | [0000-0002-7334-4571](https://orcid.org/0000-0002-7334-4571); [0000-0002-9143-6509](https://orcid.org/0000-0002-9143-6509); [0000-0002-9185-3994](https://orcid.org/0000-0002-9185-3994); [0000-0002-0571-0285](https://orcid.org/0000-0002-0571-0285) ; [0000-0001-6638-683X](https://orcid.org/0000-0001-6638-683X)|
-| **Project Lead:** | Andrea J. Radtke, Katy B&ouml;rner, Neil Kelleher, Ronald N. Germain |
+| **Project Lead:** | Andrea J. Radtke; Katy B&ouml;rner; Neil Kelleher; Ronald N. Germain |
 | **Project Lead ORCID:** | [0000-0003-4379-8967](https://orcid.org/0000-0003-4379-8967); [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137); [0000-0002-8815-3372](https://orcid.org/0000-0002-8815-3372); [0000-0003-1495-9143](https://orcid.org/0000-0003-1495-9143) |
 | **Reviewer(s):** |James Hagood, Gail Deutsch, Christopher Werlein, Andrea J. Radtke, Ellen M. Quardokus|
 | **Reviewer ORCID(s):** |[0000-0003-3938-0330](https://orcid.org/0000-0003-3938-0330); [0000-0002-0571-0285](https://orcid.org/0000-0002-0571-0285); [0000-0002-7694-4257](https://orcid.org/0000-0002-7694-4257); [0000-0003-4379-896](https://orcid.org/0000-0003-4379-896); [0000-0001-7655-4833](https://orcid.org/0000-0001-7655-4833)  
@@ -22,5 +22,5 @@ The OMAP Lung panel was designed for Cell DIVE imaging of  Formalin-Fixed Paraff
 | **Data Table:** | [Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Lung with Cell DIVE v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.2/omap/OMAP_Lung.csv)|
 | **DOI:** | [https://doi.org/10.48539/HBM366.RQZK.248](https://doi.org/10.48539/HBM366.RQZK.248) |
 | **How to Cite This Data Table:** |Christine Surrette, Lisa Lowery, Gloria Pryhuber,Gail Deutsch, Fiona Ginty. Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Lung with Cell DIVE v1.0 [https://doi.org/10.48539/HBM366.RQZK.248](https://doi.org/10.48539/HBM366.RQZK.248) |
-| **How to Cite OMAP Tables Overall:** | Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo, Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021. “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for Multiplexed Antibody-Based Imaging.” Nature Methods, November. https://doi.org/10.1038/s41592-021-01316-y. |
+| **How to Cite OMAP Tables Overall:** | Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo, Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021. “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for Multiplexed Antibody-Based Imaging.” *Nature Methods*, November. https://doi.org/10.1038/s41592-021-01316-y. |
 
