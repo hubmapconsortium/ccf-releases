@@ -20,7 +20,7 @@ The OMAP Skin panel was designed for Cell DIVETM multiplexed imaging of formalin
 | **Funder:** | National Institutes of Health, National Institute of Allergy and Infectious Disease, National Cancer Institute |
 | **Award Number:** |OT2OD026671, NIH 5UH3CA246594-02, UH3 CA246635, UH3 CA246594-01|
 | **HuBMAP ID:** |HBM467.LRKZ.884|
-| **Data Table:** | [Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Skin with Cell DIVE v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.2/omap/OMAP_Skin.csv)  |
+| **Data Table:** | [Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Skin with Cell DIVE v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.2/omap/OMAP_Skin_Cell_DIVE.csv)  |
 | **DOI:** | [https://doi.org/10.48539/HBM467.LRKZ.884](https://doi.org/10.48539/HBM467.LRKZ.884) |
 | **How to Cite This Data Table:** |Liz McDonough. Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Skin with Cell DIVE v1.0. [https://doi.org/10.48539/HBM467.LRKZ.884](https://doi.org/10.48539/HBM467.LRKZ.884)|
 | **How to Cite OMAP Tables Overall:** | Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo, Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021. “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for Multiplexed Antibody-Based Imaging.” *Nature Methods*, November. https://doi.org/10.1038/s41592-021-01316-y. |
