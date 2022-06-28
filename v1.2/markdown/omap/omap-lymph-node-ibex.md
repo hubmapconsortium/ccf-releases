@@ -18,7 +18,7 @@ The OMAP Lymph Node panel was designed for IBEX (Iterative Bleaching Extends mul
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM624.PJSR.685 |
-| **Data Table:** | [Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Lymph Node with IBEX v1.1](https://hubmapconsortium.github.io/ccf-releases/v1.2/omap/OMAP_Lymph_Node.csv) |
+| **Data Table:** | [Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Lymph Node with IBEX v1.1](https://hubmapconsortium.github.io/ccf-releases/v1.2/omap/OMAP_Human_Lymph_Node_IBEX.csv) |
 | **DOI:** | [https://doi.org/10.48539/HBM624.PJSR.685](https://doi.org/10.48539/HBM624.PJSR.685) |
 | **How to Cite This Data Table:** |Andrea J. Radtke. Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Lymph Node with IBEX. [https://doi.org/10.48539/HBM624.PJSR.685](https://doi.org/10.48539/HBM624.PJSR.685) |
 | **How to Cite OMAP Tables Overall:** | Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo, Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021. “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for Multiplexed Antibody-Based Imaging.” *Nature Methods*, November. https://doi.org/10.1038/s41592-021-01316-y. |
