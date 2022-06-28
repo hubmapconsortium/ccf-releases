@@ -18,7 +18,7 @@ The OMAP Liver panel was designed for Secondary Ionization Mass Spectrometry (SI
 | **Funder:** | National Institutes of Health; National Institute of Allergy and Infectious Disease (NIAID)and National Cancer Institute (NCI) |
 | **Award Number:** | OT2OD026671;  UH3 CA246635|
 | **HuBMAP ID:** | HBM279.BTBC.847 |
-| **Data Table:** | [Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Liver with SIMS v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.2/omap/OMAP_Liver.csv)|
+| **Data Table:** | [Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Liver with SIMS v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.2/omap/OMAP_Liver_SIMS.csv)|
 | **DOI:** | [https://doi.org/10.48539/HBM279.BTBC.847](https://doi.org/10.48539/HBM279.BTBC.847) |
 | **How to Cite This Data Table:** |Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Liver with SIMS v1.0. [https://doi.org/10.48539/HBM279.BTBC.847](https://doi.org/10.48539/HBM279.BTBC.847) |
 | **How to Cite OMAP Tables Overall:** | Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo, Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021. “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for Multiplexed Antibody-Based Imaging.” *Nature Methods*, November. https://doi.org/10.1038/s41592-021-01316-y. |
