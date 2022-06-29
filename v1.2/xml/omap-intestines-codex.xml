@@ -60,6 +60,9 @@
 <alternateIdentifiers>
 	<alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM373.HQCB.363</alternateIdentifier>
 </alternateIdentifiers>
+<formats>
+	<format>.csv</format>
+</formats>
 <rightsList>
 	<rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
 </rightsList>
