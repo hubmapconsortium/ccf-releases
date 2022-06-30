@@ -16,7 +16,7 @@ The OMAP Lung panel was designed for Cell DIVE imaging of  Formalin-Fixed Paraff
 | **Creation Date:** | 2022-05-06|
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
-| **Funder:** | Intramural Research Program of the NIH, National Institute of Allergy and Infectious Disease and National Cancer Institute, National Heart, Lung and Blood Institute|
+| **Funder:** | National Institute of Health (NIH) National Cancer Institute (NCI), Intramural Research Program of the NIH, National Institute of Allergy and Infectious Disease and National Cancer Institute, National Heart, Lung and Blood Institute|
 | **Award Number:** | 3UH3CA246594-02S1, UH3 CA246635, OT2OD026671, U01HL148861-02S1,  U54HL145608-04 |
 | **HuBMAP ID:** |HBM366.RQZK.248|
 | **Data Table:** | [Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Lung with Cell DIVE v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.2/omap/OMAP_Lung_Cell_DIVE.csv)|
