@@ -7,12 +7,12 @@ The OMAP Lung panel was designed for Cell DIVE imaging of  Formalin-Fixed Paraff
 
 | Label | Value |
 | :------------- |:-------------|
-| **Creator(s):** | Christine Surrette, Lisa Lowery, Gloria Pryhuber,Gail Deutsch, Fiona Ginty |
+| **Creator(s):** | Christine Surrette, Lisa Lowery, Gloria Pryhuber, Gail Deutsch, Fiona Ginty |
 | **Creator ORCID(s):** | [0000-0002-7334-4571](https://orcid.org/0000-0002-7334-4571); [0000-0002-9143-6509](https://orcid.org/0000-0002-9143-6509); [0000-0002-9185-3994](https://orcid.org/0000-0002-9185-3994); [0000-0002-0571-0285](https://orcid.org/0000-0002-0571-0285) ; [0000-0001-6638-683X](https://orcid.org/0000-0001-6638-683X)|
 | **Project Lead:** | Andrea J. Radtke; Katy B&ouml;rner; Neil Kelleher; Ronald N. Germain |
 | **Project Lead ORCID:** | [0000-0003-4379-8967](https://orcid.org/0000-0003-4379-8967); [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137); [0000-0002-8815-3372](https://orcid.org/0000-0002-8815-3372); [0000-0003-1495-9143](https://orcid.org/0000-0003-1495-9143) |
-| **Reviewer(s):** |James Hagood, Gail Deutsch, Christopher Werlein, Andrea J. Radtke, Ellen M. Quardokus|
-| **Reviewer ORCID(s):** |[0000-0003-3938-0330](https://orcid.org/0000-0003-3938-0330); [0000-0002-0571-0285](https://orcid.org/0000-0002-0571-0285); [0000-0002-7694-4257](https://orcid.org/0000-0002-7694-4257); [0000-0003-4379-896](https://orcid.org/0000-0003-4379-896); [0000-0001-7655-4833](https://orcid.org/0000-0001-7655-4833)  
+| **Reviewer(s):** |James Hagood, Christopher Werlein, Andrea J. Radtke, Ellen M. Quardokus|
+| **Reviewer ORCID(s):** |[0000-0003-3938-0330](https://orcid.org/0000-0003-3938-0330); [0000-0002-7694-4257](https://orcid.org/0000-0002-7694-4257); [0000-0003-4379-896](https://orcid.org/0000-0003-4379-896); [0000-0001-7655-4833](https://orcid.org/0000-0001-7655-4833)  
 | **Creation Date:** | 2022-05-06|
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
