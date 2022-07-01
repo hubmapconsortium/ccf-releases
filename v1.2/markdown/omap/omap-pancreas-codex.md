@@ -22,7 +22,7 @@ complexity of finding suitable and stable antibodies.
 | **Creation Date:** |2021-05-06|
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
-| **Funder:** | National Institutes of Health (NIH), National Institute of Allergy and Infectious Disease and National Cancer Institute, EU ESPACE|
+| **Funder:** | National Institutes of Health (NIH), National Institute of Allergy and Infectious Disease and National Cancer Institute, European Union (EU) Expression and Spatial analysis Pancreas Atlas Consortium Europe (ESPACE)|
 | **Award Number:** | OT2OD026671, UH3 CA246635|
 | **HuBMAP ID:** | HBM395.LXKX.734 |
 | **Data Table:** | [Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.2/omap/OMAP_Pancreas_CODEX.csv)|
