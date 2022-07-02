@@ -65,6 +65,8 @@
 <language>English</language>
 <alternateIdentifiers>
 	<alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM467.LRKZ.884</alternateIdentifier>
+	<alternateIdentifier alternateIdentifierType="How to Cite This Data Table">Liz McDonough. Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Skin with Cell DIVE v1.0. [https://doi.org/10.48539/HBM467.LRKZ.884](https://doi.org/10.48539/HBM467.LRKZ.884)</alternateIdentifier>
+	<alternateIdentifier alternateIdentifierType="How to Cite OMAP Tables Overall">Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo, Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021. “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for Multiplexed Antibody-Based Imaging.” *Nature Methods*, November. https://doi.org/10.1038/s41592-021-01316-y.</alternateIdentifier>
 </alternateIdentifiers>
 <formats>
 	<format>.csv</format>
