@@ -1,4 +1,4 @@
-# Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Blood/Pelvis v1.2
+# Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Blood/Pelvis v1.1
 
 ### Description
 [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html) aim to capture the nested *part_of* structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts.
@@ -17,7 +17,7 @@
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM296.NBLN.233 |
-| **Data Table:** | [Blood/Pelvis v1.2](https://hubmapconsortium.github.io/ccf-releases/v1.2/asct-b/ASCT-B_VH_BM_Blood_Pelvis.csv) |
+| **Data Table:** | [Blood/Pelvis v1.1](https://hubmapconsortium.github.io/ccf-releases/v1.2/asct-b/ASCT-B_VH_BM_Blood_Pelvis.csv) |
 | **DOI:** | [https://doi.org/10.48539/HBM296.NBLN.233](https://doi.org/10.48539/HBM296.NBLN.233) |
-| **How to Cite This Data Table:** | Muzlifah A. Haniffa; Laura Jardine; Sarah A. Teichmann. HuBMAP ASCT+B Tables. Blood/Pelvis v1.0 [https://doi.org/10.48539/HBM296.NBLN.233](https://doi.org/10.48539/HBM296.NBLN.233) |
+| **How to Cite This Data Table:** | Muzlifah A. Haniffa; Laura Jardine; Sarah A. Teichmann. HuBMAP ASCT+B Tables. Blood/Pelvis v1.1 [https://doi.org/10.48539/HBM296.NBLN.233](https://doi.org/10.48539/HBM296.NBLN.233) |
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2022. [*HuBMAP ASCT+B Tables*](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html). Accessed on May 06, 2022. |
