@@ -14,7 +14,7 @@
 </creators>
 <publisher>HuBMAP</publisher>
 <publicationYear>2022</publicationYear>
-<resourceType>2D reference human organ FTU object</resourceType>
+<resourceType resourceTypeGeneral="Image">2D reference human organ FTU object</resourceType>
 <subjects>
 	<subject>Pancreas, 2D Islets of Langerhans FTU v.1.0</subject>
 </subjects>
