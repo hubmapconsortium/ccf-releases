@@ -14,7 +14,7 @@
 </creators>
 <publisher>HuBMAP</publisher>
 <publicationYear>2022</publicationYear>
-<resourceType>2D reference human organ FTU object</resourceType>
+<resourceType resourceTypeGeneral="Image">2D reference human organ FTU object</resourceType>
 <subjects>
 	<subject>Lung, 2D Pulmonary Alveolus FTU v.1.0</subject>
 </subjects>
