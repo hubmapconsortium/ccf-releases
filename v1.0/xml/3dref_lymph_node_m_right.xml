@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.3/metadata.xsd">
+    <identifier identifierType="DOI">10.5072/example-full</identifier>
+    <creators>
+        <creator>
+            <creatorName nameType="Personal">Yao, Li</creatorName>
+            <givenName>Li</givenName>
+            <familyName>Yao</familyName>
+            <nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID">0000-0003-2390-083X</nameIdentifier>
+        </creator>
+    </creators>
+    <contributors>
+        <contributor contributorType="ProjectLeader">
+            <contributorName>Börner, Katy</contributorName>
+            <givenName>Katy</givenName>
+            <familyName>Börner</familyName>
+            <nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID">0000-0002-3321-6137</nameIdentifier>
+        </contributor>
+    </contributors>
+    <dates>
+        <date dateType="Available" dateInformation="Date when the item was finalized">2021-03-12</date>
+    </dates>
+    <titles>
+        <title>3D Reference Organ for Lymph Node, Male, Right v1.0</title>
+    </titles>
+    <subjects>
+        <subject>Lymph Node, Male, 3D Organ Right v1.0</subject>
+    </subjects>
+    <descriptions>
+        <description descriptionType="Abstract">[This reference organ](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created using the Clearing-enhanced 3D (Ce3D) method developed by Dr. Weizhe Li, Laboratory of Immune System Biology, National Institute of Allergy and Infectious Diseases, NIH using data documented in https://www.pnas.org/content/114/35/E7321. While the size and cellular composition of mouse and human lymph nodes varies between species, the overall anatomy is well-conserved. </description>
+    </descriptions>
+    <rightsList>
+        <rights rightsIdentifier="CC-BY-4.0" rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
+    </rightsList>
+    <publisher xml:lang="en">HuBMAP</publisher>
+    <fundingReferences>
+        <fundingReference>
+            <funderName>National Institutes of Health</funderName>
+            <awardNumber>OT2OD026671</awardNumber>
+        </fundingReference>
+    </fundingReferences>
+    <relatedIdentifiers>
+        <relatedIdentifier relatedIdentifierType="URL" relationType="IsDocumentedBy">https://entity.api.hubmapconsortium.org/redirect/HBM699.BLKS.298</relatedIdentifier>
+    </relatedIdentifiers>
+    <publicationYear>2021</publicationYear>
+    <alternateIdentifiers>
+        <alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM699.BLKS.298</alternateIdentifier>
+    </alternateIdentifiers>
+</resource>
