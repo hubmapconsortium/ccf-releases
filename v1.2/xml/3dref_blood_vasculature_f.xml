@@ -11,6 +11,12 @@
 		<familyName>Browne</familyName>
 		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-4066-7531">0000-0003-4066-7531</nameIdentifier>
 	</creator>
+	<creator>
+		<creatorName>Heidi Schlehlein</creatorName>
+		<givenName>Heidi</givenName>
+		<familyName>Schlehlein</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3333-5646">0000-0002-3333-5646</nameIdentifier>
+	</creator>
 </creators>
 <publisher>HuBMAP</publisher>
 <publicationYear>2022</publicationYear>
@@ -24,6 +30,12 @@
 		<givenName>Katy </givenName>
 		<familyName>Börner</familyName>
 		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3321-6137">0000-0002-3321-6137</nameIdentifier>
+	</contributor>
+	<contributor contributorType="Other">
+		<contributorName>Marc Halushka</contributorName>
+		<givenName>Marc</givenName>
+		<familyName>Halushka</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-7112-7389">0000-0002-7112-7389</nameIdentifier>
 	</contributor>
 	<contributor contributorType="Other">
 		<contributorName>Shin Lin</contributorName>
@@ -40,9 +52,9 @@
 </descriptions>
 <language>EN</language>
 <alternateIdentifiers>
-	<alternateIdentifier alternateIdentifierType="How to Cite This Model">Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record, Ellen Quardokus, Andreas Bueckle, Katy Börner. 2021. HuBMAP CCF 3D Reference Object Library.https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html. Accessed on December 1, 2021.</alternateIdentifier>
-	<alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM542.RNFN.859</alternateIdentifier>
-	<alternateIdentifier alternateIdentifierType="How to Cite This 3D Data Overall">Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record, Ellen Quardokus, Andreas Bueckle, Katy Börner. 2021. HuBMAP CCF 3D Reference Object Library. https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html. Accessed on December 1, 2021.</alternateIdentifier>
+	<alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM232.FSRK.728</alternateIdentifier>
+	<alternateIdentifier alternateIdentifierType="How to Cite This Model">Kristen Browne; Heidi Schlehlein. 2022. 3D Reference Organ for Blood Vasculature, Female v1.2 https://doi.org/10.48539/HBM232.FSRK.728. Accessed on May 6, 2022.>
+	<alternateIdentifier alternateIdentifierType="How to Cite This 3D Data Overall">Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2022. [*HuBMAP CCF 3D Reference Object Library*.](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) Accessed on May 6, 2022.</alternateIdentifier>
 </alternateIdentifiers>
 <formats>
 	<format>.glb</format>
