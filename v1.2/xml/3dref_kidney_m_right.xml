@@ -9,7 +9,7 @@
 		<creatorName>Kristen Browne</creatorName>
 		<givenName>Kristen</givenName>
 		<familyName>Browne</familyName>
-		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="c0000-0003-4066-7531">0000-0003-4066-7531</nameIdentifier>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-4066-7531">0000-0003-4066-7531</nameIdentifier>
 	</creator>
 	<creator>
 		<creatorName>Heidi Schlehlein</creatorName>
@@ -47,6 +47,9 @@
 <dates>
 	<date dateType="Available">2022-05-06</date>
 </dates>
+<descriptions>
+	<description>This reference organ was created using data from the Visible Human Male, provided by the National Library of Medicine. Changes include removing the renal calyces and renal papillae and adding them to the ureter model per subject matter expert input.</description>
+</descriptions>
 <language>EN</language>
 <alternateIdentifiers>
 	<alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM272.ZVPQ.979</alternateIdentifier>
