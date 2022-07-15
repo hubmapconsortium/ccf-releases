@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">https://doi.org/10.48539/HBM796.CQJZ.982</identifier>
+<titles>
+	<title>3D Reference Organ for Placenta, Full Term, Female v1.0</title>
+</titles>
+<creators>
+	<creator>
+		<creatorName>Heidi Schlehlein</creatorName>
+		<givenName>Heidi</givenName>
+		<familyName>Schlehlein</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3333-5646">Schlehlein</nameIdentifier>
+	</creator>
+</creators>
+<publisher>HuBMAP</publisher>
+<publicationYear>2022</publicationYear>
+<resourceType resourceTypeGeneral="Model">3D reference human organ model</resourceType>
+<subjects>
+	<subject> 	Placenta, Full Term, Female v1.0</subject>
+</subjects>
+<contributors>
+	<contributor contributorType="ProjectLeader">
+		<contributorName>Katy Börner</contributorName>
+		<givenName>Katy</givenName>
+		<familyName>Börner</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3321-6137">0000-0002-3321-6137</nameIdentifier>
+	</contributor>
+	<contributor contributorType="Other">
+		<contributorName>Ana Rodriguez-Soto</contributorName>
+		<givenName>Ana</givenName>
+		<familyName>Rodriguez-Soto</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-9544-547X">0000-0002-9544-547X</nameIdentifier>
+	</contributor>
+	<contributor contributorType="Other">
+		<contributorName>Mana Parast</contributorName>
+		<givenName>Mana</givenName>
+		<familyName>Parast</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-5963-2246">0000-0001-5963-2246</nameIdentifier>
+	</contributor>
+	<contributor contributorType="Other">
+		<contributorName>Louise Laurent</contributorName>
+		<givenName>Louise</givenName>
+		<familyName>Laurent</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-2095-7534">0000-0002-2095-7534</nameIdentifier>
+	</contributor>
+	<contributor contributorType="Other">
+		<contributorName>Rebecca Rakow-Penner</contributorName>
+		<givenName>Rebecca</givenName>
+		<familyName>Rakow-Penner</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-2566-1978">0000-0002-2566-1978</nameIdentifier>
+	</contributor>
+</contributors>
+<dates>
+	<date dateType="Available">2022-05-06</date>
+</dates>
+<descriptions>
+	<description>This reference organ The placenta was sculpted partly from MRI data from the Department of Obstetrics, Gynecology, and Reproductive Sciences, Division of Maternal-Fetal Medicine at UC San Diego Health. The atlas “Human Microscopic Anatomy” (R.V. Krstić, 1994) and (Mannelli et al. 2015) were consulted.</description>
+</descriptions>
+<language>EN</language>
+<alternateIdentifiers>
+	<alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM796.CQJZ.982</alternateIdentifier>
+	<alternateIdentifier alternateIdentifierType="How to Cite This 3D Data">Heidi Schlehlein 2022. 3D Reference Organ for Placenta, Full Term, Female v1.0 https://doi.org/10.48539/HBM796.CQJZ.982. Accessed on May 06, 2022.</alternateIdentifier>
+	<alternateIdentifier alternateIdentifierType="How to Cite 3D Data Overall">Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy Börner. 2022. [*HuBMAP CCF 3D Reference Object Library*.](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) Accessed on May 6, 2022.</alternateIdentifier>
+</alternateIdentifiers>
+<formats>
+	<format>.glb</format>
+</formats>
+<rightsList>
+	<rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
+</rightsList>
+<fundingReferences>
+	<fundingReference>
+		<funderName>National Institutes of Health</funderName>
+		<awardNumber>OT2OD026671</awardNumber>
+	</fundingReference>
+</fundingReferences>
+</resource>
