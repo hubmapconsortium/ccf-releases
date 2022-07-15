@@ -32,7 +32,7 @@
 </creators>
 <publisher>HuBMAP</publisher>
 <publicationYear>2022</publicationYear>
-<resourceType resourceTypeGeneral="Other">Ontology Mapping Table</resourceType>
+<resourceType resourceTypeGeneral="Other">ASCT+B table to 3D model mapping Table</resourceType>
 <subjects>
 	<subject>Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 3D Reference Object Library Mapping v1.2</subject>
 </subjects>
