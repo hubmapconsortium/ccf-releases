@@ -4,6 +4,26 @@
 <titles>
 	<title>Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Eye v1.1</title>
 </titles>
+<creators>
+	<creator>
+		<creatorName>Angela Kruse</creatorName>
+		<givenName>Angela</givenName>
+		<familyName>Kruse</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-8776-2769">0000-0001-8776-2769</nameIdentifier>
+	</creator>
+	<creator>
+		<creatorName>Kevin Schey</creatorName>
+		<givenName>Kevin</givenName>
+		<familyName>Schey</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-9769-1538">0000-0001-9769-1538</nameIdentifier>
+	</creator>
+	<creator>
+		<creatorName>Christine Curcio</creatorName>
+		<givenName>Christine</givenName>
+		<familyName>Curcio</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3959-1712">0000-0002-3959-1712</nameIdentifier>
+	</creator>
+</creators>
 <publisher>HuBMAP</publisher>
 <publicationYear>2022</publicationYear>
 <resourceType resourceTypeGeneral="Dataset">ASCT+B Table</resourceType>
