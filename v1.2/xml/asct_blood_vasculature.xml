@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">https://doi.org/10.48539/HBM954.HNGT.899</identifier>
+<titles>
+	<title>Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Blood Vasculature v1.2</title>
+</titles>
+<creators>
+	<creator>
+		<creatorName>Griffin Weber</creatorName>
+		<givenName>Griffin</givenName>
+		<familyName>Weber</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-2597-881X">0000-0002-2597-881X</nameIdentifier>
+	</creator>
+	<creator>
+		<creatorName>Sujin Lee</creatorName>
+		<givenName>Sujin</givenName>
+		<familyName>Lee</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-6692-6880">0000-0002-6692-6880</nameIdentifier>
+	</creator>
+	<creator>
+		<creatorName>Rajeev Malhotra</creatorName>
+		<givenName>Rajeev</givenName>
+		<familyName>Malhotra</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-0120-4630">0000-0003-0120-4630</nameIdentifier>
+	</creator>
+</creators>
+<publisher>HuBMAP</publisher>
+<publicationYear>2022</publicationYear>
+<resourceType resourceTypeGeneral="Dataset">ASCT+B Table</resourceType>
+<subjects>
+	<subject>Blood Vasculature v1.2</subject>
+</subjects>
+<contributors>
+	<contributor contributorType="ProjectLeader">
+		<contributorName>Katy Börner</contributorName>
+		<givenName>Katy</givenName>
+		<familyName>Börner</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3321-6137">0000-0002-3321-6137</nameIdentifier>
+	</contributor>
+	<contributor contributorType="Other">
+		<contributorName>Marc Halushka</contributorName>
+		<givenName>Marc</givenName>
+		<familyName>Halushka</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-7112-7389">0000-0002-7112-7389</nameIdentifier>
+	</contributor>
+	<contributor contributorType="Other">
+		<contributorName>Avinash Boppana</contributorName>
+		<givenName>Avinash</givenName>
+		<familyName>Boppana</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-0834-8274">0000-0003-0834-8274</nameIdentifier>
+	</contributor>
+</contributors>
+<dates>
+	<date dateType="Available">2022-05-06</date>
+</dates>
+<descriptions>
+	<description>Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables aim to capture the nested *part_of* structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts. A more extensive description of this work may be found in the pre-print of &quot;Anatomical structures, cell types, and biomarkers of the healthy human blood vasculature&quot; by [(Boppana et al. 2022)](http://biorxiv.org/content/early/2022/03/01/2022.02.28.482302.abstract). The database and code used to generate the more simplified view of the blood vasculature in these ASCT+B tables may be found [here](https://github.com/hubmapconsortium/hra-vccf).</description>
+</descriptions>
+<language>EN</language>
+<alternateIdentifiers>
+	<alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM954.HNGT.899</alternateIdentifier>
+	<alternateIdentifier alternateIdentifierType="How to Cite This Data Table">Griffin Weber; Sujin Lee; Rajeev Malhotra. HuBMAP ASCT+B Tables. Blood Vasculature v1.2 https://doi.org/10.48539/HBM954.HNGT.899</alternateIdentifier>
+	<alternateIdentifier alternateIdentifierType="How to Cite ASCT+B Tables Overall">Quardokus, Ellen, Bruce W. Herr II, Lisel Record,  Katy Börner. 2022. [*HuBMAP ASCT+B Tables*.]( https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html) Accessed on May 6, 2022</alternateIdentifier>
+</alternateIdentifiers>
+<formats>
+	<format>.csv</format>
+</formats>
+<rightsList>
+	<rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
+</rightsList>
+<fundingReferences>
+	<fundingReference>
+		<funderName>National Institutes of Health</funderName>
+		<awardNumber>OT2OD026671</awardNumber>
+	</fundingReference>
+</fundingReferences>
+</resource>
