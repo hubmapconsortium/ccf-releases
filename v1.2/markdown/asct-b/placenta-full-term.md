@@ -22,4 +22,4 @@ These markers may not cover early term placentas or placentas from more complica
 | **Data Table:** |  [Placenta Full Term v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.2/asct-b/ASCT-B_VH_Placenta_Full_Term.csv)  |
 | **DOI:** |[https://doi.org/10.48539/HBM446.WGLG.755](https://doi.org/10.48539/HBM446.WGLG.755) |
 | **How to Cite This Data Table:** | Louise Laurent; Mana Parast; Kathleen Fisch, HuBMAP ASCT+B Tables. Placenta Full Term v1.0. [https://doi.org/10.48539/HBM446.WGLG.755](https://doi.org/10.48539/HBM446.WGLG.755)|
-| **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2021. [*HuBMAP ASCT+B Tables*.]( https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html) Accessed on May 6, 2022. |
+| **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2022. [*HuBMAP ASCT+B Tables*.]( https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html) Accessed on May 6, 2022. |

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">https://doi.org/10.48539/HBM279.BTBC.847</identifier>
+<titles>
+	<title>Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Liver with SIMS v1.0</title>
+</titles>
+<creators>
+	<creator>
+		<creatorName>Hua Tian</creatorName>
+		<givenName>Hua </givenName>
+		<familyName>Tian</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3598-0219">0000-0002-3598-0219</nameIdentifier>
+	</creator>
+	<creator>
+		<creatorName>Presha Rajbhandari</creatorName>
+		<givenName>Presha</givenName>
+		<familyName>Rajbhandari</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-2184-7238">0000-0003-2184-7238</nameIdentifier>
+	</creator>
+	<creator>
+		<creatorName>Taruna V. Neelakantan</creatorName>
+		<givenName>Taruna V.</givenName>
+		<familyName>Neelakantan</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-2222-4630">0000-0003-2222-4630</nameIdentifier>
+	</creator>
+	<creator>
+		<creatorName>Aubrianna M. Decker</creatorName>
+		<givenName>Aubrianna M.</givenName>
+		<familyName>Decker</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-0646-1815">c0000-0002-0646-1815</nameIdentifier>
+	</creator>
+	<creator>
+		<creatorName>Brent R. Stockwell</creatorName>
+		<givenName>Brent R. </givenName>
+		<familyName>Stockwell</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3532-3868">0000-0002-3532-3868</nameIdentifier>
+	</creator>
+</creators>
+<publisher>HuBMAP</publisher>
+<publicationYear>2022</publicationYear>
+<resourceType resourceTypeGeneral="Dataset">Organ Mapping Antibody Panel (OMAP)</resourceType>
+<subjects>
+	<subject>OMAP Human Liver SIMS table v1.0</subject>
+</subjects>
+<contributors>
+  <contributor contributorType="ProjectLeader">
+		<contributorName>Andrea J. Radtke</contributorName>
+		<givenName>Andrea J. </givenName>
+		<familyName>Radtke</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-4379-8967">0000-0003-4379-8967</nameIdentifier>
+	</contributor>
+	<contributor contributorType="ProjectLeader">
+		<contributorName>Katy Börner</contributorName>
+		<givenName>Katy </givenName>
+		<familyName>Börner</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3321-6137">0000-0002-3321-6137</nameIdentifier>
+	</contributor>
+	<contributor contributorType="ProjectLeader">
+		<contributorName>Neil Kelleher</contributorName>
+		<givenName>Neil</givenName>
+		<familyName>Kelleher</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-8815-3372">0000-0002-8815-3372</nameIdentifier>
+	</contributor>
+	<contributor contributorType="ProjectLeader">
+		<contributorName>Ronald N. Germain</contributorName>
+		<givenName>Ronald N.</givenName>
+		<familyName>Germain</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-1495-9143">0000-0003-1495-9143</nameIdentifier>
+	<contributor contributorType="Other">
+		<contributorName>Andrea J. Radtke</contributorName>
+		<givenName>Andrea J.</givenName>
+		<familyName>Radtke</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-4379-8967">0000-0003-4379-8967</nameIdentifier>
+	</contributor>
+	<contributor contributorType="Other">
+		<contributorName>Ellen M. Quardokus</contributorName>
+		<givenName>Ellen M.</givenName>
+		<familyName>Quardokus</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI=" https://orcid.org/0000-0001-7655-4833">0000-0001-7655-4833</nameIdentifier>
+	</contributor>
+	<contributor contributorType="Other">
+		<contributorName>Christopher Werlein</contributorName>
+		<givenName>Christopher</givenName>
+		<familyName>Werlein</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-7694-4257">0000-0002-7694-4257</nameIdentifier>
+	</contributor>
+</contributors>
+<dates>
+	<date dateType="Available">2022-05-06</date>
+</dates>
+<descriptions>
+	<description>The OMAP Liver panel was designed for Secondary Ionization Mass Spectrometry (SIMS) imaging of fresh frozen human liver samples. The panel contains 20 antibodies and a nuclear marker.  Antibodies directed against EGFR and Na,K-ATPase are used for cell segmentation and image alignment. This OMAP provides spatial context for the anatomical structures, metabolic zonation, and  cell types present in the [ASCT+B liver table v1.0](https://doi.org/10.48539/HBM476.BQCC.574). This OMAP does not contain antibodies for NK cells, dendritic cells, portal fibroblasts, MAIT cells,  and hepatic oval cells.</description>
+</descriptions>
+<language>English</language>
+<alternateIdentifiers>
+	<alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM279.BTBC.847</alternateIdentifier>
+	<alternateIdentifier alternateIdentifierType="How to Cite This Data Table">Hua Tian, Presha Rajbhandari, Taruna V Neelakantan, Aubrianna M Decker, Brent R Stockwell. Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Liver with SIMS v1.0. [https://doi.org/10.48539/HBM279.BTBC.847](https://doi.org/10.48539/HBM279.BTBC.847) </alternateIdentifier>
+	<alternateIdentifier alternateIdentifierType="How to Cite OMAP Tables Overall">Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo, Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021. “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for Multiplexed Antibody-Based Imaging.” *Nature Methods*, November. https://doi.org/10.1038/s41592-021-01316-y.</alternateIdentifier>
+</alternateIdentifiers>
+<formats>
+	<format>.csv</format>
+</formats>
+<rightsList>
+	<rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
+</rightsList>
+<fundingReferences>
+	<fundingReference>
+		<funderName>National Institutes of Health</funderName>
+		<awardNumber>OT2OD026671</awardNumber>
+	</fundingReference>
+	<fundingReference>
+		<funderName>National Institutes of Health</funderName>
+		<awardNumber> UH3 CA246635</awardNumber>
+	</fundingReference>
+</fundingReferences>
+</resource>

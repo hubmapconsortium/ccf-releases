@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">https://doi.org/10.48539/HBM296.NBLN.233</identifier>
+<titles>
+	<title>Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Blood/Pelvis v1.1</title>
+</titles>
+<creators>
+	<creator>
+		<creatorName>Muzlifah A. Haniffa</creatorName>
+		<givenName>Muzlifah A.</givenName>
+		<familyName>Haniffa</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3927-2084">0000-0002-3927-2084</nameIdentifier>
+	</creator>
+	<creator>
+		<creatorName>Laura Jardine</creatorName>
+		<givenName>Laura</givenName>
+		<familyName>Jardine</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-4495-8205">0000-0003-4495-8205</nameIdentifier>
+	</creator>
+	<creator>
+		<creatorName>Sarah A. Teichmann</creatorName>
+		<givenName>Sarah A.</givenName>
+		<familyName>Teichmann</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-6294-6366">0000-0002-6294-6366</nameIdentifier>
+	</creator>
+</creators>
+<publisher>HuBMAP</publisher>
+<publicationYear>2022</publicationYear>
+<resourceType resourceTypeGeneral="Dataset">ASCT+B Table</resourceType>
+<subjects>
+	<subject>Blood/Pelvis v1.1</subject>
+</subjects>
+<contributors>
+	<contributor contributorType="ProjectLeader">
+		<contributorName>Katy Börner</contributorName>
+		<givenName>Katy</givenName>
+		<familyName>Börner</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3321-6137">0000-0002-3321-6137</nameIdentifier>
+	</contributor>
+	<contributor contributorType="Other">
+		<contributorName>Elisa Laurenti</contributorName>
+		<givenName>Elisa</givenName>
+		<familyName>Laurenti</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-9917-9092">0000-0002-9917-9092</nameIdentifier>
+	</contributor>
+	<contributor contributorType="Other">
+		<contributorName>Bertie Gottgens</contributorName>
+		<givenName>Bertie</givenName>
+		<familyName>Gottgens</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-6302-5705">0000-0001-6302-5705</nameIdentifier>
+	</contributor>
+	<contributor contributorType="Other">
+		<contributorName>Andrea J. Radtke</contributorName>
+		<givenName>Andrea J. </givenName>
+		<familyName>Radtke</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-4379-8967">0000-0003-4379-8967</nameIdentifier>
+	</contributor>
+	<contributor contributorType="Other">
+		<contributorName>Rebecca T. Beuschel</contributorName>
+		<givenName>Rebecca T. </givenName>
+		<familyName>Beuschel</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3882-457X">0000-0002-3882-457X</nameIdentifier>
+	</contributor>
+	<contributor contributorType="Other">
+		<contributorName>Ellen M. Quardokus</contributorName>
+		<givenName>Ellen M.</givenName>
+		<familyName>Quardokus</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-7655-4833">0000-0001-7655-4833</nameIdentifier>
+	</contributor>
+</contributors>
+<dates>
+	<date dateType="Available">2022-05-06</date>
+</dates>
+<descriptions>
+	<description>Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables aim to capture the nested part_of structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts.</description>
+</descriptions>
+<language>EN</language>
+<alternateIdentifiers>
+	<alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM296.NBLN.233</alternateIdentifier>
+	<alternateIdentifier alternateIdentifierType="How to Cite This Data Table">Muzlifah A. Haniffa; Laura Jardine; Sarah A. Teichmann. HuBMAP ASCT+B Tables. Blood/Pelvis v1.1 https://doi.org/10.48539/HBM296.NBLN.233</alternateIdentifier>
+	<alternateIdentifier alternateIdentifierType="How to Cite ASCT+B Tables Overall">Quardokus, Ellen, Bruce W. Herr II, Lisel Record,  Katy Börner. 2022. [*HuBMAP ASCT+B Tables*.]( https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html) Accessed on May 6, 2022</alternateIdentifier>
+</alternateIdentifiers>
+<formats>
+	<format>.csv</format>
+</formats>
+<rightsList>
+	<rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
+</rightsList>
+<fundingReferences>
+	<fundingReference>
+		<funderName>National Institutes of Health</funderName>
+		<awardNumber>OT2OD026671</awardNumber>
+	</fundingReference>
+</fundingReferences>
+</resource>

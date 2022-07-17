@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">https://doi.org/10.48539/HBM467.LRKZ.884</identifier>
+<titles>
+	<title>Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Skin with Cell DIVE v1.0</title>
+</titles>
+<creators>
+	<creator>
+		<creatorName>Liz McDonough</creatorName>
+		<givenName>Liz</givenName>
+		<familyName>McDonough</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-7524-8260">0000-0001-7524-8260</nameIdentifier>
+	</creator>
+</creators>
+<publisher>HuBMAP</publisher>
+<publicationYear>2022</publicationYear>
+<resourceType resourceTypeGeneral="Dataset">Organ Mapping Antibody Panel</resourceType>
+<subjects>
+	<subject>OMAP Human Skin Cell DIVE v1.0</subject>
+</subjects>
+<contributors>
+  <contributor contributorType="ProjectLeader">
+		<contributorName>Andrea J. Radtke</contributorName>
+		<givenName>Andrea J. </givenName>
+		<familyName>Radtke</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-4379-8967">0000-0003-4379-8967</nameIdentifier>
+	</contributor>
+	<contributor contributorType="ProjectLeader">
+		<contributorName>Katy Börner</contributorName>
+		<givenName>Katy </givenName>
+		<familyName>Börner</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3321-6137">0000-0002-3321-6137</nameIdentifier>
+	</contributor>
+	<contributor contributorType="ProjectLeader">
+		<contributorName>Neil Kelleher</contributorName>
+		<givenName>Neil</givenName>
+		<familyName>Kelleher</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-8815-3372">0000-0002-8815-3372</nameIdentifier>
+	</contributor>
+	<contributor contributorType="ProjectLeader">
+		<contributorName>Ronald N. Germain</contributorName>
+		<givenName>Ronald N.</givenName>
+		<familyName>Germain</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-1495-9143">0000-0003-1495-9143</nameIdentifier>
+	</contributor>
+	<contributor contributorType="Other">
+		<contributorName>Fiona Ginty</contributorName>
+		<givenName>Fiona</givenName>
+		<familyName>Ginty</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-6638-683X">0000-0001-6638-683X</nameIdentifier>
+	</contributor>
+	<contributor contributorType="Other">
+		<contributorName>Ari Karunamurthy</contributorName>
+		<givenName>Ari</givenName>
+		<familyName>Karunamurthy</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-5739-4923">0000-0002-5739-4923</nameIdentifier>
+	</contributor>
+</contributors>
+<dates>
+	<date dateType="Available">2022-05-06</date>
+</dates>
+<descriptions>
+	<description>The OMAP Skin panel was designed for Cell DIVETM multiplexed imaging of formalin-fixed paraffin-embedded (FFPE) human skin.  The panel contains 18 antibodies and the nuclear marker DAPI for image registration and nuclear segmentation.  Antigens were detected using either primary antibodies with fluorophore-labelled secondary antibodies or fluorescent dye conjugated antibodies. This OMAP provides a spatial context for most anatomical structures and cell types present in the [ASCT+B skin table, v1.1](https://doi.org/10.48539/HBM423.RTRR.746).  Additionally, the inclusion of protein biomarkers DDB2 and p53 allow for profiling of skin damage and aging effects. The panel was designed to get a broad representation of cell types found in the skin and in the future will be expanded to include dermal dendritic cell (DC) markers (e.g. Langerin, CD11c).</description>
+</descriptions>
+<language>English</language>
+<alternateIdentifiers>
+	<alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM467.LRKZ.884</alternateIdentifier>
+	<alternateIdentifier alternateIdentifierType="How to Cite This Data Table">Liz McDonough. Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Skin with Cell DIVE v1.0. [https://doi.org/10.48539/HBM467.LRKZ.884](https://doi.org/10.48539/HBM467.LRKZ.884)</alternateIdentifier>
+	<alternateIdentifier alternateIdentifierType="How to Cite OMAP Tables Overall">Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo, Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021. “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for Multiplexed Antibody-Based Imaging.” *Nature Methods*, November. https://doi.org/10.1038/s41592-021-01316-y.</alternateIdentifier>
+</alternateIdentifiers>
+<formats>
+	<format>.csv</format>
+</formats>
+<rightsList>
+	<rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
+</rightsList>
+<fundingReferences>
+	<fundingReference>
+		<funderName>National Institutes of Health</funderName>
+		<awardNumber>OT2OD026671</awardNumber>
+	</fundingReference>
+	<fundingReference>
+		<funderName>National Institutes of Health (NIH) National Cancer Institute (NCI)</funderName>
+		<awardNumber>NIH 5UH3CA246594-02</awardNumber>
+	</fundingReference>
+	<fundingReference>
+		<funderName>National Institutes of Health (NIH) National Cancer Institute (NCI)</funderName>
+		<awardNumber>UH3 CA246635</awardNumber>
+	</fundingReference>
+	<fundingReference>
+		<funderName>National Institutes of Health (NIH) National Cancer Institute (NCI)</funderName>
+		<awardNumber>UH3 CA246594-01</awardNumber>
+	</fundingReference>
+</fundingReferences>
+</resource>

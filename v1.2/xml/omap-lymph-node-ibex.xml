@@ -82,7 +82,12 @@
 </descriptions>
 <alternateIdentifiers>
 	<alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM624.PJSR.685</alternateIdentifier>
+	<alternateIdentifier alternateIdentifierType="How to Cite This Data Table">Andrea J. Radtke. Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Lymph Node with IBEX. [https://doi.org/10.48539/HBM624.PJSR.685](https://doi.org/10.48539/HBM624.PJSR.685)</alternateIdentifier>
+	<alternateIdentifier alternateIdentifierType="How to Cite OMAP Tables Overall">Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo, Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021. “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for Multiplexed Antibody-Based Imaging.” *Nature Methods*, November. https://doi.org/10.1038/s41592-021-01316-y.</alternateIdentifier>
 </alternateIdentifiers>
+<formats>
+	<format>.csv</format>
+</formats>
 <rightsList>
 	<rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
 </rightsList>

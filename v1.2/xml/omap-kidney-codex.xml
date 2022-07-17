@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">https://doi.org/10.48539/HBM373.TBKP.375</identifier>
+<titles>
+	<title>Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Kidney with CODEX v1.0</title>
+</titles>
+<creators>
+	<creator>
+		<creatorName>Elizabeth K. </creatorName>
+		<givenName>Elizabeth K.</givenName>
+		<familyName>Neumann</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-6078-3321">0000-0002-6078-3321</nameIdentifier>
+	</creator>
+</creators>
+<publisher>HuBMAP</publisher>
+<publicationYear>2022</publicationYear>
+<resourceType resourceTypeGeneral="Dataset">Organ Mapping Antibody Panel (OMAP)</resourceType>
+<subjects>
+	<subject>OMAP Human Kidney CODEX table v1.0</subject>
+</subjects>
+<contributors>
+  <contributor contributorType="ProjectLeader">
+		<contributorName>Andrea J. Radtke</contributorName>
+		<givenName>Andrea J. </givenName>
+		<familyName>Radtke</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-4379-8967">0000-0003-4379-8967</nameIdentifier>
+	</contributor>
+	<contributor contributorType="ProjectLeader">
+		<contributorName>Katy Börner</contributorName>
+		<givenName>Katy </givenName>
+		<familyName>Börner</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3321-6137">0000-0002-3321-6137</nameIdentifier>
+	</contributor>
+	<contributor contributorType="ProjectLeader">
+		<contributorName>Neil Kelleher</contributorName>
+		<givenName>Neil</givenName>
+		<familyName>Kelleher</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-8815-3372">0000-0002-8815-3372</nameIdentifier>
+	</contributor>
+	<contributor contributorType="ProjectLeader">
+		<contributorName>Ronald N. Germain</contributorName>
+		<givenName>Ronald N.</givenName>
+		<familyName>Germain</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-1495-9143">0000-0003-1495-9143</nameIdentifier>
+	</contributor>
+	<contributor contributorType="Other">
+		<contributorName>Andrea J. Radtke</contributorName>
+		<givenName>Andrea J.</givenName>
+		<familyName>Radtke</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-4379-8967">0000-0003-4379-8967</nameIdentifier>
+	</contributor>
+	<contributor contributorType="Other">
+		<contributorName>Ellen M. Quardokus</contributorName>
+		<givenName>Ellen M.</givenName>
+		<familyName>Quardokus</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-7655-4833">0000-0001-7655-4833</nameIdentifier>
+	</contributor>
+	<contributor contributorType="Other">
+		<contributorName>Christopher Werlein</contributorName>
+		<givenName>Christopher</givenName>
+		<familyName>Werlein</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-7694-4257">0000-0002-7694-4257</nameIdentifier>
+	</contributor>
+</contributors>
+<dates>
+	<date dateType="Available">2022-05-06</date>
+</dates>
+<language>English</language>
+<alternateIdentifiers>
+	<alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM373.TBKP.375</alternateIdentifier>
+	<alternateIdentifier alternateIdentifierType="How to Cite This Data Table">Elizabeth K. Neumann. Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Kidney with CODEX v1.0. [https://doi.org/10.48539/HBM373.TBKP.375](https://doi.org/10.48539/HBM373.TBKP.375)</alternateIdentifier>
+	<alternateIdentifier alternateIdentifierType="How to Cite OMAP Tables Overall">Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo, Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021. “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for Multiplexed Antibody-Based Imaging.” *Nature Methods*, November. https://doi.org/10.1038/s41592-021-01316-y.</alternateIdentifier>
+</alternateIdentifiers>
+<formats>
+	<format>.csv</format>
+</formats>
+<rightsList>
+	<rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
+</rightsList>
+<fundingReferences>
+	<fundingReference>
+		<funderName>National Institutes of Health</funderName>
+		<awardNumber>OT2OD026671</awardNumber>
+	</fundingReference>
+	<fundingReference>
+		<funderName>National Institute of Allergy and Infectious Disease and National Cancer Institute</funderName>
+		<awardNumber>UH3CA246635</awardNumber>
+	</fundingReference>
+	<fundingReference>
+		<funderName>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)</funderName>
+		<awardNumber>U54DK120058</awardNumber>
+	</fundingReference>
+	<fundingReference>
+		<funderName>National Institute of Environmental Health Sciences training grant</funderName>
+		<awardNumber> T32ES00702 </awardNumber>
+	</fundingReference>
+	<fundingReference>
+		<funderName>National Institutes of Diabetes and Digestive and Kidney Diseases </funderName>
+		<awardNumber>1F32DK128887-01A1</awardNumber>
+	</fundingReference>
+</fundingReferences>
+</resource>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">https://doi.org/10.48539/HBM557.XHHV.557</identifier>
+<titles>
+	<title>Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Pancreas v1.1</title>
+</titles>
+<creators>
+	<creator>
+		<creatorName>Martha Campbell-Thompson</creatorName>
+		<givenName>Martha</givenName>
+		<familyName>Campbell-Thompson</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-6878-1235">0000-0001-6878-1235</nameIdentifier>
+	</creator>
+	<creator>
+		<creatorName>Adel Eskaros</creatorName>
+		<givenName>Adel</givenName>
+		<familyName>Eskaros</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-9028-338X">0000-0001-9028-338X</nameIdentifier>
+	</creator>
+	<creator>
+		<creatorName>Diane Saunders</creatorName>
+		<givenName>Diane</givenName>
+		<familyName>Saunders</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-8849-6746">0000-0002-8849-6746</nameIdentifier>
+	</creator>
+</creators>
+<publisher>HuBMAP</publisher>
+<publicationYear>2022</publicationYear>
+<resourceType resourceTypeGeneral="Dataset">ASCT+B Table</resourceType>
+<subjects>
+	<subject>Pancreas v1.1</subject>
+</subjects>
+<contributors>
+	<contributor contributorType="ProjectLeader">
+		<contributorName>Katy Börner</contributorName>
+		<givenName>Katy</givenName>
+		<familyName>Börner</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3321-6137">0000-0002-3321-6137</nameIdentifier>
+	</contributor>
+	<contributor contributorType="Other">
+		<contributorName>Al Powers</contributorName>
+		<givenName>Al</givenName>
+		<familyName>Powers</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-1941-5786">0000-0003-1941-5786</nameIdentifier>
+	</contributor>
+	<contributor contributorType="Other">
+		<contributorName>Clayton Mathews</contributorName>
+		<givenName>Clayton</givenName>
+		<familyName>Mathews</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-8817-6355">0000-0002-8817-6355</nameIdentifier>
+	</contributor>
+	<contributor contributorType="Other">
+		<contributorName>Angela Kruse</contributorName>
+		<givenName>Angela</givenName>
+		<familyName>Kruse</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-8776-2769">0000-0001-8776-2769</nameIdentifier>
+	</contributor>
+	<contributor contributorType="Other">
+		<contributorName>Ellen M. Quardokus</contributorName>
+		<givenName>Ellen M.</givenName>
+		<familyName>Quardokus</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-7655-4833">0000-0001-7655-4833</nameIdentifier>
+	</contributor>
+</contributors>
+<dates>
+	<date dateType="Available">2022-05-06</date>
+</dates>
+<descriptions>
+	<description>Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables aim to capture the nested part_of structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts.  This version for Pancreas, v1.1, lists anatomical structures and cell types in the pancreas head region which are analogous to those for the pancreas neck, body and tail regions. Detailed annotation of the pancreas region will reduce redundancies in anatomical structure and cell type nomenclature representative of all pancreas regions and will improve visualization by the ASCT+B reporter by reducing multiple converging lines for a given structure or cell type from multiple regions.  The table begins with division of the pancreas head into lobules that are further divided into parenchyma followed by exocrine and endocrine pancreas. The ventral lobe of the pancreas is found exclusively in the head region and is the major source of pancreatic polypeptide cells found in islets of the ventral head region. The dorsal lobe of the pancreas comprises the remaining head region as well as the neck, body and tail regions accounting for the similarity in the structures and exocrine and endocrine cell types.  Important findings from scRNAseq studies show division of most cell types into subtypes based on unique RNA signatures but such findings are outside the scope of this table. Single genes were also referenced to the Human Protein Atlas for protein abundance in the pancreas.  Immune cells are included though in low numbers as part of the innate immune system of the pancreas. The vascular, lymphatic, and nervous systems will be added in future versions.</description>
+</descriptions>
+<language>EN</language>
+<alternateIdentifiers>
+	<alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM557.XHHV.557</alternateIdentifier>
+	<alternateIdentifier alternateIdentifierType="How to Cite This Data Table">Martha Campbell-Thompson; Adel Eskaros; Diane Saunders, HuBMAP ASCT+B Tables. Pancreas v1.1 https://doi.org/10.48539/HBM557.XHHV.557</alternateIdentifier>
+	<alternateIdentifier alternateIdentifierType="How to Cite ASCT+B Tables Overall">Quardokus, Ellen, Bruce W. Herr II, Lisel Record,  Katy Börner. 2022. [*HuBMAP ASCT+B Tables*.]( https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html) Accessed on May 6, 2022</alternateIdentifier>
+</alternateIdentifiers>
+<formats>
+	<format>.csv</format>
+</formats>
+<rightsList>
+	<rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
+</rightsList>
+<fundingReferences>
+	<fundingReference>
+		<funderName>National Institutes of Health</funderName>
+		<awardNumber>OT2OD026671</awardNumber>
+	</fundingReference>
+</fundingReferences>
+</resource>

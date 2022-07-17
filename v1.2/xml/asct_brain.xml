@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">https://doi.org/10.48539/HBM527.JQCW.377</identifier>
+<titles>
+	<title>Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Brain v1.2</title>
+</titles>
+<creators>
+	<creator>
+		<creatorName>Jeremy A. Miller</creatorName>
+		<givenName>Jeremy A.</givenName>
+		<familyName>Miller</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-4549-588X">0000-0003-4549-588X</nameIdentifier>
+	</creator>
+	<creator>
+		<creatorName>Raymond Sanchez</creatorName>
+		<givenName>Raymond</givenName>
+		<familyName>Sanchez</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/000-0001-9141-090X">000-0001-9141-090X</nameIdentifier>
+	</creator>
+	<creator>
+		<creatorName>Richard Scheuermann</creatorName>
+		<givenName>Richard</givenName>
+		<familyName>Scheuermann</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-1355-892X ">0000-0003-1355-892X </nameIdentifier>
+	</creator>
+</creators>
+<publisher>HuBMAP</publisher>
+<publicationYear>2022</publicationYear>
+<resourceType resourceTypeGeneral="Dataset">ASCT+B Table</resourceType>
+<subjects>
+	<subject>Brain v1.2</subject>
+</subjects>
+<contributors>
+	<contributor contributorType="ProjectLeader">
+		<contributorName>Katy Börner</contributorName>
+		<givenName>Katy</givenName>
+		<familyName>Börner</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3321-6137">0000-0002-3321-6137</nameIdentifier>
+	</contributor>
+	<contributor contributorType="Other">
+		<contributorName>Ed Lein</contributorName>
+		<givenName>Ed</givenName>
+		<familyName>Lein</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-9012-6552">0000-0001-9012-6552</nameIdentifier>
+	</contributor>
+	<contributor contributorType="Other">
+		<contributorName>David Osumi-Sutherland</contributorName>
+		<givenName>David</givenName>
+		<familyName>Osumi-Sutherland</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-7073-9172">0000-0002-7073-9172</nameIdentifier>
+	</contributor>
+	<contributor contributorType="Other">
+		<contributorName>Ellen M. Quardokus</contributorName>
+		<givenName>Ellen M.</givenName>
+		<familyName>Quardokus</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-7655-4833">0000-0001-7655-4833</nameIdentifier>
+	</contributor>
+</contributors>
+<dates>
+	<date dateType="Available">2022-05-06</date>
+</dates>
+<descriptions>
+	<description>Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables aim to capture the nested *part_of* structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts. Only cell types and biomarkers for the primary motor cortex are represented in the table currently [(Bakken et al. 2021)](https://doi.org/10.1038/s41586-021-03465-8.)</description>
+</descriptions>
+<language>EN</language>
+<alternateIdentifiers>
+	<alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM527.JQCW.377</alternateIdentifier>
+	<alternateIdentifier alternateIdentifierType="How to Cite This Data Table">Jeremy A. Miller; Raymond Sanchez; Richard Scheuermann. HuBMAP ASCT+B Tables. Brain v1.2 https://doi.org/10.48539/HBM527.JQCW.377</alternateIdentifier>
+	<alternateIdentifier alternateIdentifierType="How to Cite ASCT+B Tables Overall">Quardokus, Ellen, Bruce W. Herr II, Lisel Record,  Katy Börner. 2022. [*HuBMAP ASCT+B Tables*.]( https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html) Accessed on May 6, 2022</alternateIdentifier>
+</alternateIdentifiers>
+<formats>
+	<format>.csv</format>
+</formats>
+<rightsList>
+	<rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
+</rightsList>
+<fundingReferences>
+	<fundingReference>
+		<funderName>National Institutes of Health</funderName>
+		<awardNumber>OT2OD026671</awardNumber>
+	</fundingReference>
+</fundingReferences>
+</resource>

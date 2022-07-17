@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">https://doi.org/10.48539/HBM984.MZSG.873</identifier>
+<titles>
+	<title>Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 2D Functional Tissue Unit (FTU) Reference Object Library Mapping</title>
+</titles>
+<creators>
+	<creator>
+		<creatorName>Supriya Bidanta</creatorName>
+		<givenName>Supriya</givenName>
+		<familyName>Bidanta</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-2142-983X">0000-0002-2142-983X</nameIdentifier>
+	</creator>
+	<creator>
+		<creatorName>Fauzan Isnaini</creatorName>
+		<givenName>Fauzan</givenName>
+		<familyName>Isnaini</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-6582-4041">0000-0001-6582-4041</nameIdentifier>
+	</creator>
+</creators>
+<publisher>HuBMAP</publisher>
+<publicationYear>2022</publicationYear>
+<resourceType resourceTypeGeneral="Other">ASCT+B table to 2D FTU mapping Table</resourceType>
+<subjects>
+	<subject>ASCT+B table to 2D FTU mapping table</subject>
+</subjects>
+<contributors>
+  <contributor contributorType="ProjectLeader">
+		<contributorName>Katy Börner</contributorName>
+		<givenName>Katy</givenName>
+		<familyName>Börner</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3321-6137">0000-0002-3321-6137</nameIdentifier>
+	</contributor>
+	<contributor contributorType="Other">
+		<contributorName>Ellen M. Quardokus</contributorName>
+		<givenName>Ellen M.</givenName>
+		<familyName>Quardokus</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-7655-4833">0000-0001-7655-4833</nameIdentifier>
+	</contributor>
+	<contributor contributorType="Other">
+		<contributorName>Katy Börner</contributorName>
+		<givenName>Katy</givenName>
+		<familyName>Börner</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3321-6137">0000-0002-3321-6137</nameIdentifier>
+	</contributor>
+	<contributor contributorType="Other">
+		<contributorName>Rachel Bajema</contributorName>
+		<givenName>Rachel</givenName>
+		<familyName>Bajema</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3775-8574">0000-0002-3775-8574</nameIdentifier>
+	</contributor>
+	<contributor contributorType="Other">
+		<contributorName>Bruce W. Herr II</contributorName>
+		<givenName>Bruce W.</givenName>
+		<familyName>Herr II</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-6703-7647">0000-0002-6703-7647</nameIdentifier>
+	</contributor>
+</contributors>
+<dates>
+	<date dateType="Available">2022-05-06</date>
+</dates>
+<descriptions>
+	<description>This lookup table maps [Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Table](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html) terms to anatomical structure and cell type terms used in the [CCF-2D-reference-object-library](https://github.com/hubmapconsortium/ccf-2d-reference-object-library).</description>
+</descriptions>
+<language>English</language>
+<alternateIdentifiers>
+	<alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM984.MZSG.873</alternateIdentifier>
+	<alternateIdentifier alternateIdentifierType="How to Cite This Data Table">Supriya Bidanta; Fauzan Isnaini. (2022). Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 2D Reference Object Library Mapping https://doi.org/10.48539/HBM984.MZSG.873. Accessed on May 06, 2022.</alternateIdentifier>
+	<alternateIdentifier alternateIdentifierType="How to Cite 2D Data Overall">Supriya Bidanta; Fauzan Isnaini; Rachel Bajema; Ellen M. Quardokus; Bruce W. Herr II; Katy Börner. 2022. [*HuBMAP CCF 2D Reference Object Library*](https://hubmapconsortium.github.io/ccf/pages/ccf-2d-reference-object-library.html). Accessed on May 06, 2022.</alternateIdentifier>
+</alternateIdentifiers>
+<formats>
+	<format>.csv</format>
+</formats>
+<rightsList>
+	<rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
+</rightsList>
+<fundingReferences>
+	<fundingReference>
+		<funderName>National Institutes of Health</funderName>
+		<awardNumber>OT2OD026671</awardNumber>
+	</fundingReference>
+</fundingReferences>
+</resource>

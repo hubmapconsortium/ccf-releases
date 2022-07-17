@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">https://doi.org/10.48539/HBM395.LXKX.734</identifier>
+<titles>
+	<title>Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX v1.0</title>
+</titles>
+<creators>
+	<creator>
+		<creatorName>Anna Martinez Casals</creatorName>
+		<givenName>Anna Martinez</givenName>
+		<familyName>Casals</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-2722-1965">0000-0003-2722-1965</nameIdentifier>
+	</creator>
+	<creator>
+		<creatorName>Frida Björklund</creatorName>
+		<givenName>Frida</givenName>
+		<familyName>Björklund</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3343-349X">0000-0002-3343-349X</nameIdentifier>
+	</creator>
+</creators>
+<publisher>HuBMAP</publisher>
+<publicationYear>2022</publicationYear>
+<resourceType resourceTypeGeneral="Dataset">Organ Mapping Antibody Panel</resourceType>
+<subjects>
+	<subject>OMAP Human Pancreas CODEX v1.0</subject>
+</subjects>
+<contributors>
+   <contributor contributorType="ProjectLeader">
+		<contributorName>Andrea J. Radtke</contributorName>
+		<givenName>Andrea J. </givenName>
+		<familyName>Radtke</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-4379-8967">0000-0003-4379-8967</nameIdentifier>
+	</contributor>
+	<contributor contributorType="ProjectLeader">
+		<contributorName>Katy Börner</contributorName>
+		<givenName>Katy </givenName>
+		<familyName>Börner</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3321-6137">0000-0002-3321-6137</nameIdentifier>
+	</contributor>
+	<contributor contributorType="ProjectLeader">
+		<contributorName>Neil Kelleher</contributorName>
+		<givenName>Neil</givenName>
+		<familyName>Kelleher</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-8815-3372">0000-0002-8815-3372</nameIdentifier>
+	</contributor>
+	<contributor contributorType="ProjectLeader">
+		<contributorName>Ronald N. Germain</contributorName>
+		<givenName>Ronald N.</givenName>
+		<familyName>Germain</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-1495-9143">0000-0003-1495-9143</nameIdentifier>
+	</contributor>
+	<contributor contributorType="Other">
+		<contributorName>Katja Steiger</contributorName>
+		<givenName>Katja</givenName>
+		<familyName>Steiger</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-7269-5433">0000-0002-7269-5433</nameIdentifier>
+	</contributor>
+	<contributor contributorType="Other">
+		<contributorName>Christopher Werlein</contributorName>
+		<givenName>Christopher</givenName>
+		<familyName>Werlein</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-7694-4257"> 0000-0002-7694-4257</nameIdentifier>
+	</contributor>
+</contributors>
+<dates>
+	<date dateType="Available">2022-05-06</date>
+</dates>
+<descriptions>
+	<description>The OMAP Pancreas  panel was designed for CODEX (CO Detection by IndEXing) imaging of Formalin-Fixed Paraffin-Embedded (FFPE) human pancreas samples. Following antigen retrieval (citrate buffer pH=6, heating at high pressure 114-121°C for 20 minutes), tissue autofluorescence was reduced using a photobleaching protocol ([Du Z. et al, 2019](https://doi.org/10.1038/s41596-019-0206-y), modified by Derek Oldrige). CODEX is based on DNA-conjugated antibodies allowing the image acquisition of 3 antibodies per cycle and removal of complementary fluorescently labeled DNA probes afterwards [Goltsev, Y. et al, 2018](https://doi.org/10.1016/j.cell.2018.07.010). Cell junction markers (E-cadherin,Beta-catenin) and nuclear marker Hoechst are used for cell segmentation. The resulting OMAP contains 12 antibodies and provides a spatial context for most relevant anatomical structures and cell types in the pancreas including pancreatic cells (alpha, beta, gamma, delta),  ductal cells, endothelial cells,smooth muscle and mesenchymal cells present in the [ASCT-B pancreas table, v1.0](https://doi.org/10.48539/HBM332.TMXM.592). Acinar  and epsilon cells are not targeted in the existing panel due to the complexity of finding suitable and stable antibodies.</description>
+</descriptions>
+<language>English</language>
+<alternateIdentifiers>
+	<alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM395.LXKX.734</alternateIdentifier>
+	<alternateIdentifier alternateIdentifierType="How to Cite This Data Table">Anna Martinez Casals, Frida Björklund. Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX v1.0. [https://doi.org/10.48539/HBM395.LXKX.734](https://doi.org/10.48539/HBM395.LXKX.734)</alternateIdentifier>
+	<alternateIdentifier alternateIdentifierType="How to Cite OMAP Tables Overall">Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo, Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021. “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for Multiplexed Antibody-Based Imaging.” *Nature Methods*, November. https://doi.org/10.1038/s41592-021-01316-y.</alternateIdentifier>
+</alternateIdentifiers>
+<formats>
+	<format>.csv</format>
+</formats>
+<rightsList>
+	<rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
+</rightsList>
+<fundingReferences>
+	<fundingReference>
+		<funderName>National Institutes of Health (NIH)</funderName>
+		<awardNumber>OT2OD026671</awardNumber>
+	</fundingReference>
+	<fundingReference>
+		<funderName>National Institute of Allergy and Infectious Disease and National Cancer Institute</funderName>
+		<awardNumber>UH3 CA246635</awardNumber>
+	</fundingReference>
+	<fundingReference>
+		<funderName>European Union (EU) Expression and Spatial analysis Pancreas Atlas Consortium Europe (ESPACE)</funderName>
+	</fundingReference>
+</fundingReferences>
+</resource>
