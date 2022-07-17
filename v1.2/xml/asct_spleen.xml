@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">https://doi.org/10.48539/HBM772.KBNQ.742</identifier>
+<titles>
+	<title>Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Spleen v1.2</title>
+</titles>
+<creators>
+	<creator>
+		<creatorName>Marda Jorgensen</creatorName>
+		<givenName>Marda</givenName>
+		<familyName>Jorgensen</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-7250-3569">0000-0002-7250-3569</nameIdentifier>
+	</creator>
+	<creator>
+		<creatorName>Andrea J. Radtke</creatorName>
+		<givenName>Andrea J.</givenName>
+		<familyName>Radtke</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-4379-8967">0000-0003-4379-8967</nameIdentifier>
+	</creator>
+	<creator>
+		<creatorName>Rebecca T. Beuschel</creatorName>
+		<givenName>Rebecca T.</givenName>
+		<familyName>Beuschel</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3882-457X">0000-0002-3882-457X</nameIdentifier>
+	</creator>
+</creators>
+<publisher>HuBMAP</publisher>
+<publicationYear>2022</publicationYear>
+<resourceType resourceTypeGeneral="Dataset">ASCT+B Table</resourceType>
+<subjects>
+	<subject>Spleen v1.2</subject>
+</subjects>
+<contributors>
+	<contributor contributorType="ProjectLeader">
+		<contributorName>Katy Börner</contributorName>
+		<givenName>Katy</givenName>
+		<familyName>Börner</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3321-6137">0000-0002-3321-6137</nameIdentifier>
+	</contributor>
+	<contributor contributorType="Other">
+		<contributorName>Elaine Jaffe</contributorName>
+		<givenName>Elaine</givenName>
+		<familyName>Jaffe</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-4632-0301">0000-0003-4632-0301</nameIdentifier>
+	</contributor>
+	<contributor contributorType="Other">
+		<contributorName>Stefania Pittaluga</contributorName>
+		<givenName>Stefania</givenName>
+		<familyName>Pittaluga</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-7688-1439">0000-0001-7688-1439</nameIdentifier>
+	</contributor>
+	<contributor contributorType="Other">
+		<contributorName>Robert Seifert</contributorName>
+		<givenName>Robert</givenName>
+		<familyName>Seifert</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-4404-8116">0000-0002-4404-8116</nameIdentifier>
+	</contributor>
+	<contributor contributorType="Other">
+		<contributorName>Birte Steiniger</contributorName>
+		<givenName>Birte</givenName>
+		<familyName>Steiniger</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3602-7331">0000-0002-3602-7331</nameIdentifier>
+	</contributor>
+	<contributor contributorType="Other">
+		<contributorName> Clive Wasserfall</contributorName>
+		<givenName> Clive</givenName>
+		<familyName>Wasserfall</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3522-8932">0000-0002-3522-8932</nameIdentifier>
+	</contributor>
+	<contributor contributorType="Other">
+		<contributorName>Ellen M. Quardokus</contributorName>
+		<givenName>Ellen M.</givenName>
+		<familyName>Quardokus</familyName>
+		<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-7655-4833">0000-0001-7655-4833</nameIdentifier>
+	</contributor>
+</contributors>
+<dates>
+	<date dateType="Available">2022-05-06</date>
+</dates>
+<descriptions>
+	<description>Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables aim to capture the nested *part_of* structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts. The spleen ASCT+B tables are derived from published literature, public datasets, unpublished studies from table authors, and input provided by Dr. Birte Steiniger, an early reviewer and leader in the field of spleen anatomy. The gene biomarkers are primarily derived from one landmark publication in humans: [(Madissoon et al. 2019)](https://doi.org/10.1186/s13059-019-1906-x). The anatomical structures and cell types of the spleen were highly influenced by work from Dr. Steiniger including: [(Steiniger 2015)](https://doi.org/10.1111/imm.12469), [(Steiniger et al. 2018)](https://doi.org/10.1038/s41598-018-34105-3), and [(Steiniger et al. 2007)](https://doi.org/10.1007/s00418-007-0320-8). Whenever possible, we used multiple sources to confirm gene and protein biomarkers and united them across cell types. Cell phenotypes, especially for protein-based assays, are highly granular with several markers listed at different expression levels. We anticipate further revision and refinement from multimodal studies that pair sequencing and imaging studies from the same human sample. In total, this table reports 37 anatomical structures, 60 cell types, and 194 biomarkers.</description>
+</descriptions>
+<language>EN</language>
+<alternateIdentifiers>
+	<alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM772.KBNQ.742</alternateIdentifier>
+	<alternateIdentifier alternateIdentifierType="How to Cite This Data Table">Marda Jorgensen; Andrea J. Radtke; Rebecca T. Beuschel, HuBMAP ASCT+B Tables. Spleen v1.2 https://doi.org/10.48539/HBM772.KBNQ.742</alternateIdentifier>
+	<alternateIdentifier alternateIdentifierType="How to Cite ASCT+B Tables Overall">Quardokus, Ellen, Bruce W. Herr II, Lisel Record,  Katy Börner. 2022. [*HuBMAP ASCT+B Tables*.]( https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html) Accessed on May 6, 2022</alternateIdentifier>
+</alternateIdentifiers>
+<formats>
+	<format>.csv</format>
+</formats>
+<rightsList>
+	<rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
+</rightsList>
+<fundingReferences>
+	<fundingReference>
+		<funderName>National Institutes of Health</funderName>
+		<awardNumber>OT2OD026671</awardNumber>
+	</fundingReference>
+</fundingReferences>
+</resource>
