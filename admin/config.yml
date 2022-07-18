@@ -1,7 +1,7 @@
 backend:
   # Use netlify identity as backend
   name: git-gateway
-  branch: main
+  branch: main  
   ### enable below lines for github integration ###
   # name: github
   repo: vaibhav201297/NetlifyCMS
@@ -12,8 +12,20 @@ public_folder: "/static/img"
 local_backend: false
 # publish_mode: editorial_workflow
 collections:
-  - label: "Releases"
-    name: "release-version"
+  - name: "posts"
+    label: "Posts"
+    folder: "posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "layouts/post.njk" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Date", name: "date", widget: "date", default: "" }
+      - { label: "Post Body", name: "body", widget: "markdown" }
+      - { label: "Featured Image", name: "featuredImage", widget: "image" }
+  - name: "Releases"
+    label: "release-version"
     folder: "src/{{release}}"
     create: true
     editor:
