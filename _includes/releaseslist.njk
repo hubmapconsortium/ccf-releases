@@ -1,0 +1,13 @@
+<ul>
+    {% for rel in releaselist %}
+        <li>
+           <strong>
+                <a href="{{ rel.url | url }}">{{ rel.data.title }}</a>
+            </strong>
+            -
+            <span>
+                {{ rel.data.description }}
+            </span>
+        </li>
+    {% endfor %}
+</ul>
