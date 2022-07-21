@@ -13,3 +13,16 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
  
+  - name: "individuals"
+    label: "Individuals"
+    folder: "src/individuals"
+    create: true
+    fields:
+    - { label: "Layout", name: "layout", widget: "hidden", default: "layouts/individual.njk" }
+    - {label: "First Name", name: "first_name", widget: "string"}
+    - {label: "Middle Name", name: "middle_name", widget: "string", required: false}
+    - {label: "Last Name", name: "last_name", widget: "string"}
+    - {label: "ORCID", name: "orcid",widget: "string",hint: "16 digit ORCID",pattern: ['([0-9]{4})+(-)+([0-9]{4})+(-)+([0-9]{4})+(-)+([X-X0-9]{4})',"ORCID must be a 16 digit number with no alphabets except X"]}
+    - {label: "title", name: "title", widget: "hidden", default: "{{first_name}}_{{last_name}}"}
+    identifier_field: orcid
+    slug: "{{first_name}}_{{last_name}}_{{orcid}}"
