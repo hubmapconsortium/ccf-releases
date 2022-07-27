@@ -19,5 +19,8 @@
   "homepage": "https://github.com/vaibhav201297/NetlifyCMS#readme",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.1"
+  },
+  "dependencies": {
+    "netlify-cms-proxy-server": "^1.3.24"
   }
 }

@@ -1,0 +1,13 @@
+<ul>
+    {% for ind in individuals %}
+        <li>
+           <strong>
+                <a href="{{ ind.url | url }}">{{ ind.data.first_name }}.{{ ind.data.last_name }}</a>
+            </strong>
+            -
+            <span>
+                {{ ind.data.orcid }}
+            </span>
+        </li>
+    {% endfor %}
+</ul>

@@ -1,0 +1,79 @@
+
+<h2> {{title}} </h2>
+
+<h3> Description </h3> 
+<pre> {{description}} </pre>
+ <br/>
+<table>
+    <tr>
+        <th>Label </th>
+        <th> Value </th>
+    </tr>
+    <tr>
+        <td> Creators </td>
+        <td>
+         {% for id in creators %}
+            {% for ind in collections.individuals %}
+                {% if ind.data.individual.orcid == id %}  
+                    {{ ind.data.individual.first_name }}.{{ ind.data.individual.last_name }};  {% endif %} 
+            {% endfor %}
+        {% endfor %}
+        </td>
+        
+    </tr>
+    <tr>
+        <td> Creator ORCID </td>
+        <td> {% for id in creators %} <a href="https://orcid.org/{{id}}">{{id}}</a>; {% endfor %} </td>
+    </tr>
+    <tr>
+        <td> Project Lead </td>
+        <td> {% for ind in collections.individuals %}
+                {% if ind.data.individual.orcid == project_lead %}  
+                    {{ ind.data.individual.first_name }}.{{ ind.data.individual.last_name }}  {% endif %} 
+            {% endfor %} </td>
+    </tr>
+   <tr>
+        <td> Reviewer(s) </td>
+        <td>
+         {% for id in reviewers %}
+            {% for ind in collections.individuals %}
+                {% if ind.data.individual.orcid == id %}  
+                    {{ ind.data.individual.first_name }}.{{ ind.data.individual.last_name }};  {% endif %} 
+            {% endfor %}
+        {% endfor %}
+        </td>
+        
+    </tr>
+    <tr>
+        <td> Reviewer ORCID </td>
+        <td> {% for id in reviewers %} <a href="https://orcid.org/{{id}}">{{id}}</a>; {% endfor %} </td>
+    </tr>
+    <tr>
+        <td> Date </td>
+        <td> {{ creation_date }} </td>
+    </tr>
+    <tr>
+        <td> License </td>
+        <td> {{ license }} </td>
+    </tr>
+    <tr>
+        <td> Publisher </td>
+        <td> {{ publisher }} </td>
+    </tr>
+    <tr>
+        <td> Funder </td>
+        <td> {{ funder }} </td>
+    </tr>
+    <tr>
+        <td> Award Number </td>
+        <td> {{ award_number }} </td>
+    </tr>
+    <tr>
+        <td> HuBMAP ID </td>
+        <td> {{ hubmap_id }} </td>
+    </tr>
+    <tr>
+        <td> DOI </td>
+        <td> <a href="{{ doi }}">{{doi}}</a> </td>
+    </tr>
+</table>

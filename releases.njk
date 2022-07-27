@@ -2,5 +2,8 @@
 layout: layouts/base.njk 
 permalink: /ccf-releases/ 
 ---
-{% set releaselist = collections.releases %}
-{% include "releaseslist.njk" %}
+<ul>
+{% for temp in collections.all %}
+    <li> <a href="{{ temp.url }}">{{ temp.url }}</a></li>
+{% endfor %}
+</ul>

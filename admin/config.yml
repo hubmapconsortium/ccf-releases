@@ -1,28 +1,76 @@
 backend:
   name: git-gateway
   branch: main
+  repo: vaibhav201297/NetlifyCMS
+local_backend: true
 media_folder: "_site/data/uploads"
 public_folder: "/data/uploads"
 collections:
   - name: "releases"
     label: "Releases"
-    folder: "ccf-releases"
+    folder: "releases"
     create: true
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "layouts/release.njk" }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
- 
+  
   - name: "individuals"
     label: "Individuals"
-    folder: "src/individuals"
+    folder: "individuals"
     create: true
     fields:
-    - { label: "Layout", name: "layout", widget: "hidden", default: "layouts/individual.njk" }
-    - {label: "First Name", name: "first_name", widget: "string"}
-    - {label: "Middle Name", name: "middle_name", widget: "string", required: false}
-    - {label: "Last Name", name: "last_name", widget: "string"}
-    - {label: "ORCID", name: "orcid",widget: "string",hint: "16 digit ORCID",pattern: ['([0-9]{4})+(-)+([0-9]{4})+(-)+([0-9]{4})+(-)+([X-X0-9]{4})',"ORCID must be a 16 digit number with no alphabets except X"]}
-    - {label: "title", name: "title", widget: "hidden", default: "{{first_name}}_{{last_name}}"}
-    identifier_field: orcid
-    slug: "{{first_name}}_{{last_name}}_{{orcid}}"
+    - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/individual.njk" }
+    - label: "Individual"
+      name: "individual"
+      widget: "object"
+      summary: "{{fields.first_name}}.{{fields.last_name}}"
+      collapsed: true
+      fields:
+      - {label: "First Name", name: "first_name", widget: "string"}
+      - {label: "Middle Name", name: "middle_name", widget: "string", required: false}
+      - {label: "Last Name", name: "last_name", widget: "string"}
+      - {label: "ORCID", name: "orcid",widget: "string",hint: "16 digit ORCID",pattern: ['([0-9]{4})+(-)+([0-9]{4})+(-)+([0-9]{4})+(-)+([X-X0-9]{4})',"ORCID must be a 16 digit number with no alphabets except X"]}
+    identifier_field: individual.orcid
+    slug: "{{individual.first_name}}.{{individual.last_name}}"
+
+  - name: "models"
+    label: "Models"
+    create: true
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "layouts/model.njk" }
+      - { label: "Model Type", name: "type", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+    identifier_field: type
+    folder: "models"
+
+
+  - name: "anatomical_structures"
+    label: "Anatomical Structures"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "layouts/anatomical_structure.njk" }
+      - { label: "Release Version", name: "release_version", widget: "relation", collection: "releases", search_fields: ["title"], value_field: "title", display_fields: ["title"]}
+      - { label: "Model Type", name: "model_type", widget: "relation", collection: "models", search_fields: ["type"], value_field: "type", display_fields: ["type"]}
+      - { label: "Description", name: "description", widget: "markdown"}
+      - { label: "Creator(s)", name: "creators", widget: "list", allow_add: true, collapsed: true, field: {label: "Creator", name: "creator", widget: "relation", collection: "individuals",collapsed: true, summary: "{{fields.creator}}", search_fields: ["individual.orcid"], value_field: "individual.orcid",display_fields: ["individual.first_name","individual.last_name","individual.orcid"]  }}
+      - { label: "Project Lead", name: "project_lead", widget: "relation",collection: "individuals", search_fields: ["individual.orcid"], value_field: "individual.orcid",display_fields: ["individual.first_name","individual.last_name","individual.orcid"]  } 
+      - { label: "Reviewers(s)", name: "reviewers", widget: "list", allow_add: true, collapsed: true, field: {label: "Reviewer", name: "reviewer", widget: "relation", collection: "individuals", search_fields: ["individual.orcid"], value_field: "individual.orcid",display_fields: ["individual.first_name","individual.last_name","individual.orcid"]  }}
+      - { label: "Creation Date", name: "creation_date", widget: "date", default: ""}
+      - { label: "License", name: "license", widget: "select",options: [
+        { label: "Creative Commons Attribution 4.0 International (CC BY 4.0)", value: "CC BY 4.0" },
+        { label: "MIT", value: "MIT"}]
+        }
+      - { label: "Publisher", name: "publisher", widget: "string"}
+      - { label: "Funder", name: "funder", widget: "string"}
+      - { label: "Award Number", name: "award_number", widget: "string"}
+      - { label: "HuBMAP ID", name: "hubmap_id", widget: "string"}
+      - { label: "Data Table", name: "datatable", widget: "file",media_library: {media_folder: "/data/uploads/" }}
+      - { label: "DOI", name: "doi", widget: "string"}
+    identifier_field: title
+    folder: "ccf-releases"  
+    slug: "{{title}}"
+    path: "{{release_version}}/{{model_type}}/{{slug}}"

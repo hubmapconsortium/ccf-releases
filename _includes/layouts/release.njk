@@ -2,7 +2,32 @@
 layout: layouts/base.njk
 ---
 
-<h2> {{ title }} </h2>
 
 
+<h1> Release Version {{page.fileSlug}} DOI </h1> 
+{% set structures = collections.anatomical_structures %}
+{% set models = collections.models %}
 
+
+{% for mod in models %}
+    <h3> {{ mod.data.type}}: Release {{page.fileSlug}} </h3>
+    <ol>
+    
+    {% for str in structures %}
+    
+        {% if (str.data.release_version == page.fileSlug) and  (str.data.model_type == mod.data.type) %}
+        <li>
+           <strong>
+                <a href="{{ str.url | url }}">{{ str.data.title }}</a>
+            </strong>
+            -
+            <span>
+                {{ str.data.description }}
+            </span>
+            
+        </li>
+        {% endif %}
+    </ol>
+    {% endfor %}
+{% endfor %}
+   
