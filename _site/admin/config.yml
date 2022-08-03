@@ -3,17 +3,19 @@ backend:
   branch: main
   repo: vaibhav201297/NetlifyCMS
 local_backend: true
+publish_mode: editorial_workflow
 media_folder: "_site/data/uploads"
-public_folder: "/data/uploads"
+public_folder: "_site/data/uploads"
 collections:
   - name: "releases"
     label: "Releases"
     folder: "releases"
     create: true
     fields:
-      - { label: "Layout", name: "layout", widget: "hidden", default: "layouts/release.njk" }
+      
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
+    
   
   - name: "individuals"
     label: "Individuals"
@@ -44,6 +46,23 @@ collections:
     identifier_field: type
     folder: "models"
 
+  - name: pages
+    label: Pages
+    label_singular: 'Page'
+    folder: content/pages
+    create: true
+    # adding a nested object will show the collection folder structure
+    nested:
+      depth: 100 # max depth to show in the collection tree
+      # summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
+    fields:
+      - { label: "Model Type", name: "model_type", widget: "relation", collection: "models", search_fields: ["type"], value_field: "type", display_fields: ["type"]}
+    # adding a meta object with a path property allows editing the path of entries
+    # moving an existing entry will move the entire sub tree of the entry to the new location
+    meta: { path: { widget: relation, label: 'Path', index_file: 'index', collection: "releases", search_fields: ["title"], value_field: "title", display_fields: ["title"]} }
+       
+
+
 
   - name: "anatomical_structures"
     label: "Anatomical Structures"
@@ -59,7 +78,7 @@ collections:
       - { label: "Creator(s)", name: "creators", widget: "list", allow_add: true, collapsed: true, field: {label: "Creator", name: "creator", widget: "relation", collection: "individuals",collapsed: true, summary: "{{fields.creator}}", search_fields: ["individual.orcid"], value_field: "individual.orcid",display_fields: ["individual.first_name","individual.last_name","individual.orcid"]  }}
       - { label: "Project Lead", name: "project_lead", widget: "relation",collection: "individuals", search_fields: ["individual.orcid"], value_field: "individual.orcid",display_fields: ["individual.first_name","individual.last_name","individual.orcid"]  } 
       - { label: "Reviewers(s)", name: "reviewers", widget: "list", allow_add: true, collapsed: true, field: {label: "Reviewer", name: "reviewer", widget: "relation", collection: "individuals", search_fields: ["individual.orcid"], value_field: "individual.orcid",display_fields: ["individual.first_name","individual.last_name","individual.orcid"]  }}
-      - { label: "Creation Date", name: "creation_date", widget: "date", default: ""}
+      - { label: "Creation Date", name: "creation_date", widget: "date", default: "", format: "YYYY-MM-DD"}
       - { label: "License", name: "license", widget: "select",options: [
         { label: "Creative Commons Attribution 4.0 International (CC BY 4.0)", value: "CC BY 4.0" },
         { label: "MIT", value: "MIT"}]

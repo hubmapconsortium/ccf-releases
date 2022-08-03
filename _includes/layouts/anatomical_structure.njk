@@ -1,10 +1,23 @@
+---
+layout: layouts/base.njk
+permalink: /{{ page.filePathStem | myFilter }}.html/
+---
+<div class="container-md" style="margin-left:20%;margin-top:2.5rem;background-color:#FFFFFF;padding:5%;box-shadow:rgb(0 0 0 / 14%) 0px 2px 2px 0px, rgb(0 0 0 / 20%) 0px 3px 1px -2px, rgb(0 0 0 / 12%) 0px 1px 5px 0px">
 
-<h2> {{title}} </h2>
+<h2><b> {{title}}</b> </h2>
 
-<h3> Description </h3> 
-<pre> {{description}} </pre>
+
+
+<h5> Description </h5> 
+<wc-markdown>
+  <script type="wc-content">
+   {{description}} 
+  </script>
+</wc-markdown>
+ 
  <br/>
-<table>
+
+<table class="table">
     <tr>
         <th>Label </th>
         <th> Value </th>
@@ -50,7 +63,7 @@
     </tr>
     <tr>
         <td> Date </td>
-        <td> {{ creation_date }} </td>
+        <td> {{ creation_date.toISOString().split('T')[0] }} </td>
     </tr>
     <tr>
         <td> License </td>
@@ -73,7 +86,12 @@
         <td> {{ hubmap_id }} </td>
     </tr>
     <tr>
+        <td> Data Table </td>
+        <td> {{ page.url }}</td>
+    </tr>
+    <tr>
         <td> DOI </td>
         <td> <a href="{{ doi }}">{{doi}}</a> </td>
     </tr>
 </table>
+</div>

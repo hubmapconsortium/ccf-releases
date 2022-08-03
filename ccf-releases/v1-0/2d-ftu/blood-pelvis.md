@@ -1,8 +1,8 @@
 ---
 title: Blood Pelvis
 layout: layouts/anatomical_structure.njk
-release_version: v1.1
-model_type: asct-b
+release_version: v1.0
+model_type: 2d-ftu
 description: "[Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B)
   tables](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structure\
   s.html) aim to capture the nested *part_of* structure of anatomical human body
@@ -19,12 +19,12 @@ reviewers:
   - 0000-0003-4379-8967
   - 0000-0002-3882-457X
   - 0000-0001-7655-4833
-creation_date: 2022-05-06T04:00:00.000Z
+creation_date: 2022-05-06
 license: CC BY 4.0
 publisher: HuBMAP
-funder: National Institutes of Health
+funder: National Institute of Health
 award_number: OT2OD026671
 hubmap_id: HBM296.NBLN.233
-datatable: asct-b_vh_bm_blood_pelvis.csv
+datatable: asct-b_allen_brain.csv
 doi: https://doi.org/10.48539/HBM296.NBLN.233
 ---
