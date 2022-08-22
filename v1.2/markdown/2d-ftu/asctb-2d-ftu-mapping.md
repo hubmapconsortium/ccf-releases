@@ -1,4 +1,4 @@
-Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 2D Functional Tissue Unit (FTU) Reference Object Library Mapping
+# ASCT-B 2D FTU Mapping
 
 ### Description
 This lookup table maps [Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Table](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html) terms to anatomical structure and cell type terms used in the [CCF-2D-reference-object-library](https://github.com/hubmapconsortium/ccf-2d-reference-object-library).
