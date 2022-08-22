@@ -1,4 +1,4 @@
-# ASCT-B 3D Models Mapping
+# ASCT+B 3D Models Mapping
 
 ### Description
 This lookup table maps [Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Table](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html) terms to anatomical structure terms used in the [3D Reference Object Library](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html).
