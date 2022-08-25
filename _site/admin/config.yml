@@ -4,8 +4,8 @@ backend:
   repo: vaibhav201297/NetlifyCMS
 local_backend: true
 publish_mode: editorial_workflow
-media_folder: "_site/data/uploads"
-public_folder: "_site/data/uploads"
+media_folder: "data/uploads/"
+public_folder: "data/uploads/"
 collections:
   - name: "releases"
     label: "Releases"
@@ -45,25 +45,7 @@ collections:
       - { label: "Description", name: "description", widget: "string" }
     identifier_field: type
     folder: "models"
-
-  - name: pages
-    label: Pages
-    label_singular: 'Page'
-    folder: content/pages
-    create: true
-    # adding a nested object will show the collection folder structure
-    nested:
-      depth: 100 # max depth to show in the collection tree
-      # summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
-    fields:
-      - { label: "Model Type", name: "model_type", widget: "relation", collection: "models", search_fields: ["type"], value_field: "type", display_fields: ["type"]}
-    # adding a meta object with a path property allows editing the path of entries
-    # moving an existing entry will move the entire sub tree of the entry to the new location
-    meta: { path: { widget: relation, label: 'Path', index_file: 'index', collection: "releases", search_fields: ["title"], value_field: "title", display_fields: ["title"]} }
-       
-
-
-
+    
   - name: "anatomical_structures"
     label: "Anatomical Structures"
     create: true
@@ -76,7 +58,7 @@ collections:
       - { label: "Model Type", name: "model_type", widget: "relation", collection: "models", search_fields: ["type"], value_field: "type", display_fields: ["type"]}
       - { label: "Description", name: "description", widget: "markdown"}
       - { label: "Creator(s)", name: "creators", widget: "list", allow_add: true, collapsed: true, field: {label: "Creator", name: "creator", widget: "relation", collection: "individuals",collapsed: true, summary: "{{fields.creator}}", search_fields: ["individual.orcid"], value_field: "individual.orcid",display_fields: ["individual.first_name","individual.last_name","individual.orcid"]  }}
-      - { label: "Project Lead", name: "project_lead", widget: "relation",collection: "individuals", search_fields: ["individual.orcid"], value_field: "individual.orcid",display_fields: ["individual.first_name","individual.last_name","individual.orcid"]  } 
+      - { label: "Project Lead(s)", name: "project_leads", widget: "list", allow_add: true, collapsed: true,field: {label: "Project Lead", name: "project_lead", widget: "relation",collection: "individuals", search_fields: ["individual.orcid"], value_field: "individual.orcid",display_fields: ["individual.first_name","individual.last_name","individual.orcid"] }  } 
       - { label: "Reviewers(s)", name: "reviewers", widget: "list", allow_add: true, collapsed: true, field: {label: "Reviewer", name: "reviewer", widget: "relation", collection: "individuals", search_fields: ["individual.orcid"], value_field: "individual.orcid",display_fields: ["individual.first_name","individual.last_name","individual.orcid"]  }}
       - { label: "Creation Date", name: "creation_date", widget: "date", default: "", format: "YYYY-MM-DD"}
       - { label: "License", name: "license", widget: "select",options: [
@@ -87,9 +69,9 @@ collections:
       - { label: "Funder", name: "funder", widget: "string"}
       - { label: "Award Number", name: "award_number", widget: "string"}
       - { label: "HuBMAP ID", name: "hubmap_id", widget: "string"}
-      - { label: "Data Table", name: "datatable", widget: "file",media_library: {media_folder: "/data/uploads/" }}
+      - { label: "Data Table", name: "datatable", widget: "file",media_library: {media_folder: "../data/uploads/" }}
       - { label: "DOI", name: "doi", widget: "string"}
     identifier_field: title
     folder: "ccf-releases"  
     slug: "{{title}}"
-    path: "{{release_version}}/{{model_type}}/{{slug}}"
+    path: "{{release_version}}/docs/{{model_type}}/{{slug}}"

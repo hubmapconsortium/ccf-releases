@@ -2,8 +2,21 @@
 layout: layouts/base.njk
 permalink: /ccf-releases/ 
 ---
-<ul>
-{% for temp in collections.all %}
-    <li> <a href="{{ temp.url }}">{{ temp.url }}</a></li>
+{% set col=collections.releases | last %}
+{% set model_mappings = {"asct-b": "ASCT+B","2d-ftu":"2D Reference FTU","omap":"Organ Mapping Antibody Panels(OMAPs)","ref-organs": "3D Reference Organs"} %}
+<div class="container-sm" style="margin-left:20%;margin-top:2.5rem;background-color:#FFFFFF;padding:5%;box-shadow:rgb(0 0 0 / 14%) 0px 2px 2px 0px, rgb(0 0 0 / 20%) 0px 3px 1px -2px, rgb(0 0 0 / 12%) 0px 1px 5px 0px">
+<h1><b> Release {{ col.data.title}} DOI </b></h3> 
+<ul style="list-style-type: none;margin-left: 0;padding-left: 0;">
+{% for mod in collections.models | reverse %}
+    <h2><b> {{model_mappings[mod.data.type]}} Release {{col.data.title}} </b> </h2>
+    {% for temp in collections.anatomical_structures %}
+        {% if temp.data.model_type == mod.data.type %}
+
+        <li> <a href= "{{temp.url}}">{{ mod.data.type }}/{{ temp.fileSlug }}</a> </li>
+        {% endif %}
+    {% endfor %}
 {% endfor %}
+
+
 </ul>
+</div>
