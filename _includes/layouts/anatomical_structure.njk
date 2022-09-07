@@ -1,12 +1,12 @@
 ---
 layout: layouts/base.njk
-permalink: /{{ page.filePathStem | myFilter }}.html/
+permalink: /{{page.filePathStem | myFilter}}/{{ page.fileSlug}}.html
 ---
 <div class="container-md" style="margin-left:20%;margin-top:2.5rem;background-color:#FFFFFF;padding:5%;box-shadow:rgb(0 0 0 / 14%) 0px 2px 2px 0px, rgb(0 0 0 / 20%) 0px 3px 1px -2px, rgb(0 0 0 / 12%) 0px 1px 5px 0px">
 
 <h2><b> {{title}}</b> </h2>
 <h6> {{model_type}} </h6>
-
+<h6> {{datatable}} </h6>
 
 <h5> Description </h5> 
 <wc-markdown>
@@ -90,7 +90,7 @@ permalink: /{{ page.filePathStem | myFilter }}.html/
     </tr>
     <tr>
         <td> Data Table </td>
-        <td> {{ page.url }}</td>
+        <td> <a href="http://localhost:8080/{{model_type}}/{{datatable}}">{{datatable}}</a></td>
     </tr>
     <tr>
         <td> DOI </td>

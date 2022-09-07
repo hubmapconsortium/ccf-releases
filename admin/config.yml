@@ -12,11 +12,8 @@ collections:
     folder: "releases"
     create: true
     fields:
-      
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
-    
-  
   - name: "individuals"
     label: "Individuals"
     folder: "individuals"
@@ -35,7 +32,6 @@ collections:
       - {label: "ORCID", name: "orcid",widget: "string",hint: "16 digit ORCID",pattern: ['([0-9]{4})+(-)+([0-9]{4})+(-)+([0-9]{4})+(-)+([X-X0-9]{4})',"ORCID must be a 16 digit number with no alphabets except X"]}
     identifier_field: individual.orcid
     slug: "{{individual.first_name}}.{{individual.last_name}}"
-
   - name: "models"
     label: "Models"
     create: true
@@ -45,7 +41,6 @@ collections:
       - { label: "Description", name: "description", widget: "string" }
     identifier_field: type
     folder: "models"
-    
   - name: "anatomical_structures"
     label: "Anatomical Structures"
     create: true
@@ -69,9 +64,11 @@ collections:
       - { label: "Funder", name: "funder", widget: "string"}
       - { label: "Award Number", name: "award_number", widget: "string"}
       - { label: "HuBMAP ID", name: "hubmap_id", widget: "string"}
-      - { label: "Data Table", name: "datatable", widget: "file",media_library: {media_folder: "../data/uploads/" }}
+      - { label: "Data Table", name: "datatable", widget: "file",media_library: {media_folder: "../data/uploads/"}}
       - { label: "DOI", name: "doi", widget: "string"}
     identifier_field: title
     folder: "ccf-releases"  
     slug: "{{title}}"
     path: "{{release_version}}/docs/{{model_type}}/{{slug}}"
+
+    

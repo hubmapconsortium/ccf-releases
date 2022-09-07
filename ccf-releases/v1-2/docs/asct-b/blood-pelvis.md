@@ -17,15 +17,15 @@ project_leads:
 reviewers:
   - 0000-0002-9917-9092
   - 0000-0001-6302-5705
+  - 0000-0001-7655-4833
   - 0000-0003-4379-8967
   - 0000-0002-3882-457X
-  - 0000-0001-7655-4833
 creation_date: 2022-05-06
 license: CC BY 4.0
 publisher: HuBMAP
 funder: National Institute of Health
 award_number: OT2OD026671
 hubmap_id: HBM296.NBLN.233
-datatable: asct-b_vh_bm_blood_pelvis-7-.csv
+datatable: asct-b_vh_bm_blood_pelvis.csv
 doi: https://doi.org/10.48539/HBM296.NBLN.233
 ---
