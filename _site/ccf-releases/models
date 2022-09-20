@@ -4,8 +4,45 @@
         <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
         <script type="module" src="https://cdn.skypack.dev/@vanillawc/wc-markdown"></script>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+        
+        <style>
+            .main-header .main-logo {
+                max-width: 100%;
+                height: 64px;
+                display:flex;
+                align-content: flex-start;
+                align-items: center;
+                line-height: 0;
+                background-color: rgba(68, 76, 101, 1);
+            }
+            .logo{
+                margin-left:100%;;
+                height:24px;
+            }
+
+            footer {
+
+           display: block;
+           align-content: flex-start;
+           
+            }
+            .main-footer {
+                align-items: center;
+                text-align:center;
+            max-width: 100%;
+            margin: auto;
+            }
+        </style>
 
     </head>
+<header class = 'main-header'>
+<div class = 'main-logo'>
+    <a href="https://hubmapconsortium.github.io/ccf/">
+        <img src="../../../../img/logo-hubmap.svg" class = "logo">
+    </a>  
+</header>
+
+</div>
 <body style="background-color:rgba(250,250,250,1)">
 
 
@@ -18,4 +55,12 @@ layout: layouts/base.njk
 <p>  </p>
 </p>
 </body>
+<footer class ="main-footer">
+    <small>
+        ©
+         <script>new Date().getFullYear() > 2010 && document.write(new Date().getFullYear());</script>    
+         All Rights Reserved
+    </small>
+   
+</footer>
 </html>

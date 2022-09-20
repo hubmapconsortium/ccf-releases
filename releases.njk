@@ -12,7 +12,7 @@ permalink: /ccf-releases/
     {% for temp in collections.anatomical_structures %}
         {% if temp.data.model_type == mod.data.type %}
 
-        <li> <a href= "{{temp.url}}">{{ mod.data.type }}/{{ temp.fileSlug }}</a> </li>
+        <li> <a href= "{{temp.url}}">{{ mod.data.type }}/{{ temp.fileSlug }}.html</a> </li>
         {% endif %}
     {% endfor %}
 {% endfor %}
