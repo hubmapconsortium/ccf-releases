@@ -19,7 +19,7 @@ The OMAP kidney panel was designed for CODEX (CO Detection by IndEXing) of fresh
 | **Funder:** | National Institutes of Health and National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)|
 | **Award Number:** | OT2OD026671, UH3 CA246635, U54DK120058, T32ES00702, 1F32DK128887-01A1 |
 | **HuBMAP ID:** |HBM373.TBKP.375|
-| **Data Table:** | [Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Kidney with CODEX v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.2/omap/OMAP_Kidney_CODEX.csv)|
+| **Data Table:** | Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Kidney with CODEX v1.0 [CSV](https://hubmapconsortium.github.io/ccf-releases/v1.2/omap/OMAP_Kidney_CODEX.csv) [Excel](https://hubmapconsortium.github.io/ccf-releases/v1.2/omap/OMAP_Kidney_CODEX.xlsx) |
 | **DOI:** | [https://doi.org/10.48539/HBM373.TBKP.375](https://doi.org/10.48539/HBM373.TBKP.375) |
 | **How to Cite This Data Table:** |Elizabeth K. Neumann. Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Kidney with CODEX v1.0. [https://doi.org/10.48539/HBM373.TBKP.375](https://doi.org/10.48539/HBM373.TBKP.375)|
 | **How to Cite OMAP Tables Overall:** | Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo, Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021. “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for Multiplexed Antibody-Based Imaging.” *Nature Methods*, November. https://doi.org/10.1038/s41592-021-01316-y. |
