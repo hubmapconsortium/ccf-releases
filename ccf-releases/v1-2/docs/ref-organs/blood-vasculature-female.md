@@ -1,6 +1,5 @@
 ---
 title: Blood Vasculature Female
-layout: layouts/anatomical_structure.njk
 release_version: v1.2
 model_type: ref-organs
 description: "[This reference

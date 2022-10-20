@@ -1,6 +1,5 @@
 ---
 title: Blood Pelvis
-layout: layouts/anatomical_structure.njk
 release_version: v1.2
 model_type: asct-b
 description: "[Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B)
@@ -29,3 +28,5 @@ hubmap_id: HBM296.NBLN.233
 datatable: asct-b_vh_bm_blood_pelvis.csv
 doi: https://doi.org/10.48539/HBM296.NBLN.233
 ---
+
+

@@ -1,6 +1,5 @@
 ---
 title: Omap Kidney Codex
-layout: layouts/anatomical_structure.njk
 release_version: v1.2
 model_type: omap
 description: The OMAP kidney panel was designed for CODEX (CO Detection by

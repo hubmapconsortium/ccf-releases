@@ -1,0 +1,120 @@
+---
+layout: layouts/base.njk
+permalink: /{{release_version}}/docs/{{model_type}}/{{page.fileSlug}}.html
+---
+<div class="container-md" style="margin-left:20%;margin-top:2.5rem;background-color:#FFFFFF;padding:3%;box-shadow:rgb(0 0 0 / 14%) 0px 2px 2px 0px, rgb(0 0 0 / 20%) 0px 3px 1px -2px, rgb(0 0 0 / 12%) 0px 1px 5px 0px">
+
+
+
+<h2><b> Anatomical Structures, Cell Types, plus Biomarkers <br/>({{model_type | upper}}) table for  {{title}}</b> </h2>
+
+
+
+<h5> Description </h5> 
+<wc-markdown>
+  <script type="wc-content">
+   {{description}} 
+  </script>
+</wc-markdown>
+ 
+ <br/>
+
+<table class="table" >
+    <tr>
+        <th style="width:35%;">Label </th>
+        <th> Value </th>
+    </tr>
+    <tr>
+        <td> <b> Creators </b> </td>
+        <td>
+         {% for id in creators %}{% for ind in collections.individuals %}{% if ind.data.individual.orcid == id %}  
+        {{ ind.data.individual.first_name }}.{{ ind.data.individual.last_name }};  
+          {% endif %} 
+        {% endfor %}
+        {% endfor %}
+        </td>
+      
+        
+    </tr>
+    <tr>
+        <td> <b> Creator ORCID </b> </td>
+        <td> {% for id in creators %} <a href="https://orcid.org/{{id}}">{{id}}</a>; {% endfor %} </td>
+    </tr>
+    <tr>
+        <td> <b> Project Lead </b></td>
+        <td> 
+        {% for id in project_leads %}    
+            {% for ind in collections.individuals %}
+                {% if ind.data.individual.orcid == id %}  
+                    {{ ind.data.individual.first_name }}.{{ ind.data.individual.last_name }};  {% endif %} 
+            {% endfor %}
+        {% endfor %} </td>
+    </tr>
+   <tr>
+        <td> <b> Reviewer(s) </b> </td>
+        <td>
+         {% for id in reviewers %}
+            {% for ind in collections.individuals %}
+                {% if ind.data.individual.orcid == id %}  
+                    {{ ind.data.individual.first_name }}.{{ ind.data.individual.last_name }};  {% endif %} 
+            {% endfor %}
+        {% endfor %}
+        </td>
+        
+    </tr>
+
+    <tr>
+        <td> <b> Reviewer ORCID(s) </b> </td>
+        <td> {% for id in reviewers %} <a href="https://orcid.org/{{id}}">{{id}}</a>; {% endfor %} </td>
+    </tr>
+    <tr>
+        <td><b> Creation Date </b> </td>
+        <td> {{ creation_date.toISOString().split('T')[0] }} </td>
+    </tr>
+    <tr>
+        <td> <b> License </b> </td>
+        <td> {{ license }} </td>
+    </tr>
+    <tr>
+        <td> <b> Publisher </b></td>
+        <td> {{ publisher }} </td>
+    </tr>
+    <tr>
+        <td> <b> Funder </b> </td>
+        <td> {{ funder }} </td>
+    </tr>
+    <tr>
+        <td> <b> Award Number </b> </td>
+        <td> {{ award_number }} </td>
+    </tr>
+    <tr>
+        <td> <b> HuBMAP ID </b> </td>
+         <td> {{ hubmap_id }} </td> 
+    </tr>
+    <tr>
+        <td> <b> Data Table {{release_version}} </b> </td>
+        <td> <a href="/ccf-releases/{{release_version}}/{{model_type}}/{{datatable}}">{{datatable}}</a></td>
+    </tr>
+    <tr>
+        <td> <b> DOI </b> </td>
+        <td> <a href="{{ doi }}">{{doi}}</a> </td>
+    </tr>
+    <tr>
+        <td> <b> How to Cite This Data Table: </b></td>
+        <td> {% for id in creators %}
+                {% for ind in collections.individuals %}
+                    {% if ind.data.individual.orcid == id %}  
+                        {{ ind.data.individual.first_name }}.{{ ind.data.individual.last_name }};
+                    {% endif %} 
+                {% endfor %}
+            {% endfor %}
+            {{publisher}} {{model_type|upper}} <a href="{{ doi }}">{{doi}}</a>
+
+    </tr>
+    <tr>
+        <td> <b> How to Cite {{model_type | upper }} Tables Overall : </b> </td>
+        <td> Quardokus, Ellen M., Bruce W. Herr II, Lisel Record, Katy Börner. 2022. <a href="https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html"> {{publisher}} {{model_type | upper}} Tables, Accessed on {{creation_date.toISOString().split('T')[0]}} </a> </td>
+    </tr>
+
+</table>
+</div>

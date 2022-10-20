@@ -9,6 +9,7 @@ public_folder: "/images/uploads"
 
 
 collections:
+
   - name: "releases"
     label: "Releases"
     folder: "releases"
@@ -34,7 +35,6 @@ collections:
       - {label: "Middle Name", name: "middle_name", widget: "string", required: false}
       - {label: "Last Name", name: "last_name", widget: "string"}
       - {label: "ORCID", name: "orcid",widget: "string",hint: "16 digit ORCID",pattern: ['([0-9]{4})+(-)+([0-9]{4})+(-)+([0-9]{4})+(-)+([X-X0-9]{4})',"ORCID must be a 16 digit number with no alphabets except X"]}
-
     identifier_field:  individual.last_name
     slug: "{{individual.first_name}}.{{individual.last_name}}"
 
@@ -48,12 +48,13 @@ collections:
       - { label: "Description", name: "description", widget: "string" }
     identifier_field: type
     folder: "models"
+    
 
 
     
-  - name: "anatomical_structures"
-    label: "Anatomical Structures"
-    label_singular: "Anatomical Structure"
+  - name: "digital_objects"
+    label: "Digital Object"
+    label_singular: "Digital Object"
     create: true
     editor:
       preview: false
@@ -63,6 +64,7 @@ collections:
       - { label: "Model Type", name: "model_type", widget: "relation", collection: "models", search_fields: ["type"], value_field: "type", display_fields: ["type"]}
       - { label: "Description", name: "description", widget: "markdown"}
       - { label: "Creator(s)", name: "creators", widget: "list", allow_add: true, collapsed: true, field: {label: "Creator", name: "creator", widget: "relation", collection: "individuals",collapsed: true, summary: "{{fields.creator}}", search_fields: ["individual.orcid"], value_field: "individual.orcid",display_fields: ["individual.first_name","individual.last_name","individual.orcid"],options_length: 100  }}
+
       - { label: "Project Lead(s)", name: "project_leads", widget: "list", allow_add: true, collapsed: true,field: {label: "Project Lead", name: "project_lead", widget: "relation",collection: "individuals", search_fields: ["individual.orcid"], value_field: "individual.orcid",display_fields: ["individual.first_name","individual.last_name","individual.orcid"],options_length: 100  }  } 
       - { label: "Reviewers(s)", name: "reviewers", widget: "list", allow_add: true, collapsed: true, field: {label: "Reviewer", name: "reviewer", widget: "relation", collection: "individuals", search_fields: ["individual.orcid"], value_field: "individual.orcid",display_fields: ["individual.first_name","individual.last_name","individual.orcid"],options_length: 100   }}
       - { label: "Creation Date", name: "creation_date", widget: "date", default: "", format: "YYYY-MM-DD"}

@@ -1,6 +1,5 @@
 ---
 title: Blood Vasculature
-layout: layouts/anatomical_structure.njk
 release_version: v1.2
 model_type: asct-b
 description: '[Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B)
