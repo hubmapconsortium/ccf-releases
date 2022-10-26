@@ -38,9 +38,17 @@ var models=[];
     return releases;
   });
   
+  eleventyConfig.addFilter("get_year",function(value){
+    date = new Date(value)
+    return date.getYear()
+  });
 
-
-
+  eleventyConfig.addFilter("get_title", function(value){
+    return value.slice(value.indexOf("["),value.indexOf("]"))
+  });
+  eleventyConfig.addFilter("get_extension", function(value){
+    return value.slice(value.indexOf("."))
+  });
 
   eleventyConfig.addCollection("digital_objects", function(collectionApi) {
    return collectionApi.getFilteredByTag("digital_objects");    
