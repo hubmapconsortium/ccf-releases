@@ -16,5 +16,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id:  HBM946.SSFX.636 
+datatable: allen_m_brain.glb
 doi: https://doi.org/10.48539/HBM946.SSFX.636
 ---

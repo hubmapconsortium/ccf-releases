@@ -16,5 +16,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id:  HBM662.GMWC.569 
+datatable: vh_m_spleen.glb
 doi: https://doi.org/10.48539/HBM662.GMWC.569
 ---

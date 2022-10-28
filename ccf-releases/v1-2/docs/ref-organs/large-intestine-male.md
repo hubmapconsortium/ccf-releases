@@ -16,5 +16,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id:  HBM334.LVTH.937 
+datatable: sbu_m_intestine_large.glb
 doi: https://doi.org/10.48539/HBM334.LVTH.937
 ---

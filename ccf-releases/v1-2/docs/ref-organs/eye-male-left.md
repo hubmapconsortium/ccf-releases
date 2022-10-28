@@ -17,5 +17,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id:  HBM589.ZDVC.244 
+datatable: vh_m_eye_l.glb
 doi: https://doi.org/10.48539/HBM589.ZDVC.244
 ---

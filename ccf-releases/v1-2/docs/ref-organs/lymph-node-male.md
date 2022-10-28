@@ -15,5 +15,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id:  HBM299.VVXH.634 
+datatable: nih_m_lymph_node.glb
 doi: https://doi.org/10.48539/HBM299.VVXH.634
 ---

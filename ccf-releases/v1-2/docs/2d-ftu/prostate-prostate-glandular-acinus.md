@@ -15,5 +15,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id:  HBM523.TDCH.662 
+datatable: prostate_glandular_acinus_prostate.svg
 doi: https://doi.org/10.48539/HBM523.TDCH.662
 ---

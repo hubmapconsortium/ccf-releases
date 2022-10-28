@@ -15,5 +15,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id:  HBM344.CNNH.639 
+datatable: islets_langerhans_pancreas.svg
 doi: https://doi.org/10.48539/HBM344.CNNH.639
 ---

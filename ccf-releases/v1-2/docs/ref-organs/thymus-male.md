@@ -16,5 +16,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id:  HBM823.SNLN.667 
+datatable: vh_m_thymus.glb
 doi: https://doi.org/10.48539/HBM823.SNLN.667
 ---

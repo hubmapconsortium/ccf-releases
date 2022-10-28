@@ -16,5 +16,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id:  HBM983.RDXQ.667 
+datatable: vh_f_knee_r.glb
 doi: https://doi.org/10.48539/HBM983.RDXQ.667
 ---

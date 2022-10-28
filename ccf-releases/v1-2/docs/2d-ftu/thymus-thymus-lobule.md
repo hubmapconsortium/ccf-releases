@@ -16,5 +16,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id:  HBM794.PKVD.274 
+datatable: thymus_lobule_thymus.svg
 doi: https://doi.org/10.48539/HBM794.PKVD.274
 ---

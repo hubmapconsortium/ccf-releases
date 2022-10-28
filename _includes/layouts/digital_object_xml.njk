@@ -1,13 +1,13 @@
 ---
 permalink: /{{release_version}}/xml/{{page.fileSlug}}.xml
 --- 
-{% set model_mappings = {"asct-b": "ASCT+B","2d-ftu":"2D Reference FTU","omap":"Organ Mapping Antibody Panels(OMAPs)","ref-organs": "3D Reference Organs"} %}
+{% set model_mappings = {"asct-b":"ASCT+B","2d-ftu":"2D Reference FTU","omap":"Organ Mapping Antibody Panels(OMAPs)","ref-organs": "3D Reference Organs"} %}
 {% set resource_mappings = {"asct-b": "Dataset","2d-ftu":"Image","omap":"Dataset","ref-organs": "Model"} %}
-{% set resource_title_mappings = {"asct-b": "ASCT+B Tables","2d-ftu":"2D reference human organ FTU object","omap":"Organ Mapping Antibody Panel","ref-organs": "3D reference human organ model"} %}
-{% set cite_model_mappings = {"asct-b":"ASCT+B Tables", "2d-ftu":"2D Data","omap":"OMAP Tables","ref-organs":"3D Data"} %}
+{% set resource_title_mappings = {"asct-b": "ASCT+B Tables","2d-ftu":"2D reference human organ FTU object","omap":"Organ Mapping Antibody Panel","ref-organs":"3D reference human organ model"}  %}
+{% set cite_model_mappings = {"asct-b":"ASCT+B Tables","2d-ftu":"2D Data","omap":"OMAP Tables","ref-organs":"3D Data" }  %} 
 {% set license_mappings = {"CC BY 4.0":"Creative Commons Attribution 4.0 International (CC BY 4.0)","MIT":"MIT"} %}
-{% set award_mappings = {"OT2OD026671":"National Institutes of Health","NIH 5UH3CA246594-02":"National Institutes of Health (NIH) National Cancer Institute (NCI)","UH3 CA246635":"National Institutes of Health (NIH) National Cancer Institute (NCI)","UH3 CA246594-01":"National Institutes of Health (NIH) National Cancer Institute (NCI)",} %}
-
+{% set award_mappings = {"OT2OD026671":"National Institutes of Health","NIH 5UH3CA246594-02":"National Institutes of Health (NIH) National Cancer Institute (NCI)","UH3 CA246635":"National Institutes of Health (NIH) National Cancer Institute (NCI)","UH3 CA246594-01":"National Institutes of Health (NIH) National Cancer Institute (NCI)"} %}
+{% set orc_ind_dict =  collections.ind_orcids %}
 <?xml version="1.0" encoding="UTF-8"?>
 <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
 <identifier identifierType="DOI">{{doi}}</identifier>
@@ -16,52 +16,38 @@ permalink: /{{release_version}}/xml/{{page.fileSlug}}.xml
 </titles>
 <creators>
     {% for id in creators %}
-    
-        {% for ind in collections.individuals %}
-            {% if ind.data.individual.orcid == id %}  
-                <creatorName>{{ ind.data.individual.first_name }} {{ ind.data.individual.last_name }} </creatorName>
-                <givenName>  {{ ind.data.individual.first_name }} </givenName>
-                <familyName> {{ind.data.individual.last_name}} </familyName>
-                <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/{{id}}">{{id}}<nameIdentifier>
-                
-            {% endif %} 
-        {% endfor %}
+    <creatorName>{{orc_ind_dict[id]["fName"]}} {{orc_ind_dict[id]["lName"] }} </creatorName>
+    <givenName>  {{orc_ind_dict[id]["fName"]}} </givenName>
+    <familyName> {{orc_ind_dict[id]["lName"]}} </familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/{{id}}">{{id}}<nameIdentifier>
     {% endfor %}
 </creators>
 <publisher>{{publisher}}</publisher>
-<publicationYear> {{creation_date|}} </publicationYear>
-<resourceType resourceTypeGeneral="{{ resource_mappings[{{model_type}}]}}"> {{ resource_title_mappings[ {{ model_type }} ]}} </resourceType>
+<publicationYear> {{creation_date}} </publicationYear>
+<resourceType resourceTypeGeneral="{{resource_mappings[model_type]}}"> {{ resource_title_mappings[ model_type]}} </resourceType>
 <subjects>
     <subject> {{title}} {{release_version}} </subject>
 <subjects>
 <contributors>
-    {% for con in project_leads %}
-        {% for ind in collections.individuals %}
-            {% if ind.data.individual.orcid == id %}
-                <contributor contributorType="Project Leader">
-                    <contributorName> {{ ind.data.individual.first_name }} {{ ind.data.individual.last_name }} </contributorName>
-                    <givenName> {{ind.data.individual.first_name}} </givenName>
-                    <familyName> {{ind.data.individual.last_name}} </familyName>
-                    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"{{ id }}>{{ id }} </nameIdentifier>
-                </contributor>
-            {% endif %} 
-        {% endfor %}
+    {% for id in project_leads %}
+        <contributor contributorType="Project Leader">
+            <contributorName> {{ orc_ind_dict[id]["fName"] }} {{ orc_ind_dict[id]["fName"] }} </contributorName>
+            <givenName>{{orc_ind_dict[id]["fName"]}}</givenName>
+            <familyName>{{orc_ind_dict[id]["lName"]}}</familyName>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"{{ id }}>{{ id }} </nameIdentifier>
+        </contributor>
     {% endfor %}
-    {% for con in reviewers %}
-        {% for ind in collections.individuals %}
-            {% if ind.data.individual.orcid == id %}
-                <contributor contributorType="Other">
-                    <contributorName> {{ ind.data.individual.first_name }} {{ ind.data.individual.last_name }} </contributorName>
-                    <givenName> {{ind.data.individual.first_name}} </givenName>
-                    <familyName> {{ind.data.individual.last_name}} </familyName>
-                    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"{{ id }}>{{ id }} </nameIdentifier>
-                </contributor>
-            {% endif %} 
-        {% endfor %}
+    {% for id in reviewers %}
+        <contributor contributorType="Other">
+            <contributorName> {{ orc_ind_dict[id]["fName"] }} {{ orc_ind_dict[id]["lName"] }} </contributorName>
+            <givenName> {{orc_ind_dict[id]["fName"]}} </givenName>
+            <familyName> {{orc_ind_dict[id]["lName"]}} </familyName>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"{{ id }}>{{ id }} </nameIdentifier>
+        </contributor>   
     {% endfor %}
 </contributors>
 <dates>
-    <date dateType="Available"> {{creation_date | myDateFilter}}</date>
+    <date dateType="Available"> {{creation_date|myDateFilter}}</date>
 </dates>
 <descriptions>
     <description> {{description}} </description>
@@ -70,14 +56,7 @@ permalink: /{{release_version}}/xml/{{page.fileSlug}}.xml
 <alternateIdentfiers>
     <alternateIdentfier alternateIdentiferType = "HuBMAP ID"> {{hubmap_id}} </alternateIdentfier>
     <alternateIdentfier alternateIdentfierType = "How to Cite This Data Table">
-        {% for id in creators %}
-            {% for ind in collections.individuals %}
-                {% if ind.data.individual.orcid == id %}
-                    {{ ind.data.individual.first_name }} {{ ind.data.individual.last_name }},
-                {% endif %} 
-        {% endfor %}
-    {% endfor %}
-    {{publisher}} {{resource_title_mappings[model_type]}}. {{title}} {{release_version}} {{doi}}
+       {% for id in creators %}{% if orc_ind_dict[id]["fName"] != undefined %}{{ orc_ind_dict[id]["fName"]}}.{% endif %}{% if orc_ind_dict[id]["mName"] != undefined %}{{ orc_ind_dict[id]["mName"]}}.{% endif %}{% if orc_ind_dict[id]["lName"] != undefined %}{{ orc_ind_dict[id]["lName"]}}.{% endif %};{% endfor %},{{publisher}} {{resource_title_mappings[model_type]}}. {{title}} {{release_version}} {{doi}}
     </alternateIdentfier>
     <alternateIdentfier alternateIdentfierType="How to Cite {{cite_model_mappings[model_type]}} Overall" ></alternateIdentfier>
 </alternateIdentfiers>

@@ -2,6 +2,7 @@
 layout: layouts/base.njk
 permalink: /{{release_version}}/docs/{{model_type}}/{{page.fileSlug}}.html
 ---
+{% set orc_ind_dict =  collections.ind_orcids %}
 <div class="container-md" style="margin-left:20%;margin-top:2.5rem;background-color:#FFFFFF;padding:3%;box-shadow:rgb(0 0 0 / 14%) 0px 2px 2px 0px, rgb(0 0 0 / 20%) 0px 3px 1px -2px, rgb(0 0 0 / 12%) 0px 1px 5px 0px">
 <h2><b> Anatomical Structures, Cell Types, plus Biomarkers <br/>({{model_type | upper}}) table for  {{title}}</b> </h2>
 <h5> Description </h5> 
@@ -19,11 +20,7 @@ permalink: /{{release_version}}/docs/{{model_type}}/{{page.fileSlug}}.html
     <tr>
         <td> <b> Creators </b> </td>
         <td>
-         {% for id in creators %}{% for ind in collections.individuals %}{% if ind.data.individual.orcid == id %}  
-        {{ ind.data.individual.first_name }}.{{ ind.data.individual.last_name }};  
-          {% endif %} 
-        {% endfor %}
-        {% endfor %}
+         {% for id in creators %}{% if orc_ind_dict[id]["fName"] != undefined %}{{ orc_ind_dict[id]["fName"]}}.{% endif %}{% if orc_ind_dict[id]["mName"] != undefined %}{{ orc_ind_dict[id]["mName"]}}.{% endif %}{% if orc_ind_dict[id]["lName"] != undefined %}{{ orc_ind_dict[id]["lName"]}}.{% endif %};{% endfor %}
         </td>
     </tr>
     <tr>
@@ -33,23 +30,20 @@ permalink: /{{release_version}}/docs/{{model_type}}/{{page.fileSlug}}.html
     <tr>
         <td> <b> Project Lead </b></td>
         <td> 
-        {% for id in project_leads %}    
-            {% for ind in collections.individuals %}
-                {% if ind.data.individual.orcid == id %}  
-                    {{ ind.data.individual.first_name }}.{{ ind.data.individual.last_name }};  {% endif %} 
-            {% endfor %}
-        {% endfor %} </td>
+        {% for id in project_leads %}{% if orc_ind_dict[id]["fName"] != undefined %}{{ orc_ind_dict[id]["fName"]}}.{% endif %}{% if orc_ind_dict[id]["mName"] != undefined %}{{ orc_ind_dict[id]["mName"]}}.{% endif %}{% if orc_ind_dict[id]["lName"] != undefined %}{{ orc_ind_dict[id]["lName"]}}.{% endif %}{% endfor %} 
+        </td>
     </tr>
+    <tr>
+        <td> <b> Project Lead ORCID </b></td>
+        <td> 
+        {% for id in project_leads %}<a href="https://orcid.org/{{id}}">{{id}}</a>;{% endfor %} 
+        </td>
+    </tr>
+
    <tr>
         <td> <b> Reviewer(s) </b> </td>
         <td>
-         {% for id in reviewers %}
-            {% for ind in collections.individuals %}
-                {% if ind.data.individual.orcid == id %}  
-                    {{ ind.data.individual.first_name }}.{{ ind.data.individual.last_name }};  {% endif %} 
-            {% endfor %}
-        {% endfor %}
-        </td>
+         {% for id in reviewers %}{% if orc_ind_dict[id]["fName"] != undefined %}{{ orc_ind_dict[id]["fName"]}}.{% endif %}{% if orc_ind_dict[id]["mName"] != undefined %}{{ orc_ind_dict[id]["mName"]}}.{% endif %}{% if orc_ind_dict[id]["lName"] != undefined %}{{ orc_ind_dict[id]["lName"]}}.{% endif %};{% endfor %}</td>
     </tr>
     <tr>
         <td> <b> Reviewer ORCID(s) </b> </td>
@@ -86,8 +80,8 @@ permalink: /{{release_version}}/docs/{{model_type}}/{{page.fileSlug}}.html
          <td> {{ hubmap_id }} </td> 
     </tr>
     <tr>
-        <td> <b> Data Table {{release_version}} </b> </td>
-        <td> <a href="/ccf-releases/{{release_version}}/{{model_type}}/{{datatable|upper}}">{{datatable}}</a></td>
+        <td> <b> Data Table </b> </td>
+        <td> <a href="/{{release_version}}/{{model_type}}/{{datatable}}"> {{datatable}} </a></td>
     </tr>
     <tr>
         <td> <b> DOI </b> </td>
@@ -95,14 +89,7 @@ permalink: /{{release_version}}/docs/{{model_type}}/{{page.fileSlug}}.html
     </tr>
     <tr>
         <td> <b> How to Cite This Data Table: </b></td>
-        <td> {% for id in creators %}
-                {% for ind in collections.individuals %}
-                    {% if ind.data.individual.orcid == id %}  
-                        {{ ind.data.individual.first_name }}.{{ ind.data.individual.last_name }};
-                    {% endif %} 
-                {% endfor %}
-            {% endfor %}
-            {{publisher}} {{model_type|upper}} <a href="{{ doi }}">{{doi}}</a>
+        <td>{% for id in creators %}{% if orc_ind_dict[id]["fName"] != undefined %}{{ orc_ind_dict[id]["fName"]}}.{% endif %}{% if orc_ind_dict[id]["mName"] != undefined %}{{ orc_ind_dict[id]["mName"]}}.{% endif %}{% if orc_ind_dict[id]["lName"] != undefined %}{{ orc_ind_dict[id]["lName"]}}.{% endif %};{% endfor %} {{publisher}} {{model_type|upper}} <a href="{{ doi }}">{{doi}}</a>
 
     </tr>
     <tr>

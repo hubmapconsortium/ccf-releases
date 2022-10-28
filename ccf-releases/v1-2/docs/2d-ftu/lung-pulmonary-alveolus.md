@@ -15,5 +15,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id:  HBM626.KZVN.453 
+datatable: pulmonary_alveolus_lung.svg
 doi: https://doi.org/10.48539/HBM626.KZVN.453
 ---

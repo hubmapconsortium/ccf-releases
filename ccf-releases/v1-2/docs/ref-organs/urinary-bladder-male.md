@@ -16,5 +16,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id:  HBM934.DMHJ.898 
+datatable: vh_m_urinary_bladder.glb
 doi: https://doi.org/10.48539/HBM934.DMHJ.898
 ---

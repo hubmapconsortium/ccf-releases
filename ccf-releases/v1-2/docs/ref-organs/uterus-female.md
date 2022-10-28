@@ -17,5 +17,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id:  HBM228.JBNJ.299 
+datatable: vh_f_uterus.glb
 doi: https://doi.org/10.48539/HBM228.JBNJ.299
 ---

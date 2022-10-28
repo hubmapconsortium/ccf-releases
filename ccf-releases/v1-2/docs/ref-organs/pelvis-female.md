@@ -16,5 +16,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id:  HBM427.CCRP.887 
+datatable: vh_f_pelvis.glb
 doi: https://doi.org/10.48539/HBM427.CCRP.887
 ---

@@ -16,5 +16,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id:  HBM489.SGQZ.655 
+datatable: nephron_kidney.svg
 doi: https://doi.org/10.48539/HBM489.SGQZ.655
 ---

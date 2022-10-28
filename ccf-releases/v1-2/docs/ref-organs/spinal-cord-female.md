@@ -16,5 +16,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id:  HBM625.LDJN.633 
+datatable: vh_f_spinal_cord.glb
 doi: https://doi.org/10.48539/HBM625.LDJN.633
 ---

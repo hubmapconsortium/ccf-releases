@@ -16,5 +16,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id:  HBM992.BMVW.775 
+datatable: vh_m_pancreas.glb
 doi: https://doi.org/10.48539/HBM992.BMVW.775
 ---

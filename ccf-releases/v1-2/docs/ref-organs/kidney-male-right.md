@@ -17,5 +17,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id: HBM272.ZVPQ.979 
+datatable: vh_m_kidney_r.glb
 doi: https://doi.org/10.48539/HBM272.ZVPQ.979
 ---

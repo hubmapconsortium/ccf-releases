@@ -17,5 +17,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id:  HBM692.KXMT.939 
+datatable: liver_lobule_liver.svg
 doi: https://doi.org/10.48539/HBM692.KXMT.939
 ---

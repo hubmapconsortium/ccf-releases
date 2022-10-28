@@ -16,5 +16,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id:  HBM733.JCZJ.647 
+datatable: vh_f_lung.glb
 doi: https://doi.org/10.48539/HBM733.JCZJ.647
 ---

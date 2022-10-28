@@ -17,5 +17,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id:  HBM499.JLMB.357 
+datatable: vh_f_ovary_l.glb
 doi: https://doi.org/10.48539/HBM499.JLMB.357
 ---

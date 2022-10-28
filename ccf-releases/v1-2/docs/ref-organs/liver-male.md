@@ -18,5 +18,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id: HBM677.HVRF.764 
+datatable: vh_m_liver.glb
 doi: https://doi.org/10.48539/HBM677.HVRF.764
 ---

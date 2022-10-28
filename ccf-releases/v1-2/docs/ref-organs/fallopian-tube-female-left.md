@@ -17,5 +17,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id:  HBM887.HZKB.637 
+datatable: vh_f_fallopian_tube_l.glb
 doi: https://doi.org/10.48539/HBM887.HZKB.637
 ---

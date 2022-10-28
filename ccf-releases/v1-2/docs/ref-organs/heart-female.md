@@ -16,5 +16,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id:  HBM384.VWVH.465 
+datatable: vh_f_heart.glb
 doi: https://doi.org/10.48539/HBM384.VWVH.465
 ---

@@ -1,0 +1,79 @@
+ 
+
+
+
+ 
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">https://doi.org/10.48539/HBM875.FCDP.878</identifier>
+<titles>
+    <title> [This reference organ for Fallopian Tube Female Right.md v1.2  </title>
+</titles>
+<creators>
+    
+    <creatorName>Kristen Browne </creatorName>
+    <givenName>  Kristen </givenName>
+    <familyName> Browne </familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-4066-7531">0000-0003-4066-7531<nameIdentifier>
+    
+    <creatorName>Heidi Schlehlein </creatorName>
+    <givenName>  Heidi </givenName>
+    <familyName> Schlehlein </familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3333-5646">0000-0002-3333-5646<nameIdentifier>
+    
+</creators>
+<publisher>HuBMAP</publisher>
+<publicationYear> Thu May 05 2022 20:00:00 GMT-0400 (Eastern Daylight Time) </publicationYear>
+<resourceType resourceTypeGeneral="Model"> 3D reference human organ model </resourceType>
+<subjects>
+    <subject> Fallopian Tube Female Right.md v1.2 </subject>
+<subjects>
+<contributors>
+    
+        <contributor contributorType="Project Leader">
+            <contributorName> Katy Katy </contributorName>
+            <givenName>Katy</givenName>
+            <familyName>Börner</familyName>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0002-3321-6137>0000-0002-3321-6137 </nameIdentifier>
+        </contributor>
+    
+    
+        <contributor contributorType="Other">
+            <contributorName>   </contributorName>
+            <givenName>  </givenName>
+            <familyName>  </familyName>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0001-8854-5301>0000-0001-8854-5301 </nameIdentifier>
+        </contributor>   
+    
+        <contributor contributorType="Other">
+            <contributorName> Kathleen O&#39;Neill </contributorName>
+            <givenName> Kathleen </givenName>
+            <familyName> O&#39;Neill </familyName>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0003-1980-6840>0000-0003-1980-6840 </nameIdentifier>
+        </contributor>   
+    
+</contributors>
+<dates>
+    <date dateType="Available"> 05/05/2022</date>
+</dates>
+<descriptions>
+    <description> [This reference organ](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created using data from the Visible Human Female, provided by the National Library of Medicine. </description>
+</decsriptions>
+<language>EN</language>
+<alternateIdentfiers>
+    <alternateIdentfier alternateIdentiferType = "HuBMAP ID"> HBM875.FCDP.878 </alternateIdentfier>
+    <alternateIdentfier alternateIdentfierType = "How to Cite This Data Table">
+       Kristen.Browne.;Heidi.Schlehlein.;,HuBMAP 3D reference human organ model. Fallopian Tube Female Right.md v1.2 https://doi.org/10.48539/HBM875.FCDP.878
+    </alternateIdentfier>
+    <alternateIdentfier alternateIdentfierType="How to Cite 3D Data Overall" ></alternateIdentfier>
+</alternateIdentfiers>
+<formats>
+	<format> .glb </format>
+</formats>
+<rightsList>
+    <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0) </rights>
+</rightsList>
+</resource>

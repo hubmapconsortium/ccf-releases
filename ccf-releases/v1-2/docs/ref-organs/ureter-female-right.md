@@ -16,5 +16,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id:  HBM669.RFNC.442 
+datatable: vh_f_ureter_r.glb
 doi: https://doi.org/10.48539/HBM669.RFNC.442
 ---

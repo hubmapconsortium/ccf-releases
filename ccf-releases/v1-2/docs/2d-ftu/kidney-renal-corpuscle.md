@@ -16,5 +16,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id:  HBM395.LVFN.656 
+datatable: renal_corpuscle_kidney.svg
 doi: https://doi.org/10.48539/HBM395.LVFN.656
 ---

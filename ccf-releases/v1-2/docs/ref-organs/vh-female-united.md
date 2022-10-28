@@ -17,5 +17,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id:  HBM658.KHFL.229 
+datatable: vh_f_united.glb
 doi: https://doi.org/10.48539/HBM658.KHFL.229 
 ---

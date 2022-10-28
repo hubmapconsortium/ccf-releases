@@ -17,5 +17,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id:  HBM232.FSRK.728 
+datatable: vh_f_blood_vasculature.glb
 doi: https://doi.org/10.48539/HBM232.FSRK.728
 ---

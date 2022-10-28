@@ -16,5 +16,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id:  HBM373.JRGS.542 
+datatable: crypt_lieberkuhn_large_intestine.svg
 doi: https://doi.org/10.48539/HBM373.JRGS.542
 ---

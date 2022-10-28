@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "html" : "FILE_GEN=html npx eleventy --serve ",
-    "xml": "FILE_GEN=xml npx eleventy --serve"
+    "html": "FILE_GEN=html npx eleventy --serve",
+    "xml": "FILE_GEN=xml npx eleventy"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,7 @@
     "@11ty/eleventy": "^1.0.1"
   },
   "dependencies": {
+    "dayjs": "^1.11.6",
     "debug": "^4.3.4",
     "eleventy-xml-plugin": "^0.1.0",
     "markdown-it": "^13.0.1",
