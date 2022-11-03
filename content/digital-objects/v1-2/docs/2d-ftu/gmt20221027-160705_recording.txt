@@ -1,0 +1,24 @@
+00:16:54	Nils Gehlenborg:	(unavailable for the moment)
+00:19:59	Peter Kant:	All but Rahul … nice job folks -- thanks for prioritizing this meeting and our HRA focus!
+00:23:01	Peter Kant:	RDF = "Resource Description Framework"?
+00:28:38	Katy Borner:	+1 Data Validation. Many register into wrong organ (L/R). Tissue sections are not rotated correctly, section sequence is imperfect.
+00:32:37	Katy Borner:	+1 Driving use cases. KPMP has a good set of personas.
+00:36:00	Katy Borner:	@Jonathan Azimuth and HRA will need to have complete provenance. Will need to recompute those when new/better data becomes available.
+00:36:43	Jonathan Silverstein:	@Katy
+00:43:53	Katy Borner:	+1 Data Mart
+00:46:01	Katy Borner:	Like https://gtexportal.org/home/eui
+00:46:26	Jonathan Silverstein:	@Katy I was saying - yes- need some low frequency of recomputing what I call annotations (not the raw data or pipeline) such as azimuth and HRA mapped and image segments etc…is something in our very original designs of HIVE
+00:46:55	Katy Borner:	Details are in Specimen, Biological Structure, and Spatial Ontologies in Support of a Human Reference Atlas, https://biorxiv.org/cgi/content/short/2022.09.08.507220v1
+00:47:55	Jonathan Silverstein:	LOD cloud in some ways same as what CFDE doing (lod is kinda distributed graph based and CFDE kinda centralized Relational of similar thing)…we can do in more coordinations…
+00:48:26	Jonathan Silverstein:	I think it will be done at least twice (LOD and CFDE)
+00:49:37	Katy Borner:	Experimental data is used to construct the HRA. We must have complete provenance of all data use for HRA construction.
+00:51:25	Jonathan Silverstein:	There is another distinct priority we have as HIVE and CODCC to build the worlds approach to single cell data collections (so there are two distinct purposes - one is all data in depth for comp bio and the other is creating a summarization of the high quality truths - both are for discovery…)
+00:53:09	Katy Borner:	@Jonathan EXACTLY. We need to support spatial search for single cells based on queries for Bs (gene, protein, lipids). See also Mission Statement.
+00:54:30	Jonathan Silverstein:	These two purposes are not in conflict but there are substantial API and interface aspects that are redundant in both scenarios - recognizing the overlaps and building those overlapping pieces  together seems to be a challenge and a need
+00:55:56	Jonathan Silverstein:	For example, the same query/API to operate for ‘all HuBMAP’, selected set or HRA data would be powerful
+01:02:11	Peter Kant:	Meeting schedule / availability: https://docs.google.com/spreadsheets/d/1HQyKJxehJuNH4mfXWaO9bU9Yw2hIQ8Ro5OUrBTpMJbk/edit#gid=572702356
+01:07:25	Katy Borner:	Nils/Phil, please see https://docs.google.com/document/d/1iGHHWfIUIT8dy-fhrb8_p3Q5_xVWvs8fAt1DEPCwLkA/edit#heading=h.nfvieb5lo3ew
+01:08:21	Katy Borner:	Mission Statement: https://docs.google.com/document/d/12dia8YtzTCKH_W8sHA4nOoEARVe4bwAn-oKAXfem_wU/edit#
+01:10:23	Philip Blood:	Gotta run, thanks all
+01:10:50	Matt Ruffalo:	Me too, thanks!
+01:11:10	Katy Borner:	need to leave.
