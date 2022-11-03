@@ -10,7 +10,7 @@
 <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
 <identifier identifierType="DOI">https://doi.org/10.48539/HBM437.JQVC.953</identifier>
 <titles>
-    <title> [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables for Lymph Node.md v1.2  </title>
+    <title> [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables for lymph-node v1.2  </title>
 </titles>
 <creators>
     
@@ -34,43 +34,43 @@
 <publicationYear> Wed May 05 2021 20:00:00 GMT-0400 (Eastern Daylight Time) </publicationYear>
 <resourceType resourceTypeGeneral="Dataset"> ASCT+B Tables </resourceType>
 <subjects>
-    <subject> Lymph Node.md v1.2 </subject>
+    <subject> lymph-node v1.2 </subject>
 <subjects>
 <contributors>
     
         <contributor contributorType="Project Leader">
             <contributorName> Katy Katy </contributorName>
             <givenName>Katy</givenName>
-            <familyName>Börner</familyName>
+            <familyName>Borner</familyName>
             <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0002-3321-6137>0000-0002-3321-6137 </nameIdentifier>
         </contributor>
     
     
         <contributor contributorType="Other">
-            <contributorName>   </contributorName>
-            <givenName>  </givenName>
-            <familyName>  </familyName>
+            <contributorName> Clive Wasserfall </contributorName>
+            <givenName> Clive </givenName>
+            <familyName> Wasserfall </familyName>
             <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0002-3522-8932>0000-0002-3522-8932 </nameIdentifier>
         </contributor>   
     
         <contributor contributorType="Other">
-            <contributorName>   </contributorName>
-            <givenName>  </givenName>
-            <familyName>  </familyName>
+            <contributorName> Elaine Jaffe </contributorName>
+            <givenName> Elaine </givenName>
+            <familyName> Jaffe </familyName>
             <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0003-4632-0301>0000-0003-4632-0301 </nameIdentifier>
         </contributor>   
     
         <contributor contributorType="Other">
-            <contributorName>   </contributorName>
-            <givenName>  </givenName>
-            <familyName>  </familyName>
+            <contributorName> Stefania Pittaluga </contributorName>
+            <givenName> Stefania </givenName>
+            <familyName> Pittaluga </familyName>
             <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0001-7688-1439>0000-0001-7688-1439 </nameIdentifier>
         </contributor>   
     
         <contributor contributorType="Other">
-            <contributorName>   </contributorName>
-            <givenName>  </givenName>
-            <familyName>  </familyName>
+            <contributorName> Robert Seifert </contributorName>
+            <givenName> Robert </givenName>
+            <familyName> Seifert </familyName>
             <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0002-4404-8116>0000-0002-4404-8116 </nameIdentifier>
         </contributor>   
     
@@ -92,7 +92,7 @@
 <alternateIdentfiers>
     <alternateIdentfier alternateIdentiferType = "HuBMAP ID"> HBM437.JQVC.953 </alternateIdentfier>
     <alternateIdentfier alternateIdentfierType = "How to Cite This Data Table">
-       Marda.Jorgensen.;Andrea.J.Radtke.;Natalie.Rodriguez.;,HuBMAP ASCT+B Tables. Lymph Node.md v1.2 https://doi.org/10.48539/HBM437.JQVC.953
+       Marda.Jorgensen.;Andrea.J..Radtke.;Natalie.Rodriguez.;,HuBMAP ASCT+B Tables. lymph-node v1.2 https://doi.org/10.48539/HBM437.JQVC.953
     </alternateIdentfier>
     <alternateIdentfier alternateIdentfierType="How to Cite ASCT+B Tables Overall" ></alternateIdentfier>
 </alternateIdentfiers>

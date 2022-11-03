@@ -1,6 +1,9 @@
 ---
-title: Bone Marrow Pelvis.md
+title: bone-marrow-pelvis
 release_version: v1.2
+hra_release_version:
+  - v1.1
+  - v1.2
 model_type: asct-b
 description: '[Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html) aim to capture the nested *part_of* structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts.'
 creators:
@@ -21,6 +24,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id:  HBM449.NWVK.668 
-datatable: asct-b_vh_bonemarrow_pelvis.csv
+datatable: ASCT-B_VH_BoneMarrow_Pelvis.csv
 doi: https://doi.org/10.48539/HBM449.NWVK.668
 ---

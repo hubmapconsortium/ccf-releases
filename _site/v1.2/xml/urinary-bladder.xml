@@ -10,7 +10,7 @@
 <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
 <identifier identifierType="DOI">https://doi.org/10.48539/HBM546.CKGW.888</identifier>
 <titles>
-    <title> [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables for Urinary Bladder.md v1.2  </title>
+    <title> [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables for urinary-bladder v1.2  </title>
 </titles>
 <creators>
     
@@ -29,14 +29,14 @@
 <publicationYear> Tue Nov 30 2021 19:00:00 GMT-0500 (Eastern Standard Time) </publicationYear>
 <resourceType resourceTypeGeneral="Dataset"> ASCT+B Tables </resourceType>
 <subjects>
-    <subject> Urinary Bladder.md v1.2 </subject>
+    <subject> urinary-bladder v1.2 </subject>
 <subjects>
 <contributors>
     
         <contributor contributorType="Project Leader">
             <contributorName> Katy Katy </contributorName>
             <givenName>Katy</givenName>
-            <familyName>Börner</familyName>
+            <familyName>Borner</familyName>
             <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0002-3321-6137>0000-0002-3321-6137 </nameIdentifier>
         </contributor>
     
@@ -59,7 +59,7 @@
 <alternateIdentfiers>
     <alternateIdentfier alternateIdentiferType = "HuBMAP ID"> HBM546.CKGW.888 </alternateIdentfier>
     <alternateIdentfier alternateIdentfierType = "How to Cite This Data Table">
-       Douglas.Strand.;Sanjay.Jain.;,HuBMAP ASCT+B Tables. Urinary Bladder.md v1.2 https://doi.org/10.48539/HBM546.CKGW.888
+       Douglas.Strand.;Sanjay.Jain.;,HuBMAP ASCT+B Tables. urinary-bladder v1.2 https://doi.org/10.48539/HBM546.CKGW.888
     </alternateIdentfier>
     <alternateIdentfier alternateIdentfierType="How to Cite ASCT+B Tables Overall" ></alternateIdentfier>
 </alternateIdentfiers>

@@ -10,7 +10,7 @@
 <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
 <identifier identifierType="DOI">https://doi.org/10.48539/HBM692.KXMT.939</identifier>
 <titles>
-    <title> [Liver v1.0 for Liver Liver Lobule.md v1.2  </title>
+    <title> [Liver v1.0 for liver-liver-lobule v1.2  </title>
 </titles>
 <creators>
     
@@ -24,29 +24,29 @@
 <publicationYear> Thu May 05 2022 20:00:00 GMT-0400 (Eastern Daylight Time) </publicationYear>
 <resourceType resourceTypeGeneral="Image"> 2D reference human organ FTU object </resourceType>
 <subjects>
-    <subject> Liver Liver Lobule.md v1.2 </subject>
+    <subject> liver-liver-lobule v1.2 </subject>
 <subjects>
 <contributors>
     
         <contributor contributorType="Project Leader">
             <contributorName> Katy Katy </contributorName>
             <givenName>Katy</givenName>
-            <familyName>Börner</familyName>
+            <familyName>Borner</familyName>
             <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0002-3321-6137>0000-0002-3321-6137 </nameIdentifier>
         </contributor>
     
     
         <contributor contributorType="Other">
-            <contributorName>   </contributorName>
-            <givenName>  </givenName>
-            <familyName>  </familyName>
+            <contributorName> Anna Masci </contributorName>
+            <givenName> Anna </givenName>
+            <familyName> Masci </familyName>
             <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0003-1940-6740>0000-0003-1940-6740 </nameIdentifier>
         </contributor>   
     
         <contributor contributorType="Other">
-            <contributorName>   </contributorName>
-            <givenName>  </givenName>
-            <familyName>  </familyName>
+            <contributorName> Tim Kendall </contributorName>
+            <givenName> Tim </givenName>
+            <familyName> Kendall </familyName>
             <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0002-4174-2786>0000-0002-4174-2786 </nameIdentifier>
         </contributor>   
     
@@ -68,7 +68,7 @@
 <alternateIdentfiers>
     <alternateIdentfier alternateIdentiferType = "HuBMAP ID"> HBM692.KXMT.939 </alternateIdentfier>
     <alternateIdentfier alternateIdentfierType = "How to Cite This Data Table">
-       Rachel.Bajema.;,HuBMAP 2D reference human organ FTU object. Liver Liver Lobule.md v1.2 https://doi.org/10.48539/HBM692.KXMT.939
+       Rachel.Bajema.;,HuBMAP 2D reference human organ FTU object. liver-liver-lobule v1.2 https://doi.org/10.48539/HBM692.KXMT.939
     </alternateIdentfier>
     <alternateIdentfier alternateIdentfierType="How to Cite 2D Data Overall" ></alternateIdentfier>
 </alternateIdentfiers>

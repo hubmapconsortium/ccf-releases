@@ -10,7 +10,7 @@
 <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
 <identifier identifierType="DOI">https://doi.org/10.48539/HBM736.PJQV.368</identifier>
 <titles>
-    <title> [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables for Small Intestine.md v1.2  </title>
+    <title> [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables for small-intestine v1.2  </title>
 </titles>
 <creators>
     
@@ -24,14 +24,14 @@
 <publicationYear> Tue Nov 30 2021 19:00:00 GMT-0500 (Eastern Standard Time) </publicationYear>
 <resourceType resourceTypeGeneral="Dataset"> ASCT+B Tables </resourceType>
 <subjects>
-    <subject> Small Intestine.md v1.2 </subject>
+    <subject> small-intestine v1.2 </subject>
 <subjects>
 <contributors>
     
         <contributor contributorType="Project Leader">
             <contributorName> Katy Katy </contributorName>
             <givenName>Katy</givenName>
-            <familyName>Börner</familyName>
+            <familyName>Borner</familyName>
             <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0002-3321-6137>0000-0002-3321-6137 </nameIdentifier>
         </contributor>
     
@@ -54,7 +54,7 @@
 <alternateIdentfiers>
     <alternateIdentfier alternateIdentiferType = "HuBMAP ID"> HBM736.PJQV.368 </alternateIdentfier>
     <alternateIdentfier alternateIdentfierType = "How to Cite This Data Table">
-       Teri.Longacre.;,HuBMAP ASCT+B Tables. Small Intestine.md v1.2 https://doi.org/10.48539/HBM736.PJQV.368
+       Teri.A..Longacre.;,HuBMAP ASCT+B Tables. small-intestine v1.2 https://doi.org/10.48539/HBM736.PJQV.368
     </alternateIdentfier>
     <alternateIdentfier alternateIdentfierType="How to Cite ASCT+B Tables Overall" ></alternateIdentfier>
 </alternateIdentfiers>

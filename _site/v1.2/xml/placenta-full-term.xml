@@ -10,18 +10,18 @@
 <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
 <identifier identifierType="DOI">https://doi.org/10.48539/HBM446.WGLG.755</identifier>
 <titles>
-    <title> [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables for Placenta Full Term.md v1.2  </title>
+    <title> [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables for placenta-full-term v1.2  </title>
 </titles>
 <creators>
     
-    <creatorName>  </creatorName>
-    <givenName>   </givenName>
-    <familyName>  </familyName>
+    <creatorName>Louise Laurent </creatorName>
+    <givenName>  Louise </givenName>
+    <familyName> Laurent </familyName>
     <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-2095-7534">0000-0002-2095-7534<nameIdentifier>
     
-    <creatorName>  </creatorName>
-    <givenName>   </givenName>
-    <familyName>  </familyName>
+    <creatorName>Mana Parast </creatorName>
+    <givenName>  Mana </givenName>
+    <familyName> Parast </familyName>
     <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/000-0001-5963-2246">000-0001-5963-2246<nameIdentifier>
     
     <creatorName>Kathleen Fisch </creatorName>
@@ -34,14 +34,14 @@
 <publicationYear> Thu May 05 2022 20:00:00 GMT-0400 (Eastern Daylight Time) </publicationYear>
 <resourceType resourceTypeGeneral="Dataset"> ASCT+B Tables </resourceType>
 <subjects>
-    <subject> Placenta Full Term.md v1.2 </subject>
+    <subject> placenta-full-term v1.2 </subject>
 <subjects>
 <contributors>
     
         <contributor contributorType="Project Leader">
             <contributorName> Katy Katy </contributorName>
             <givenName>Katy</givenName>
-            <familyName>Börner</familyName>
+            <familyName>Borner</familyName>
             <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0002-3321-6137>0000-0002-3321-6137 </nameIdentifier>
         </contributor>
     
@@ -64,7 +64,7 @@
 <alternateIdentfiers>
     <alternateIdentfier alternateIdentiferType = "HuBMAP ID"> HBM446.WGLG.755 </alternateIdentfier>
     <alternateIdentfier alternateIdentfierType = "How to Cite This Data Table">
-       ;;Kathleen.Fisch.;,HuBMAP ASCT+B Tables. Placenta Full Term.md v1.2 https://doi.org/10.48539/HBM446.WGLG.755
+       Louise.Laurent.;Mana.Parast.;Kathleen.Fisch.;,HuBMAP ASCT+B Tables. placenta-full-term v1.2 https://doi.org/10.48539/HBM446.WGLG.755
     </alternateIdentfier>
     <alternateIdentfier alternateIdentfierType="How to Cite ASCT+B Tables Overall" ></alternateIdentfier>
 </alternateIdentfiers>

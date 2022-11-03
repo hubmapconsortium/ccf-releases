@@ -49,8 +49,6 @@ collections:
     identifier_field: type
     folder: "models"
     
-
-
     
   - name: "digital_objects"
     label: "Digital Object"
@@ -61,6 +59,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Release Version", name: "release_version", widget: "relation", collection: "releases", search_fields: ["title"], value_field: "title", display_fields: ["title"]}
+      - { label: "HRA Release_versions", name: "hra_release_versions",  widget: "list" ,allow_add: true, collapsed: true, field: {label: "HRA_release_version",name: "HRA_release_version", widget: "relation",summary: "{{fields.HRA_Release_version}}", search_fields: ["title"],display_fields: ["title"],collection: "releases", value_field: "title" },collection: "releases", options_length: 100, 
+        }
       - { label: "Model Type", name: "model_type", widget: "relation", collection: "models", search_fields: ["type"], value_field: "type", display_fields: ["type"]}
       - { label: "Description", name: "description", widget: "markdown"}
       - { label: "Creator(s)", name: "creators", widget: "list", allow_add: true, collapsed: true, field: {label: "Creator", name: "creator", widget: "relation", collection: "individuals",collapsed: true, summary: "{{fields.creator}}", search_fields: ["individual.orcid"], value_field: "individual.orcid",display_fields: ["individual.first_name","individual.last_name","individual.orcid"],options_length: 100  }}

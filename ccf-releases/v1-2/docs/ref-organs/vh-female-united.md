@@ -1,6 +1,8 @@
 ---
-title: Vh Female United.md
+title: vh-female-united
 release_version: v1.2
+hra_release_version:
+  - v1.2
 model_type: ref-organs
 description: '[This reference organ set](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created using data from the Visible Human Female, provided by the National Library of Medicine.'
 creators:
@@ -17,6 +19,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id:  HBM658.KHFL.229 
-datatable: vh_f_united.glb
+datatable: VH_F_United.glb
 doi: https://doi.org/10.48539/HBM658.KHFL.229 
 ---

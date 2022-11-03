@@ -1,6 +1,9 @@
 ---
-title: Large Intestine Female.md
+title: large-intestine-female
 release_version: v1.2
+hra_release_version:
+  - v1.1
+  - v1.2
 model_type: ref-organs
 description: '[This reference organ](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created using data provided by Arie Kaufman, Stony Brook University as a base for a custom model built using Pixelogic Zbrush.'
 creators:
@@ -16,6 +19,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id:  HBM637.SRWT.828 
-datatable: sbu_f_intestine_large.glb
+datatable: SBU_F_Intestine_Large.glb
 doi: https://doi.org/10.48539/HBM637.SRWT.828
 ---

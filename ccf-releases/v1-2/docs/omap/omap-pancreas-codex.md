@@ -1,6 +1,8 @@
 ---
-title: Omap Pancreas Codex.md
+title: omap-pancreas-codex
 release_version: v1.2
+hra_release_version:
+  - v1.2
 model_type: omap
 description: 'The OMAP Pancreas  panel was designed for CODEX (CO Detection by IndEXing) imaging of Formalin-Fixed Paraffin-Embedded (FFPE) human pancreas samples.'
 creators:
@@ -20,6 +22,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health (NIH), National Institute of Allergy and Infectious Disease and National Cancer Institute, European Union (EU) Expression and Spatial analysis Pancreas Atlas Consortium Europe (ESPACE)
 award_number:  OT2OD026671, UH3 CA246635
 hubmap_id:  HBM395.LXKX.734 
-datatable: omap_pancreas_codex.csv
+datatable: OMAP_Pancreas_CODEX.csv
 doi: https://doi.org/10.48539/HBM395.LXKX.734
 ---

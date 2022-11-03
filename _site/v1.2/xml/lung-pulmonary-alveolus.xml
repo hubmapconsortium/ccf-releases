@@ -10,7 +10,7 @@
 <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
 <identifier identifierType="DOI">https://doi.org/10.48539/HBM626.KZVN.453</identifier>
 <titles>
-    <title> [Lung v1.1 for Lung Pulmonary Alveolus.md v1.2  </title>
+    <title> [Lung v1.1 for lung-pulmonary-alveolus v1.2  </title>
 </titles>
 <creators>
     
@@ -24,14 +24,14 @@
 <publicationYear> Thu May 05 2022 20:00:00 GMT-0400 (Eastern Daylight Time) </publicationYear>
 <resourceType resourceTypeGeneral="Image"> 2D reference human organ FTU object </resourceType>
 <subjects>
-    <subject> Lung Pulmonary Alveolus.md v1.2 </subject>
+    <subject> lung-pulmonary-alveolus v1.2 </subject>
 <subjects>
 <contributors>
     
         <contributor contributorType="Project Leader">
             <contributorName> Katy Katy </contributorName>
             <givenName>Katy</givenName>
-            <familyName>Börner</familyName>
+            <familyName>Borner</familyName>
             <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0002-3321-6137>0000-0002-3321-6137 </nameIdentifier>
         </contributor>
     
@@ -54,7 +54,7 @@
 <alternateIdentfiers>
     <alternateIdentfier alternateIdentiferType = "HuBMAP ID"> HBM626.KZVN.453 </alternateIdentfier>
     <alternateIdentfier alternateIdentfierType = "How to Cite This Data Table">
-       Rachel.Bajema.;,HuBMAP 2D reference human organ FTU object. Lung Pulmonary Alveolus.md v1.2 https://doi.org/10.48539/HBM626.KZVN.453
+       Rachel.Bajema.;,HuBMAP 2D reference human organ FTU object. lung-pulmonary-alveolus v1.2 https://doi.org/10.48539/HBM626.KZVN.453
     </alternateIdentfier>
     <alternateIdentfier alternateIdentfierType="How to Cite 2D Data Overall" ></alternateIdentfier>
 </alternateIdentfiers>

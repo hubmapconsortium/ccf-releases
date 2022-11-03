@@ -1,6 +1,9 @@
 ---
-title: Blood Vasculature Female.md
+title: blood-vasculature-female
 release_version: v1.2
+hra_release_version:
+  - v1.1
+  - v1.2
 model_type: ref-organs
 description: '[This reference organ](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created using data from the Visible Human Female, provided by the National Library of Medicine.'
 creators:
@@ -17,6 +20,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id:  HBM232.FSRK.728 
-datatable: vh_f_blood_vasculature.glb
+datatable: VH_F_Blood_Vasculature.glb
 doi: https://doi.org/10.48539/HBM232.FSRK.728
 ---

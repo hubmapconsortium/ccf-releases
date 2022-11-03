@@ -1,6 +1,9 @@
 ---
-title: Large Intestine.md
+title: large-intestine
 release_version: v1.2
+hra_release_version:
+  - v1.1
+  - v1.2
 model_type: asct-b
 description: '[Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html) aim to capture the nested *part_of* structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts.'
 creators:
@@ -19,6 +22,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id:  HBM494.RRLD.598 
-datatable: asct-b_vh_large_intestine.csv
+datatable: ASCT-B_VH_Large_Intestine.csv
 doi: https://doi.org/10.48539/HBM494.RRLD.598
 ---

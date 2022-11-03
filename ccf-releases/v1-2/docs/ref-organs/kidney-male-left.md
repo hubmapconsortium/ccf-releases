@@ -1,6 +1,10 @@
 ---
-title: Kidney Male Left.md
+title: kidney-male-left
 release_version: v1.2
+hra_release_version:
+  - v1.0
+  - v1.1
+  - v1.2
 model_type: ref-organs
 description: '[This reference organ](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created using data from the Visible Human Male, provided by the National Library of Medicine. Changes include removing the renal calyces and renal papillae and adding them to the ureter model per subject matter expert input. '
 creators:
@@ -17,6 +21,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id:  HBM562.JGPS.244 
-datatable: vh_m_kidney_l.glb
+datatable: VH_M_Kidney_L.glb
 doi: https://doi.org/10.48539/HBM562.JGPS.244
 ---

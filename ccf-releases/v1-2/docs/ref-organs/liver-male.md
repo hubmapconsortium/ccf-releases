@@ -1,6 +1,9 @@
 ---
-title: Liver Male.md
+title: liver-male
 release_version: v1.2
+hra_release_version:
+  - v1.1
+  - v1.2
 model_type: ref-organs
 description: '[This reference organ](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created using data from the Visible Human Male, provided by the National Library of Medicine.'
 creators:
@@ -18,6 +21,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id: HBM677.HVRF.764 
-datatable: vh_m_liver.glb
+datatable: VH_M_Liver.glb
 doi: https://doi.org/10.48539/HBM677.HVRF.764
 ---

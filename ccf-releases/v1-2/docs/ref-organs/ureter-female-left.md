@@ -1,6 +1,9 @@
 ---
-title: Ureter Female Left.md
+title: ureter-female-left
 release_version: v1.2
+hra_release_version:
+  - v1.1
+  - v1.2
 model_type: ref-organs
 description: '[This reference organ](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created using data from the Visible Human Female, provided by the National Library of Medicine. Changes include adding the renal calyces and renal papillae from the kidney model per subject matter expert  input.'
 creators:
@@ -16,6 +19,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id:  HBM923.WCQQ.623 
-datatable: vh_f_ureter_l.glb
+datatable: VH_F_Ureter_L.glb
 doi: https://doi.org/10.48539/HBM923.WCQQ.623
 ---

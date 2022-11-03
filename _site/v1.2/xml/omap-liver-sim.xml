@@ -10,33 +10,33 @@
 <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
 <identifier identifierType="DOI">https://doi.org/10.48539/HBM279.BTBC.847</identifier>
 <titles>
-    <title> [ASCT+B liver table v1.0 for Omap Liver Sim.md v1.2  </title>
+    <title> [ASCT+B liver table v1.0 for omap-liver-sim v1.2  </title>
 </titles>
 <creators>
     
-    <creatorName>  </creatorName>
-    <givenName>   </givenName>
-    <familyName>  </familyName>
+    <creatorName>Hua Tian </creatorName>
+    <givenName>  Hua </givenName>
+    <familyName> Tian </familyName>
     <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3598-0219">0000-0002-3598-0219<nameIdentifier>
     
-    <creatorName>  </creatorName>
-    <givenName>   </givenName>
-    <familyName>  </familyName>
+    <creatorName>Presha Rajbhandari </creatorName>
+    <givenName>  Presha </givenName>
+    <familyName> Rajbhandari </familyName>
     <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-2184-7238">0000-0003-2184-7238<nameIdentifier>
     
-    <creatorName>  </creatorName>
-    <givenName>   </givenName>
-    <familyName>  </familyName>
+    <creatorName>Taruna Neelakantan </creatorName>
+    <givenName>  Taruna </givenName>
+    <familyName> Neelakantan </familyName>
     <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-2222-4630">0000-0003-2222-4630<nameIdentifier>
     
-    <creatorName>  </creatorName>
-    <givenName>   </givenName>
-    <familyName>  </familyName>
+    <creatorName>Aubrianna Decker </creatorName>
+    <givenName>  Aubrianna </givenName>
+    <familyName> Decker </familyName>
     <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-0646-1815">0000-0002-0646-1815<nameIdentifier>
     
-    <creatorName>  </creatorName>
-    <givenName>   </givenName>
-    <familyName>  </familyName>
+    <creatorName>Brent Stockwell </creatorName>
+    <givenName>  Brent </givenName>
+    <familyName> Stockwell </familyName>
     <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3532-3868">0000-0002-3532-3868<nameIdentifier>
     
 </creators>
@@ -44,7 +44,7 @@
 <publicationYear> Thu May 05 2022 20:00:00 GMT-0400 (Eastern Daylight Time) </publicationYear>
 <resourceType resourceTypeGeneral="Dataset"> Organ Mapping Antibody Panel </resourceType>
 <subjects>
-    <subject> Omap Liver Sim.md v1.2 </subject>
+    <subject> omap-liver-sim v1.2 </subject>
 <subjects>
 <contributors>
     
@@ -58,7 +58,7 @@
         <contributor contributorType="Project Leader">
             <contributorName> Katy Katy </contributorName>
             <givenName>Katy</givenName>
-            <familyName>Börner</familyName>
+            <familyName>Borner</familyName>
             <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0002-3321-6137>0000-0002-3321-6137 </nameIdentifier>
         </contributor>
     
@@ -109,7 +109,7 @@
 <alternateIdentfiers>
     <alternateIdentfier alternateIdentiferType = "HuBMAP ID"> HBM279.BTBC.847 </alternateIdentfier>
     <alternateIdentfier alternateIdentfierType = "How to Cite This Data Table">
-       ;;;;;,HuBMAP Organ Mapping Antibody Panel. Omap Liver Sim.md v1.2 https://doi.org/10.48539/HBM279.BTBC.847
+       Hua.Tian.;Presha.Rajbhandari.;Taruna.V.Neelakantan.;Aubrianna.M.Decker.;Brent.R.Stockwell.;,HuBMAP Organ Mapping Antibody Panel. omap-liver-sim v1.2 https://doi.org/10.48539/HBM279.BTBC.847
     </alternateIdentfier>
     <alternateIdentfier alternateIdentfierType="How to Cite OMAP Tables Overall" ></alternateIdentfier>
 </alternateIdentfiers>

@@ -1,6 +1,10 @@
 ---
-title: Thymus Female.md
+title: thymus-female
 release_version: v1.2
+hra_release_version:
+  - v1.0
+  - v1.1
+  - v1.2
 model_type: ref-organs
 description: '[This reference organ](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created using data from the Visible Human Female, provided by the National Library of Medicine.'
 creators:
@@ -16,6 +20,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id: HBM956.TTND.385 
-datatable: vh_f_thymus.glb
+datatable: VH_F_Thymus.glb
 doi: https://doi.org/10.48539/HBM956.TTND.385
 ---

@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "html": "FILE_GEN=html npx eleventy --serve",
-    "xml": "FILE_GEN=xml npx eleventy"
+    "xml": "FILE_GEN=xml npx eleventy",
+    "rmdir": "node -e \"var fs = require('fs');process.argv.slice(1).map((fpath)=>{ try {fs.rmdirSync(fpath,{recursive: true})} catch(e){console.warn('Error folder:', fpath, e)}});process.exit(0);\""
   },
   "repository": {
     "type": "git",

@@ -10,7 +10,7 @@
 <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
 <identifier identifierType="DOI">https://doi.org/10.48539/HBM373.TBKP.375</identifier>
 <titles>
-    <title> [ASCT+B kidney table v1.1 for Omap Kidney Codex.md v1.2  </title>
+    <title> [ASCT+B kidney table v1.1 for omap-kidney-codex v1.2  </title>
 </titles>
 <creators>
     
@@ -24,7 +24,7 @@
 <publicationYear> Thu May 05 2022 20:00:00 GMT-0400 (Eastern Daylight Time) </publicationYear>
 <resourceType resourceTypeGeneral="Dataset"> Organ Mapping Antibody Panel </resourceType>
 <subjects>
-    <subject> Omap Kidney Codex.md v1.2 </subject>
+    <subject> omap-kidney-codex v1.2 </subject>
 <subjects>
 <contributors>
     
@@ -38,7 +38,7 @@
         <contributor contributorType="Project Leader">
             <contributorName> Katy Katy </contributorName>
             <givenName>Katy</givenName>
-            <familyName>Börner</familyName>
+            <familyName>Borner</familyName>
             <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0002-3321-6137>0000-0002-3321-6137 </nameIdentifier>
         </contributor>
     
@@ -89,7 +89,7 @@
 <alternateIdentfiers>
     <alternateIdentfier alternateIdentiferType = "HuBMAP ID"> HBM373.TBKP.375 </alternateIdentfier>
     <alternateIdentfier alternateIdentfierType = "How to Cite This Data Table">
-       Elizabeth.K.Neumann.;,HuBMAP Organ Mapping Antibody Panel. Omap Kidney Codex.md v1.2 https://doi.org/10.48539/HBM373.TBKP.375
+       Elizabeth.K.Neumann.;,HuBMAP Organ Mapping Antibody Panel. omap-kidney-codex v1.2 https://doi.org/10.48539/HBM373.TBKP.375
     </alternateIdentfier>
     <alternateIdentfier alternateIdentfierType="How to Cite OMAP Tables Overall" ></alternateIdentfier>
 </alternateIdentfiers>

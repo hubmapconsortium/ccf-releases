@@ -1,6 +1,8 @@
 ---
-title: Spinal Cord Male.md
+title: spinal-cord-male
 release_version: v1.2
+hra_release_version:
+  - v1.2
 model_type: ref-organs
 description: '[This reference organ](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created using data from the Visible Human Male, provided by the National Library of Medicine. [(Frostell et al. 2016)](https://www.frontiersin.org/article/10.3389/fneur.2016.00238) was referenced during model preparation.'
 creators:
@@ -16,6 +18,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id:  HBM366.MTJD.685 
-datatable: vh_m_spinal_cord.glb
+datatable: VH_M_Spinal_Cord.glb
 doi: https://doi.org/10.48539/HBM366.MTJD.685
 ---

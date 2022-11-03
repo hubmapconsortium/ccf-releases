@@ -1,6 +1,8 @@
 ---
-title: Asctb 2d Ftu Mapping.md
+title: asctb-2d-ftu-mapping
 release_version: v1.2
+hra_release_version:
+  - v1.2
 model_type: 2d-ftu
 description: 'This lookup table maps [Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Table](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html) terms to anatomical structure and cell type terms used in the [CCF-2D-reference-object-library](https://github.com/hubmapconsortium/ccf-2d-reference-object-library).'
 creators:
@@ -19,6 +21,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id:  HBM984.MZSG.873 
-datatable: asct-b_ftu_2d_illustration_mapping.csv
+datatable: ASCT-B_ftu_2D_illustration_mapping.csv
 doi: https://doi.org/10.48539/HBM984.MZSG.873
 ---

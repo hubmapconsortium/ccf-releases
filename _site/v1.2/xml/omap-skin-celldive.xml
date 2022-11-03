@@ -10,7 +10,7 @@
 <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
 <identifier identifierType="DOI">https://doi.org/10.48539/HBM467.LRKZ.884</identifier>
 <titles>
-    <title> [ASCT+B skin table, v1.1 for Omap Skin Celldive.md v1.2  </title>
+    <title> [ASCT+B skin table, v1.1 for omap-skin-celldive v1.2  </title>
 </titles>
 <creators>
     
@@ -24,7 +24,7 @@
 <publicationYear> Wed May 05 2021 20:00:00 GMT-0400 (Eastern Daylight Time) </publicationYear>
 <resourceType resourceTypeGeneral="Dataset"> Organ Mapping Antibody Panel </resourceType>
 <subjects>
-    <subject> Omap Skin Celldive.md v1.2 </subject>
+    <subject> omap-skin-celldive v1.2 </subject>
 <subjects>
 <contributors>
     
@@ -38,7 +38,7 @@
         <contributor contributorType="Project Leader">
             <contributorName> Katy Katy </contributorName>
             <givenName>Katy</givenName>
-            <familyName>Börner</familyName>
+            <familyName>Borner</familyName>
             <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0002-3321-6137>0000-0002-3321-6137 </nameIdentifier>
         </contributor>
     
@@ -82,7 +82,7 @@
 <alternateIdentfiers>
     <alternateIdentfier alternateIdentiferType = "HuBMAP ID"> HBM467.LRKZ.884 </alternateIdentfier>
     <alternateIdentfier alternateIdentfierType = "How to Cite This Data Table">
-       Liz.McDonough.;,HuBMAP Organ Mapping Antibody Panel. Omap Skin Celldive.md v1.2 https://doi.org/10.48539/HBM467.LRKZ.884
+       Liz.McDonough.;,HuBMAP Organ Mapping Antibody Panel. omap-skin-celldive v1.2 https://doi.org/10.48539/HBM467.LRKZ.884
     </alternateIdentfier>
     <alternateIdentfier alternateIdentfierType="How to Cite OMAP Tables Overall" ></alternateIdentfier>
 </alternateIdentfiers>

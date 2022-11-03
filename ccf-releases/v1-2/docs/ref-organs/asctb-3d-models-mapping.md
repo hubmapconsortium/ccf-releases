@@ -1,6 +1,10 @@
 ---
-title: Asctb 3d Models Mapping.md
+title: asctb-3d-models-mapping
 release_version: v1.2
+hra_release_version:
+  - v1.0
+  - v1.1
+  - v1.2
 model_type: ref-organs
 description: 'This lookup table maps [Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Table](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html) terms to anatomical structure terms used in the [3D Reference Object Library](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html).'
 creators:
@@ -16,6 +20,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id:  HBM858.DNFV.736 
-datatable: asct-b_3d_models_mapping.csv
+datatable: ASCT-B_3D_Models_Mapping.csv
 doi: https://doi.org/10.48539/HBM858.DNFV.736
 ---

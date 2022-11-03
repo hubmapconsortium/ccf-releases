@@ -1,6 +1,8 @@
 ---
-title: Vh Male United.md
+title: vh-male-united
 release_version: v1.2
+hra_release_version:
+  - v1.2
 model_type: ref-organs
 description: '[This reference organ set](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created using data from the Visible Human Male, provided by the National Library of Medicine.'
 creators:
@@ -17,6 +19,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id:  HBM527.VTCC.559 
-datatable: vh_m_united.glb
+datatable: VH_M_United.glb
 doi: https://doi.org/10.48539/HBM527.VTCC.559 
 ---

@@ -1,6 +1,9 @@
 ---
-title: Fallopian Tube Female Left.md
+title: fallopian-tube-female-left
 release_version: v1.2
+hra_release_version:
+  - v1.1
+  - v1.2
 model_type: ref-organs
 description: '[This reference organ](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created using data from the Visible Human Female, provided by the National Library of Medicine.'
 creators:
@@ -17,6 +20,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health 
 award_number:  OT2OD026671 
 hubmap_id:  HBM887.HZKB.637 
-datatable: vh_f_fallopian_tube_l.glb
+datatable: VH_F_Fallopian_Tube_L.glb
 doi: https://doi.org/10.48539/HBM887.HZKB.637
 ---

@@ -10,7 +10,7 @@
 <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
 <identifier identifierType="DOI">https://doi.org/10.48539/HBM494.KLQK.628</identifier>
 <titles>
-    <title> [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables for Eye.md v1.2  </title>
+    <title> [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables for eye v1.2  </title>
 </titles>
 <creators>
     
@@ -34,22 +34,22 @@
 <publicationYear> Thu May 05 2022 20:00:00 GMT-0400 (Eastern Daylight Time) </publicationYear>
 <resourceType resourceTypeGeneral="Dataset"> ASCT+B Tables </resourceType>
 <subjects>
-    <subject> Eye.md v1.2 </subject>
+    <subject> eye v1.2 </subject>
 <subjects>
 <contributors>
     
         <contributor contributorType="Project Leader">
             <contributorName> Katy Katy </contributorName>
             <givenName>Katy</givenName>
-            <familyName>Börner</familyName>
+            <familyName>Borner</familyName>
             <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0002-3321-6137>0000-0002-3321-6137 </nameIdentifier>
         </contributor>
     
     
         <contributor contributorType="Other">
-            <contributorName>   </contributorName>
-            <givenName>  </givenName>
-            <familyName>  </familyName>
+            <contributorName> Jeffrey Spraggins </contributorName>
+            <givenName> Jeffrey </givenName>
+            <familyName> Spraggins </familyName>
             <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"000-0001-9198-5498>000-0001-9198-5498 </nameIdentifier>
         </contributor>   
     
@@ -78,7 +78,7 @@
 <alternateIdentfiers>
     <alternateIdentfier alternateIdentiferType = "HuBMAP ID"> HBM494.KLQK.628 </alternateIdentfier>
     <alternateIdentfier alternateIdentfierType = "How to Cite This Data Table">
-       Angela.Kruse.;Kevin.Schey.;Christine.Curcio.;,HuBMAP ASCT+B Tables. Eye.md v1.2 https://doi.org/10.48539/HBM494.KLQK.628
+       Angela.Kruse.;Kevin.Schey.;Christine.Curcio.;,HuBMAP ASCT+B Tables. eye v1.2 https://doi.org/10.48539/HBM494.KLQK.628
     </alternateIdentfier>
     <alternateIdentfier alternateIdentfierType="How to Cite ASCT+B Tables Overall" ></alternateIdentfier>
 </alternateIdentfiers>

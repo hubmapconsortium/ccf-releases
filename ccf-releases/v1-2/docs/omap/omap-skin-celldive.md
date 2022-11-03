@@ -1,6 +1,8 @@
 ---
-title: Omap Skin Celldive.md
+title: omap-skin-celldive
 release_version: v1.2
+hra_release_version:
+  - v1.2
 model_type: omap
 description: 'The OMAP Skin panel was designed for Cell DIVETM multiplexed imaging of formalin-fixed paraffin-embedded (FFPE) human skin.  The panel contains 18 antibodies and the nuclear marker DAPI for image registration and nuclear segmentation.  Antigens were detected using either primary antibodies with fluorophore-labelled secondary antibodies or fluorescent dye conjugated antibodies. This OMAP provides a spatial context for most anatomical structures and cell types present in the [ASCT+B skin table, v1.1](https://doi.org/10.48539/HBM423.RTRR.746).  Additionally, the inclusion of protein biomarkers DDB2 and p53 allow for profiling of skin damage and aging effects. The panel was designed to get a broad representation of cell types found in the skin and in the future will be expanded to include dermal dendritic cell (DC) markers (e.g. Langerin, CD11c).'
 creators:
@@ -19,6 +21,6 @@ publisher:  HuBMAP
 funder:  National Institutes of Health, National Institute of Allergy and Infectious Disease, National Cancer Institute 
 award_number: OT2OD026671, NIH 5UH3CA246594-02, UH3 CA246635, UH3 CA246594-01
 hubmap_id: HBM467.LRKZ.884
-datatable: omap_skin_cell_dive.csv
+datatable: OMAP_Skin_Cell_DIVE.csv
 doi: https://doi.org/10.48539/HBM467.LRKZ.884
 ---
