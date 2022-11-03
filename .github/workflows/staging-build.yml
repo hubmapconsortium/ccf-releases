@@ -27,15 +27,15 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-node-
       - run: npm ci
-      - name: Build HRA Portal
-        run: npm run build -- --output-hashing=none --base-href=/
-      - name: Setup Netlify files
+      - name: Build HRA Releases
         run: |
-          echo '/* /index.html 200' > dist/ccf/_redirects
+          npm run html
+          npm run xml
+          npm run cleanup
 
       - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist/ccf
+          publish_dir: docs
           publish_branch: staging
           commit_message: "Staging deploy -- ${{ github.event.head_commit.message }}"
