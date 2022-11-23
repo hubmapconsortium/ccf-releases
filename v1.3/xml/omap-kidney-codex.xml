@@ -1,0 +1,102 @@
+ 
+
+
+
+ 
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">https://doi.org/10.48539/HBM373.TBKP.375</identifier>
+<titles>
+    <title> [ASCT+B kidney table v1.1 for omap-kidney-codex v1.3  </title>
+</titles>
+<creators>
+    
+    <creatorName>Elizabeth Neumann </creatorName>
+    <givenName>  Elizabeth </givenName>
+    <familyName> Neumann </familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-6078-3321">0000-0002-6078-3321<nameIdentifier>
+    
+</creators>
+<publisher>HuBMAP</publisher>
+<publicationYear> Fri May 06 2022 00:00:00 GMT+0000 (Coordinated Universal Time) </publicationYear>
+<resourceType resourceTypeGeneral="Dataset"> Organ Mapping Antibody Panel </resourceType>
+<subjects>
+    <subject> omap-kidney-codex v1.3 </subject>
+<subjects>
+<contributors>
+    
+        <contributor contributorType="Project Leader">
+            <contributorName> Andrea Andrea </contributorName>
+            <givenName>Andrea</givenName>
+            <familyName>Radtke</familyName>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0003-4379-8967>0000-0003-4379-8967 </nameIdentifier>
+        </contributor>
+    
+        <contributor contributorType="Project Leader">
+            <contributorName> Katy Katy </contributorName>
+            <givenName>Katy</givenName>
+            <familyName>Borner</familyName>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0002-3321-6137>0000-0002-3321-6137 </nameIdentifier>
+        </contributor>
+    
+        <contributor contributorType="Project Leader">
+            <contributorName> Neil Neil </contributorName>
+            <givenName>Neil</givenName>
+            <familyName>Kelleher</familyName>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0002-8815-3372>0000-0002-8815-3372 </nameIdentifier>
+        </contributor>
+    
+        <contributor contributorType="Project Leader">
+            <contributorName> Ronald Ronald </contributorName>
+            <givenName>Ronald</givenName>
+            <familyName>Germain</familyName>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0003-1495-9143>0000-0003-1495-9143 </nameIdentifier>
+        </contributor>
+    
+    
+        <contributor contributorType="Other">
+            <contributorName> Andrea Radtke </contributorName>
+            <givenName> Andrea </givenName>
+            <familyName> Radtke </familyName>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0003-4379-8967>0000-0003-4379-8967 </nameIdentifier>
+        </contributor>   
+    
+        <contributor contributorType="Other">
+            <contributorName> Ellen Quardokus </contributorName>
+            <givenName> Ellen </givenName>
+            <familyName> Quardokus </familyName>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0001-7655-4833>0000-0001-7655-4833 </nameIdentifier>
+        </contributor>   
+    
+        <contributor contributorType="Other">
+            <contributorName> Christopher Werlein </contributorName>
+            <givenName> Christopher </givenName>
+            <familyName> Werlein </familyName>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0002-7694-4257>0000-0002-7694-4257 </nameIdentifier>
+        </contributor>   
+    
+</contributors>
+<dates>
+    <date dateType="Available"> 05/06/2022</date>
+</dates>
+<descriptions>
+    <description> The OMAP kidney panel was designed for CODEX (CO Detection by IndEXing) of fresh frozen human kidney samples. The panel contains 24 antibodies and the nuclear marker Hoechst 33342 or DAPI for image alignment and nuclear segmentation. This OMAP provides a spatial context for all anatomical structures and most cell types present in the [ASCT+B kidney table v1.1](https://doi.org/10.48539/HBM673.ZZDK.622). Additionally, the inclusion of protein biomarkers tryptase and MARCKS  allow profiling of different regions in glomeruli that are often affected by disease as well as several immune cell markers that are indicative of health.  The core and essential protein biomarkers detailed here overlap with panels developed for multiplexed imaging of kidney samples using other technologies, such as cyTOF and cyclic multiplexed immunofluorescence. </description>
+</decsriptions>
+<language>EN</language>
+<alternateIdentfiers>
+    <alternateIdentfier alternateIdentiferType = "HuBMAP ID"> HBM373.TBKP.375 </alternateIdentfier>
+    <alternateIdentfier alternateIdentfierType = "How to Cite This Data Table">
+       Elizabeth.K.Neumann.;,HuBMAP Organ Mapping Antibody Panel. omap-kidney-codex v1.3 https://doi.org/10.48539/HBM373.TBKP.375
+    </alternateIdentfier>
+    <alternateIdentfier alternateIdentfierType="How to Cite OMAP Tables Overall" ></alternateIdentfier>
+</alternateIdentfiers>
+<formats>
+	<format> .csv </format>
+</formats>
+<rightsList>
+    <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0) </rights>
+</rightsList>
+</resource>

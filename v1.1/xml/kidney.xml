@@ -1,0 +1,98 @@
+ 
+
+
+
+ 
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">https://doi.org/10.48539/HBM673.ZZDK.622</identifier>
+<titles>
+    <title> [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables for kidney v1.1  </title>
+</titles>
+<creators>
+    
+    <creatorName>Sanjay Jain </creatorName>
+    <givenName>  Sanjay </givenName>
+    <familyName> Jain </familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-2804-127X">0000-0003-2804-127X<nameIdentifier>
+    
+    <creatorName>M. Valerius </creatorName>
+    <givenName>  M. </givenName>
+    <familyName> Valerius </familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-8143-9231">0000-0001-8143-9231<nameIdentifier>
+    
+    <creatorName>Yongqun He </creatorName>
+    <givenName>  Yongqun </givenName>
+    <familyName> He </familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-9189-9661">0000-0001-9189-9661<nameIdentifier>
+    
+</creators>
+<publisher>HuBMAP</publisher>
+<publicationYear> Wed Dec 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time) </publicationYear>
+<resourceType resourceTypeGeneral="Dataset"> ASCT+B Tables </resourceType>
+<subjects>
+    <subject> kidney v1.1 </subject>
+<subjects>
+<contributors>
+    
+        <contributor contributorType="Project Leader">
+            <contributorName> Katy Katy </contributorName>
+            <givenName>Katy</givenName>
+            <familyName>Borner</familyName>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0002-3321-6137>0000-0002-3321-6137 </nameIdentifier>
+        </contributor>
+    
+    
+        <contributor contributorType="Other">
+            <contributorName> Blue Lake </contributorName>
+            <givenName> Blue </givenName>
+            <familyName> Lake </familyName>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0002-8637-9044>0000-0002-8637-9044 </nameIdentifier>
+        </contributor>   
+    
+        <contributor contributorType="Other">
+            <contributorName> Becky Steck </contributorName>
+            <givenName> Becky </givenName>
+            <familyName> Steck </familyName>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0001-7565-4904>0000-0001-7565-4904 </nameIdentifier>
+        </contributor>   
+    
+        <contributor contributorType="Other">
+            <contributorName> Rachel Dull </contributorName>
+            <givenName> Rachel </givenName>
+            <familyName> Dull </familyName>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0002-0864-7007>0000-0002-0864-7007 </nameIdentifier>
+        </contributor>   
+    
+        <contributor contributorType="Other">
+            <contributorName> Ellen Quardokus </contributorName>
+            <givenName> Ellen </givenName>
+            <familyName> Quardokus </familyName>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0001-7655-4833>0000-0001-7655-4833 </nameIdentifier>
+        </contributor>   
+    
+</contributors>
+<dates>
+    <date dateType="Available"> 12</date>
+</dates>
+<descriptions>
+    <description> [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html) aim to capture the nested *part_of* structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts. </description>
+</decsriptions>
+<language>EN</language>
+<alternateIdentfiers>
+    <alternateIdentfier alternateIdentiferType = "HuBMAP ID"> HBM673.ZZDK.622 </alternateIdentfier>
+    <alternateIdentfier alternateIdentfierType = "How to Cite This Data Table">
+       Sanjay.Jain.;M..Todd.Valerius.;Yongqun.He.;,HuBMAP ASCT+B Tables. kidney v1.1 https://doi.org/10.48539/HBM673.ZZDK.622
+    </alternateIdentfier>
+    <alternateIdentfier alternateIdentfierType="How to Cite ASCT+B Tables Overall" ></alternateIdentfier>
+</alternateIdentfiers>
+<formats>
+	<format> .csv </format>
+</formats>
+<rightsList>
+    <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0) </rights>
+</rightsList>
+</resource>

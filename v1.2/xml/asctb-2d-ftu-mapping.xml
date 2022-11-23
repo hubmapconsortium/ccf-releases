@@ -1,0 +1,93 @@
+ 
+
+
+
+ 
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">https://doi.org/10.48539/HBM984.MZSG.873</identifier>
+<titles>
+    <title> [Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Table for asctb-2d-ftu-mapping v1.2  </title>
+</titles>
+<creators>
+    
+    <creatorName>Supriya Bidanta </creatorName>
+    <givenName>  Supriya </givenName>
+    <familyName> Bidanta </familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-2142-983X">0000-0002-2142-983X<nameIdentifier>
+    
+    <creatorName>Fauzan Isnaini </creatorName>
+    <givenName>  Fauzan </givenName>
+    <familyName> Isnaini </familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-6582-4041">0000-0001-6582-4041<nameIdentifier>
+    
+</creators>
+<publisher>HuBMAP</publisher>
+<publicationYear> Fri May 06 2022 00:00:00 GMT+0000 (Coordinated Universal Time) </publicationYear>
+<resourceType resourceTypeGeneral="Image"> 2D reference human organ FTU object </resourceType>
+<subjects>
+    <subject> asctb-2d-ftu-mapping v1.2 </subject>
+<subjects>
+<contributors>
+    
+        <contributor contributorType="Project Leader">
+            <contributorName> Katy Katy </contributorName>
+            <givenName>Katy</givenName>
+            <familyName>Borner</familyName>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0002-3321-6137>0000-0002-3321-6137 </nameIdentifier>
+        </contributor>
+    
+    
+        <contributor contributorType="Other">
+            <contributorName> Ellen Quardokus </contributorName>
+            <givenName> Ellen </givenName>
+            <familyName> Quardokus </familyName>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0001-7655-4833>0000-0001-7655-4833 </nameIdentifier>
+        </contributor>   
+    
+        <contributor contributorType="Other">
+            <contributorName> Katy Borner </contributorName>
+            <givenName> Katy </givenName>
+            <familyName> Borner </familyName>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0002-3321-6137>0000-0002-3321-6137 </nameIdentifier>
+        </contributor>   
+    
+        <contributor contributorType="Other">
+            <contributorName> Rachel Bajema </contributorName>
+            <givenName> Rachel </givenName>
+            <familyName> Bajema </familyName>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0002-3775-8574>0000-0002-3775-8574 </nameIdentifier>
+        </contributor>   
+    
+        <contributor contributorType="Other">
+            <contributorName>   </contributorName>
+            <givenName>  </givenName>
+            <familyName>  </familyName>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0002-6703-7647>0000-0002-6703-7647 </nameIdentifier>
+        </contributor>   
+    
+</contributors>
+<dates>
+    <date dateType="Available"> 05/06/2022</date>
+</dates>
+<descriptions>
+    <description> This lookup table maps [Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Table](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html) terms to anatomical structure and cell type terms used in the [CCF-2D-reference-object-library](https://github.com/hubmapconsortium/ccf-2d-reference-object-library). </description>
+</decsriptions>
+<language>EN</language>
+<alternateIdentfiers>
+    <alternateIdentfier alternateIdentiferType = "HuBMAP ID"> HBM984.MZSG.873 </alternateIdentfier>
+    <alternateIdentfier alternateIdentfierType = "How to Cite This Data Table">
+       Supriya.Bidanta.;Fauzan.Isnaini.;,HuBMAP 2D reference human organ FTU object. asctb-2d-ftu-mapping v1.2 https://doi.org/10.48539/HBM984.MZSG.873
+    </alternateIdentfier>
+    <alternateIdentfier alternateIdentfierType="How to Cite 2D Data Overall" ></alternateIdentfier>
+</alternateIdentfiers>
+<formats>
+	<format> .csv </format>
+</formats>
+<rightsList>
+    <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0) </rights>
+</rightsList>
+</resource>
