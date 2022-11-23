@@ -1,0 +1,95 @@
+ 
+
+
+
+ 
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">https://doi.org/10.48539/HBM467.LRKZ.884</identifier>
+<titles>
+    <title> [ASCT+B skin table, v1.1 for omap-skin-celldive v1.3  </title>
+</titles>
+<creators>
+    
+    <creatorName>Liz McDonough </creatorName>
+    <givenName>  Liz </givenName>
+    <familyName> McDonough </familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-7524-8260">0000-0001-7524-8260<nameIdentifier>
+    
+</creators>
+<publisher>HuBMAP</publisher>
+<publicationYear> Wed May 05 2021 20:00:00 GMT-0400 (Eastern Daylight Time) </publicationYear>
+<resourceType resourceTypeGeneral="Dataset"> Organ Mapping Antibody Panel </resourceType>
+<subjects>
+    <subject> omap-skin-celldive v1.3 </subject>
+<subjects>
+<contributors>
+    
+        <contributor contributorType="Project Leader">
+            <contributorName> Andrea Andrea </contributorName>
+            <givenName>Andrea</givenName>
+            <familyName>Radtke</familyName>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0003-4379-8967>0000-0003-4379-8967 </nameIdentifier>
+        </contributor>
+    
+        <contributor contributorType="Project Leader">
+            <contributorName> Katy Katy </contributorName>
+            <givenName>Katy</givenName>
+            <familyName>Borner</familyName>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0002-3321-6137>0000-0002-3321-6137 </nameIdentifier>
+        </contributor>
+    
+        <contributor contributorType="Project Leader">
+            <contributorName> Neil Neil </contributorName>
+            <givenName>Neil</givenName>
+            <familyName>Kelleher</familyName>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0002-8815-3372>0000-0002-8815-3372 </nameIdentifier>
+        </contributor>
+    
+        <contributor contributorType="Project Leader">
+            <contributorName> Ronald Ronald </contributorName>
+            <givenName>Ronald</givenName>
+            <familyName>Germain</familyName>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0003-1495-9143>0000-0003-1495-9143 </nameIdentifier>
+        </contributor>
+    
+    
+        <contributor contributorType="Other">
+            <contributorName> Fiona Ginty </contributorName>
+            <givenName> Fiona </givenName>
+            <familyName> Ginty </familyName>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0001-6638-683X>0000-0001-6638-683X </nameIdentifier>
+        </contributor>   
+    
+        <contributor contributorType="Other">
+            <contributorName> Ari Karunamurthy </contributorName>
+            <givenName> Ari </givenName>
+            <familyName> Karunamurthy </familyName>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0002-5739-4923>0000-0002-5739-4923 </nameIdentifier>
+        </contributor>   
+    
+</contributors>
+<dates>
+    <date dateType="Available"> 05/05/2021</date>
+</dates>
+<descriptions>
+    <description> The OMAP Skin panel was designed for Cell DIVETM multiplexed imaging of formalin-fixed paraffin-embedded (FFPE) human skin.  The panel contains 18 antibodies and the nuclear marker DAPI for image registration and nuclear segmentation.  Antigens were detected using either primary antibodies with fluorophore-labelled secondary antibodies or fluorescent dye conjugated antibodies. This OMAP provides a spatial context for most anatomical structures and cell types present in the [ASCT+B skin table, v1.1](https://doi.org/10.48539/HBM423.RTRR.746).  Additionally, the inclusion of protein biomarkers DDB2 and p53 allow for profiling of skin damage and aging effects. The panel was designed to get a broad representation of cell types found in the skin and in the future will be expanded to include dermal dendritic cell (DC) markers (e.g. Langerin, CD11c). </description>
+</decsriptions>
+<language>EN</language>
+<alternateIdentfiers>
+    <alternateIdentfier alternateIdentiferType = "HuBMAP ID"> HBM467.LRKZ.884 </alternateIdentfier>
+    <alternateIdentfier alternateIdentfierType = "How to Cite This Data Table">
+       Liz.McDonough.;,HuBMAP Organ Mapping Antibody Panel. omap-skin-celldive v1.3 https://doi.org/10.48539/HBM467.LRKZ.884
+    </alternateIdentfier>
+    <alternateIdentfier alternateIdentfierType="How to Cite OMAP Tables Overall" ></alternateIdentfier>
+</alternateIdentfiers>
+<formats>
+	<format> .csv </format>
+</formats>
+<rightsList>
+    <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0) </rights>
+</rightsList>
+</resource>
