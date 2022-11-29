@@ -27,11 +27,7 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-node-
       - run: npm ci
-      - name: Build HRA Releases
-        run: |
-          npm run html
-          npm run xml
-          npm run cleanup
+      - run: npm run build
 
       - uses: peaceiris/actions-gh-pages@v3
         with:
