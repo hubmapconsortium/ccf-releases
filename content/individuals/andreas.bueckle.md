@@ -1,5 +1,7 @@
 ---
 layout: layouts/individual.njk
 individual: 
-  orcid: 0000-0002-6703-7647
+  first_name: Andreas
+  last_name: Bueckle
+  orcid: 0000-0002-8977-498X
 ---

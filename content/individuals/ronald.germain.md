@@ -1,8 +1,8 @@
 ---
 layout: layouts/individual.njk
-individual:
+individual: 
   first_name: Ronald
-  middle_name: N
+  middle_name: N.
   last_name: Germain
   orcid: 0000-0003-1495-9143
 ---

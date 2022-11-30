@@ -8,6 +8,9 @@ jobs:
   deploy:
     name: 'Deploy'
     runs-on: ubuntu-latest
+    environment: 
+      name: Staging
+      url: 'http://test.hubmapconsortium.ccfreleases.com'
     strategy:
       matrix:
         node-version: [16.x]

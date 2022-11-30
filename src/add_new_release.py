@@ -33,7 +33,7 @@ if __name__ == "__main__":
             for idx in range(len(file_lines)):
                 if "release_version" in file_lines[idx]:
                     modify_index = idx
-                if "model_type" in file_lines[idx]:
+                if "type" in file_lines[idx]:
                     insert_idx=idx
             print(insert_idx)
             new_release_dir=new_release.replace("-",".")

@@ -1,10 +1,21 @@
 ---
 layout: layouts/base.njk
-permalink: /{{release_version}}/docs/{{model_type}}/{{page.fileSlug}}.html
+permalink: /{{release_version}}/docs/{{type}}/{{page.fileSlug}}.html
 ---
 {% set orc_ind_dict =  collections.ind_orcids %}
 <div class="container-md" style="margin-left:20%;margin-top:2.5rem;background-color:#FFFFFF;padding:3%;box-shadow:rgb(0 0 0 / 14%) 0px 2px 2px 0px, rgb(0 0 0 / 20%) 0px 3px 1px -2px, rgb(0 0 0 / 12%) 0px 1px 5px 0px">
-<h2><b> Anatomical Structures, Cell Types, plus Biomarkers <br/>({{model_type | upper}}) table for  {{title}}</b> </h2>
+{% if type == "asct-b" %}
+    <h2><b> ASCT-B</b> </h2>    
+{% endif %}
+{% if type == "2d-ftu" %}
+    <h2><b>  2D FTU</b> </h2>    
+{% endif %}
+{% if type == "omap" %}
+    <h2><b>  Omap</b> </h2>    
+{% endif %}
+{% if type == "ref-organs" %}
+    <h2><b>  Ref Organs</b> </h2>    
+{% endif %}
 <h5> Description </h5> 
 <wc-markdown>
   <script type="wc-content">
@@ -13,52 +24,34 @@ permalink: /{{release_version}}/docs/{{model_type}}/{{page.fileSlug}}.html
 </wc-markdown>
  <br/>
 <table class="table" >
-    <tr>
-        <th style="width:35%;">Label </th>
-        <th> Value </th>
-    </tr>
-    <tr>
-        <td> <b> Creators </b> </td>
-        <td>
-         {% for id in creators %}{% if orc_ind_dict[id]["fName"] != undefined %}{{ orc_ind_dict[id]["fName"]}}.{% endif %}{% if orc_ind_dict[id]["mName"] != undefined %}{{ orc_ind_dict[id]["mName"]}}.{% endif %}{% if orc_ind_dict[id]["lName"] != undefined %}{{ orc_ind_dict[id]["lName"]}}.{% endif %};{% endfor %}
-        </td>
-    </tr>
-    <tr>
-        <td> <b> Creator ORCID </b> </td>
-        <td> {% for id in creators %} <a href="https://orcid.org/{{id}}">{{id}}</a>; {% endfor %} </td>
-    </tr>
-    <tr>
-        <td> <b> Project Lead </b></td>
-        <td> 
-        {% for id in project_leads %}{% if orc_ind_dict[id]["fName"] != undefined %}{{ orc_ind_dict[id]["fName"]}}.{% endif %}{% if orc_ind_dict[id]["mName"] != undefined %}{{ orc_ind_dict[id]["mName"]}}.{% endif %}{% if orc_ind_dict[id]["lName"] != undefined %}{{ orc_ind_dict[id]["lName"]}}.{% endif %}{% endfor %} 
-        </td>
-    </tr>
-    <tr>
-        <td> <b> Project Lead ORCID </b></td>
-        <td> 
-        {% for id in project_leads %}<a href="https://orcid.org/{{id}}">{{id}}</a>;{% endfor %} 
-        </td>
-    </tr>
-
+    <tr><th style="width:35%;">Label </th><th> Value </th></tr>
+    <tr><td> <b> Creators </b> </td><td>{% for id in creators %}{% if orc_ind_dict[id]["fName"] != undefined %}{{ orc_ind_dict[id]["fName"]}}.{% endif %}{% if orc_ind_dict[id]["mName"] != undefined %}{{ orc_ind_dict[id]["mName"]}}.{% endif %}{% if orc_ind_dict[id]["lName"] != undefined %}{{ orc_ind_dict[id]["lName"]}}.{% endif %};{% endfor %}</td></tr>
+    <tr><td> <b> Creator ORCID </b> </td><td> {% for id in creators %} <a href="https://orcid.org/{{id}}">{{id}}</a>; {% endfor %} </td></tr>
+    <tr><td> <b> Project Lead </b></td><td> {% for id in project_leads %}{% if orc_ind_dict[id]["fName"] != undefined %}{{ orc_ind_dict[id]["fName"]}}.{% endif %}{% if orc_ind_dict[id]["mName"] != undefined %}{{ orc_ind_dict[id]["mName"]}}.{% endif %}{% if orc_ind_dict[id]["lName"] != undefined %}{{ orc_ind_dict[id]["lName"]}}.{% endif %}{% endfor %} </td></tr>
+    <tr><td> <b> Project Lead ORCID </b></td><td> {% for id in project_leads %}<a href="https://orcid.org/{{id}}">{{id}}</a>;{% endfor %} </td></tr>
    <tr>
-        <td> <b> Reviewer(s) </b> </td>
+        <td> <b>Internal Reviewer(s) </b> </td>
         <td>
-         {% for id in reviewers %}{% if orc_ind_dict[id]["fName"] != undefined %}{{ orc_ind_dict[id]["fName"]}}.{% endif %}{% if orc_ind_dict[id]["mName"] != undefined %}{{ orc_ind_dict[id]["mName"]}}.{% endif %}{% if orc_ind_dict[id]["lName"] != undefined %}{{ orc_ind_dict[id]["lName"]}}.{% endif %};{% endfor %}</td>
+            {% if internal_reviewers %}
+                {% for id in internal_reviewers %}{% if orc_ind_dict[id]["fName"] != undefined %}{{ orc_ind_dict[id]["fName"]}}.{% endif %}{% if orc_ind_dict[id]["mName"] != undefined %}{{ orc_ind_dict[id]["mName"]}}.{% endif %}{% if orc_ind_dict[id]["lName"] != undefined %}{{ orc_ind_dict[id]["lName"]}}.{% endif %};{% endfor %}
+            {% endif %}
+        </td>     
+    </tr>
+    <tr>
+        <td> <b>External Reviewer(s) </b> </td>
+        <td>
+        {% if external_reviewers %}
+         {% for id in external_reviewers %}{% if orc_ind_dict[id]["fName"] != undefined %}{{ orc_ind_dict[id]["fName"]}}.{% endif %}{% if orc_ind_dict[id]["mName"] != undefined %}{{ orc_ind_dict[id]["mName"]}}.{% endif %}{% if orc_ind_dict[id]["lName"] != undefined %}{{ orc_ind_dict[id]["lName"]}}.{% endif %};{% endfor %}</td>
+        {% endif %}
     </tr>
     <tr>
         <td> <b> Reviewer ORCID(s) </b> </td>
-        <td> {% for id in reviewers %} <a href="https://orcid.org/{{id}}">{{id}}</a>; {% endfor %} </td>
+        <td> {% if external_reviewers %} {% for id in reviewers %} <a href="https://orcid.org/{{id}}">{{id}}</a>; {% endfor %}{% endif %} </td>
     </tr>
-    
-    
     <tr>
         <td><b> Creation Date </b> </td>
-        <td> 
-                {{ creation_date }}  
-            
-        </td>
-    </tr>
-    
+        <td> {{ creation_date }}  </td>
+    </tr>  
     <tr>
         <td> <b> License </b> </td>
         <td> {{ license }} </td>
@@ -94,7 +87,7 @@ permalink: /{{release_version}}/docs/{{model_type}}/{{page.fileSlug}}.html
     </tr>
     <tr>
         <td> <b> How to Cite {{model_type | upper }} Tables Overall : </b> </td>
-        <td> Quardokus, Ellen M., Bruce W. Herr II, Lisel Record, Katy Börner. 2022. <a href="https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html"> {{publisher}} {{model_type | upper}} Tables, Accessed on {{creation_date.toISOString().split('T')[0]}} </a> </td>
+        {# <td> Quardokus, Ellen M., Bruce W. Herr II, Lisel Record, Katy Börner. 2022. <a href="https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html"> {{publisher}} {{model_type | upper}} Tables, Accessed on {{creation_date.toISOString().split('T')[0]}} </a> </td> #}
     </tr>
 
 </table>

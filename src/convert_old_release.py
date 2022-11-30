@@ -98,7 +98,7 @@ def process_markdown(file,files_hra_versions):
 		processed_markdown += "hra_release_version:\n"
 		for hra in files_hra_versions[title]:
 			processed_markdown+="  - "+hra+"\n"
-		processed_markdown += "model_type: "+ model_type +"\n"
+		processed_markdown += "type: "+ model_type +"\n"
 		processed_markdown += "description: "+desc+"\n"	
 		for row in df.itertuples():
 			#print(row)
@@ -214,7 +214,7 @@ def process_markdown(file,files_hra_versions):
 				last_name = temp2[2]
 				individuals_markdown += "  first_name: "+first_name+"\n"
 				individuals_markdown += "  middle_name: "+middle_name+"\n"
-				individuals_markdown += " last_name: "+last_name+"\n"
+				individuals_markdown += "  last_name: "+last_name+"\n"
 				full_name = first_name+" "+middle_name+" "+last_name
 			if(len(temp2)==4):
 				first_name = temp2[0]
@@ -224,36 +224,38 @@ def process_markdown(file,files_hra_versions):
 				full_name = first_name+" "+middle_name+" "+last_name+" "+suffix
 				individuals_markdown += "  first_name: "+first_name+"\n"
 				individuals_markdown += "  middle_name: "+middle_name+"\n"
-				individuals_markdown += " last_name: "+last_name+suffix+"\n"
+				individuals_markdown += "  last_name: "+last_name+" "+suffix+"\n"
 
 			individuals_markdown += "  orcid: "+individuals_orcid[p] + "\n"
 			individuals_markdown += "---"
 			if individuals_orcid[p] not in ind_orcid_dict:
 				ind_orcid_dict[individuals_orcid[p]]= full_name
-			print(individuals)
-			print(individuals_orcid)
-			print(ind_orcid_dict)
-			if not os.path.isdir(output_path+"/"+rel+"/"+model_type):
-				os.makedirs(output_path+"/"+rel+"/"+model_type)
-			if not os.path.isdir(output_path+'/'+rel+'/individuals/'):
-				os.makedirs(output_path+'/'+rel+'/individuals/')
+			#print(individuals)
+			#print(individuals_orcid)
+			#print(ind_orcid_dict)
+			dir_rel = rel.replace(".","-")
+			if not os.path.isdir(output_path+"/"+dir_rel+"/"+model_type+"/docs"):
+				os.makedirs(output_path+"/"+dir_rel+"/"+model_type+"/docs")
+			if not os.path.isdir(output_path+"/individuals/"):
+				os.makedirs(output_path+'/individuals/')
 	
-			with open(output_path+'/'+rel+'/individuals/'+first_name.lower()+'.'+last_name.lower()+'.txt','w+') as f1:
+			with open(output_path+'/individuals/'+first_name.lower()+'.'+last_name.lower()+'.txt','w+') as f1:
 				f1.write(individuals_markdown)
 		
-			shutil.copyfile(output_path+"/"+ rel+"/individuals/"+first_name.lower()+'.'+last_name.lower()+".txt",output_path+"/"+rel+"/individuals/"+first_name.lower()+'.'+last_name.lower()+".md")
-			text_files = glob.glob(output_path+"/"+rel+'/individuals/*.txt', recursive=True)
+			shutil.copyfile(output_path+"/individuals/"+first_name.lower()+'.'+last_name.lower()+".txt",output_path+"/individuals/"+first_name.lower()+'.'+last_name.lower()+".md")
+			text_files = glob.glob(output_path+"/individuals/*.txt", recursive=True)
 			delete_txt_files(text_files)
 		processed_individuals_dict[title]=ind_orcid_dict
 		
 		#print(processed_markdown)
 		file_title = title.replace(".md","")
 		#print(file_title)
-		with open(r''+output_path+"/"+rel+'/'+model_type+'/'+file_title+'.txt','w+') as f2:
+		
+		with open(r''+output_path+'/'+dir_rel+'/'+model_type+'/docs/'+file_title+'.txt','w+') as f2:
 			f2.write(processed_markdown)
-		shutil.copyfile(output_path+"/"+rel+"/"+model_type+"/"+file_title+".txt",output_path+"/"+rel+"/"+model_type+"/"+file_title+".md")
+		shutil.copyfile(output_path+"/"+dir_rel+"/"+model_type+"/docs/"+file_title+".txt",output_path+"/"+dir_rel+"/"+model_type+"/docs/"+file_title+".md")
 		#print(output_path+"/"+rel+"/"+model_type+"/"+file_title+".md")
-		text_files = glob.glob(output_path+"/"+rel+"/"+model_type+'/*.txt', recursive=True)
+		text_files = glob.glob(output_path+"/"+dir_rel+"/"+model_type+"/docs/*.txt", recursive=True)
 		delete_txt_files(text_files)
 			
 	return processed_individuals_dict
@@ -272,7 +274,7 @@ if __name__ == "__main__":
 		output_path = args.output
 	
 
-	## Get the current releases from the root website folder.
+	
 	releases = get_immediate_subdirectories(root_path)
 	releases.remove('.git')
 	releases.reverse()
@@ -281,6 +283,7 @@ if __name__ == "__main__":
 	individual_dictionary = {}
 	for rel in releases:
 		## Get the list of markdown files from markdowm subdirectory:
+		
 		for obj in tqdm(range(len(digital_objects[rel]))):	
 			processed_individuals=process_markdown(digital_objects[rel][obj],files_hra_versions)
 			individual_dictionary[rel]=processed_individuals
