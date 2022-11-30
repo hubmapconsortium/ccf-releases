@@ -27,7 +27,7 @@
 </creators>
 <publisher>HuBMAP</publisher>
 <publicationYear> Fri May 06 2022 00:00:00 GMT+0000 (Coordinated Universal Time) </publicationYear>
-<resourceType resourceTypeGeneral="Image"> 2D reference human organ FTU object </resourceType>
+<resourceType resourceTypeGeneral="">  </resourceType>
 <subjects>
     <subject> asctb-2d-ftu-mapping v1.2 </subject>
 <subjects>
@@ -42,9 +42,9 @@
     
     
         <contributor contributorType="Other">
-            <contributorName> Ellen Quardokus </contributorName>
+            <contributorName> Ellen M. Quardokus </contributorName>
             <givenName> Ellen </givenName>
-            <familyName> Quardokus </familyName>
+            <familyName> M. Quardokus </familyName>
             <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0001-7655-4833>0000-0001-7655-4833 </nameIdentifier>
         </contributor>   
     
@@ -63,9 +63,9 @@
         </contributor>   
     
         <contributor contributorType="Other">
-            <contributorName>   </contributorName>
-            <givenName>  </givenName>
-            <familyName>  </familyName>
+            <contributorName> Bruce Herr II </contributorName>
+            <givenName> Bruce </givenName>
+            <familyName> Herr II </familyName>
             <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0002-6703-7647>0000-0002-6703-7647 </nameIdentifier>
         </contributor>   
     
@@ -80,9 +80,9 @@
 <alternateIdentfiers>
     <alternateIdentfier alternateIdentiferType = "HuBMAP ID"> HBM984.MZSG.873 </alternateIdentfier>
     <alternateIdentfier alternateIdentfierType = "How to Cite This Data Table">
-       Supriya.Bidanta.;Fauzan.Isnaini.;,HuBMAP 2D reference human organ FTU object. asctb-2d-ftu-mapping v1.2 https://doi.org/10.48539/HBM984.MZSG.873
+       Supriya.Bidanta.;Fauzan.Isnaini.;,HuBMAP . asctb-2d-ftu-mapping v1.2 https://doi.org/10.48539/HBM984.MZSG.873
     </alternateIdentfier>
-    <alternateIdentfier alternateIdentfierType="How to Cite 2D Data Overall" ></alternateIdentfier>
+    <alternateIdentfier alternateIdentfierType="How to Cite  Overall" ></alternateIdentfier>
 </alternateIdentfiers>
 <formats>
 	<format> .csv </format>

@@ -4,7 +4,8 @@ release_version: v1.1
 hra_release_version:
   - v1.0
   - v1.1
-model_type: ref-organs
+  - v1.2
+type: ref-organs
 description: 'This lookup table maps [Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Table](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html) terms to anatomical structure terms used in the [3D Reference Object Library](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html).'
 creators:
   - 0000-0001-7655-4833

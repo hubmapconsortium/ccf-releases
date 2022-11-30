@@ -3,7 +3,7 @@ title: omap-pancreas-codex
 release_version: v1.2
 hra_release_version:
   - v1.2
-model_type: omap
+type: omap
 description: 'The OMAP Pancreas  panel was designed for CODEX (CO Detection by IndEXing) imaging of Formalin-Fixed Paraffin-Embedded (FFPE) human pancreas samples.'
 creators:
   - 0000-0003-2722-1965

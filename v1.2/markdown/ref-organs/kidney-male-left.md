@@ -5,7 +5,7 @@ hra_release_version:
   - v1.0
   - v1.1
   - v1.2
-model_type: ref-organs
+type: ref-organs
 description: '[This reference organ](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created using data from the Visible Human Male, provided by the National Library of Medicine. Changes include removing the renal calyces and renal papillae and adding them to the ureter model per subject matter expert input. '
 creators:
   - 0000-0003-4066-7531

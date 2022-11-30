@@ -27,7 +27,7 @@
 </creators>
 <publisher>HuBMAP</publisher>
 <publicationYear> Thu May 06 2021 00:00:00 GMT+0000 (Coordinated Universal Time) </publicationYear>
-<resourceType resourceTypeGeneral="Dataset"> Organ Mapping Antibody Panel </resourceType>
+<resourceType resourceTypeGeneral="">  </resourceType>
 <subjects>
     <subject> omap-pancreas-codex v1.2 </subject>
 <subjects>
@@ -87,9 +87,9 @@
 <alternateIdentfiers>
     <alternateIdentfier alternateIdentiferType = "HuBMAP ID"> HBM395.LXKX.734 </alternateIdentfier>
     <alternateIdentfier alternateIdentfierType = "How to Cite This Data Table">
-       Anna.Martinez.Casals.;Frida.Björklund.;,HuBMAP Organ Mapping Antibody Panel. omap-pancreas-codex v1.2 https://doi.org/10.48539/HBM395.LXKX.734
+       Anna.Martinez.Casals.;Frida.Björklund.;,HuBMAP . omap-pancreas-codex v1.2 https://doi.org/10.48539/HBM395.LXKX.734
     </alternateIdentfier>
-    <alternateIdentfier alternateIdentfierType="How to Cite OMAP Tables Overall" ></alternateIdentfier>
+    <alternateIdentfier alternateIdentfierType="How to Cite  Overall" ></alternateIdentfier>
 </alternateIdentfiers>
 <formats>
 	<format> .csv </format>

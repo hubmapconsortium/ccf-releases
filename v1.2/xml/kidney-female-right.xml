@@ -27,7 +27,7 @@
 </creators>
 <publisher>HuBMAP</publisher>
 <publicationYear> Fri May 06 2022 00:00:00 GMT+0000 (Coordinated Universal Time) </publicationYear>
-<resourceType resourceTypeGeneral="Model"> 3D reference human organ model </resourceType>
+<resourceType resourceTypeGeneral="">  </resourceType>
 <subjects>
     <subject> kidney-female-right v1.2 </subject>
 <subjects>
@@ -42,9 +42,9 @@
     
     
         <contributor contributorType="Other">
-            <contributorName> Jeffrey Spaggins </contributorName>
-            <givenName> Jeffrey </givenName>
-            <familyName> Spaggins </familyName>
+            <contributorName>   </contributorName>
+            <givenName>  </givenName>
+            <familyName>  </familyName>
             <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0001-9198-5498>0000-0001-9198-5498 </nameIdentifier>
         </contributor>   
     
@@ -66,9 +66,9 @@
 <alternateIdentfiers>
     <alternateIdentfier alternateIdentiferType = "HuBMAP ID"> HBM487.ZGCW.688 </alternateIdentfier>
     <alternateIdentfier alternateIdentfierType = "How to Cite This Data Table">
-       Kristen.Browne.;Heidi.Schlehlein.;,HuBMAP 3D reference human organ model. kidney-female-right v1.2 https://doi.org/10.48539/HBM487.ZGCW.688
+       Kristen.Browne.;Heidi.Schlehlein.;,HuBMAP . kidney-female-right v1.2 https://doi.org/10.48539/HBM487.ZGCW.688
     </alternateIdentfier>
-    <alternateIdentfier alternateIdentfierType="How to Cite 3D Data Overall" ></alternateIdentfier>
+    <alternateIdentfier alternateIdentfierType="How to Cite  Overall" ></alternateIdentfier>
 </alternateIdentfiers>
 <formats>
 	<format> .glb </format>

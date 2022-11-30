@@ -1,12 +1,12 @@
 backend:
   name: git-gateway
-  branch: main
-  repo: vaibhav201297/NetlifyCMS
-local_backend: true
+  branch: develop
+  repo: https://github.com/hubmapconsortium/ccf-releases
+#local_backend: true
 #publish_mode: editorial_workflow
 media_folder: "static/data/uploads/"
 public_folder: "/images/uploads"
-
+site_url: https://hra-releases.netlify.app
 
 collections:
 
@@ -15,6 +15,7 @@ collections:
     folder: "content/hra-releases"
     create: true
     fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/releases.njk" }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
 
@@ -58,16 +59,17 @@ collections:
       preview: false
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Digital Object Version", name: "version", widget: "select", options: [ { label: "v1.0", value: "v1.0" }, { label: "v1.1", value: "v1.1" }, { label: "v1.2", value: "v1.2" }, { label: "v1.3", value: "v1.3" }, { label: "v1.4", value: "v1.4" }, { label: "v1.5", value: "v1.5" }, { label: "v1.6", value: "v1.6" }, {label: "v1.7",  value: "v1.7" } ] }
-      - { label: "HRA Releases", name: "hra_releases",  widget: "list", allow_add: true, collapsed: true, field: {
-          label: "HRA Release" , name: "hra_release", widget: "relation", summary: "{{ fields.hra_release_versions }}", search_fields: ["title"],display_fields: ["title"],collection: "hra-releases", value_field: "title" },collection: "hra-releases", options_length: 100, 
+      - { label: "Digital Object Version", name: "release_version", widget: "select", options: [ { label: "v1.0", value: "v1.0" }, { label: "v1.1", value: "v1.1" }, { label: "v1.2", value: "v1.2" }, { label: "v1.3", value: "v1.3" }, { label: "v1.4", value: "v1.4" }, { label: "v1.5", value: "v1.5" }, { label: "v1.6", value: "v1.6" }, {label: "v1.7",  value: "v1.7" } ] }
+      - { label: "HRA Releases", name: "hra_release_version",  widget: "list", allow_add: true, collapsed: true, field: {
+          label: "HRA Release" , name: "hra_releases", widget: "relation", summary: "{{ fields.hra_release_versions }}", search_fields: ["title"],display_fields: ["title"],collection: "hra-releases", value_field: "title" },collection: "hra-releases", options_length: 100, 
         }
       - { label: "Digital Object Type", name: "type", widget: "relation", collection: "digital-object-types", search_fields: ["type"], value_field: "type", display_fields: ["type"]}
       - { label: "Description", name: "description", widget: "markdown"}
       - { label: "Creator(s)", name: "creators", widget: "list", allow_add: true, collapsed: true, field: {label: "Creator", name: "creator", widget: "relation", collection: "individuals",collapsed: true, summary: "{{fields.creator}}", search_fields: ["individual.orcid"], value_field: "individual.orcid",display_fields: ["individual.first_name","individual.last_name","individual.orcid"],options_length: 100  }}
 
       - { label: "Project Lead(s)", name: "project_leads", widget: "list", allow_add: true, collapsed: true,field: {label: "Project Lead", name: "project_lead", widget: "relation",collection: "individuals", search_fields: ["individual.orcid"], value_field: "individual.orcid",display_fields: ["individual.first_name","individual.last_name","individual.orcid"],options_length: 100  }  } 
-      - { label: "Reviewers(s)", name: "reviewers", widget: "list", allow_add: true, collapsed: true, field: {label: "Reviewer", name: "reviewer", widget: "relation", collection: "individuals", search_fields: ["individual.orcid"], value_field: "individual.orcid",display_fields: ["individual.first_name","individual.last_name","individual.orcid"],options_length: 100   }}
+      - { label: "Internal Reviewers(s)", name: "internal_reviewers", widget: "list", allow_add: true, collapsed: true, field: {label: "Internal Reviewer", name: "internal_reviewer", widget: "relation", collection: "individuals", search_fields: ["individual.orcid"], value_field: "individual.orcid",display_fields: ["individual.first_name","individual.last_name","individual.orcid"],options_length: 100   }}
+      - { label: "External Reviewers(s)", name: "external_reviewers", widget: "list", allow_add: true, collapsed: true, field: {label: "External Reviewer", name: "external_reviewer", widget: "relation", collection: "individuals", search_fields: ["individual.orcid"], value_field: "individual.orcid",display_fields: ["individual.first_name","individual.last_name","individual.orcid"],options_length: 100   }}
       - { label: "Creation Date", name: "creation_date", widget: "date", default: "", format: "YYYY-MM-DD"}
       - { label: "License", name: "license", widget: "select",options: [
         { label: "Creative Commons Attribution 4.0 International (CC BY 4.0)", value: "CC BY 4.0" },

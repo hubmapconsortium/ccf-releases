@@ -3,7 +3,7 @@ title: placenta-full-term-female
 release_version: v1.2
 hra_release_version:
   - v1.2
-model_type: ref-organs
+type: ref-organs
 description: '[This reference organ](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) The placenta was sculpted partly from MRI data from the Department of Obstetrics, Gynecology, and Reproductive Sciences, Division of Maternal-Fetal Medicine at UC San Diego Health. The atlas Human Microscopic Anatomy (R.V. Krstić, 1994) and  [(Mannelli et al. 2015)](https://doi.org/10.1177/1559325815611902) were consulted.'
 creators:
   - 0000-0002-3333-5646

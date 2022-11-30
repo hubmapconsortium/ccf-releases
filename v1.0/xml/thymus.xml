@@ -32,7 +32,7 @@
 </creators>
 <publisher>HuBMAP</publisher>
 <publicationYear> Fri Mar 12 2021 00:00:00 GMT+0000 (Coordinated Universal Time) </publicationYear>
-<resourceType resourceTypeGeneral="Dataset"> ASCT+B Tables </resourceType>
+<resourceType resourceTypeGeneral="">  </resourceType>
 <subjects>
     <subject> thymus v1.0 </subject>
 <subjects>
@@ -57,9 +57,9 @@
 <alternateIdentfiers>
     <alternateIdentfier alternateIdentiferType = "HuBMAP ID"> HBM934.JMVN.957 </alternateIdentfier>
     <alternateIdentfier alternateIdentfierType = "How to Cite This Data Table">
-       Maigan.Brusko.;Rebecca.T..Beuschel.;Andrea.J..Radtke.;,HuBMAP ASCT+B Tables. thymus v1.0 https://doi.org/10.48539/hbm934.jmvn.957
+       Maigan.Brusko.;Rebecca.T..Beuschel.;Andrea.J..Radtke.;,HuBMAP . thymus v1.0 https://doi.org/10.48539/hbm934.jmvn.957
     </alternateIdentfier>
-    <alternateIdentfier alternateIdentfierType="How to Cite ASCT+B Tables Overall" ></alternateIdentfier>
+    <alternateIdentfier alternateIdentfierType="How to Cite  Overall" ></alternateIdentfier>
 </alternateIdentfiers>
 <formats>
 	<format> .csv </format>

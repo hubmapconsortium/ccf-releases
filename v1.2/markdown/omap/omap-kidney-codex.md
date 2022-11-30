@@ -3,7 +3,7 @@ title: omap-kidney-codex
 release_version: v1.2
 hra_release_version:
   - v1.2
-model_type: omap
+type: omap
 description: 'The OMAP kidney panel was designed for CODEX (CO Detection by IndEXing) of fresh frozen human kidney samples. The panel contains 24 antibodies and the nuclear marker Hoechst 33342 or DAPI for image alignment and nuclear segmentation. This OMAP provides a spatial context for all anatomical structures and most cell types present in the [ASCT+B kidney table v1.1](https://doi.org/10.48539/HBM673.ZZDK.622). Additionally, the inclusion of protein biomarkers tryptase and MARCKS  allow profiling of different regions in glomeruli that are often affected by disease as well as several immune cell markers that are indicative of health.  The core and essential protein biomarkers detailed here overlap with panels developed for multiplexed imaging of kidney samples using other technologies, such as cyTOF and cyclic multiplexed immunofluorescence.'
 creators:
   - 0000-0002-6078-3321

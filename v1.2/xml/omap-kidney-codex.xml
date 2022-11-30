@@ -22,7 +22,7 @@
 </creators>
 <publisher>HuBMAP</publisher>
 <publicationYear> Fri May 06 2022 00:00:00 GMT+0000 (Coordinated Universal Time) </publicationYear>
-<resourceType resourceTypeGeneral="Dataset"> Organ Mapping Antibody Panel </resourceType>
+<resourceType resourceTypeGeneral="">  </resourceType>
 <subjects>
     <subject> omap-kidney-codex v1.2 </subject>
 <subjects>
@@ -65,9 +65,9 @@
         </contributor>   
     
         <contributor contributorType="Other">
-            <contributorName> Ellen Quardokus </contributorName>
+            <contributorName> Ellen M. Quardokus </contributorName>
             <givenName> Ellen </givenName>
-            <familyName> Quardokus </familyName>
+            <familyName> M. Quardokus </familyName>
             <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0001-7655-4833>0000-0001-7655-4833 </nameIdentifier>
         </contributor>   
     
@@ -89,9 +89,9 @@
 <alternateIdentfiers>
     <alternateIdentfier alternateIdentiferType = "HuBMAP ID"> HBM373.TBKP.375 </alternateIdentfier>
     <alternateIdentfier alternateIdentfierType = "How to Cite This Data Table">
-       Elizabeth.K.Neumann.;,HuBMAP Organ Mapping Antibody Panel. omap-kidney-codex v1.2 https://doi.org/10.48539/HBM373.TBKP.375
+       Elizabeth.K..Neumann.;,HuBMAP . omap-kidney-codex v1.2 https://doi.org/10.48539/HBM373.TBKP.375
     </alternateIdentfier>
-    <alternateIdentfier alternateIdentfierType="How to Cite OMAP Tables Overall" ></alternateIdentfier>
+    <alternateIdentfier alternateIdentfierType="How to Cite  Overall" ></alternateIdentfier>
 </alternateIdentfiers>
 <formats>
 	<format> .csv </format>

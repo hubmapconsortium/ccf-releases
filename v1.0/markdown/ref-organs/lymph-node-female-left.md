@@ -3,7 +3,7 @@ title: lymph-node-female-left
 release_version: v1.0
 hra_release_version:
   - v1.0
-model_type: ref-organs
+type: ref-organs
 description: '[This reference organ](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created using the Clearing-enhanced 3D (Ce3D) method developed by Dr. Weizhe Li, Laboratory of Immune System Biology, National Institute of Allergy and Infectious Diseases, NIH using data documented in https://www.pnas.org/content/114/35/E7321. While the size and cellular composition of mouse and human lymph nodes varies between species, the overall anatomy is well-conserved. '
 creators:
   - 0000-0003-2390-083X

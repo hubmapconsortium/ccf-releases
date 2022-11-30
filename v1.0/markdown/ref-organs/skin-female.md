@@ -3,7 +3,9 @@ title: skin-female
 release_version: v1.0
 hra_release_version:
   - v1.0
-model_type: ref-organs
+  - v1.1
+  - v1.2
+type: ref-organs
 description: '[This reference organ](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created with the Open Source modelling tool MakeHuman; screenshots of Visible Human Female provided by the National Library of Medicine were used to model dimensions. The head and neck regions were replaced with custom models and the bodies were further adjusted using Pixelogic Zbrush.'
 creators:
   - 0000-0003-4066-7531

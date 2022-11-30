@@ -32,7 +32,7 @@
 </creators>
 <publisher>HuBMAP</publisher>
 <publicationYear> Fri Mar 12 2021 00:00:00 GMT+0000 (Coordinated Universal Time) </publicationYear>
-<resourceType resourceTypeGeneral="Dataset"> ASCT+B Tables </resourceType>
+<resourceType resourceTypeGeneral="">  </resourceType>
 <subjects>
     <subject> kidney v1.0 </subject>
 <subjects>
@@ -57,9 +57,9 @@
 <alternateIdentfiers>
     <alternateIdentfier alternateIdentiferType = "HuBMAP ID"> HBM325.PTQS.258 </alternateIdentfier>
     <alternateIdentfier alternateIdentfierType = "How to Cite This Data Table">
-       Sanjay.Jain.;M..Todd.Valerius.;Yongqun.He.;,HuBMAP ASCT+B Tables. kidney v1.0 https://doi.org/10.48539/hbm325.ptqs.258
+       Sanjay.Jain.;M..Todd.Valerius.;Yongqun.He.;,HuBMAP . kidney v1.0 https://doi.org/10.48539/hbm325.ptqs.258
     </alternateIdentfier>
-    <alternateIdentfier alternateIdentfierType="How to Cite ASCT+B Tables Overall" ></alternateIdentfier>
+    <alternateIdentfier alternateIdentfierType="How to Cite  Overall" ></alternateIdentfier>
 </alternateIdentfiers>
 <formats>
 	<format> .csv </format>

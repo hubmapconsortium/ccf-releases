@@ -14,9 +14,9 @@
 </titles>
 <creators>
     
-    <creatorName>Ellen Quardokus </creatorName>
+    <creatorName>Ellen M. Quardokus </creatorName>
     <givenName>  Ellen </givenName>
-    <familyName> Quardokus </familyName>
+    <familyName> M. Quardokus </familyName>
     <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-7655-4833">0000-0001-7655-4833<nameIdentifier>
     
     <creatorName>Heidi Schlehlein </creatorName>
@@ -24,9 +24,9 @@
     <familyName> Schlehlein </familyName>
     <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3333-5646">0000-0002-3333-5646<nameIdentifier>
     
-    <creatorName>  </creatorName>
-    <givenName>   </givenName>
-    <familyName>  </familyName>
+    <creatorName>Bruce Herr II </creatorName>
+    <givenName>  Bruce </givenName>
+    <familyName> Herr II </familyName>
     <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-6703-7647">0000-0002-6703-7647<nameIdentifier>
     
     <creatorName>Katy Borner </creatorName>
@@ -37,7 +37,7 @@
 </creators>
 <publisher>HuBMAP</publisher>
 <publicationYear> Fri May 06 2022 00:00:00 GMT+0000 (Coordinated Universal Time) </publicationYear>
-<resourceType resourceTypeGeneral="Model"> 3D reference human organ model </resourceType>
+<resourceType resourceTypeGeneral="">  </resourceType>
 <subjects>
     <subject> asctb-3d-models-mapping v1.2 </subject>
 <subjects>
@@ -62,9 +62,9 @@
 <alternateIdentfiers>
     <alternateIdentfier alternateIdentiferType = "HuBMAP ID"> HBM858.DNFV.736 </alternateIdentfier>
     <alternateIdentfier alternateIdentfierType = "How to Cite This Data Table">
-       Ellen.M..Quardokus.;Heidi.Schlehlein.;;Katy.Borner.;,HuBMAP 3D reference human organ model. asctb-3d-models-mapping v1.2 https://doi.org/10.48539/HBM858.DNFV.736
+       Ellen.M. Quardokus.;Heidi.Schlehlein.;Bruce.W..Herr II.;Katy.Borner.;,HuBMAP . asctb-3d-models-mapping v1.2 https://doi.org/10.48539/HBM858.DNFV.736
     </alternateIdentfier>
-    <alternateIdentfier alternateIdentfierType="How to Cite 3D Data Overall" ></alternateIdentfier>
+    <alternateIdentfier alternateIdentfierType="How to Cite  Overall" ></alternateIdentfier>
 </alternateIdentfiers>
 <formats>
 	<format> .csv </format>

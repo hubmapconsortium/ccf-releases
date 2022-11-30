@@ -3,7 +3,7 @@ title: omap-lung-celldive
 release_version: v1.2
 hra_release_version:
   - v1.2
-model_type: omap
+type: omap
 description: 'The OMAP Lung panel was designed for Cell DIVE imaging of  Formalin-Fixed Paraffin-Embedded (FFPE) lung tissue. The tissue slides were prepared with a two-step antigen retrieval process (pH 6 and pH 9, as described [here](dx.doi.org/10.17504/protocols.io.bpwumpew). Antigens were detected using either primary antibodies with fluorophore-labeled secondaries or fluorescent dye conjugated antibodies (protocol can be found [here](dx.doi.org/10.17504/protocols.io.b4kgqutw).  The panel contains 31 antibodies and the nuclear marker DAPI for image alignment and nuclear segmentation. This OMAP provides a spatial context for key lung cell types in the [ASCT+B lung table v1.1](https://doi.org/10.48539/HBM323.SGDF.945).   Additionally, the inclusion of protein biomarkers such as AGTR1, Cathepsin L, TMPRSS2, ICAM-1, and CD55 allow characterization of proteins relevant to SARS-CoV-2 infection and profiling of the renin-angiotensin system (RAS) that may play a role in COVID-19 disease. The core and essential protein biomarkers detailed here overlap (~25%) with the panel developed for multiplexed imaging of lung samples established using conventional automated IHC staining for FFPE-material  (Dr. Christopher Werlein, an expert lung pathologist).  This OMAP does not contain antibodies for typing subsets of fibroblasts, macrophages, or endothelial cells.'
 creators:
   - 0000-0002-7334-4571

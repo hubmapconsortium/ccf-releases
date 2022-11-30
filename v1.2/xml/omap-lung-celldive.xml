@@ -19,9 +19,9 @@
     <familyName> Surrette </familyName>
     <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-7334-4571">0000-0002-7334-4571<nameIdentifier>
     
-    <creatorName>  </creatorName>
-    <givenName>   </givenName>
-    <familyName>  </familyName>
+    <creatorName>Lisa Lowery </creatorName>
+    <givenName>  Lisa </givenName>
+    <familyName> Lowery </familyName>
     <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-9143-6509">0000-0002-9143-6509<nameIdentifier>
     
     <creatorName>Gloria Pryhuber </creatorName>
@@ -29,9 +29,9 @@
     <familyName> Pryhuber </familyName>
     <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-9185-3994">0000-0002-9185-3994<nameIdentifier>
     
-    <creatorName>  </creatorName>
-    <givenName>   </givenName>
-    <familyName>  </familyName>
+    <creatorName>Gail Deutsch </creatorName>
+    <givenName>  Gail </givenName>
+    <familyName> Deutsch </familyName>
     <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-0571-0285">0000-0002-0571-0285<nameIdentifier>
     
     <creatorName>Fiona Ginty </creatorName>
@@ -42,7 +42,7 @@
 </creators>
 <publisher>HuBMAP</publisher>
 <publicationYear> Fri May 06 2022 00:00:00 GMT+0000 (Coordinated Universal Time) </publicationYear>
-<resourceType resourceTypeGeneral="Dataset"> Organ Mapping Antibody Panel </resourceType>
+<resourceType resourceTypeGeneral="">  </resourceType>
 <subjects>
     <subject> omap-lung-celldive v1.2 </subject>
 <subjects>
@@ -78,9 +78,9 @@
     
     
         <contributor contributorType="Other">
-            <contributorName>   </contributorName>
-            <givenName>  </givenName>
-            <familyName>  </familyName>
+            <contributorName> James Hagood </contributorName>
+            <givenName> James </givenName>
+            <familyName> Hagood </familyName>
             <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0003-3938-0330>0000-0003-3938-0330 </nameIdentifier>
         </contributor>   
     
@@ -99,9 +99,9 @@
         </contributor>   
     
         <contributor contributorType="Other">
-            <contributorName> Ellen Quardokus </contributorName>
+            <contributorName> Ellen M. Quardokus </contributorName>
             <givenName> Ellen </givenName>
-            <familyName> Quardokus </familyName>
+            <familyName> M. Quardokus </familyName>
             <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0001-7655-4833>0000-0001-7655-4833 </nameIdentifier>
         </contributor>   
     
@@ -116,9 +116,9 @@
 <alternateIdentfiers>
     <alternateIdentfier alternateIdentiferType = "HuBMAP ID"> HBM366.RQZK.248 </alternateIdentfier>
     <alternateIdentfier alternateIdentfierType = "How to Cite This Data Table">
-       Christine.Surrette.;;Gloria.Pryhuber.;;Fiona.Ginty.;,HuBMAP Organ Mapping Antibody Panel. omap-lung-celldive v1.2 https://doi.org/10.48539/HBM366.RQZK.248
+       Christine.Surrette.;Lisa.Lowery.;Gloria.Pryhuber.;Gail.Deutsch.;Fiona.Ginty.;,HuBMAP . omap-lung-celldive v1.2 https://doi.org/10.48539/HBM366.RQZK.248
     </alternateIdentfier>
-    <alternateIdentfier alternateIdentfierType="How to Cite OMAP Tables Overall" ></alternateIdentfier>
+    <alternateIdentfier alternateIdentfierType="How to Cite  Overall" ></alternateIdentfier>
 </alternateIdentfiers>
 <formats>
 	<format> .csv </format>

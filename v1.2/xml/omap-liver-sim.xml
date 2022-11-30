@@ -42,7 +42,7 @@
 </creators>
 <publisher>HuBMAP</publisher>
 <publicationYear> Fri May 06 2022 00:00:00 GMT+0000 (Coordinated Universal Time) </publicationYear>
-<resourceType resourceTypeGeneral="Dataset"> Organ Mapping Antibody Panel </resourceType>
+<resourceType resourceTypeGeneral="">  </resourceType>
 <subjects>
     <subject> omap-liver-sim v1.2 </subject>
 <subjects>
@@ -85,9 +85,9 @@
         </contributor>   
     
         <contributor contributorType="Other">
-            <contributorName> Ellen Quardokus </contributorName>
+            <contributorName> Ellen M. Quardokus </contributorName>
             <givenName> Ellen </givenName>
-            <familyName> Quardokus </familyName>
+            <familyName> M. Quardokus </familyName>
             <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0001-7655-4833>0000-0001-7655-4833 </nameIdentifier>
         </contributor>   
     
@@ -109,9 +109,9 @@
 <alternateIdentfiers>
     <alternateIdentfier alternateIdentiferType = "HuBMAP ID"> HBM279.BTBC.847 </alternateIdentfier>
     <alternateIdentfier alternateIdentfierType = "How to Cite This Data Table">
-       Hua.Tian.;Presha.Rajbhandari.;Taruna.V.Neelakantan.;Aubrianna.M.Decker.;Brent.R.Stockwell.;,HuBMAP Organ Mapping Antibody Panel. omap-liver-sim v1.2 https://doi.org/10.48539/HBM279.BTBC.847
+       Hua.Tian.;Presha.Rajbhandari.;Taruna.V.Neelakantan.;Aubrianna.M.Decker.;Brent.R.Stockwell.;,HuBMAP . omap-liver-sim v1.2 https://doi.org/10.48539/HBM279.BTBC.847
     </alternateIdentfier>
-    <alternateIdentfier alternateIdentfierType="How to Cite OMAP Tables Overall" ></alternateIdentfier>
+    <alternateIdentfier alternateIdentfierType="How to Cite  Overall" ></alternateIdentfier>
 </alternateIdentfiers>
 <formats>
 	<format> .csv </format>

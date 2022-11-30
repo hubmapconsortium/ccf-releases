@@ -32,7 +32,7 @@
 </creators>
 <publisher>HuBMAP</publisher>
 <publicationYear> Fri May 06 2022 00:00:00 GMT+0000 (Coordinated Universal Time) </publicationYear>
-<resourceType resourceTypeGeneral="Dataset"> ASCT+B Tables </resourceType>
+<resourceType resourceTypeGeneral="">  </resourceType>
 <subjects>
     <subject> placenta-full-term v1.2 </subject>
 <subjects>
@@ -64,9 +64,9 @@
 <alternateIdentfiers>
     <alternateIdentfier alternateIdentiferType = "HuBMAP ID"> HBM446.WGLG.755 </alternateIdentfier>
     <alternateIdentfier alternateIdentfierType = "How to Cite This Data Table">
-       Louise.Laurent.;Mana.Parast.;Kathleen.Fisch.;,HuBMAP ASCT+B Tables. placenta-full-term v1.2 https://doi.org/10.48539/HBM446.WGLG.755
+       Louise.Laurent.;Mana.Parast.;Kathleen.Fisch.;,HuBMAP . placenta-full-term v1.2 https://doi.org/10.48539/HBM446.WGLG.755
     </alternateIdentfier>
-    <alternateIdentfier alternateIdentfierType="How to Cite ASCT+B Tables Overall" ></alternateIdentfier>
+    <alternateIdentfier alternateIdentfierType="How to Cite  Overall" ></alternateIdentfier>
 </alternateIdentfiers>
 <formats>
 	<format> .csv </format>

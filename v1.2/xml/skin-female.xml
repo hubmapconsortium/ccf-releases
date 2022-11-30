@@ -27,7 +27,7 @@
 </creators>
 <publisher>HuBMAP</publisher>
 <publicationYear> Fri May 06 2022 00:00:00 GMT+0000 (Coordinated Universal Time) </publicationYear>
-<resourceType resourceTypeGeneral="Model"> 3D reference human organ model </resourceType>
+<resourceType resourceTypeGeneral="">  </resourceType>
 <subjects>
     <subject> skin-female v1.2 </subject>
 <subjects>
@@ -59,9 +59,9 @@
 <alternateIdentfiers>
     <alternateIdentfier alternateIdentiferType = "HuBMAP ID"> HBM254.DVTN.589 </alternateIdentfier>
     <alternateIdentfier alternateIdentfierType = "How to Cite This Data Table">
-       Kristen.Browne.;Heidi.Schlehlein.;,HuBMAP 3D reference human organ model. skin-female v1.2 https://doi.org/10.48539/HBM254.DVTN.589
+       Kristen.Browne.;Heidi.Schlehlein.;,HuBMAP . skin-female v1.2 https://doi.org/10.48539/HBM254.DVTN.589
     </alternateIdentfier>
-    <alternateIdentfier alternateIdentfierType="How to Cite 3D Data Overall" ></alternateIdentfier>
+    <alternateIdentfier alternateIdentfierType="How to Cite  Overall" ></alternateIdentfier>
 </alternateIdentfiers>
 <formats>
 	<format> .glb </format>

@@ -3,7 +3,8 @@ title: large-intestine-female
 release_version: v1.1
 hra_release_version:
   - v1.1
-model_type: ref-organs
+  - v1.2
+type: ref-organs
 description: '[This reference organ](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created using data provided by Arie Kaufman, Stony Brook University as a base for a custom model built using Pixelogic Zbrush.'
 creators:
   - 0000-0003-4066-7531

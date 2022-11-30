@@ -22,7 +22,7 @@
 </creators>
 <publisher>HuBMAP</publisher>
 <publicationYear> Fri May 06 2022 00:00:00 GMT+0000 (Coordinated Universal Time) </publicationYear>
-<resourceType resourceTypeGeneral="Dataset"> Organ Mapping Antibody Panel </resourceType>
+<resourceType resourceTypeGeneral="">  </resourceType>
 <subjects>
     <subject> omap-lymph-node-ibex v1.2 </subject>
 <subjects>
@@ -86,9 +86,9 @@
         </contributor>   
     
         <contributor contributorType="Other">
-            <contributorName> Ellen Quardokus </contributorName>
+            <contributorName> Ellen M. Quardokus </contributorName>
             <givenName> Ellen </givenName>
-            <familyName> Quardokus </familyName>
+            <familyName> M. Quardokus </familyName>
             <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0001-7655-4833>0000-0001-7655-4833 </nameIdentifier>
         </contributor>   
     
@@ -103,9 +103,9 @@
 <alternateIdentfiers>
     <alternateIdentfier alternateIdentiferType = "HuBMAP ID"> HBM624.PJSR.685 </alternateIdentfier>
     <alternateIdentfier alternateIdentfierType = "How to Cite This Data Table">
-       Andrea.J..Radtke.;,HuBMAP Organ Mapping Antibody Panel. omap-lymph-node-ibex v1.2 https://doi.org/10.48539/HBM624.PJSR.685
+       Andrea.J..Radtke.;,HuBMAP . omap-lymph-node-ibex v1.2 https://doi.org/10.48539/HBM624.PJSR.685
     </alternateIdentfier>
-    <alternateIdentfier alternateIdentfierType="How to Cite OMAP Tables Overall" ></alternateIdentfier>
+    <alternateIdentfier alternateIdentfierType="How to Cite  Overall" ></alternateIdentfier>
 </alternateIdentfiers>
 <formats>
 	<format> .csv </format>

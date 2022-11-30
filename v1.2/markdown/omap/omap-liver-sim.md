@@ -3,7 +3,7 @@ title: omap-liver-sim
 release_version: v1.2
 hra_release_version:
   - v1.2
-model_type: omap
+type: omap
 description: 'The OMAP Liver panel was designed for Secondary Ionization Mass Spectrometry (SIMS) imaging of fresh frozen human liver samples. The panel contains 20 antibodies and a nuclear marker.  Antibodies directed against EGFR and Na,K-ATPase are used for cell segmentation and image alignment. This OMAP provides spatial context for the anatomical structures, metabolic zonation, and  cell types present in the [ASCT+B liver table v1.0](https://doi.org/10.48539/HBM476.BQCC.574). This OMAP does not contain antibodies for NK cells, dendritic cells, portal fibroblasts, MAIT cells,  and hepatic oval cells.'
 creators:
   - 0000-0002-3598-0219

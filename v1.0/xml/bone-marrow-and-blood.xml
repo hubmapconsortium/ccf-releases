@@ -32,7 +32,7 @@
 </creators>
 <publisher>HuBMAP</publisher>
 <publicationYear> Fri Mar 12 2021 00:00:00 GMT+0000 (Coordinated Universal Time) </publicationYear>
-<resourceType resourceTypeGeneral="Dataset"> ASCT+B Tables </resourceType>
+<resourceType resourceTypeGeneral="">  </resourceType>
 <subjects>
     <subject> bone-marrow-and-blood v1.0 </subject>
 <subjects>
@@ -57,9 +57,9 @@
 <alternateIdentfiers>
     <alternateIdentfier alternateIdentiferType = "HuBMAP ID"> HBM963.TBFP.428 </alternateIdentfier>
     <alternateIdentfier alternateIdentfierType = "How to Cite This Data Table">
-       Muzlifah.A.Haniffa.;Laura.Jardine.;Sarah.A..Teichmann.;,HuBMAP ASCT+B Tables. bone-marrow-and-blood v1.0 https://doi.org/10.48539/hbm963.tbfp.428
+       Muzlifah.A..Haniffa.;Laura.Jardine.;Sarah.A..Teichmann.;,HuBMAP . bone-marrow-and-blood v1.0 https://doi.org/10.48539/hbm963.tbfp.428
     </alternateIdentfier>
-    <alternateIdentfier alternateIdentfierType="How to Cite ASCT+B Tables Overall" ></alternateIdentfier>
+    <alternateIdentfier alternateIdentfierType="How to Cite  Overall" ></alternateIdentfier>
 </alternateIdentfiers>
 <formats>
 	<format> .csv </format>

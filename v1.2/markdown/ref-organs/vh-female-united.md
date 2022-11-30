@@ -3,7 +3,7 @@ title: vh-female-united
 release_version: v1.2
 hra_release_version:
   - v1.2
-model_type: ref-organs
+type: ref-organs
 description: '[This reference organ set](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created using data from the Visible Human Female, provided by the National Library of Medicine.'
 creators:
   - 0000-0003-4066-7531

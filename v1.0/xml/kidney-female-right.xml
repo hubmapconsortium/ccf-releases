@@ -22,7 +22,7 @@
 </creators>
 <publisher>HuBMAP</publisher>
 <publicationYear> Fri Mar 12 2021 00:00:00 GMT+0000 (Coordinated Universal Time) </publicationYear>
-<resourceType resourceTypeGeneral="Model"> 3D reference human organ model </resourceType>
+<resourceType resourceTypeGeneral="">  </resourceType>
 <subjects>
     <subject> kidney-female-right v1.0 </subject>
 <subjects>
@@ -47,9 +47,9 @@
 <alternateIdentfiers>
     <alternateIdentfier alternateIdentiferType = "HuBMAP ID"> HBM726.HWKT.534 </alternateIdentfier>
     <alternateIdentfier alternateIdentfierType = "How to Cite This Data Table">
-       Kristen.Browne.;,HuBMAP 3D reference human organ model. kidney-female-right v1.0 https://doi.org/10.48539/hbm726.hwkt.534
+       Kristen.Browne.;,HuBMAP . kidney-female-right v1.0 https://doi.org/10.48539/hbm726.hwkt.534
     </alternateIdentfier>
-    <alternateIdentfier alternateIdentfierType="How to Cite 3D Data Overall" ></alternateIdentfier>
+    <alternateIdentfier alternateIdentfierType="How to Cite  Overall" ></alternateIdentfier>
 </alternateIdentfiers>
 <formats>
 	<format> .glb </format>

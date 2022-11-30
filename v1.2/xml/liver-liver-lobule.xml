@@ -22,7 +22,7 @@
 </creators>
 <publisher>HuBMAP</publisher>
 <publicationYear> Fri May 06 2022 00:00:00 GMT+0000 (Coordinated Universal Time) </publicationYear>
-<resourceType resourceTypeGeneral="Image"> 2D reference human organ FTU object </resourceType>
+<resourceType resourceTypeGeneral="">  </resourceType>
 <subjects>
     <subject> liver-liver-lobule v1.2 </subject>
 <subjects>
@@ -68,9 +68,9 @@
 <alternateIdentfiers>
     <alternateIdentfier alternateIdentiferType = "HuBMAP ID"> HBM692.KXMT.939 </alternateIdentfier>
     <alternateIdentfier alternateIdentfierType = "How to Cite This Data Table">
-       Rachel.Bajema.;,HuBMAP 2D reference human organ FTU object. liver-liver-lobule v1.2 https://doi.org/10.48539/HBM692.KXMT.939
+       Rachel.Bajema.;,HuBMAP . liver-liver-lobule v1.2 https://doi.org/10.48539/HBM692.KXMT.939
     </alternateIdentfier>
-    <alternateIdentfier alternateIdentfierType="How to Cite 2D Data Overall" ></alternateIdentfier>
+    <alternateIdentfier alternateIdentfierType="How to Cite  Overall" ></alternateIdentfier>
 </alternateIdentfiers>
 <formats>
 	<format> .svg </format>
