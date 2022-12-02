@@ -4,34 +4,33 @@ Author Name(s):,"Ellen M. Quardokus;  Heidi Schlehlein; Bruce Herr, II; Katy Bor
 Author ORCID(s):,"0000-0001-7655-4833; 0000-0002-3333-5646;  0000-0002-8977-498X, 0000-0002-6703-7647, 0000-0002-3321-6137",,,,,
 Reviewer(s):,,,,,,
 Reviewer ORCID(s):,,,,,,
-General Publication(s):,"Borner, Katy, Sarah A. Teichmann, Ellen M. Quardokus, James C. Gee, Kristen Browne, David Osumi-Sutherland, Bruce W. Herr, et al. 2021. ‚Anatomical Structures, Cell Types and Biomarkers of the Human Reference Atlas.‚Nature Cell Biology 23 (11): 1117‚28. https://doi.org/10.1038/s41556-021-00788-6.",,,,,
+General Publication(s):,"Borner, Katy, Sarah A. Teichmann, Ellen M. Quardokus, James C. Gee, Kristen Browne, David Osumi-Sutherland, Bruce W. Herr, et al. 2021. ""Anatomical Structures, Cell Types and Biomarkers of the Human Reference Atlas."" Nature Cell Biology 23 (11): 1117-28. https://doi.org/10.1038/s41556-021-00788-6.",,,,,
 Data DOI:,https://doi.org/10.48539/HBM858.DNFV.736,,,,,
 Date:,12/15/22,,,,,
 Version Number:,v1.3,,,,,
 anatomical_structure_of,source_spatial_entity,node_name,label,OntologyID,representation_of,glb file of single organs
--,-,VH_F,-,-,-,3d-vh-f-united.glb
--,#VHFemaleOrgans,VH_F_integumentary_system,integumentary system layer,UBERON:0013754,http://purl.obolibrary.org/obo/UBERON_0013754,3d-vh-f-united.glb
-#VHFSkinV1.1,#VHFemaleOrgans,VH_F_skin,skin of body,UBERON:0002097,http://purl.obolibrary.org/obo/UBERON_0002097,3d-vh-f-skin.glb
-#VHFLeftMammary_Gland,#VHFemaleOrgans,VH_F_mammary_gland,mammary gland,UBERON:0001911,http://purl.obolibrary.org/obo/UBERON_0001911,3d-vh-f-mammary-gland-l.glb
-#VHFLeftMammary_Gland,#VHFemaleOrgans,VH_F_mammary_gland_L,Left mammary gland,FMA:57991,http://purl.obolibrary.org/obo/FMA_57991,3d-vh-f-mammary-gland-l.glb
-#VHFLeftMammary_Gland,#VHFemaleOrgans,VH_F_fat_L,Interlobar adipose tissue of left mammary gland,FMA:73166,http://purl.obolibrary.org/obo/FMA_73166,3d-vh-f-mammary-gland-l.glb
-#VHFLeftMammary_Gland,#VHFemaleOrgans,VH_F_areolar_tubercles_L,areolar tubercle,UBERON:0011828,http://purl.obolibrary.org/obo/UBERON_0011828,3d-vh-f-mammary-gland-l.glb
-#VHFLeftMammary_Gland,#VHFemaleOrgans,VH_F_nipple_L,left nipple,UBERON:0013772,http://purl.obolibrary.org/obo/UBERON_0013772,3d-vh-f-mammary-gland-l.glb
-#VHFLeftMammary_Gland,#VHFemaleOrgans,VH_F_areola_L,Left female areola,FMA:223679,http://purl.obolibrary.org/obo/FMA_223679,3d-vh-f-mammary-gland-l.glb
-#VHFLeftMammary_Gland,#VHFemaleOrgans,VH_F_mammary_lobes_L,mammary lobe,UBERON:0018140,http://purl.obolibrary.org/obo/UBERON_0018140,3d-vh-f-mammary-gland-l.glb
-#VHFLeftMammary_Gland,#VHFemaleOrgans,VH_F_main_lactiferous_ducts_L,main lactiferous duct,UBERON:0015134,http://purl.obolibrary.org/obo/FMA_62102,3d-vh-f-mammary-gland-l.glb
-#VHFLeftMammary_Gland,#VHFemaleOrgans,VH_F_main_lactiferous_sinuses_L,Lactiferous sinus,FMA:58088,http://purl.obolibrary.org/obo/FMA_58088,3d-vh-f-mammary-gland-l.glb
-#VHFLeftMammary_Gland,#VHFemaleOrgans,VH_F_suspensory_ligaments_L,Suspensory ligament of left breast,FMA:73119,http://purl.obolibrary.org/obo/FMA_73119,3d-vh-f-mammary-gland-l.glb
-#VHFRightMammary_Gland,#VHFemaleOrgans,VH_F_mammary_gland_R,Right mammary gland,FMA:57987,http://purl.obolibrary.org/obo/FMA_57987,3d-vh-f-mammary-gland-r.glb
-#VHFRightMammary_Gland,#VHFemaleOrgans,VH_F_fat_R,Interlobar adipose tissue of right mammary gland,FMA:73165,http://purl.obolibrary.org/obo/FMA_73165,3d-vh-f-mammary-gland-r.glb
-#VHFRightMammary_Gland,#VHFemaleOrgans,VH_F_areolar_tubercles_R,areolar tubercle,UBERON:0011828,http://purl.obolibrary.org/obo/UBERON_0011828,3d-vh-f-mammary-gland-r.glb
-#VHFRightMammary_Gland,#VHFemaleOrgans,VH_F_nipple_R,right nipple,UBERON:0013773,http://purl.obolibrary.org/obo/UBERON_0013773,3d-vh-f-mammary-gland-r.glb
-#VHFRightMammary_Gland,#VHFemaleOrgans,VH_F_areola_R,Right female areola,FMA:223677,http://purl.obolibrary.org/obo/FMA_223677,3d-vh-f-mammary-gland-r.glb
-#VHFRightMammary_Gland,#VHFemaleOrgans,VH_F_main_lactiferous_sinuses_R,Lactiferous sinus,FMA:58088,http://purl.obolibrary.org/obo/FMA_58088,3d-vh-f-mammary-gland-r.glb
-#VHFRightMammary_Gland,#VHFemaleOrgans,VH_F_main_lactiferous_ducts_R,main lactiferous duct,UBERON:0015134,http://purl.obolibrary.org/obo/FMA_62102,3d-vh-f-mammary-gland-r.glb
-#VHFRightMammary_Gland,#VHFemaleOrgans,VH_F_mammary_lobes_R,mammary lobe,UBERON:0018140,http://purl.obolibrary.org/obo/UBERON_0018140,3d-vh-f-mammary-gland-r.glb
-#VHFRightMammary_Gland,#VHFemaleOrgans,VH_F_suspensory_ligaments_R,Suspensory ligament of right breast,FMA:73118,http://purl.obolibrary.org/obo/FMA_73118,3d-vh-f-mammary-gland-r.glb
--,#VHFemaleOrgans,VH_F_nervous_system,central nervous system,UBERON:0001017,http://purl.obolibrary.org/obo/UBERON_0001017,3d-vh-f-united.glb
+-,-,VH_F,-,-,-,3d-vh-f-united
+-,#VHFemaleOrgans,VH_F_integumentary_system,integumentary system layer,UBERON:0013754,http://purl.obolibrary.org/obo/UBERON_0013754,3d-vh-f-united
+#VHFSkinV1.1,#VHFemaleOrgans,VH_F_skin,skin of body,UBERON:0002097,http://purl.obolibrary.org/obo/UBERON_0002097,3d-vh-f-skin
+#VHFLeftMammaryGland,#VHFemaleOrgans,VH_F_mammary_gland_L,Left mammary gland,FMA:57991,http://purl.obolibrary.org/obo/FMA_57991,3d-vh-f-mammary-gland-l
+#VHFLeftMammaryGland,#VHFemaleOrgans,VH_F_fat_L,Interlobar adipose tissue of left mammary gland,FMA:73166,http://purl.obolibrary.org/obo/FMA_73166,3d-vh-f-mammary-gland-l
+#VHFLeftMammaryGland,#VHFemaleOrgans,VH_F_areolar_tubercles_L,areolar tubercle,UBERON:0011828,http://purl.obolibrary.org/obo/UBERON_0011828,3d-vh-f-mammary-gland-l
+#VHFLeftMammaryGland,#VHFemaleOrgans,VH_F_nipple_L,left nipple,UBERON:0013772,http://purl.obolibrary.org/obo/UBERON_0013772,3d-vh-f-mammary-gland-l
+#VHFLeftMammaryGland,#VHFemaleOrgans,VH_F_areola_L,Left female areola,FMA:223679,http://purl.obolibrary.org/obo/FMA_223679,3d-vh-f-mammary-gland-l
+#VHFLeftMammaryGland,#VHFemaleOrgans,VH_F_mammary_lobes_L,mammary lobe,UBERON:0018140,http://purl.obolibrary.org/obo/UBERON_0018140,3d-vh-f-mammary-gland-l
+#VHFLeftMammaryGland,#VHFemaleOrgans,VH_F_main_lactiferous_ducts_L,main lactiferous duct,UBERON:0015134,http://purl.obolibrary.org/obo/FMA_62102,3d-vh-f-mammary-gland-l
+#VHFLeftMammaryGland,#VHFemaleOrgans,VH_F_main_lactiferous_sinuses_L,Lactiferous sinus,FMA:58088,http://purl.obolibrary.org/obo/FMA_58088,3d-vh-f-mammary-gland-l
+#VHFLeftMammaryGland,#VHFemaleOrgans,VH_F_suspensory_ligaments_L,Suspensory ligament of left breast,FMA:73119,http://purl.obolibrary.org/obo/FMA_73119,3d-vh-f-mammary-gland-l
+#VHFRightMammaryGland,#VHFemaleOrgans,VH_F_mammary_gland_R,Right mammary gland,FMA:57987,http://purl.obolibrary.org/obo/FMA_57987,3d-vh-f-mammary-gland-r
+#VHFRightMammaryGland,#VHFemaleOrgans,VH_F_fat_R,Interlobar adipose tissue of right mammary gland,FMA:73165,http://purl.obolibrary.org/obo/FMA_73165,3d-vh-f-mammary-gland-r
+#VHFRightMammaryGland,#VHFemaleOrgans,VH_F_areolar_tubercles_R,areolar tubercle,UBERON:0011828,http://purl.obolibrary.org/obo/UBERON_0011828,3d-vh-f-mammary-gland-r
+#VHFRightMammaryGland,#VHFemaleOrgans,VH_F_nipple_R,right nipple,UBERON:0013773,http://purl.obolibrary.org/obo/UBERON_0013773,3d-vh-f-mammary-gland-r
+#VHFRightMammaryGland,#VHFemaleOrgans,VH_F_areola_R,Right female areola,FMA:223677,http://purl.obolibrary.org/obo/FMA_223677,3d-vh-f-mammary-gland-r
+#VHFRightMammaryGland,#VHFemaleOrgans,VH_F_main_lactiferous_sinuses_R,Lactiferous sinus,FMA:58088,http://purl.obolibrary.org/obo/FMA_58088,3d-vh-f-mammary-gland-r
+#VHFRightMammaryGland,#VHFemaleOrgans,VH_F_main_lactiferous_ducts_R,main lactiferous duct,UBERON:0015134,http://purl.obolibrary.org/obo/FMA_62102,3d-vh-f-mammary-gland-r
+#VHFRightMammaryGland,#VHFemaleOrgans,VH_F_mammary_lobes_R,mammary lobe,UBERON:0018140,http://purl.obolibrary.org/obo/UBERON_0018140,3d-vh-f-mammary-gland-r
+#VHFRightMammaryGland,#VHFemaleOrgans,VH_F_suspensory_ligaments_R,Suspensory ligament of right breast,FMA:73118,http://purl.obolibrary.org/obo/FMA_73118,3d-vh-f-mammary-gland-r
+-,#VHFemaleOrgans,VH_F_nervous_system,central nervous system,UBERON:0001017,http://purl.obolibrary.org/obo/UBERON_0001017,3d-vh-f-united
 -,#VHFemaleOrgans,VH_F_eyes,eye,UBERON:0000970,http://purl.obolibrary.org/obo/UBERON_0000970,VH_F_Eye_L
 #VHFLeftEye,#VHFemaleOrgans,VH_F_eye_L,left eye,UBERON:0004548,http://purl.obolibrary.org/obo/UBERON_0004548,VH_F_Eye_L
 #VHFLeftEye,#VHFemaleOrgans,VH_F_palpebral_conjunctiva_of_left_lower_eyelid,Palpebral conjunctiva of left lower eyelid,FMA:223075,http://purl.obolibrary.org/obo/FMA_223075,VH_F_Eye_L
@@ -81,7 +80,7 @@ anatomical_structure_of,source_spatial_entity,node_name,label,OntologyID,represe
 #VHFRightEye,#VHFemaleOrgans,VH_F_bulbar_conjunctiva_R,Right bulbar conjunctiva,FMA:59028,http://purl.obolibrary.org/obo/FMA_59028,VH_F_Eye_R
 #VHFRightEye,#VHFemaleOrgans,VH_F_palpebral_conjunctiva_of_right_lower_eyelid,Palpebral conjunctiva of right lower eyelid,FMA:223074,http://purl.obolibrary.org/obo/FMA_223074,VH_F_Eye_R
 #VHFRightEye,#VHFemaleOrgans,VH_F_palpebral_conjunctiva_of_right_upper_eyelid,Palpebral conjunctiva of right upper eyelid,FMA:223076,http://purl.obolibrary.org/obo/FMA_223076,VH_F_Eye_R
--,#VHFemaleOrgans,VH_F_nerves_of_eye,-,-,-,3d-vh-f-united.glb
+-,#VHFemaleOrgans,VH_F_nerves_of_eye,-,-,-,3d-vh-f-united
 -,#VHFemaleOrgans,VH_F_nerves_of_eye_R,-,-,-,VH_F_Nerves_Eye_R
 #VHFNervesRightEye,#VHFemaleOrgans,VH_F_right_optic_nerve,Right optic nerve,FMA:50875,http://purl.obolibrary.org/obo/FMA_50875,VH_F_Nerves_Eye_R
 #VHFNervesRightEye,#VHFemaleOrgans,VH_F_dura_mater_right,dura mater,UBERON:0002363,http://purl.obolibrary.org/obo/UBERON_0002363,VH_F_Nerves_Eye_R
@@ -404,8 +403,8 @@ anatomical_structure_of,source_spatial_entity,node_name,label,OntologyID,represe
 #VHFSpinalCord,#VHFemaleOrgans,VH_F_second_sacral_spinal_cord_segment,second sacral spinal cord segment,UBERON:0006461,http://purl.obolibrary.org/obo/UBERON_0006461,VH_F_Spinal_Cord
 #VHFSpinalCord,#VHFemaleOrgans,VH_F_third_sacral_spinal_cord_segment,third sacral spinal cord segment,UBERON:0006462,http://purl.obolibrary.org/obo/UBERON_0006462,VH_F_Spinal_Cord
 #VHFSpinalCord,#VHFemaleOrgans,VH_F_fourth_sacral_spinal_cord_segment,fourth sacral spinal cord segment,UBERON:0006463,http://purl.obolibrary.org/obo/UBERON_0006463,VH_F_Spinal_Cord
--,#VHFemaleOrgans,VH_F_muscular_system,muscle organ,UBERON:0001630,http://purl.obolibrary.org/obo/UBERON_0001630,3d-vh-f-united.glb
--,#VHFemaleOrgans,VH_F_muscles_of_eye,eye muscle,UBERON:0004277,http://purl.obolibrary.org/obo/UBERON_0004277,3d-vh-f-united.glb
+-,#VHFemaleOrgans,VH_F_muscular_system,muscle organ,UBERON:0001630,http://purl.obolibrary.org/obo/UBERON_0001630,3d-vh-f-united
+-,#VHFemaleOrgans,VH_F_muscles_of_eye,eye muscle,UBERON:0004277,http://purl.obolibrary.org/obo/UBERON_0004277,3d-vh-f-united
 -,#VHFemaleOrgans,VH_F_ocular_muscles_L,Ocular muscle,FMA:49149,http://purl.obolibrary.org/obo/FMA_49149,VH_F_Muscles_Eye_L
 #VHFMusclesLeftEye,#VHFemaleOrgans,VH_F_superior_oblique_extraocular_muscle_L,Left superior oblique,FMA:49053,http://purl.obolibrary.org/obo/FMA_49053,VH_F_Muscles_Eye_L
 #VHFMusclesLeftEye,#VHFemaleOrgans,VH_F_lateral_rectus_extraocular_muscle_L,Left lateral rectus,FMA:49055,http://purl.obolibrary.org/obo/FMA_49055,VH_F_Muscles_Eye_L
@@ -422,14 +421,14 @@ anatomical_structure_of,source_spatial_entity,node_name,label,OntologyID,represe
 #VHFMusclesRightEye,#VHFemaleOrgans,VH_F_inferior_oblique_extraocular_muscle_R,Right inferior oblique,FMA:49050,http://purl.obolibrary.org/obo/FMA_49050,VH_F_Muscles_Eye_R
 #VHFMusclesRightEye,#VHFemaleOrgans,VH_F_lateral_rectus_extraocular_muscle_R,Right lateral rectus,FMA:49054,http://purl.obolibrary.org/obo/FMA_49054,VH_F_Muscles_Eye_R
 #VHFMusclesRightEye,#VHFemaleOrgans,VH_F_superior_oblique_extraocular_muscle_R,Right superior oblique,FMA:49052,http://purl.obolibrary.org/obo/FMA_49052,VH_F_Muscles_Eye_R
--,#VHFemaleOrgans,VH_F_muscles_of_knee,-,-,-,3d-vh-f-united.glb
+-,#VHFemaleOrgans,VH_F_muscles_of_knee,-,-,-,3d-vh-f-united
 -,#VHFemaleOrgans,VH_F_muscles_of_knee_L,-,-,-,VH_F_Muscles_Knee_L
 #VHFMusclesLeftKnee,#VHFemaleOrgans,VH_F_rectus_femoris_L,Left rectus femoris,FMA:38929,http://purl.obolibrary.org/obo/FMA_38929,VH_F_Muscles_Knee_L
 #VHFMusclesLeftKnee,#VHFemaleOrgans,VH_F_tendon_of_quadriceps_femoris_L,Tendon of left quadriceps femoris,FMA:46902,http://purl.obolibrary.org/obo/FMA_46902,VH_F_Muscles_Knee_L
 -,#VHFemaleOrgans,VH_F_muscles_of_knee_R,-,-,-,VH_F_Muscles_Knee_R
 #VHFMusclesRightKnee,#VHFemaleOrgans,VH_F_rectus_femoris_R,Right rectus femoris,FMA:38928,http://purl.obolibrary.org/obo/FMA_38928,VH_F_Muscles_Knee_R
 #VHFMusclesRightKnee,#VHFemaleOrgans,VH_F_tendon_of_quadriceps_femoris_R,Tendon of right quadriceps femoris,FMA:46901,http://purl.obolibrary.org/obo/FMA_46901,VH_F_Muscles_Knee_R
--,#VHFemaleOrgans,VH_F_reproductive_system,female reproductive system,UBERON:0000474,http://purl.obolibrary.org/obo/UBERON_0000474,3d-vh-f-united.glb
+-,#VHFemaleOrgans,VH_F_reproductive_system,female reproductive system,UBERON:0000474,http://purl.obolibrary.org/obo/UBERON_0000474,3d-vh-f-united
 #VHFPlacenta,#VHFemaleOrgans,VH_F_placenta,placenta,UBERON:0001987,http://purl.obolibrary.org/obo/UBERON_0001987,VH_F_Placenta
 #VHFPlacenta,#VHFemaleOrgans,VH_F_basal_plate,-,-,-,VH_F_Placenta
 #VHFPlacenta,#VHFemaleOrgans,VH_F_chorionic_plate,chorionic plate,UBERON:0004027,http://purl.obolibrary.org/obo/UBERON_0004027,VH_F_Placenta
@@ -442,7 +441,7 @@ anatomical_structure_of,source_spatial_entity,node_name,label,OntologyID,represe
 #VHFPlacenta,#VHFemaleOrgans,VH_F_umbilical_vein,umbilical vein,UBERON:0002066,http://purl.obolibrary.org/obo/UBERON_0002066,VH_F_Placenta
 #VHFVagina,#VHFemaleOrgans,VH_F_vagina,vagina,UBERON:0000996,http://purl.obolibrary.org/obo/UBERON_0000996,VH_F_Vagina
 #VHFUterus,#VHFemaleOrgans,VH_F_cervicovaginal_junction,-,-,-,VH_F_Uterus
--,#VHFemaleOrgans,VH_F_fallopian_tube,-,-,-,3d-vh-f-united.glb
+-,#VHFemaleOrgans,VH_F_fallopian_tube,-,-,-,3d-vh-f-united
 #VHFRightFallopianTube,#VHFemaleOrgans,VH_F_fallopian_tube_R,right uterine tube,UBERON:0001302,http://purl.obolibrary.org/obo/UBERON_0001302,VH_F_Fallopian_Tube_R
 #VHFRightFallopianTube,#VHFemaleOrgans,VH_F_ampulla_of_uterine_tube_R,Ampulla of right uterine tube,FMA:18491,http://purl.obolibrary.org/obo/FMA_18491,VH_F_Fallopian_Tube_R
 #VHFRightFallopianTube,#VHFemaleOrgans,VH_F_isthmus_of_fallopian_tube_R,Isthmus of right uterine tube,FMA:18493,http://purl.obolibrary.org/obo/FMA_18493,VH_F_Fallopian_Tube_R
@@ -491,7 +490,7 @@ anatomical_structure_of,source_spatial_entity,node_name,label,OntologyID,represe
 #VHFUterus,#VHFemaleOrgans,VH_F_cervix,uterine cervix,UBERON:0000002,http://purl.obolibrary.org/obo/UBERON_0000002,VH_F_Uterus
 #VHFUterus,#VHFemaleOrgans,VH_F_internal_cervical_os,internal cervical os,UBERON:0013759,http://purl.obolibrary.org/obo/UBERON_0013759,VH_F_Uterus
 #VHFUterus,#VHFemaleOrgans,VH_F_external_cervical_os,external cervical os,UBERON:0013760,http://purl.obolibrary.org/obo/UBERON_0013760,VH_F_Uterus
--,#VHFemaleOrgans,VH_F_digestive_system,digestive system,UBERON:0001007,http://purl.obolibrary.org/obo/UBERON_0001007,3d-vh-f-united.glb
+-,#VHFemaleOrgans,VH_F_digestive_system,digestive system,UBERON:0001007,http://purl.obolibrary.org/obo/UBERON_0001007,3d-vh-f-united
 #VHFLargeIntestine,#VHFemaleOrgans,VH_F_colon,large intestine,UBERON:0000059,http://purl.obolibrary.org/obo/UBERON_0000059,SBU_F_Intestine_Large
 #VHFLargeIntestine,#VHFemaleOrgans,VH_F_hepatic_flexure_of_colon,hepatic flexure of colon,UBERON:0022277,http://purl.obolibrary.org/obo/UBERON_0022277,SBU_F_Intestine_Large
 #VHFLargeIntestine,#VHFemaleOrgans,VH_F_transverse_colon,transverse colon,UBERON:0001157,http://purl.obolibrary.org/obo/UBERON_0001157,SBU_F_Intestine_Large
@@ -567,9 +566,9 @@ anatomical_structure_of,source_spatial_entity,node_name,label,OntologyID,represe
 #VHFPancreas,#VHFemaleOrgans,VH_F_neck_of_pancreas,Neck of pancreas,FMA:14517,http://purl.obolibrary.org/obo/FMA_14517,VH_F_Pancreas
 -,-,VH_F_gallbladder_,-,-,-,-
 #VHFGallbladder,#VHFemaleOrgans,VH_F_gallbladder,gallbladder,UBERON:0002110,http://purl.obolibrary.org/obo/UBERON_0002110,VH_F_Gallbladder
--,#VHFemaleOrgans,VH_F_urinary_system,renal system,UBERON:0001008,http://purl.obolibrary.org/obo/UBERON_0001008,3d-vh-f-united.glb
+-,#VHFemaleOrgans,VH_F_urinary_system,renal system,UBERON:0001008,http://purl.obolibrary.org/obo/UBERON_0001008,3d-vh-f-united
 -,#VHFemaleOrgans,VH_F_upper_urinary_tract,-,-,-,-
--,#VHFemaleOrgans,VH_F_kidney,kidney,UBERON:0002113,http://purl.obolibrary.org/obo/UBERON_0002113,3d-vh-f-united.glb
+-,#VHFemaleOrgans,VH_F_kidney,kidney,UBERON:0002113,http://purl.obolibrary.org/obo/UBERON_0002113,3d-vh-f-united
 #VHFLeftKidneyV1.1,#VHFemaleOrgans,VH_F_left_kidney,left kidney,UBERON:0004538,http://purl.obolibrary.org/obo/UBERON_0004538,VH_F_Kidney_L
 #VHFLeftKidneyV1.1,#VHFemaleOrgans,VH_F_kidney_capsule_L,kidney capsule,UBERON:0002015,http://purl.obolibrary.org/obo/UBERON_0002015,VH_F_Kidney_L
 #VHFLeftKidneyV1.1,#VHFemaleOrgans,VH_F_hilum_of_kidney_L,hilum of kidney,UBERON:0008716,http://purl.obolibrary.org/obo/UBERON_0008716,VH_F_Kidney_L
@@ -852,7 +851,7 @@ anatomical_structure_of,source_spatial_entity,node_name,label,OntologyID,represe
 #VHFBloodVasculature,#VHFemaleOrgans,VH_F_left_subclavian_artery_b,left subclavian artery,UBERON:0001584,http://purl.obolibrary.org/obo/UBERON_0001584,VH_F_Heart
 #VHFBloodVasculature,#VHFemaleOrgans,VH_F_brachiocephalic_artery_b,brachiocephalic artery,UBERON:0001529,http://purl.obolibrary.org/obo/UBERON_0001529,VH_F_Heart
 #VHFBloodVasculature,#VHFemaleOrgans,VH_F_brachiocephalic_artery_a,brachiocephalic artery,UBERON:0001529,http://purl.obolibrary.org/obo/UBERON_0001529,VH_F_Heart
-#VHFLungV1.1,#VHFemaleOrgans,VH_F_respiratory_system,respiratory system,UBERON:0001004,http://purl.obolibrary.org/obo/UBERON_0001004,3d-vh-f-united.glb
+#VHFLungV1.1,#VHFemaleOrgans,VH_F_respiratory_system,respiratory system,UBERON:0001004,http://purl.obolibrary.org/obo/UBERON_0001004,3d-vh-f-united
 #VHFLungV1.1,#VHFemaleOrgans,VH_F_lungs,lung,UBERON:0002048,http://purl.obolibrary.org/obo/UBERON_0002048,VH_F_Lungs
 #VHFLungV1.1,#VHFemaleOrgans,VH_F_left_lungs_L,left lung,UBERON:0002168,http://purl.obolibrary.org/obo/UBERON_0002168,VH_F_Lungs
 #VHFLungV1.1,#VHFemaleOrgans,VH_F_hilum_L,left lung hilus,UBERON:0004887,http://purl.obolibrary.org/obo/UBERON_0004887,VH_F_Lungs
@@ -937,7 +936,7 @@ anatomical_structure_of,source_spatial_entity,node_name,label,OntologyID,represe
 #VHFLungV1.1,#VHFemaleOrgans,VH_F_right_posterior_bronchus,Right posterior segmental bronchus,FMA:7399,http://purl.org/sig/ont/fma/fma7399,VH_F_Lungs
 #VHFLungV1.1,#VHFemaleOrgans,VH_F_bronchial_cartilage,Cartilage of bronchus,FMA:62649,http://purl.org/sig/ont/fma/fma62649,VH_F_Lungs
 #VHFLungV1.1,#VHFemaleOrgans,VH_F_trachea,trachea,UBERON:0003126,http://purl.obolibrary.org/obo/UBERON_0003126,VH_F_Lungs
--,#VHFemaleOrgans,VH_F_lymphatic_system,lymphoid system,UBERON:0002465,http://purl.obolibrary.org/obo/UBERON_0002465,3d-vh-f-united.glb
+-,#VHFemaleOrgans,VH_F_lymphatic_system,lymphoid system,UBERON:0002465,http://purl.obolibrary.org/obo/UBERON_0002465,3d-vh-f-united
 #VHFSpleenV1.1,#VHFemaleOrgans,VH_F_spleen,spleen,UBERON:0002106,http://purl.obolibrary.org/obo/UBERON_0002106,VH_F_Spleen
 #VHFSpleenV1.1,#VHFemaleOrgans,VH_F_gastric_surface_of_spleen,gastric surface of spleen,FMA:15837,http://purl.org/sig/ont/fma/fma15837,VH_F_Spleen
 #VHFSpleenV1.1,#VHFemaleOrgans,VH_F_diaphragmatic_surface_of_spleen,diaphragmatic surface of spleen,FMA:15828,http://purl.org/sig/ont/fma/fma15828,VH_F_Spleen
@@ -955,7 +954,7 @@ anatomical_structure_of,source_spatial_entity,node_name,label,OntologyID,represe
 #VHFLymphNode,#VHFemaleOrgans,Yao_medulla_of_lymph_node,medulla of lymph node,UBERON:0002007,http://purl.obolibrary.org/obo/UBERON_0002007,NIH_F_Lymph_Node
 #VHFLymphNode,#VHFemaleOrgans,Yao_paracortex,lymph node T cell domain,UBERON:0010417,http://purl.obolibrary.org/obo/UBERON_0010417,NIH_F_Lymph_Node
 #VHFLymphNode,#VHFemaleOrgans,Yao_blood_vasculature,Lymph vasculature,UBERON:0004536,http://purl.obolibrary.org/obo/UBERON_0004536,NIH_F_Lymph_Node
--,#VHFemaleOrgans,VH_F_skeletal_system,skeletal system,UBERON:0001434,http://purl.obolibrary.org/obo/UBERON_0001434,3d-vh-f-united.glb
+-,#VHFemaleOrgans,VH_F_skeletal_system,skeletal system,UBERON:0001434,http://purl.obolibrary.org/obo/UBERON_0001434,3d-vh-f-united
 #VHFPelvis,#VHFemaleOrgans,VH_F_pelvis,bony pelvis,UBERON:0001270,http://purl.obolibrary.org/obo/UBERON_0001270,VH_F_Pelvis
 #VHFPelvis,#VHFemaleOrgans,VH_F_sacrum,fused sacrum,UBERON:0003690,http://purl.obolibrary.org/obo/UBERON_0003690,VH_F_Pelvis
 #VHFPelvis,#VHFemaleOrgans,VH_F_coccyx,coccyx,UBERON:0001350,http://purl.obolibrary.org/obo/UBERON_0001350,VH_F_Pelvis
@@ -980,8 +979,8 @@ anatomical_structure_of,source_spatial_entity,node_name,label,OntologyID,represe
 #VHFPelvis,#VHFemaleOrgans,VH_F_ischium_spongy_bone,trabecular bone tissue,UBERON:0002483,http://purl.obolibrary.org/obo/UBERON_0002483,VH_F_Pelvis
 #VHFPelvis,#VHFemaleOrgans,VH_F_ischium_spongy_bone_R,trabecular bone tissue,UBERON:0002483,http://purl.obolibrary.org/obo/UBERON_0002483,VH_F_Pelvis
 #VHFPelvis,#VHFemaleOrgans,VH_F_ischium_spongy_bone_L,trabecular bone tissue,UBERON:0002483,http://purl.obolibrary.org/obo/UBERON_0002483,VH_F_Pelvis
--,-,VH_F_lower_limb,-,-,-,3d-vh-f-united.glb
--,-,VH_F_lower_limb_R,-,-,-,3d-vh-f-united.glb
+-,-,VH_F_lower_limb,-,-,-,3d-vh-f-united
+-,-,VH_F_lower_limb_R,-,-,-,3d-vh-f-united
 #VHFKneeLigamentsRight,#VHFemaleOrgans,VH_F_ligaments_of_knee_R,-,-,-,VH_F_Ligaments_of_Knee_R
 #VHFKneeLigamentsRight,#VHFemaleOrgans,VH_F_right_tibial_collateral_ligament,Right tibial collateral ligament,FMA:44601,http://purl.obolibrary.org/obo/FMA_44601,VH_F_Ligaments_of_Knee_R
 #VHFKneeLigamentsRight,#VHFemaleOrgans,VH_F_anterior_cruciate_ligament_of_knee_R,Right anterior cruciate ligament,FMA:44615,http://purl.obolibrary.org/obo/FMA_44615,VH_F_Ligaments_of_Knee_R
@@ -1011,7 +1010,7 @@ anatomical_structure_of,source_spatial_entity,node_name,label,OntologyID,represe
 #VHFRightKnee,#VHFemaleOrgans,VH_F_tibia_R,Right tibia,FMA:24477,http://purl.obolibrary.org/obo/FMA_24477,VH_F_Knee_R
 #VHFRightKnee,#VHFemaleOrgans,VH_F_fibula_R,Right fibula,FMA:24480,http://purl.obolibrary.org/obo/FMA_24480,VH_F_Knee_R
 #VHFRightKnee,#VHFemaleOrgans,VH_F_patella_R,Right patella,FMA:24486,http://purl.obolibrary.org/obo/FMA_24486,VH_F_Knee_R
--,#VHFemaleOrgans,VH_F_lower_limb_L,-,-,-,3d-vh-f-united.glb
+-,#VHFemaleOrgans,VH_F_lower_limb_L,-,-,-,3d-vh-f-united
 -,#VHFemaleOrgans,VH_F_ligaments_of_knee_L,-,-,-,VH_M_United
 #VHFKneeLigamentsLeft,#VHFemaleOrgans,VH_F_anterolateral_ligament_of_knee_L,anterolateral ligament of knee,UBERON:0014899,http://purl.obolibrary.org/obo/UBERON_0014899,VH_F_Ligaments_of_Knee_L
 #VHFKneeLigamentsLeft,#VHFemaleOrgans,VH_F_fibular_collateral_ligament_L,Left fibular collateral ligament,FMA:44610,http://purl.obolibrary.org/obo/FMA_44610,VH_F_Ligaments_of_Knee_L
@@ -1041,7 +1040,7 @@ anatomical_structure_of,source_spatial_entity,node_name,label,OntologyID,represe
 #VHFLeftKnee,#VHFemaleOrgans,VH_F_patella_L,Left patella,FMA:24487,http://purl.obolibrary.org/obo/FMA_24487,VH_F_Knee_L
 #VHFLeftKnee,#VHFemaleOrgans,VH_F_tibia_L,Left tibia,FMA:24478,http://purl.obolibrary.org/obo/FMA_24478,VH_F_Knee_L
 #VHFLeftKnee,#VHFemaleOrgans,VH_F_fibula_L,Left fibula,FMA:24481,http://purl.obolibrary.org/obo/FMA_24481,VH_F_Knee_L
--,#VHFemaleOrgans,VH_F_vertebrae,vertebra,UBERON:0002412,http://purl.obolibrary.org/obo/UBERON_0002412,3d-vh-f-united.glb
+-,#VHFemaleOrgans,VH_F_vertebrae,vertebra,UBERON:0002412,http://purl.obolibrary.org/obo/UBERON_0002412,3d-vh-f-united
 #VHFVertebrae,#VHFemaleOrgans,VH_F_lumbar_vertebra_1,lumbar vertebra 1,UBERON:0004617,http://purl.obolibrary.org/obo/UBERON_0004617,VH_F_Vertebrae
 #VHFVertebrae,#VHFemaleOrgans,VH_F_lumbar_vertebra_2,lumbar vertebra 2,UBERON:0004618,http://purl.obolibrary.org/obo/UBERON_0004618,VH_F_Vertebrae
 #VHFVertebrae,#VHFemaleOrgans,VH_F_lumbar_vertebra_3,lumbar vertebra 3,UBERON:0004619,http://purl.obolibrary.org/obo/UBERON_0004619,VH_F_Vertebrae
