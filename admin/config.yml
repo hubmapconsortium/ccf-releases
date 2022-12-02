@@ -1,15 +1,4 @@
-backend:
-  name: git-gateway
-  branch: develop
-  repo: https://github.com/hubmapconsortium/ccf-releases
-#local_backend: true
-#publish_mode: editorial_workflow
-media_folder: "static/data/uploads/"
-public_folder: "/images/uploads"
-site_url: https://hra-releases.netlify.app
-
 collections:
-
   - name: "hra-releases"
     label: "HRA Releases"
     folder: "content/hra-releases"
@@ -39,7 +28,6 @@ collections:
     identifier_field:  individual.last_name
     slug: "{{individual.first_name}}.{{individual.last_name}}"
 
-
   - name: "digital-object-types"
     label: "Digital Object Types"
     create: true
@@ -49,8 +37,7 @@ collections:
       - { label: "Description", name: "description", widget: "string" }
     identifier_field: type
     folder: "content/digital-object-types"
-    
-    
+        
   - name: "digital-objects"
     label: "Digital Object"
     label_singular: "Digital Object"
@@ -85,3 +72,14 @@ collections:
     folder: "content/digital-objects"  
     slug: "{{title}}"
     path: "{{release_version}}/docs/{{model_type}}/{{slug}}"
+
+backend:
+  name: github
+  branch: develop
+  repo: hubmapconsortium/ccf-releases
+#local_backend: true
+#publish_mode: editorial_workflow
+
+media_folder: "static/data/uploads/"
+public_folder: "/images/uploads"
+site_url: https://hra-releases.netlify.app
