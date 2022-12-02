@@ -10,7 +10,8 @@ module.exports = function (eleventyConfig) {
     }
     return orcid_ind_dict;
   })
-  eleventyConfig.addCollection("release_digital_objects",function (collectionApi){
+
+  eleventyConfig.addCollection("release_digital_objects",function (collectionApi) {
     const digital_objects = collectionApi.getFilteredByTag("digital_objects")
     const hra_releases = collectionApi.getFilteredByTag("hra_releases")
     let  release_files_dict = {}
@@ -20,16 +21,19 @@ module.exports = function (eleventyConfig) {
         //console.log(init_release)
         let release = d_o.data.release_version
         let hra_releases = d_o.data.hra_release_version
-        let d_o_url="/"+release+"/docs/"+d_o.data.type+"/"+d_o.data.title+".html"
+        let model_type = d_o.data.type
+        //console.log(model_type)
+        let d_o_url="/"+release+"/docs/"+model_type+"/"+d_o.data.title+".html"
         if(!(release in release_files_dict)){
-          release_files_dict[release]=new Array(d_o_url)
+          //console.log(model_type)
+          release_files_dict[release]= Array(d_o_url)
         }
         else{
           release_files_dict[release].push(d_o_url)
         }
  
     }
-  console.log(release_files_dict)
+  //console.log(release_files_dict)
   return release_files_dict;
   })
 
@@ -44,6 +48,27 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("get_year", function (value) {
     date = new Date(value)
     return date.getYear()
+  });
+  eleventyConfig.addFilter("get_model_type", function (value) {
+    
+    if(value == undefined){
+      return
+    }
+    else{
+      console.log(value.split("/")[3])
+      return value.split("/")[3]
+    }
+    
+  });
+  eleventyConfig.addFilter("get_file_title", function (value) {
+    
+    if(value == undefined){
+      return
+    }
+    else{
+      console.log(value.split("/")[4])
+      return value.split("/")[4]
+    }
   });
 
   eleventyConfig.addFilter("myDateFilter", function (value) {
