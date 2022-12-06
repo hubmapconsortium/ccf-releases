@@ -2,93 +2,209 @@
 layout: layouts/base.njk
 permalink: /{{release_version}}/docs/{{type}}/{{page.fileSlug}}.html
 ---
-{% set orc_ind_dict =  collections.ind_orcids %}
-<div class="container-md" style="margin-left:20%;margin-top:2.5rem;background-color:#FFFFFF;padding:3%;box-shadow:rgb(0 0 0 / 14%) 0px 2px 2px 0px, rgb(0 0 0 / 20%) 0px 3px 1px -2px, rgb(0 0 0 / 12%) 0px 1px 5px 0px">
+{% set orc_ind_dict = collections.ind_orcids %}
 {% if type == "asct-b" %}
-    <h2><b> ASCT-B</b> </h2>    
+  <h1>Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) {{ release_version }}</h1>
 {% endif %}
 {% if type == "2d-ftu" %}
-    <h2><b>  2D FTU</b> </h2>    
+  <h1>2D FTU</h1>
 {% endif %}
 {% if type == "omap" %}
-    <h2><b>  Omap</b> </h2>    
+  <h1>OMAP</h1>
 {% endif %}
 {% if type == "ref-organs" %}
-    <h2><b>  Ref Organs</b> </h2>    
+  <h1>Ref Organs</h1>
 {% endif %}
-<h5> Description </h5> 
+
+<h3>Description</h3>
 <wc-markdown>
-  <script type="wc-content">
-   {{description}} 
-  </script>
+  {{ description }}
 </wc-markdown>
- <br/>
-<table class="table" >
-    <tr><th style="width:35%;">Label </th><th> Value </th></tr>
-    <tr><td> <b> Creators </b> </td><td>{% for id in creators %}{% if orc_ind_dict[id]["fName"] != undefined %}{{ orc_ind_dict[id]["fName"]}}.{% endif %}{% if orc_ind_dict[id]["mName"] != undefined %}{{ orc_ind_dict[id]["mName"]}}.{% endif %}{% if orc_ind_dict[id]["lName"] != undefined %}{{ orc_ind_dict[id]["lName"]}}.{% endif %};{% endfor %}</td></tr>
-    <tr><td> <b> Creator ORCID </b> </td><td> {% for id in creators %} <a href="https://orcid.org/{{id}}">{{id}}</a>; {% endfor %} </td></tr>
-    <tr><td> <b> Project Lead </b></td><td> {% for id in project_leads %}{% if orc_ind_dict[id]["fName"] != undefined %}{{ orc_ind_dict[id]["fName"]}}.{% endif %}{% if orc_ind_dict[id]["mName"] != undefined %}{{ orc_ind_dict[id]["mName"]}}.{% endif %}{% if orc_ind_dict[id]["lName"] != undefined %}{{ orc_ind_dict[id]["lName"]}}.{% endif %}{% endfor %} </td></tr>
-    <tr><td> <b> Project Lead ORCID </b></td><td> {% for id in project_leads %}<a href="https://orcid.org/{{id}}">{{id}}</a>;{% endfor %} </td></tr>
-   <tr>
-        <td> <b>Internal Reviewer(s) </b> </td>
-        <td>
-            {% if internal_reviewers %}
-                {% for id in internal_reviewers %}{% if orc_ind_dict[id]["fName"] != undefined %}{{ orc_ind_dict[id]["fName"]}}.{% endif %}{% if orc_ind_dict[id]["mName"] != undefined %}{{ orc_ind_dict[id]["mName"]}}.{% endif %}{% if orc_ind_dict[id]["lName"] != undefined %}{{ orc_ind_dict[id]["lName"]}}.{% endif %};{% endfor %}
-            {% endif %}
-        </td>     
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Label</th>
+      <th align="left">Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Creator(s):</strong></td>
+      <td>
+        {% for id in creators %}
+          {% if orc_ind_dict[id]["fName"] != undefined %}{{ orc_ind_dict[id]["fName"]}}{% endif %}
+          {% if orc_ind_dict[id]["mName"] != undefined %}{{ orc_ind_dict[id]["mName"]}}{% endif %}
+          {% if orc_ind_dict[id]["lName"] != undefined %}{{ orc_ind_dict[id]["lName"]}}{% endif %};{% endfor %}
+      </td>
     </tr>
     <tr>
-        <td> <b>External Reviewer(s) </b> </td>
-        <td>
-        {% if external_reviewers %}
-         {% for id in external_reviewers %}{% if orc_ind_dict[id]["fName"] != undefined %}{{ orc_ind_dict[id]["fName"]}}.{% endif %}{% if orc_ind_dict[id]["mName"] != undefined %}{{ orc_ind_dict[id]["mName"]}}.{% endif %}{% if orc_ind_dict[id]["lName"] != undefined %}{{ orc_ind_dict[id]["lName"]}}.{% endif %};{% endfor %}</td>
+      <td>
+        <strong>Creator ORCID(s):</strong>
+      </td>
+      <td>
+        {% for id in creators %}
+          <a href="https://orcid.org/{{id}}">{{id}}</a>; {% endfor %}
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Project Lead:</strong>
+      </td>
+      <td>
+        {% for id in project_leads %}
+          {% if orc_ind_dict[id]["fName"] != undefined %}{{ orc_ind_dict[id]["fName"]}}{% endif %}
+          {% if orc_ind_dict[id]["mName"] != undefined %}{{ orc_ind_dict[id]["mName"]}}{% endif %}
+          {% if orc_ind_dict[id]["lName"] != undefined %}{{ orc_ind_dict[id]["lName"]}}{% endif %}
+        {% endfor %}
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Project Lead ORCID:</strong>
+      </td>
+      <td>
+        {% for id in project_leads %}
+          <a href="https://orcid.org/{{id}}">{{id}}</a>;{% endfor %}
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>Internal Reviewer(s):</strong>
+      </td>
+      <td>
+        {% if reviewers %}
+          {% for id in reviewers %}
+            {% if orc_ind_dict[id]["fName"] != undefined %}{{ orc_ind_dict[id]["fName"]}}{% endif %}
+            {% if orc_ind_dict[id]["mName"] != undefined %}{{ orc_ind_dict[id]["mName"]}}{% endif %}
+            {% if orc_ind_dict[id]["lName"] != undefined %}{{ orc_ind_dict[id]["lName"]}}{% endif %};{% endfor %}
         {% endif %}
+      </td>
     </tr>
     <tr>
-        <td> <b> Reviewer ORCID(s) </b> </td>
-        <td> {% if external_reviewers %} {% for id in reviewers %} <a href="https://orcid.org/{{id}}">{{id}}</a>; {% endfor %}{% endif %} </td>
+      <td>
+        <strong>Internal Reviewer ORCID(s):</strong>
+      </td>
+      <td>
+        {% if reviewers %}
+          {% for id in reviewers %}
+            <a href="https://orcid.org/{{id}}">{{id}}</a>; {% endfor %}
+        {% endif %}
+      </td>
+    </tr>
+    {% if external_reviewers %}
+    <tr>
+      <td>
+        <b>External Reviewer(s):</strong>
+      </td>
+      <td>
+          {% for id in external_reviewers %}
+          {% if orc_ind_dict[id]["fName"] != undefined %}{{ orc_ind_dict[id]["fName"]}}{% endif %}
+          {% if orc_ind_dict[id]["mName"] != undefined %}{{ orc_ind_dict[id]["mName"]}}{% endif %}
+          {% if orc_ind_dict[id]["lName"] != undefined %}{{ orc_ind_dict[id]["lName"]}}{% endif %};{% endfor %}
+      </td>
     </tr>
     <tr>
-        <td><b> Creation Date </b> </td>
-        <td> {{ creation_date }}  </td>
-    </tr>  
+      <td>
+        <strong>External Reviewer ORCID(s):</strong>
+      </td>
+      <td>
+          {% for id in external_reviewers %}
+            <a href="https://orcid.org/{{id}}">{{id}}</a>;{% endfor %}
+      </td>
+    </tr>
+    {% endif %}
     <tr>
-        <td> <b> License </b> </td>
-        <td> {{ license }} </td>
+      <td>
+        <strong>Creation Date:</strong>
+      </td>
+      <td>
+        {{ creation_date }}
+      </td>
     </tr>
     <tr>
-        <td> <b> Publisher </b></td>
-        <td> {{ publisher }} </td>
+      <td>
+        <strong>License:</strong>
+      </td>
+      <td>
+        {{ license }}
+      </td>
     </tr>
     <tr>
-        <td> <b> Funder </b> </td>
-        <td> {{ funder }} </td>
+      <td>
+        <strong>Publisher:</strong>
+      </td>
+      <td>
+        {{ publisher }}
+      </td>
     </tr>
     <tr>
-        <td> <b> Award Number </b> </td>
-        <td> {{ award_number }} </td>
+      <td>
+        <strong>Funder:</strong>
+      </td>
+      <td>
+        {{ funder }}
+      </td>
     </tr>
     <tr>
-        <td> <b> HuBMAP ID </b> </td>
-         <td> {{ hubmap_id }} </td> 
+      <td>
+        <strong>Award Number:</strong>
+      </td>
+      <td>
+        {{ award_number }}
+      </td>
     </tr>
     <tr>
-        <td> <b> Data Table </b> </td>
-        <td> <a href="/{{release_version}}/{{type}}/{{datatable}}"> {{datatable}} </a></td>
+      <td>
+        <strong>HuBMAP ID:</strong>
+      </td>
+      <td>
+        {{ hubmap_id }}
+      </td>
     </tr>
     <tr>
-        <td> <b> DOI </b> </td>
-        <td> <a href="{{ doi }}">{{doi}}</a> </td>
+      <td>
+        <strong>Data Table:</strong>
+      </td>
+      <td>
+        <a href="/{{release_version}}/{{type}}/{{datatable}}">
+          {{ datatable }}
+        </a>
+      </td>
     </tr>
     <tr>
-        <td> <b> How to Cite This Data Table: </b></td>
-        <td>{% for id in creators %}{% if orc_ind_dict[id]["fName"] != undefined %}{{ orc_ind_dict[id]["fName"]}}.{% endif %}{% if orc_ind_dict[id]["mName"] != undefined %}{{ orc_ind_dict[id]["mName"]}}.{% endif %}{% if orc_ind_dict[id]["lName"] != undefined %}{{ orc_ind_dict[id]["lName"]}}.{% endif %};{% endfor %} {{publisher}} {{model_type|upper}} <a href="{{ doi }}">{{doi}}</a>
+      <td>
+        <strong>DOI:</strong>
+      </td>
+      <td>
+        <a href="{{ doi }}">{{doi}}</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>How to Cite This Data Table:</strong>
+      </td>
+      <td>
+        {% for id in creators %}
+          {% if orc_ind_dict[id]["fName"] != undefined %}{{ orc_ind_dict[id]["fName"]}}.{% endif %}
+          {% if orc_ind_dict[id]["mName"] != undefined %}{{ orc_ind_dict[id]["mName"]}}.{% endif %}
+          {% if orc_ind_dict[id]["lName"] != undefined %}{{ orc_ind_dict[id]["lName"]}}.{% endif %};{% endfor %}
+        {{publisher}} {{model_type|upper}} Tables. {{ datatable }}
+        <a href="{{ doi }}">{{doi}}</a>
 
-    </tr>
-    <tr>
-        <td> <b> How to Cite {{model_type | upper }} Tables Overall : </b> </td>
-        {# <td> Quardokus, Ellen M., Bruce W. Herr II, Lisel Record, Katy Börner. 2022. <a href="https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html"> {{publisher}} {{model_type | upper}} Tables, Accessed on {{creation_date.toISOString().split('T')[0]}} </a> </td> #}
-    </tr>
-
-</table>
+      </tr>
+      <tr>
+        <td>
+          <strong>How to Cite {{model_type | upper }} Tables Overall :</strong>
+        </td>
+        <td>
+          Quardokus, Ellen M., Bruce W. Herr II, Lisel Record, Katy Börner. 2022.
+          <a href="https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html">
+            <em>{{publisher}} {{model_type | upper}} Tables</em>
+          </a>.
+          Accessed on {{ creation_date.toISOString().split('T')[0] }}.
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>

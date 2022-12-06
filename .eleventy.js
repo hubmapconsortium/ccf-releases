@@ -160,10 +160,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "**/content/v1-1/2d-ftu/docs/*.md": "v1.1/markdown/2d-ftu" });
   eleventyConfig.addPassthroughCopy({ "**/content/v1-0/2d-ftu/docs/*.md": "v1.0/markdown/2d-ftu" });
 
-
-
-
-  eleventyConfig.addPassthroughCopy({ "public/img": "img" })
+  eleventyConfig.addPassthroughCopy({ "public": "." })
   eleventyConfig.addPassthroughCopy("admin");
 
   return {

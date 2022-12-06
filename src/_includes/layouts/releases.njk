@@ -1,22 +1,22 @@
 --- 
 layout: layouts/base.njk
-permalink: /{{title}}/docs/index.html
+permalink: /{{ title }}/docs/index.html
 ---
-{% set digital_objects =  collections.release_digital_objects[title] %}
+{% set digital_objects = collections.release_digital_objects[title] %}
 {% set model_mappings = {"asct-b": "ASCT+B","2d-ftu":"2D Reference FTU","omap":"Organ Mapping Antibody Panels(OMAPs)","ref-organs": "3D Reference Organs"} %}
-<div class="container-sm" style="margin-left:20%;margin-top:2.5rem;background-color:#FFFFFF;padding:5%;box-shadow:rgb(0 0 0 / 14%) 0px 2px 2px 0px, rgb(0 0 0 / 20%) 0px 3px 1px -2px, rgb(0 0 0 / 12%) 0px 1px 5px 0px">
-<h1><b> Release {{title}} DOI </b></h3> 
-<ul style="list-style-type: none;margin-left: 0;padding-left: 0;">
-<h2><b>  Release {{title}} </b> </h2>
-{% for object in digital_objects %}
-        <li> 
-            
-            <a href= "{{object}}"> 
-            {{object|get_model_type}}/{{object|get_file_title}}.html
-            </a> 
+<h1>
+  <b>Release {{ title }} DOI</b>
+</h1>
+{% for doType, doTypeLabel in model_mappings %}
+  <h2>{{ doTypeLabel }} Release {{ title }}</h2>
+  <ul class="list-style-none">
+    {% for object in digital_objects -%}
+      {% if object | get_model_type == doType -%}
+        <li>
+          <a href="{{ object }}" title="Opens detail page" target="_blank">{{ object|get_model_type }}/{{ object|get_file_title }}</a>
         </li>
+      {%- endif %}
+    {%- endfor %}
+
 {% endfor %}
-
-
 </ul>
-</div>

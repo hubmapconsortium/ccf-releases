@@ -1,4 +1,4 @@
 module.exports = function() {
-    let layout = "layouts/releases.njk"
-    return {layout : layout}    
+    const layout = 'layouts/releases.njk';
+    return { layout };    
 };
