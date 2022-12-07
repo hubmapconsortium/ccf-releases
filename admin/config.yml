@@ -71,12 +71,16 @@ collections:
     identifier_field: title
     folder: "content/digital-objects"  
     slug: "{{title}}"
-    path: "{{release_version}}/docs/{{model_type}}/{{slug}}"
+    path: "{{release_version}}//{{type}}/{{slug}}"
+    summary: "{{type}}: {{title}} {{release_version}}"
+    default_sort: -release_version
+    sortable_fields: [type, title, release_version]
 
 backend:
   name: github
   branch: develop
   repo: hubmapconsortium/ccf-releases
+
 #local_backend: true
 #publish_mode: editorial_workflow
 

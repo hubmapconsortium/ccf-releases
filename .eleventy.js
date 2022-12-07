@@ -1,5 +1,5 @@
-module.exports = function (eleventyConfig) {
-  eleventyConfig.addCollection('ind_orcids', function (collectionApi) {
+module.exports = function (config) {
+  config.addCollection('ind_orcids', function (collectionApi) {
     const individuals = collectionApi.getFilteredByTag('individuals');
     let orcid_ind_dict = {};
     for (let i of individuals) {
@@ -15,7 +15,7 @@ module.exports = function (eleventyConfig) {
     return orcid_ind_dict;
   });
 
-  eleventyConfig.addCollection(
+  config.addCollection(
     'release_digital_objects',
     function (collectionApi) {
       const digital_objects = collectionApi.getFilteredByTag('digital_objects');
@@ -43,30 +43,30 @@ module.exports = function (eleventyConfig) {
     }
   );
 
-  eleventyConfig.addCollection('digitalObjectTypes', function (collectionApi) {
+  config.addCollection('digitalObjectTypes', function (collectionApi) {
     return collectionApi.getFilteredByTag('digital_object_types');
   });
 
-  eleventyConfig.addCollection('releases', function (collectionApi) {
+  config.addCollection('releases', function (collectionApi) {
     return collectionApi.getFilteredByTag('hra_releases');
   });
 
-  eleventyConfig.addFilter('get_baseHref', function(value) {
+  config.addFilter('get_baseHref', function(value) {
     return process.env['BASE_HREF'] || value; 
   })
 
-  eleventyConfig.addFilter('get_year', function (value) {
+  config.addFilter('get_year', function (value) {
     date = new Date(value);
     return date.getFullYear();
   });
-  eleventyConfig.addFilter('get_model_type', function (value) {
+  config.addFilter('get_model_type', function (value) {
     if (value == undefined) {
       return;
     } else {
       return value.split('/')[3];
     }
   });
-  eleventyConfig.addFilter('get_file_title', function (value) {
+  config.addFilter('get_file_title', function (value) {
     if (value == undefined) {
       return;
     } else {
@@ -74,7 +74,7 @@ module.exports = function (eleventyConfig) {
     }
   });
 
-  eleventyConfig.addFilter('myDateFilter', function (value) {
+  config.addFilter('myDateFilter', function (value) {
     date = new Date(value);
     return date.getMonth() > 8
       ? date.getMonth() + 1
@@ -86,14 +86,14 @@ module.exports = function (eleventyConfig) {
           date.getFullYear();
   });
 
-  eleventyConfig.addFilter('get_fullName', function (value) {
+  config.addFilter('get_fullName', function (value) {
     const { fName, mName, lName } = value ?? {};
     return [ fName, mName, lName].filter(x => x?.length > 0).join(' ');
   });
-  eleventyConfig.addFilter('get_title', function (value) {
+  config.addFilter('get_title', function (value) {
     return value.slice(value.indexOf('[') + 1, value.indexOf(']'));
   });
-  eleventyConfig.addFilter('get_extension', function (value) {
+  config.addFilter('get_extension', function (value) {
     if (value != undefined) {
       return value.slice(value.indexOf('.'));
     } else {
@@ -101,156 +101,161 @@ module.exports = function (eleventyConfig) {
     }
   });
 
-  eleventyConfig.addCollection('digital_objects', function (collectionApi) {
+  config.addPairedShortcode("setPageVar", function(content, name) { 
+    this.page[name] = content;
+    return '';
+  });
+
+  config.addCollection('digital_objects', function (collectionApi) {
     return collectionApi.getFilteredByTag('digital_objects');
   });
 
   //2d-FTU files copied
   //Add new releases in the similar format for future releases
 
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     'content/digital-objects/v1-3/2d-ftu/docs/*.svg': 'v1.3/2d-ftu',
   });
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     'content/digital-objects/v1-3/2d-ftu/docs/*.csv': 'v1.3/2d-ftu',
   });
 
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     'content/digital-objects/v1-2/2d-ftu/docs/*.svg': 'v1.2/2d-ftu',
   });
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     'content/digital-objects/v1-2/2d-ftu/docs/*.csv': 'v1.2/2d-ftu',
   });
 
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     'content/digital-objects/v1-1/2d-ftu/docs/*.csv': 'v1.1/2d-ftu',
   });
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     'content/digital-objects/v1-1/2d-ftu/docs/*.svg': 'v1.1/2d-ftu',
   });
 
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     'content/digital-objects/v1-0/2d-ftu/docs/*.csv': 'v1.0/2d-ftu',
   });
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     'content/digital-objects/v1-0/2d-ftu/docs/*.svg': 'v1.0/2d-ftu',
   });
 
   // Copy the ASCT-B tables for each release: Add new release in similar format
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     'content/digital-objects/v1-3/asct-b/docs/*.csv': 'v1.3/asct-b',
   });
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     'content/digital-objects/v1-2/asct-b/docs/*.csv': 'v1.2/asct-b',
   });
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     'content/digital-objects/v1-1/asct-b/docs/*.csv': 'v1.1/asct-b',
   });
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     'content/digital-objects/v1-0/asct-b/docs/*.csv': 'v1.0/asct-b',
   });
 
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     'content/digital-objects/v1-3/docs/omap/*.csv': 'v1.3/omap',
   });
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     'content/digital-objects/v1-2/docs/omap/*.csv': 'v1.2/omap',
   });
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     'content/digital-objects/v1-1/docs/omap/*.csv': 'v1.1/omap',
   });
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     'content/digital-objects/v1-0/docs/omap/*.csv': 'v1.0/omap',
   });
 
   // Copy the glb files
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     'content/digital-objects/v1-3/ref-organs/docs/*.glb': 'v1.3/ref-organs',
   });
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     'content/digital-objects/v1-2/ref-organs/docs/*.glb': 'v1.2/ref-organs',
   });
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     'content/digital-objects/v1-1/ref-organs/docs/*.glb': 'v1.1/ref-organs',
   });
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     'content/digital-objects/v1-0/ref-organs/docs/*.glb': 'v1.0/ref-organs',
   });
 
   // Copy the ref-organs csv files
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     'content/digital-objects/v1-3/ref-organs/docs/*.csv': 'v1.3/ref-organs',
   });
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     'content/digital-objects/v1-2/ref-organs/docs/*.csv': 'v1.2/ref-organs',
   });
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     'content/digital-objects/v1-1/ref-organs/docs/*.csv': 'v1.1/ref-organs',
   });
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     'content/digital-objects/v1-0/ref-organs/docs/*.csv': 'v1.0/ref-organs',
   });
 
   //Copy Markdown files from contents to site directory
 
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     '**/content/digital-objects/v1-0/ref-organs/docs/*.md':
       'v1.0/markdown/ref-organs',
   });
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     '**/content/digital-objects/v1-1/ref-organs/docs/*.md':
       'v1.1/markdown/ref-organs',
   });
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     '**/content/digital-objects/v1-2/ref-organs/docs/*.md':
       'v1.2/markdown/ref-organs',
   });
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     '**/content/digital-objects/v1-3/ref-organs/docs/*.md':
       'v1.3/markdown/ref-organs',
   });
 
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     '**/content/digital-objects/v1-3/omap/docs/*.md': 'v1.3/markdown/omap',
   });
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     '**/content/digital-objects/v1-2/omap/docs/*.md': 'v1.2/markdown/omap',
   });
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     '**/content/digital-objects/v1-1/omap/docs/*.md': 'v1.1/markdown/omap',
   });
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     '**/content/digital-objects/v1-0/omap/docs/*.md': 'v1.0/markdown/omap',
   });
 
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     '**/content/v1-3/asct-b/docs/*.md': 'v1.3/markdown/asct-b',
   });
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     '**/content/v1-2/asct-b/docs/*.md': 'v1.2/markdown/asct-b',
   });
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     '**/content/v1-1/asct-b/docs/*.md': 'v1.1/markdown/asct-b',
   });
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     '**/content/v1-0/asct-b/docs/*.md': 'v1.0/markdown/asct-b',
   });
 
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     '**/content/v1-3/2d-ftu/docs/*.md': 'v1.3/markdown/2d-ftu',
   });
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     '**/content/v1-2/2d-ftu/docs/*.md': 'v1.2/markdown/2d-ftu',
   });
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     '**/content/v1-1/2d-ftu/docs/*.md': 'v1.1/markdown/2d-ftu',
   });
-  eleventyConfig.addPassthroughCopy({
+  config.addPassthroughCopy({
     '**/content/v1-0/2d-ftu/docs/*.md': 'v1.0/markdown/2d-ftu',
   });
 
-  eleventyConfig.addPassthroughCopy({ public: '.' });
-  eleventyConfig.addPassthroughCopy('admin');
+  config.addPassthroughCopy({ public: '.' });
+  config.addPassthroughCopy('admin');
 
   return {
     dir: {

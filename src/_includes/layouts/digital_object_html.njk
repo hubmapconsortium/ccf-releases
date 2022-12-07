@@ -1,8 +1,11 @@
 ---
 layout: layouts/base.njk
 permalink: /{{release_version}}/docs/{{type}}/{{page.fileSlug}}.html
-page_title: HRA Digital Object
+
 ---
+{%- setPageVar 'pageTitle' -%}
+HRA Digital Object: {{ title }} {{ release_version }}
+{%- endsetPageVar %}
 {%- set orc_ind_dict = collections.ind_orcids %}
 {%- set model_mappings = {"asct-b":"ASCT+B","2d-ftu":"2D Reference FTU","omap":"Organ Mapping Antibody Panels(OMAPs)","ref-organs": "3D Reference Organs"} %}
 {%- set license_mappings = {"CC BY 4.0":"Creative Commons Attribution 4.0 International (CC BY 4.0)","MIT":"MIT"} %}

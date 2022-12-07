@@ -1,8 +1,10 @@
 --- 
 layout: layouts/base.njk
 permalink: /{{ title }}/docs/index.html
-page_title: HRA Release Page
 ---
+{%- setPageVar 'pageTitle' -%}
+HRA Release ({{ title }})
+{%- endsetPageVar %}
 {%- set digital_objects = collections.release_digital_objects[title] %}
 {% set model_mappings = {"asct-b": "ASCT+B","2d-ftu":"2D Reference FTU","omap":"Organ Mapping Antibody Panels(OMAPs)","ref-organs": "3D Reference Organs"} -%}
 
