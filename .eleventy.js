@@ -51,6 +51,10 @@ module.exports = function (eleventyConfig) {
     return collectionApi.getFilteredByTag('hra_releases');
   });
 
+  eleventyConfig.addFilter('get_baseHref', function(value) {
+    return process.env['BASE_HREF'] || value; 
+  })
+
   eleventyConfig.addFilter('get_year', function (value) {
     date = new Date(value);
     return date.getFullYear();
@@ -59,7 +63,6 @@ module.exports = function (eleventyConfig) {
     if (value == undefined) {
       return;
     } else {
-      console.log(value.split('/')[3]);
       return value.split('/')[3];
     }
   });
@@ -67,7 +70,6 @@ module.exports = function (eleventyConfig) {
     if (value == undefined) {
       return;
     } else {
-      console.log(value.split('/')[4]);
       return value.split('/')[4];
     }
   });
@@ -85,7 +87,7 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addFilter('get_fullName', function (value) {
-    const { fName, mName, lName } = value;
+    const { fName, mName, lName } = value ?? {};
     return [ fName, mName, lName].filter(x => x?.length > 0).join(' ');
   });
   eleventyConfig.addFilter('get_title', function (value) {
