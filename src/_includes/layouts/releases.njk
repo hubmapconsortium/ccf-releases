@@ -13,10 +13,9 @@ permalink: /{{ title }}/docs/index.html
     {% for object in digital_objects -%}
       {% if object | get_model_type == doType -%}
         <li>
-          <a href="{{ object }}" title="Opens detail page" target="_blank">{{ object|get_model_type }}/{{ object|get_file_title }}</a>
+          <a href="{{ title }}/docs/{{ object|get_model_type }}/{{ object|get_file_title }}" title="Opens detail page" target="_blank">{{ object|get_model_type }}/{{ object|get_file_title }}</a>
         </li>
       {%- endif %}
     {%- endfor %}
-
+  </ul>
 {% endfor %}
-</ul>

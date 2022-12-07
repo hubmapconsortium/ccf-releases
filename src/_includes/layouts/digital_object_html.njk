@@ -2,19 +2,22 @@
 layout: layouts/base.njk
 permalink: /{{release_version}}/docs/{{type}}/{{page.fileSlug}}.html
 ---
-{% set orc_ind_dict = collections.ind_orcids %}
-{% if type == "asct-b" %}
-  <h1>Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) {{ release_version }}</h1>
-{% endif %}
-{% if type == "2d-ftu" %}
-  <h1>2D FTU</h1>
-{% endif %}
-{% if type == "omap" %}
-  <h1>OMAP</h1>
-{% endif %}
-{% if type == "ref-organs" %}
-  <h1>Ref Organs</h1>
-{% endif %}
+{%- set orc_ind_dict = collections.ind_orcids %}
+{%- set model_mappings = {"asct-b":"ASCT+B","2d-ftu":"2D Reference FTU","omap":"Organ Mapping Antibody Panels(OMAPs)","ref-organs": "3D Reference Organs"} %}
+{%- set license_mappings = {"CC BY 4.0":"Creative Commons Attribution 4.0 International (CC BY 4.0)","MIT":"MIT"} %}
+
+{%- if type == "asct-b" %}
+<h1>Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) {{ release_version }}</h1>
+{% endif -%}
+{%- if type == "2d-ftu" %}
+<h1>2D FTU</h1>
+{% endif -%}
+{%- if type == "omap" %}
+<h1>OMAP</h1>
+{% endif -%}
+{%- if type == "ref-organs" %}
+<h1>Ref Organs</h1>
+{% endif -%}
 
 <h3>Description</h3>
 <wc-markdown>
@@ -30,12 +33,11 @@ permalink: /{{release_version}}/docs/{{type}}/{{page.fileSlug}}.html
   </thead>
   <tbody>
     <tr>
-      <td><strong>Creator(s):</strong></td>
       <td>
-        {% for id in creators %}
-          {% if orc_ind_dict[id]["fName"] != undefined %}{{ orc_ind_dict[id]["fName"]}}{% endif %}
-          {% if orc_ind_dict[id]["mName"] != undefined %}{{ orc_ind_dict[id]["mName"]}}{% endif %}
-          {% if orc_ind_dict[id]["lName"] != undefined %}{{ orc_ind_dict[id]["lName"]}}{% endif %};{% endfor %}
+        <strong>Creator(s):</strong>
+      </td>
+      <td>
+        {% for id in creators %}{{ orc_ind_dict[id]|get_fullName }}; {% endfor %}
       </td>
     </tr>
     <tr>
@@ -43,8 +45,9 @@ permalink: /{{release_version}}/docs/{{type}}/{{page.fileSlug}}.html
         <strong>Creator ORCID(s):</strong>
       </td>
       <td>
-        {% for id in creators %}
-          <a href="https://orcid.org/{{id}}">{{id}}</a>; {% endfor %}
+        {%- for id in creators %}
+          <a href="https://orcid.org/{{id}}">{{id}}</a>;
+        {%- endfor %}
       </td>
     </tr>
     <tr>
@@ -52,11 +55,7 @@ permalink: /{{release_version}}/docs/{{type}}/{{page.fileSlug}}.html
         <strong>Project Lead:</strong>
       </td>
       <td>
-        {% for id in project_leads %}
-          {% if orc_ind_dict[id]["fName"] != undefined %}{{ orc_ind_dict[id]["fName"]}}{% endif %}
-          {% if orc_ind_dict[id]["mName"] != undefined %}{{ orc_ind_dict[id]["mName"]}}{% endif %}
-          {% if orc_ind_dict[id]["lName"] != undefined %}{{ orc_ind_dict[id]["lName"]}}{% endif %}
-        {% endfor %}
+        {%- for id in project_leads %}{{ orc_ind_dict[id]|get_fullName }} {% endfor -%}
       </td>
     </tr>
     <tr>
@@ -64,8 +63,9 @@ permalink: /{{release_version}}/docs/{{type}}/{{page.fileSlug}}.html
         <strong>Project Lead ORCID:</strong>
       </td>
       <td>
-        {% for id in project_leads %}
-          <a href="https://orcid.org/{{id}}">{{id}}</a>;{% endfor %}
+        {%- for id in project_leads %}
+          <a href="https://orcid.org/{{id}}">{{id}}</a>;
+        {%- endfor %}
       </td>
     </tr>
     <tr>
@@ -73,12 +73,9 @@ permalink: /{{release_version}}/docs/{{type}}/{{page.fileSlug}}.html
         <b>Internal Reviewer(s):</strong>
       </td>
       <td>
-        {% if reviewers %}
-          {% for id in reviewers %}
-            {% if orc_ind_dict[id]["fName"] != undefined %}{{ orc_ind_dict[id]["fName"]}}{% endif %}
-            {% if orc_ind_dict[id]["mName"] != undefined %}{{ orc_ind_dict[id]["mName"]}}{% endif %}
-            {% if orc_ind_dict[id]["lName"] != undefined %}{{ orc_ind_dict[id]["lName"]}}{% endif %};{% endfor %}
-        {% endif %}
+        {%- if reviewers %}
+          {%- for id in reviewers %}{{ orc_ind_dict[id]|get_fullName }}; {% endfor %}
+        {%- endif -%}
       </td>
     </tr>
     <tr>
@@ -86,34 +83,32 @@ permalink: /{{release_version}}/docs/{{type}}/{{page.fileSlug}}.html
         <strong>Internal Reviewer ORCID(s):</strong>
       </td>
       <td>
-        {% if reviewers %}
-          {% for id in reviewers %}
+        {%- if reviewers %}
+          {%- for id in reviewers %}
             <a href="https://orcid.org/{{id}}">{{id}}</a>; {% endfor %}
-        {% endif %}
+        {%- endif %}
       </td>
     </tr>
-    {% if external_reviewers %}
-    <tr>
-      <td>
-        <b>External Reviewer(s):</strong>
-      </td>
-      <td>
-          {% for id in external_reviewers %}
-          {% if orc_ind_dict[id]["fName"] != undefined %}{{ orc_ind_dict[id]["fName"]}}{% endif %}
-          {% if orc_ind_dict[id]["mName"] != undefined %}{{ orc_ind_dict[id]["mName"]}}{% endif %}
-          {% if orc_ind_dict[id]["lName"] != undefined %}{{ orc_ind_dict[id]["lName"]}}{% endif %};{% endfor %}
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>External Reviewer ORCID(s):</strong>
-      </td>
-      <td>
-          {% for id in external_reviewers %}
-            <a href="https://orcid.org/{{id}}">{{id}}</a>;{% endfor %}
-      </td>
-    </tr>
-    {% endif %}
+    {%- if external_reviewers %}
+      <tr>
+        <td>
+          <b>External Reviewer(s):</strong>
+        </td>
+        <td>
+          {% for id in external_reviewers %}{{ orc_ind_dict[id]|get_fullName }}; {% endfor %}
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <strong>External Reviewer ORCID(s):</strong>
+        </td>
+        <td>
+          {%- for id in external_reviewers %}
+            <a href="https://orcid.org/{{id}}">{{id}}</a>;
+          {%- endfor %}
+        </td>
+      </tr>
+    {%- endif %}
     <tr>
       <td>
         <strong>Creation Date:</strong>
@@ -127,7 +122,7 @@ permalink: /{{release_version}}/docs/{{type}}/{{page.fileSlug}}.html
         <strong>License:</strong>
       </td>
       <td>
-        {{ license }}
+        {{ license_mappings[license] }}
       </td>
     </tr>
     <tr>
@@ -167,7 +162,7 @@ permalink: /{{release_version}}/docs/{{type}}/{{page.fileSlug}}.html
         <strong>Data Table:</strong>
       </td>
       <td>
-        <a href="/{{release_version}}/{{type}}/{{datatable}}">
+        <a href="{{ release_version }}/{{ type }}/{{ datatable }}">
           {{ datatable }}
         </a>
       </td>
@@ -177,7 +172,7 @@ permalink: /{{release_version}}/docs/{{type}}/{{page.fileSlug}}.html
         <strong>DOI:</strong>
       </td>
       <td>
-        <a href="{{ doi }}">{{doi}}</a>
+        <a href="{{ doi }}">{{ doi }}</a>
       </td>
     </tr>
     <tr>
@@ -185,26 +180,25 @@ permalink: /{{release_version}}/docs/{{type}}/{{page.fileSlug}}.html
         <strong>How to Cite This Data Table:</strong>
       </td>
       <td>
-        {% for id in creators %}
-          {% if orc_ind_dict[id]["fName"] != undefined %}{{ orc_ind_dict[id]["fName"]}}.{% endif %}
-          {% if orc_ind_dict[id]["mName"] != undefined %}{{ orc_ind_dict[id]["mName"]}}.{% endif %}
-          {% if orc_ind_dict[id]["lName"] != undefined %}{{ orc_ind_dict[id]["lName"]}}.{% endif %};{% endfor %}
-        {{publisher}} {{model_type|upper}} Tables. {{ datatable }}
-        <a href="{{ doi }}">{{doi}}</a>
-
-      </tr>
-      <tr>
-        <td>
-          <strong>How to Cite {{model_type | upper }} Tables Overall :</strong>
-        </td>
-        <td>
-          Quardokus, Ellen M., Bruce W. Herr II, Lisel Record, Katy Börner. 2022.
-          <a href="https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html">
-            <em>{{publisher}} {{model_type | upper}} Tables</em>
-          </a>.
-          Accessed on {{ creation_date.toISOString().split('T')[0] }}.
-        </td>
-      </tr>
-    </tbody>
-  </table>
+        {% for id in creators %}{{ orc_ind_dict[id]|get_fullName }}; {% endfor %}
+        {{publisher}}
+        {{ model_mappings[model_type] }} Tables. {{ datatable }}
+        <a href="{{ doi }}">{{ doi }}</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>How to Cite {{ model_mappings[type] }} Tables Overall :</strong>
+      </td>
+      <td>
+        Quardokus, Ellen M., Bruce W. Herr II, Lisel Record, Katy Börner. 2022.
+        <a href="https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html">
+          <em>{{publisher}}
+            {{ model_mappings[model_type] }} Tables</em>
+        </a>.
+        Accessed on {{ creation_date.toISOString().split('T')[0] }}.
+      </td>
+    </tr>
+  </tbody>
+</table>
 </div>
