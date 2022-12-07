@@ -1,72 +1,59 @@
- 
-
-
-
- 
-
-
-
 <?xml version="1.0" encoding="UTF-8"?>
 <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
 <identifier identifierType="DOI">https://doi.org/10.48539/HBM883.TBLV.838</identifier>
 <titles>
-    <title> [This reference organ for brain-female v1.2  </title>
+    <title>This reference organ for brain-female v1.2</title>
 </titles>
 <creators>
-    
-    <creatorName>Kristen Browne </creatorName>
-    <givenName>  Kristen </givenName>
-    <familyName> Browne </familyName>
-    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-4066-7531">0000-0003-4066-7531<nameIdentifier>
-    
-    <creatorName>Heidi Schlehlein </creatorName>
-    <givenName>  Heidi </givenName>
-    <familyName> Schlehlein </familyName>
-    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3333-5646">0000-0002-3333-5646<nameIdentifier>
-    
+    <creator>
+        <creatorName>Kristen Browne</creatorName>
+        <givenName>Kristen</givenName>
+        <familyName>Browne</familyName>
+        <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-4066-7531">0000-0003-4066-7531<nameIdentifier>
+    </creator>
+    <creator>
+        <creatorName>Heidi Schlehlein</creatorName>
+        <givenName>Heidi</givenName>
+        <familyName>Schlehlein</familyName>
+        <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3333-5646">0000-0002-3333-5646<nameIdentifier>
+    </creator>
 </creators>
 <publisher>HuBMAP</publisher>
-<publicationYear> Fri May 06 2022 00:00:00 GMT+0000 (Coordinated Universal Time) </publicationYear>
-<resourceType resourceTypeGeneral="">  </resourceType>
+<publicationYear>2022</publicationYear>
+<resourceType resourceTypeGeneral="Model">3D reference human organ model</resourceType>
 <subjects>
-    <subject> brain-female v1.2 </subject>
+    <subject>brain-female v1.2</subject>
 <subjects>
 <contributors>
-    
         <contributor contributorType="Project Leader">
-            <contributorName> Katy Katy </contributorName>
+            <contributorName>Katy Borner</contributorName>
             <givenName>Katy</givenName>
             <familyName>Borner</familyName>
-            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0002-3321-6137>0000-0002-3321-6137 </nameIdentifier>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3321-6137">0000-0002-3321-6137</nameIdentifier>
         </contributor>
-    
-    
         <contributor contributorType="Other">
-            <contributorName> Song-Lin Ding </contributorName>
-            <givenName> Song-Lin </givenName>
-            <familyName> Ding </familyName>
-            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0002-7072-5272>0000-0002-7072-5272 </nameIdentifier>
-        </contributor>   
-    
+            <contributorName>Song-Lin Ding</contributorName>
+            <givenName>Song-Lin</givenName>
+            <familyName>Ding</familyName>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-7072-5272">0000-0002-7072-5272</nameIdentifier>
+        </contributor>
 </contributors>
 <dates>
-    <date dateType="Available"> 05/06/2022</date>
+    <date dateType="Available">05/06/2022</date>
 </dates>
 <descriptions>
-    <description> [This reference organ](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created using data from the &quot;[Allen Human Reference Atlas – 3D, 2020](https://doi.org/10.1002/cne.24080)&quot; representing one half of the human brain (Ding et al., 2016). The 141 anatomical structures were mirrored to arrive at a whole human brain (as intended) and resized to fit the Visible Human Male and Female bodies. Note that this organ is not licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). Instead, these terms of use apply: [Allen Institute Terms of Use](https://alleninstitute.org/legal/terms-use). </description>
+    <description>[This reference organ](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created using data from the &quot;[Allen Human Reference Atlas – 3D, 2020](https://doi.org/10.1002/cne.24080)&quot; representing one half of the human brain (Ding et al., 2016). The 141 anatomical structures were mirrored to arrive at a whole human brain (as intended) and resized to fit the Visible Human Male and Female bodies. Note that this organ is not licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). Instead, these terms of use apply: [Allen Institute Terms of Use](https://alleninstitute.org/legal/terms-use).</description>
 </decsriptions>
 <language>EN</language>
 <alternateIdentfiers>
-    <alternateIdentfier alternateIdentiferType = "HuBMAP ID"> HBM883.TBLV.838 </alternateIdentfier>
-    <alternateIdentfier alternateIdentfierType = "How to Cite This Data Table">
-       Kristen.Browne.;Heidi.Schlehlein.;,HuBMAP . brain-female v1.2 https://doi.org/10.48539/HBM883.TBLV.838
-    </alternateIdentfier>
-    <alternateIdentfier alternateIdentfierType="How to Cite  Overall" ></alternateIdentfier>
+    <alternateIdentfier alternateIdentiferType="HuBMAP ID">HBM883.TBLV.838</alternateIdentfier>
+    <alternateIdentfier alternateIdentfierType="How to Cite This Data Table">Kristen Browne, Heidi Schlehlein, HuBMAP 3D reference human organ model. brain-female v1.2 https://doi.org/10.48539/HBM883.TBLV.838</alternateIdentfier>
+    <alternateIdentfier alternateIdentfierType="How to Cite 3D Data Overall">Quardokus, Ellen M., Bruce W. Herr II, Lisel Record, Katy Börner. 2022. HuBMAP 3D Reference Organs Tables. Accessed on 2022-05-06.</alternateIdentfier>
 </alternateIdentfiers>
 <formats>
-	<format> .glb </format>
+	<format>.glb</format>
 </formats>
 <rightsList>
-    <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0) </rights>
+    <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
 </rightsList>
 </resource>

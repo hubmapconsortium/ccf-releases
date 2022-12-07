@@ -1,67 +1,53 @@
- 
-
-
-
- 
-
-
-
 <?xml version="1.0" encoding="UTF-8"?>
 <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
 <identifier identifierType="DOI">https://doi.org/10.48539/HBM344.CNNH.639</identifier>
 <titles>
-    <title> [Pancreas v1.0. for pancreas-islets-langerhans v1.2  </title>
+    <title>Pancreas v1.0. for pancreas-islets-langerhans v1.2</title>
 </titles>
 <creators>
-    
-    <creatorName>Rachel Bajema </creatorName>
-    <givenName>  Rachel </givenName>
-    <familyName> Bajema </familyName>
-    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3775-8574">0000-0002-3775-8574<nameIdentifier>
-    
+    <creator>
+        <creatorName>Rachel Bajema</creatorName>
+        <givenName>Rachel</givenName>
+        <familyName>Bajema</familyName>
+        <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3775-8574">0000-0002-3775-8574<nameIdentifier>
+    </creator>
 </creators>
 <publisher>HuBMAP</publisher>
-<publicationYear> Fri May 06 2022 00:00:00 GMT+0000 (Coordinated Universal Time) </publicationYear>
-<resourceType resourceTypeGeneral="">  </resourceType>
+<publicationYear>2022</publicationYear>
+<resourceType resourceTypeGeneral="Image">2D reference human organ FTU object</resourceType>
 <subjects>
-    <subject> pancreas-islets-langerhans v1.2 </subject>
+    <subject>pancreas-islets-langerhans v1.2</subject>
 <subjects>
 <contributors>
-    
         <contributor contributorType="Project Leader">
-            <contributorName> Katy Katy </contributorName>
+            <contributorName>Katy Borner</contributorName>
             <givenName>Katy</givenName>
             <familyName>Borner</familyName>
-            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0002-3321-6137>0000-0002-3321-6137 </nameIdentifier>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3321-6137">0000-0002-3321-6137</nameIdentifier>
         </contributor>
-    
-    
         <contributor contributorType="Other">
-            <contributorName> Martha Campbell-Thompson </contributorName>
-            <givenName> Martha </givenName>
-            <familyName> Campbell-Thompson </familyName>
-            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0001-6878-1235>0000-0001-6878-1235 </nameIdentifier>
-        </contributor>   
-    
+            <contributorName>Martha Campbell-Thompson</contributorName>
+            <givenName>Martha</givenName>
+            <familyName>Campbell-Thompson</familyName>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-6878-1235">0000-0001-6878-1235</nameIdentifier>
+        </contributor>
 </contributors>
 <dates>
-    <date dateType="Available"> 05/06/2022</date>
+    <date dateType="Available">05/06/2022</date>
 </dates>
 <descriptions>
-    <description> This functional tissue unit (FTU) illustration was created from anatomical structures and cell types listed in the ASCT+B Table [Pancreas v1.0.](https://doi.org/10.48539/HBM332.TMXM.592). Multiple histology atlases, especially Human Microscopic Anatomy (R.V. Krstić, 1994) and Histology: A Text and Atlas (Michael H. Ross, et al., 2003) were referenced. Especially helpful in determining the structure overall size and distribution of cell types was [(Da Silva Xavier 2018)](https://doi.org/10.3390/jcm7030054). </description>
+    <description>This functional tissue unit (FTU) illustration was created from anatomical structures and cell types listed in the ASCT+B Table [Pancreas v1.0.](https://doi.org/10.48539/HBM332.TMXM.592). Multiple histology atlases, especially Human Microscopic Anatomy (R.V. Krstić, 1994) and Histology: A Text and Atlas (Michael H. Ross, et al., 2003) were referenced. Especially helpful in determining the structure overall size and distribution of cell types was [(Da Silva Xavier 2018)](https://doi.org/10.3390/jcm7030054).</description>
 </decsriptions>
 <language>EN</language>
 <alternateIdentfiers>
-    <alternateIdentfier alternateIdentiferType = "HuBMAP ID"> HBM344.CNNH.639 </alternateIdentfier>
-    <alternateIdentfier alternateIdentfierType = "How to Cite This Data Table">
-       Rachel.Bajema.;,HuBMAP . pancreas-islets-langerhans v1.2 https://doi.org/10.48539/HBM344.CNNH.639
-    </alternateIdentfier>
-    <alternateIdentfier alternateIdentfierType="How to Cite  Overall" ></alternateIdentfier>
+    <alternateIdentfier alternateIdentiferType="HuBMAP ID">HBM344.CNNH.639</alternateIdentfier>
+    <alternateIdentfier alternateIdentfierType="How to Cite This Data Table">Rachel Bajema, HuBMAP 2D reference human organ FTU object. pancreas-islets-langerhans v1.2 https://doi.org/10.48539/HBM344.CNNH.639</alternateIdentfier>
+    <alternateIdentfier alternateIdentfierType="How to Cite 2D Data Overall">Quardokus, Ellen M., Bruce W. Herr II, Lisel Record, Katy Börner. 2022. HuBMAP 2D Reference FTU Tables. Accessed on 2022-05-06.</alternateIdentfier>
 </alternateIdentfiers>
 <formats>
-	<format> .svg </format>
+	<format>.svg</format>
 </formats>
 <rightsList>
-    <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0) </rights>
+    <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
 </rightsList>
 </resource>

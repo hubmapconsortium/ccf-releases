@@ -1,105 +1,89 @@
- 
-
-
-
- 
-
-
-
 <?xml version="1.0" encoding="UTF-8"?>
 <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
 <identifier identifierType="DOI">https://doi.org/10.48539/HBM437.JQVC.953</identifier>
 <titles>
-    <title> [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables for lymph-node v1.2  </title>
+    <title>Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables for lymph-node v1.2</title>
 </titles>
 <creators>
-    
-    <creatorName>Marda Jorgensen </creatorName>
-    <givenName>  Marda </givenName>
-    <familyName> Jorgensen </familyName>
-    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-7250-3569">0000-0002-7250-3569<nameIdentifier>
-    
-    <creatorName>Andrea Radtke </creatorName>
-    <givenName>  Andrea </givenName>
-    <familyName> Radtke </familyName>
-    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-4379-8967">0000-0003-4379-8967<nameIdentifier>
-    
-    <creatorName>Natalie Rodriguez </creatorName>
-    <givenName>  Natalie </givenName>
-    <familyName> Rodriguez </familyName>
-    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-6870-0300">0000-0001-6870-0300<nameIdentifier>
-    
+    <creator>
+        <creatorName>Marda Jorgensen</creatorName>
+        <givenName>Marda</givenName>
+        <familyName>Jorgensen</familyName>
+        <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-7250-3569">0000-0002-7250-3569<nameIdentifier>
+    </creator>
+    <creator>
+        <creatorName>Andrea J. Radtke</creatorName>
+        <givenName>Andrea</givenName>
+        <familyName>Radtke</familyName>
+        <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-4379-8967">0000-0003-4379-8967<nameIdentifier>
+    </creator>
+    <creator>
+        <creatorName>Natalie Rodriguez</creatorName>
+        <givenName>Natalie</givenName>
+        <familyName>Rodriguez</familyName>
+        <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-6870-0300">0000-0001-6870-0300<nameIdentifier>
+    </creator>
 </creators>
 <publisher>HuBMAP</publisher>
-<publicationYear> Thu May 06 2021 00:00:00 GMT+0000 (Coordinated Universal Time) </publicationYear>
-<resourceType resourceTypeGeneral="">  </resourceType>
+<publicationYear>2021</publicationYear>
+<resourceType resourceTypeGeneral="Dataset">ASCT+B Tables</resourceType>
 <subjects>
-    <subject> lymph-node v1.2 </subject>
+    <subject>lymph-node v1.2</subject>
 <subjects>
 <contributors>
-    
         <contributor contributorType="Project Leader">
-            <contributorName> Katy Katy </contributorName>
+            <contributorName>Katy Borner</contributorName>
             <givenName>Katy</givenName>
             <familyName>Borner</familyName>
-            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0002-3321-6137>0000-0002-3321-6137 </nameIdentifier>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3321-6137">0000-0002-3321-6137</nameIdentifier>
         </contributor>
-    
-    
         <contributor contributorType="Other">
-            <contributorName> Clive Wasserfall </contributorName>
-            <givenName> Clive </givenName>
-            <familyName> Wasserfall </familyName>
-            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0002-3522-8932>0000-0002-3522-8932 </nameIdentifier>
-        </contributor>   
-    
+            <contributorName>Clive Wasserfall</contributorName>
+            <givenName>Clive</givenName>
+            <familyName>Wasserfall</familyName>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3522-8932">0000-0002-3522-8932</nameIdentifier>
+        </contributor>
         <contributor contributorType="Other">
-            <contributorName> Elaine Jaffe </contributorName>
-            <givenName> Elaine </givenName>
-            <familyName> Jaffe </familyName>
-            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0003-4632-0301>0000-0003-4632-0301 </nameIdentifier>
-        </contributor>   
-    
+            <contributorName>Elaine Jaffe</contributorName>
+            <givenName>Elaine</givenName>
+            <familyName>Jaffe</familyName>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-4632-0301">0000-0003-4632-0301</nameIdentifier>
+        </contributor>
         <contributor contributorType="Other">
-            <contributorName> Stefania Pittaluga </contributorName>
-            <givenName> Stefania </givenName>
-            <familyName> Pittaluga </familyName>
-            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0001-7688-1439>0000-0001-7688-1439 </nameIdentifier>
-        </contributor>   
-    
+            <contributorName>Stefania Pittaluga</contributorName>
+            <givenName>Stefania</givenName>
+            <familyName>Pittaluga</familyName>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-7688-1439">0000-0001-7688-1439</nameIdentifier>
+        </contributor>
         <contributor contributorType="Other">
-            <contributorName> Robert Seifert </contributorName>
-            <givenName> Robert </givenName>
-            <familyName> Seifert </familyName>
-            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0002-4404-8116>0000-0002-4404-8116 </nameIdentifier>
-        </contributor>   
-    
+            <contributorName>Robert Seifert</contributorName>
+            <givenName>Robert</givenName>
+            <familyName>Seifert</familyName>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-4404-8116">0000-0002-4404-8116</nameIdentifier>
+        </contributor>
         <contributor contributorType="Other">
-            <contributorName> Ellen M. Quardokus </contributorName>
-            <givenName> Ellen </givenName>
-            <familyName> M. Quardokus </familyName>
-            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"0000-0001-7655-4833>0000-0001-7655-4833 </nameIdentifier>
-        </contributor>   
-    
+            <contributorName>Ellen M. Quardokus</contributorName>
+            <givenName>Ellen</givenName>
+            <familyName>M. Quardokus</familyName>
+            <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-7655-4833">0000-0001-7655-4833</nameIdentifier>
+        </contributor>
 </contributors>
 <dates>
-    <date dateType="Available"> 05/06/2021</date>
+    <date dateType="Available">05/06/2021</date>
 </dates>
 <descriptions>
-    <description> [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html) aim to capture the nested *part_of* structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts. The lymph node ASCT+B tables are derived from published literature, public datasets, and domain expertise from the authors. The table provides a reference for a canonical human mesenteric lymph node; however, it is anticipated that these tables will be amended to reflect lymph nodes draining other sites of the human body and changes arising from inflammation and other perturbations. The gross anatomy of the lymph node was highly influenced by the following text:[(Willard-Mack 2006)](https://doi.org/10.1080/01926230600867727). Cell types and gene biomarkers derived from sequencing studies were derived from the following studies:[(James et al. 2020)](https://doi.org/10.1038/s41590-020-0602-z), [(Xiang et al. 2020)](https://doi.org/10.3389/fcvm.2020.00052), and [(Szabo et al. 2019)](https://doi.org/10.1038/s41467-019-12464-3). Gene biomarkers for stromal cells were obtained from an orthogonal study in mice (DOI: 10.1016/j.immuni.2018.04.006). Several studies employing flow cytometry and immunohistochemistry aided in the identification of protein biomarkers. To support granular phenotyping, we list all reported biomarkers including negative and differentially expressed proteins. We anticipate further refinement from multimodal studies that pair sequencing and imaging studies from the same human sample. In total, this table reports 34 anatomical structures, 45 cell types, and 223 biomarkers. </description>
+    <description>[Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html) aim to capture the nested *part_of* structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts. The lymph node ASCT+B tables are derived from published literature, public datasets, and domain expertise from the authors. The table provides a reference for a canonical human mesenteric lymph node; however, it is anticipated that these tables will be amended to reflect lymph nodes draining other sites of the human body and changes arising from inflammation and other perturbations. The gross anatomy of the lymph node was highly influenced by the following text:[(Willard-Mack 2006)](https://doi.org/10.1080/01926230600867727). Cell types and gene biomarkers derived from sequencing studies were derived from the following studies:[(James et al. 2020)](https://doi.org/10.1038/s41590-020-0602-z), [(Xiang et al. 2020)](https://doi.org/10.3389/fcvm.2020.00052), and [(Szabo et al. 2019)](https://doi.org/10.1038/s41467-019-12464-3). Gene biomarkers for stromal cells were obtained from an orthogonal study in mice (DOI: 10.1016/j.immuni.2018.04.006). Several studies employing flow cytometry and immunohistochemistry aided in the identification of protein biomarkers. To support granular phenotyping, we list all reported biomarkers including negative and differentially expressed proteins. We anticipate further refinement from multimodal studies that pair sequencing and imaging studies from the same human sample. In total, this table reports 34 anatomical structures, 45 cell types, and 223 biomarkers.</description>
 </decsriptions>
 <language>EN</language>
 <alternateIdentfiers>
-    <alternateIdentfier alternateIdentiferType = "HuBMAP ID"> HBM437.JQVC.953 </alternateIdentfier>
-    <alternateIdentfier alternateIdentfierType = "How to Cite This Data Table">
-       Marda.Jorgensen.;Andrea.J..Radtke.;Natalie.Rodriguez.;,HuBMAP . lymph-node v1.2 https://doi.org/10.48539/HBM437.JQVC.953
-    </alternateIdentfier>
-    <alternateIdentfier alternateIdentfierType="How to Cite  Overall" ></alternateIdentfier>
+    <alternateIdentfier alternateIdentiferType="HuBMAP ID">HBM437.JQVC.953</alternateIdentfier>
+    <alternateIdentfier alternateIdentfierType="How to Cite This Data Table">Marda Jorgensen, Andrea J. Radtke, Natalie Rodriguez, HuBMAP ASCT+B Tables. lymph-node v1.2 https://doi.org/10.48539/HBM437.JQVC.953</alternateIdentfier>
+    <alternateIdentfier alternateIdentfierType="How to Cite ASCT+B Tables Overall">Quardokus, Ellen M., Bruce W. Herr II, Lisel Record, Katy Börner. 2022. HuBMAP ASCT+B Tables. Accessed on 2021-05-06.</alternateIdentfier>
 </alternateIdentfiers>
 <formats>
-	<format> .csv </format>
+	<format>.csv</format>
 </formats>
 <rightsList>
-    <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0) </rights>
+    <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
 </rightsList>
 </resource>
