@@ -1,21 +1,23 @@
 --- 
 layout: layouts/base.njk
 permalink: /{{ title }}/docs/index.html
+page_title: HRA Release {{ title }}
 ---
-{% set digital_objects = collections.release_digital_objects[title] %}
-{% set model_mappings = {"asct-b": "ASCT+B","2d-ftu":"2D Reference FTU","omap":"Organ Mapping Antibody Panels(OMAPs)","ref-organs": "3D Reference Organs"} %}
+{%- set digital_objects = collections.release_digital_objects[title] %}
+{% set model_mappings = {"asct-b": "ASCT+B","2d-ftu":"2D Reference FTU","omap":"Organ Mapping Antibody Panels(OMAPs)","ref-organs": "3D Reference Organs"} -%}
+
 <h1>
-  <b>Release {{ title }} DOI</b>
+  <b>HRA Release ({{ title }})</b>
 </h1>
 {% for doType, doTypeLabel in model_mappings %}
-  <h2>{{ doTypeLabel }} Release {{ title }}</h2>
-  <ul class="list-style-none">
-    {% for object in digital_objects -%}
-      {% if object | get_model_type == doType -%}
-        <li>
-          <a href="{{ title }}/docs/{{ object|get_model_type }}/{{ object|get_file_title }}" title="Opens detail page" target="_blank">{{ object|get_model_type }}/{{ object|get_file_title }}</a>
-        </li>
-      {%- endif %}
-    {%- endfor %}
-  </ul>
-{% endfor %}
+<h2>{{ doTypeLabel }}</h2>
+<ul class="list-style-none">
+{%- for object in digital_objects -%}
+{% if object | get_model_type == doType %}
+  <li><a href="{{ title }}/docs/{{ object|get_model_type }}/{{ object|get_file_title }}" title="Opens detail page" target="_blank">
+    {{- object|get_model_type }}/{{ object|get_file_title -}}
+  </a></li>
+{%- endif %}
+{%- endfor %}
+</ul>
+{% endfor -%}

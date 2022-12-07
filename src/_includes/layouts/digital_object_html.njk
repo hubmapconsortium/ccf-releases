@@ -1,6 +1,7 @@
 ---
 layout: layouts/base.njk
 permalink: /{{release_version}}/docs/{{type}}/{{page.fileSlug}}.html
+page_title: HRA Digital Object
 ---
 {%- set orc_ind_dict = collections.ind_orcids %}
 {%- set model_mappings = {"asct-b":"ASCT+B","2d-ftu":"2D Reference FTU","omap":"Organ Mapping Antibody Panels(OMAPs)","ref-organs": "3D Reference Organs"} %}
@@ -182,7 +183,7 @@ permalink: /{{release_version}}/docs/{{type}}/{{page.fileSlug}}.html
       <td>
         {% for id in creators %}{{ orc_ind_dict[id]|get_fullName }}; {% endfor %}
         {{publisher}}
-        {{ model_mappings[model_type] }} Tables. {{ datatable }}
+        {{ model_mappings[type] }} Tables. {{ datatable }}
         <a href="{{ doi }}">{{ doi }}</a>
       </td>
     </tr>
@@ -194,11 +195,10 @@ permalink: /{{release_version}}/docs/{{type}}/{{page.fileSlug}}.html
         Quardokus, Ellen M., Bruce W. Herr II, Lisel Record, Katy Börner. 2022.
         <a href="https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html">
           <em>{{publisher}}
-            {{ model_mappings[model_type] }} Tables</em>
+            {{ model_mappings[type] }} Tables</em>
         </a>.
         Accessed on {{ creation_date.toISOString().split('T')[0] }}.
       </td>
     </tr>
   </tbody>
 </table>
-</div>

@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>HRA Releases: {{ title }}</title>
+  <title>{{ page_title }}</title>
   <base href="{{ '/'|get_baseHref }}">
 
   <link rel="icon" type="image/png" href="img/favicon.png">
@@ -20,10 +20,10 @@
 
 <div class="main">
 {{- content | safe }}
+</div>
 
 <footer class="main-footer"><p><small>©
-  <script>new Date().getFullYear() > 2010 && document.write(new Date().getFullYear());</script> All Rights
-  Reserved.</small></p></footer>
-</div>
+  <script>new Date().getFullYear() > 2010 && document.write(new Date().getFullYear());</script> All Rights Reserved.</small></p>
+</footer>
 </body>
 </html>
