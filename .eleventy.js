@@ -95,7 +95,7 @@ module.exports = function (config) {
   });
   config.addFilter('get_extension', function (value) {
     if (value != undefined) {
-      return value.slice(value.indexOf('.'));
+      return value.slice(value.indexOf('.') + 1);
     } else {
       return null;
     }

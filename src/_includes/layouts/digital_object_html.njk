@@ -163,11 +163,11 @@ HRA Digital Object: {{ title }} {{ release_version }}
     </tr>
     <tr>
       <td>
-        <strong>Data Table:</strong>
+        <strong>Download Data:</strong>
       </td>
       <td>
         <a href="{{ release_version }}/{{ type }}/{{ datatable }}">
-          {{ datatable }}
+          {{ datatable|get_extension|upper }}
         </a>
       </td>
     </tr>
@@ -181,7 +181,7 @@ HRA Digital Object: {{ title }} {{ release_version }}
     </tr>
     <tr>
       <td>
-        <strong>How to Cite This Data Table:</strong>
+        <strong>How to Cite This Data:</strong>
       </td>
       <td>
         {% for id in creators %}{{ orc_ind_dict[id]|get_fullName }}; {% endfor %}
@@ -192,7 +192,7 @@ HRA Digital Object: {{ title }} {{ release_version }}
     </tr>
     <tr>
       <td>
-        <strong>How to Cite {{ model_mappings[type] }} Tables Overall :</strong>
+        <strong>How to Cite This Data Overall:</strong>
       </td>
       <td>
         Quardokus, Ellen M., Bruce W. Herr II, Lisel Record, Katy Börner. 2022.

@@ -64,7 +64,7 @@ permalink: /{{release_version}}/xml/{{page.fileSlug}}.xml
     <alternateIdentfier alternateIdentfierType="How to Cite {{cite_model_mappings[type]}} Overall">Quardokus, Ellen M., Bruce W. Herr II, Lisel Record, Katy Börner. 2022. {{publisher}} {{ model_mappings[type] }} Tables. Accessed on {{ creation_date.toISOString().split('T')[0] }}.</alternateIdentfier>
 </alternateIdentfiers>
 <formats>
-	<format>{{ datatable|get_extension }}</format>
+	<format>.{{ datatable|get_extension }}</format>
 </formats>
 <rightsList>
     <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">{{ license_mappings[license] }}</rights>
