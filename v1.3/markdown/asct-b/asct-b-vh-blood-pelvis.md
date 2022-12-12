@@ -1,4 +1,4 @@
-# Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Blood/Pelvis v1.1
+# Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Blood/Pelvis v1.3
 
 ### Description
 [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html) aim to capture the nested *part_of* structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts.
@@ -11,13 +11,13 @@
 | **Project Lead ORCID:** | [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137) |
 | **Reviewer(s):** | Elisa Laurenti; Bertie Gottgens; Andrea J. Radtke; Rebecca T. Beuschel; Ellen M. Quardokus
 | **Reviewers ORCID(s):** | [0000-0002-9917-9092](https://orcid.org/0000-0002-9917-9092); [0000-0001-6302-5705](https://orcid.org/0000-0001-6302-5705); [0000-0003-4379-8967](0000-0003-4379-8967); [0000-0002-3882-457X](https://orcid.org/0000-0002-3882-457X); [0000-0001-7655-4833](https://orcid.org/0000-0001-7655-4833)
-| **Creation Date:** | 2022-05-06 |
+| **Creation Date:** | 2022-12-15 |
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
-| **HuBMAP ID:** | HBM296.NBLN.233 |
-| **Data Table:** | [Blood/Pelvis v1.1](https://hubmapconsortium.github.io/ccf-releases/v1.2/asct-b/ASCT-B_VH_BM_Blood_Pelvis.csv) |
-| **DOI:** | [https://doi.org/10.48539/HBM296.NBLN.233](https://doi.org/10.48539/HBM296.NBLN.233) |
-| **How to Cite This Data Table:** | Muzlifah A. Haniffa; Laura Jardine; Sarah A. Teichmann. HuBMAP ASCT+B Tables. Blood/Pelvis v1.1 [https://doi.org/10.48539/HBM296.NBLN.233](https://doi.org/10.48539/HBM296.NBLN.233) |
-| **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2022. [*HuBMAP ASCT+B Tables*](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html). Accessed on May 06, 2022. |
+| **HuBMAP ID:** | HBM785.CGSG.458 |
+| **Data Table:** | [Blood/Pelvis v1.3](https://hubmapconsortium.github.io/ccf-releases/v1.3/asct-b/asct-b-vh-blood-pelvis.csv) |
+| **DOI:** | [https://doi.org/10.48539/HBM785.CGSG.458](https://doi.org/10.48539/HBM785.CGSG.458) |
+| **How to Cite This Data Table:** | Muzlifah A. Haniffa; Laura Jardine; Sarah A. Teichmann. HuBMAP ASCT+B Tables. Blood/Pelvis v1.3, https://doi.org/10.48539/HBM785.CGSG.458, Accessed December 15, 2022.|
+| **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2022. [*HuBMAP ASCT+B Tables*](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html). Accessed December 15, 2022. |
