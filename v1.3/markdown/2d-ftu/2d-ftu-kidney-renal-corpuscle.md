@@ -1,7 +1,7 @@
 # 2D Renal Corpuscle Functional Tissue Unit (FTU) for Kidney, v1.1
 
 ### Description
-This functional tissue unit (FTU) illustration includes cell types related to the nephron FTU in the ASCT+B Table [Kidney v1.2](https://hubmapconsortium.github.io/ccf-releases/v1.2/asct-b/ASCT-B_VH_Kidney.csv).
+This functional tissue unit (FTU) illustration includes cell types related to the renal corpuscle FTU in the ASCT+B Table [Kidney v1.2](https://hubmapconsortium.github.io/ccf-releases/v1.2/asct-b/ASCT-B_VH_Kidney.csv).
 
 Primary references:
 
