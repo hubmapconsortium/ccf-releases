@@ -1,4 +1,4 @@
-# Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX v1.0
+# OMAP-6  Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX v1.1
 
 ### Description
 The OMAP Pancreas  panel was designed for CODEX (CO Detection by IndEXing) imaging of Formalin-Fixed Paraffin-Embedded (FFPE) human pancreas samples.
@@ -17,16 +17,17 @@ complexity of finding suitable and stable antibodies.
 | **Creator ORCID(s):** |[0000-0003-2722-1965](https://orcid.org/0000-0003-2722-1965); [0000-0002-3343-349X](https://orcid.org/0000-0002-3343-349X)|
 | **Project Lead:** | Andrea J. Radtke; Katy B&ouml;rner; Neil Kelleher; Ronald N. Germain |
 | **Project Lead ORCID:** | [0000-0003-4379-8967](https://orcid.org/0000-0003-4379-8967); [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137); [0000-0002-8815-3372](https://orcid.org/0000-0002-8815-3372); [0000-0003-1495-9143](https://orcid.org/0000-0003-1495-9143)|
-| **Reviewer(s):** |Katja Steiger; Christopher Werlein |
-| **Reviewer ORCID(s):** |[0000-0002-7269-5433](https://orcid.org/0000-0002-7269-5433); [0000-0002-7694-4257](https://orcid.org/0000-0002-7694-4257)|
-| **Creation Date:** |2021-05-06|
+| **Reviewer(s):** |Katja Steiger; Christopher Werlein; Andrea J. Radtke; Ellen M. Quardokus; Diane C. Saunders; Anna Martinez Casals; Presha Rajbhandari |
+| **Reviewer ORCID(s):** |[0000-0002-7269-5433](https://orcid.org/0000-0002-7269-5433); [0000-0002-7694-4257](https://orcid.org/0000-0002-7694-4257); [0000-0003-4379-8967](https://orcid.org/0000-0003-4379-8967); [0000-0001-7655-4833](https://orcid.org/0000-0001-7655-4833); [0000-0002-8849-6746](https://orcid.org/0000-0002-8849-6746); [0000-0003-2722-1965](https://orcid.org/0000-0003-2722-1965); [0000-0003-2184-7238](https://orcid.org/0000-0003-2184-7238)|
+| **Creation Date:** |2021-12-15|
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
 | **Funder:** | National Institutes of Health (NIH), National Institute of Allergy and Infectious Disease and National Cancer Institute, European Union (EU) Expression and Spatial analysis Pancreas Atlas Consortium Europe (ESPACE)|
 | **Award Number:** | OT2OD026671, UH3 CA246635|
-| **HuBMAP ID:** | HBM395.LXKX.734 |
-| **Data Table:** | Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX v1.0 [CSV](https://hubmapconsortium.github.io/ccf-releases/v1.2/omap/OMAP_Pancreas_CODEX.csv) [Excel](https://hubmapconsortium.github.io/ccf-releases/v1.2/omap/OMAP_Pancreas_CODEX.xlsx) |
-| **DOI:** | [https://doi.org/10.48539/HBM395.LXKX.734](https://doi.org/10.48539/HBM395.LXKX.734) |
-| **How to Cite This Data Table:** |Anna Martinez Casals, Frida Björklund. Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX v1.0. [https://doi.org/10.48539/HBM395.LXKX.734](https://doi.org/10.48539/HBM395.LXKX.734) |
+| **HuBMAP ID:** | HBM868.XLTM.922 |
+| **Data Table:** | OMAP-6 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX, v1.1
+[CSV](https://hubmapconsortium.github.io/ccf-releases/v1.3/omap-6-pancreas-codex.csv) [Excel](https://hubmapconsortium.github.io/ccf-releases/v1.3/omap/omap-6-pancreas-codex.xlsx) |
+| **DOI:** | [https://doi.org/10.48539/HBM868.XLTM.922](https://doi.org/10.48539/HBM868.XLTM.922)|
+| **How to Cite This Data Table:** |Anna Martinez Casals, Frida Björklund. OMAP-6 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX, v1.1, https://doi.org/10.48539/HBM868.XLTM.922. |
 | **How to Cite OMAP Tables Overall:** | Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo, Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021. “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for Multiplexed Antibody-Based Imaging.” *Nature Methods*, November. https://doi.org/10.1038/s41592-021-01316-y. |
 
