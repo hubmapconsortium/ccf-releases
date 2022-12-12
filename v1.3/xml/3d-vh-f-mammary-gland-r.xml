@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">https://doi.org/10.48539/HBM989.SNHP.535</identifier>
+<titles>
+  <title>3D Reference organ for Breast (mammary gland), Female right, v1.0</title>
+</titles>
+<creators>
+  <creator>
+    <creatorName>Heidi Schlehlein</creatorName>
+    <givenName>Heidi</givenName>
+    <familyName>Schlehlein</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3333-5646">0000-0002-3333-5646<nameIdentifier>
+  </creator>
+</creators>
+<publisher>HuBMAP</publisher>
+<publicationYear>2022</publicationYear>
+<resourceType resourceTypeGeneral="Model">3D reference human organ model</resourceType>
+<subjects>
+  <subject>Breast (mammary gland), Female right, v1.0</subject>
+<subjects>
+<contributors>
+  <contributor contributorType="ProjectLeader">
+      <contributorName>Katy Börner</contributorName>
+      <givenName>Katy</givenName>
+      <familyName>Börner</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3321-6137">0000-0002-3321-6137<nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Harikrishna Nakshatri</contributorName>
+    <givenName>Harikrishna</givenName>
+    <familyName>Nakshatri</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-8876-0052">0000-0001-8876-0052<nameIdentifier>
+  </contributor>
+</contributors>
+<dates>
+  <date dateType="Available">2022-12-15</date>
+</dates>
+<descriptions>
+  <description>The breast was sculpted from scratch to include relevant anatomy for placement of registration blocks. The atlas “Human Microscopic Anatomy” (R.V. Krstić, 1994) and “Atlas of Anatomy” (Thieme, 2008) was referenced.</description>
+</decsriptions>
+<language>EN</language>
+<alternateIdentfiers>
+  <alternateIdentfier alternateIdentiferType="HuBMAP ID">HBM989.SNHP.535</alternateIdentfier>
+  <alternateIdentfier alternateIdentfierType="How to Cite This 3D Data">Heidi Schlehlein 2022. *3D Reference Organ for Breast (mammary gland), Female left, v1.0*, https://doi.org/10.48539/HBM989.SNHP.535. Accessed on December 15, 2022.</alternateIdentfier>
+  <alternateIdentfier alternateIdentfierType="How to Cite 3D Data Overall">Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy Börner. 2022. *HuBMAP CCF 3D Reference Object Library*. https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html. Accessed on December 15, 2022.</alternateIdentfier>
+</alternateIdentfiers>
+<formats>
+	<format>.glb</format>
+</formats>
+<rightsList>
+  <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
+</rightsList>
+<fundingReferences>
+	<fundingReference>
+		<funderName>National Institutes of Health</funderName>
+		<awardNumber>OT2OD026671</awardNumber>
+	</fundingReference>
+</fundingReferences>
+</resource>
