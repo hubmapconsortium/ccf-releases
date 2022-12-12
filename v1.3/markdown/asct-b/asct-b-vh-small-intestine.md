@@ -19,5 +19,5 @@
 | **HuBMAP ID:** | HBM934.NJHF.526 |
 | **Data Table:** | [Small Intestine v1.1](https://hubmapconsortium.github.io/ccf-releases/v1.3/asct-b/asct-b-vh-small-intestine.csv) |
 | **DOI:** | [https://doi.org/10.48539/HBM934.NJHF.526](https://doi.org/10.48539/HBM934.NJHF.526) |
-| **How to Cite This Data Table:** | Teri Longacre, HuBMAP ASCT+B Tables. Small Intestine v1.1,https://doi.org/10.48539/HBM934.NJHF.526 . Accessed on December 15, 2022. |
+| **How to Cite This Data Table:** | Teri Longacre, HuBMAP ASCT+B Tables. Small Intestine v1.1, https://doi.org/10.48539/HBM934.NJHF.526. Accessed on December 15, 2022. |
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2021. [*HuBMAP ASCT+B Tables*](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html). Accessed on December 15, 2022. |
