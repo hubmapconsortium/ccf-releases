@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">https://doi.org/10.48539/HBM972.WHPW.455</identifier>
+<titles>
+  <title>OMAP-7 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Lung with Cell DIVE v1.1</title>
+</titles>
+<creators>
+  <creator>
+    <creatorName>Christine Surrette</creatorName>
+    <givenName>Christine</givenName>
+    <familyName>Surrette</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-7334-4571">0000-0002-7334-4571<nameIdentifier>
+  </creator>
+  <creator>
+    <creatorName>Lisa Lowery</creatorName>
+    <givenName>Lisa</givenName>
+    <familyName>Lowery</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-9143-6509">0000-0002-9143-6509<nameIdentifier>
+  </creator>
+  <creator>
+    <creatorName>Gloria Pryhuber</creatorName>
+    <givenName>Gloria</givenName>
+    <familyName>Pryhuber</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-9185-3994">0000-0002-9185-3994<nameIdentifier>
+  </creator>
+  <creator>
+    <creatorName>Gail Deutsch</creatorName>
+    <givenName>Gail</givenName>
+    <familyName>Deutsch</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-0571-0285">0000-0002-0571-0285<nameIdentifier>
+  </creator>
+  <creator>
+    <creatorName>Fiona Ginty</creatorName>
+    <givenName>Fiona</givenName>
+    <familyName>Ginty</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-6638-683X">0000-0001-6638-683X<nameIdentifier>
+  </creator>
+</creators>
+<publisher>HuBMAP</publisher>
+<publicationYear>2022</publicationYear>
+<resourceType resourceTypeGeneral="Dataset">Organ Mapping Antibody Panel</resourceType>
+<subjects>
+  <subject>OMAP-7 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Lung with Cell DIVE v1.1</subject>
+<subjects>
+<contributors>
+  <contributor contributorType="ProjectLeader">
+      <contributorName>Andrea J. Radtke</contributorName>
+      <givenName>Andrea</givenName>
+      <familyName>Radtke</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-4379-8967">0000-0003-4379-8967<nameIdentifier>
+  </contributor>
+  <contributor contributorType="ProjectLeader">
+      <contributorName>Katy Börner</contributorName>
+      <givenName>Katy</givenName>
+      <familyName>Börner</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3321-6137">0000-0002-3321-6137<nameIdentifier>
+  </contributor>
+  <contributor contributorType="ProjectLeader">
+      <contributorName>Neil Kelleher</contributorName>
+      <givenName>Neil</givenName>
+      <familyName>Kelleher</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-8815-3372">0000-0002-8815-3372<nameIdentifier>
+  </contributor>
+  <contributor contributorType="ProjectLeader">
+      <contributorName>Ronald N. Germain</contributorName>
+      <givenName>Ronald</givenName>
+      <familyName>Germain</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-1495-9143">0000-0003-1495-9143<nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>James Hagood</contributorName>
+    <givenName>James</givenName>
+    <familyName>Hagood</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-3938-0330">0000-0003-3938-0330<nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Christopher Werlein</contributorName>
+    <givenName>Christopher</givenName>
+    <familyName>Werlein</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-7694-4257">0000-0002-7694-4257<nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Andrea J. Radtke</contributorName>
+    <givenName>Andrea</givenName>
+    <familyName>Radtke</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-4379-896">0000-0003-4379-896<nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Ellen M. Quardokus</contributorName>
+    <givenName>Ellen</givenName>
+    <familyName>Quardokus</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-7655-4833">0000-0001-7655-4833<nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Diane C. Saunders</contributorName>
+    <givenName>Diane</givenName>
+    <familyName>Saunders</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-8849-6746">0000-0002-8849-6746<nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Anna Martinez Casals</contributorName>
+    <givenName>Anna</givenName>
+    <familyName>Casals</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-2722-1965">0000-0003-2722-1965<nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Presha Rajbhandari</contributorName>
+    <givenName>Presha</givenName>
+    <familyName>Rajbhandari</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-2184-7238">0000-0003-2184-7238<nameIdentifier>
+  </contributor>
+</contributors>
+<dates>
+  <date dateType="Available">2022-12-15</date>
+</dates>
+<descriptions>
+  <description>OMAP-7 was designed for Cell DIVE imaging of Formalin-Fixed Paraffin-Embedded (FFPE) lung tissue. Cell DIVE enables highly multiplexed single cell analysis using antibody-based imaging (Gerdes, MJ. et al, 2013). The tissue slides were prepared with a two-step antigen retrieval process (pH 6 and pH 9, as described https://dx.doi.org/10.17504/protocols.io.bpwumpew. Antigens were detected using either primary antibodies with fluorophore-labeled secondaries or fluorescent dye conjugated antibodies (protocol can be found https://dx.doi.org/10.17504/protocols.io.b4kgqutw. The panel contains 30 antibodies, 4 of which are used for cell segmentation (Na/K ATPase, Cytokeratin, Cadherin, and S6) and the nuclear marker DAPI for image alignment and nuclear segmentation. This OMAP provides a spatial context for key cell types in the[ASCT+B lung table v1.1](https://doi.org/10.48539/HBM323.SGDF.945).   Additionally, the inclusion of protein biomarkers such as AGTR1, Cathepsin L, TMPRSS2, ICAM-1, and CD55 allow characterization of proteins relevant to SARS-CoV-2 infection and profiling of the renin-angiotensin system (RAS) that may play a role in COVID-19 disease. The core and essential protein biomarkers detailed here overlap (~25%) with the panel developed for multiplexed imaging of lung samples established using conventional automated IHC staining for FFPE-material  (Dr. Christopher Werlein, an expert lung pathologist).  This OMAP does not contain antibodies for typing subsets of fibroblasts, macrophages, or endothelial cells.</description>
+</decsriptions>
+<language>EN</language>
+<alternateIdentfiers>
+  <alternateIdentfier alternateIdentiferType="HuBMAP ID">HBM972.WHPW.455</alternateIdentfier>
+  <alternateIdentfier alternateIdentfierType="How to Cite This OMAP Tables">Christine Surrette, Lisa Lowery, Gloria Pryhuber,Gail Deutsch, Fiona Ginty. OMAP-7 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Lung with Cell DIVE, v1.1, https://doi.org/10.48539/HBM972.WHPW.455.</alternateIdentfier>
+  <alternateIdentfier alternateIdentfierType="How to Cite OMAP Tables Overall">Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo, Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021. “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for Multiplexed Antibody-Based Imaging.” *Nature Methods*, November. https://doi.org/10.1038/s41592-021-01316-y.</alternateIdentfier>
+</alternateIdentfiers>
+<formats>
+	<format>.csv</format>
+</formats>
+<rightsList>
+  <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
+</rightsList>
+<fundingReferences>
+	<fundingReference>
+		<funderName>National Institute of Health (NIH) National Cancer Institute (NCI)</funderName>
+		<awardNumber>3UH3CA246594-02S1</awardNumber>
+	</fundingReference>
+	<fundingReference>
+		<funderName>Intramural Research Program of the NIH</funderName>
+		<awardNumber>UH3 CA246635</awardNumber>
+	</fundingReference>
+	<fundingReference>
+		<funderName>National Institute of Allergy and Infectious Disease and National Cancer Institute</funderName>
+		<awardNumber>OT2OD026671</awardNumber>
+	</fundingReference>
+	<fundingReference>
+		<funderName>National Heart</funderName>
+		<awardNumber>U01HL148861-02S1</awardNumber>
+	</fundingReference>
+	<fundingReference>
+		<funderName>Lung and Blood Institute</funderName>
+		<awardNumber>U54HL145608-04</awardNumber>
+	</fundingReference>
+</fundingReferences>
+</resource>
