@@ -32,7 +32,7 @@ Immune cells are included although they are found in low numbers as part of the 
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM975.BBTF.393 |
-| **Data Table:** | [Pancreas v1.2](https://hubmapconsortium.github.io/ccf-releases/v1.2/asct-b/asct-b-vh-pancreas.csv) |
+| **Data Table:** | [Pancreas v1.2](https://hubmapconsortium.github.io/ccf-releases/v1.3/asct-b/asct-b-vh-pancreas.csv) |
 | **DOI:** |[https://doi.org/10.48539/HBM975.BBTF.393](https://doi.org/10.48539/HBM975.BBTF.393) |
 | **How to Cite This Data Table:** | Martha Campbell-Thompson; Adel Eskaros; Diane Saunders, HuBMAP ASCT+B Tables. Pancreas v1.2 https://doi.org/10.48539/HBM975.BBTF.393, Accessed on December 15, 2022. |
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2022. [*HuBMAP ASCT+B Tables*](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html). Accessed on December 15, 2022. |
