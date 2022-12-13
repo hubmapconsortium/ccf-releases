@@ -57,7 +57,7 @@
   <alternateIdentfier alternateIdentfierType="How to Cite 2D Data Overall">Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy Börner. 2022. [*HuBMAP CCF 2D Reference Object Library*]( https://hubmapconsortium.github.io/ccf/pages/ccf-2d-reference-library.html). Accessed on December 15, 2022.</alternateIdentfier>
 </alternateIdentfiers>
 <formats>
-	<format>.ai</format>
+	<format>.svg</format>
 </formats>
 <rightsList>
   <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
