@@ -61,6 +61,12 @@
     <familyName>Quardokus</familyName>
     <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-7655-4833">0000-0001-7655-4833<nameIdentifier>
   </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Diego Balboa</contributorName>
+    <givenName>Diego</givenName>
+    <familyName>Balboa</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-4784-5452">0000-0002-4784-5452<nameIdentifier>
+  </contributor>
 </contributors>
 <dates>
   <date dateType="Available">2022-12-15</date>
