@@ -17,7 +17,7 @@
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM877.BTSR.898 |
-| **Data Table:** | [Heart v1.2](https://hubmapconsortium.github.io/ccf-releases/v1.2/asct-b/asct-b-vh-heart.csv) |
+| **Data Table:** | [Heart v1.2](https://hubmapconsortium.github.io/ccf-releases/v1.3/asct-b/asct-b-vh-heart.csv) |
 | **DOI:** | [https://doi.org/10.48539/HBM877.BTSR.898](https://doi.org/10.48539/HBM877.BTSR.898) |
 | **How to Cite This Data Table:** | Shin Lin; Marc Halushka; Avinash Boppana, HuBMAP ASCT+B Tables. Heart v1.2, https://doi.org/10.48539/HBM877.BTSR.898, Accessed on December 15, 2022. |
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2021. [*HuBMAP ASCT+B Tables*](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html). Accessed on December 15, 2022.  |
