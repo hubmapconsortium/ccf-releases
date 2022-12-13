@@ -5,8 +5,8 @@ This lookup table maps [Anatomical Structures, Cell Types and Biomarkers (ASCT+B
 
 | Label | Value |
 | :------------- |:-------------|
-| **Creator(s):** | Supriya Bidanta; Fauzan Isnaini |
-| **Creator ORCID:** | [0000-0002-2142-983X](https://orcid.org/0000-0002-2142-983X); [0000-0001-6582-4041](https://orcid.org/0000-0001-6582-4041) |
+| **Creator(s):** | Supriya Bidanta |
+| **Creator ORCID:** | [0000-0002-2142-983X](https://orcid.org/0000-0002-2142-983X)|
 | **Project Lead:** | Katy B&ouml;rner |
 | **Project Lead ORCID:** | [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137) |
 | **Reviewer(s):** | Ellen M. Quardokus; Katy Börner; Rachel Bajema; Bruce W. Herr II | 
