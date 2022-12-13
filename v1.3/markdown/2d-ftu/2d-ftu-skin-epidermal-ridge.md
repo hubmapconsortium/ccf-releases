@@ -33,7 +33,7 @@ Machine learning and AI are employed in segmenting these FTUs from data which wi
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM532.WTMJ.494 |
-| **2D Data:** | Skin, 2D Epidermal Ridge FTU v.1.0 [SVG](https://hubmapconsortium.github.io/ccf-releases/v1.3/2d-ftu/2d-ftu-pancreas-intercalated-duct.svg) [AI](https://hubmapconsortium.github.io/ccf-releases/v1.3/2d-ftu-pancreas-intercalated-duct.ai) |
+| **2D Data:** | Skin, 2D Epidermal Ridge FTU v.1.0 [SVG](https://hubmapconsortium.github.io/ccf-releases/v1.3/2d-ftu/2d-ftu-pancreas-intercalated-duct.svg) [AI](https://hubmapconsortium.github.io/ccf-releases/v1.3/2d-ftu/2d-ftu-pancreas-intercalated-duct.ai) |
 | **DOI:** | [https://doi.org/10.48539/HBM532.WTMJ.494](https://doi.org/10.48539/HBM532.WTMJ.494) |
 | **How to Cite This 2D Data:** | Rachel Bajema 2022. *2D Reference Epidermal Ridge FTU for Skin, v1.0.* https://doi.org/10.48539/HBM532.WTMJ.494. Accessed on December 15, 2022. |
 | **How to Cite 2D Data Overall:** | Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy Börner. 2022. [*HuBMAP CCF 2D Reference Object Library*]( https://hubmapconsortium.github.io/ccf/pages/ccf-2d-reference-library.html). Accessed on December 15, 2022. |
