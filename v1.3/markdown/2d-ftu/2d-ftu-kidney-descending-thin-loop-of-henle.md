@@ -39,7 +39,7 @@ Machine learning and AI are employed in segmenting these FTUs from data which wi
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM752.FQRT.755 |
-| **2D Data:** | Kidney, 2D Descending Thin Limb of Loop of Henle FTU, v.1.0 [SVG](https://hubmapconsortium.github.io/ccf-releases/v1.3/2d-ftu/2d-ftu-kidney-descending-thin-loop-of-henle.svg) [AI](https://hubmapconsortium.github.io/ccf-releases/v1.3/2d-ftu-kidney-descending-thin-loop-of-henle.ai)|
+| **2D Data:** | Kidney, 2D Descending Thin Limb of Loop of Henle FTU, v.1.0 [SVG](https://hubmapconsortium.github.io/ccf-releases/v1.3/2d-ftu/2d-ftu-kidney-descending-thin-loop-of-henle.svg) [AI](https://hubmapconsortium.github.io/ccf-releases/v1.3/2d-ftu/2d-ftu-kidney-descending-thin-loop-of-henle.ai)|
 | **DOI:** | [https://doi.org/10.48539/HBM752.FQRT.755](https://doi.org/10.48539/HBM752.FQRT.755) |
 | **How to Cite This 2D Data:** | Rachel Bajema 2022. *2D Reference Descending Thin Limb of Loop of Henle FTU for Kidney, v1.0.* https://doi.org/10.48539/HBM752.FQRT.755. Accessed on December 15, 2022.|
 | **How to Cite 2D Data Overall:** | Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy Börner. 2022. [*HuBMAP CCF 2D Reference Object Library*](https://hubmapconsortium.github.io/ccf/pages/ccf-2d-reference-library.html). Accessed on December 15, 2022.|
