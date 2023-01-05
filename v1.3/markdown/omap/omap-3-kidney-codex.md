@@ -17,10 +17,10 @@ OMAP-3 was designed for CODEX (CO Detection by IndEXing) of fresh frozen human k
 | **Publisher:** | HuBMAP |
 | **Funder:** | National Institutes of Health and National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)|
 | **Award Number:** | OT2OD026671, UH3 CA246635, U54DK120058, T32ES00702, 1F32DK128887-01A1 |
-| **HuBMAP ID:** | HBM794.CSBJ.358 | 
+| **HuBMAP ID:** | HBM568.RMZB.377 | 
 | **Data Table:** | OMAP-3 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Kidney with CODEX, v1.1 [CSV](https://hubmapconsortium.github.io/ccf-releases/v1.3/omap/omap-3-kidney-codex.csv) [Excel](https://hubmapconsortium.github.io/ccf-releases/v1.3/omap/omap-3-kidney-codex.xlsx) |
-| **DOI:** | [https://doi.org/10.48539/HBM794.CSBJ.358](https://doi.org/10.48539/HBM794.CSBJ.358) |
-| **How to Cite This Data Table:** |Elizabeth K. Neumann. OMAP-3 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Kidney with CODEX, v1.1 https://doi.org/10.48539/HBM794.CSBJ.358. |
+| **DOI:** | [https://doi.org/10.48539/HBM568.RMZB.377](https://doi.org/10.48539/HBM568.RMZB.377) |
+| **How to Cite This Data Table:** |Elizabeth K. Neumann. OMAP-3 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Kidney with CODEX, v1.1 https://doi.org/10.48539/HBM568.RMZB.377. |
 | **How to Cite OMAP Tables Overall:** | Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo, Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021. “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for Multiplexed Antibody-Based Imaging.” *Nature Methods*, November. https://doi.org/10.1038/s41592-021-01316-y. |
 
 

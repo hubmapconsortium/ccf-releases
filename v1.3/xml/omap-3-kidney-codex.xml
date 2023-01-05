@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
-<identifier identifierType="DOI">https://doi.org/10.48539/HBM794.CSBJ.358</identifier>
+<identifier identifierType="DOI">https://doi.org/10.48539/HBM568.RMZB.377</identifier>
 <titles>
   <title>OMAP-3 Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Kidney with CODEX v1.1</title>
 </titles>
@@ -94,8 +94,8 @@
 </decsriptions>
 <language>EN</language>
 <alternateIdentfiers>
-  <alternateIdentfier alternateIdentiferType="HuBMAP ID">HBM794.CSBJ.358</alternateIdentfier>
-  <alternateIdentfier alternateIdentfierType="How to Cite This OMAP Tables">Elizabeth K. Neumann. OMAP-3 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Kidney with CODEX, v1.1 https://doi.org/10.48539/HBM794.CSBJ.358.</alternateIdentfier>
+  <alternateIdentfier alternateIdentiferType="HuBMAP ID">HBM568.RMZB.377</alternateIdentfier>
+  <alternateIdentfier alternateIdentfierType="How to Cite This OMAP Tables">Elizabeth K. Neumann. OMAP-3 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Kidney with CODEX, v1.1 https://doi.org/10.48539/HBM568.RMZB.377.</alternateIdentfier>
   <alternateIdentfier alternateIdentfierType="How to Cite OMAP Tables Overall">Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo, Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021. “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for Multiplexed Antibody-Based Imaging.” *Nature Methods*, November. https://doi.org/10.1038/s41592-021-01316-y.</alternateIdentfier>
 </alternateIdentfiers>
 <formats>
