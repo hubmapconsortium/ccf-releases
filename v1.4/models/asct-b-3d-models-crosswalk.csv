@@ -857,42 +857,42 @@ anatomical_structure_of,source_spatial_entity,node_name,label,OntologyID,represe
 #VHFBloodVasculature,#VHFemaleOrgans,VH_F_left_subclavian_artery_b,left subclavian artery,UBERON:0001584,http://purl.obolibrary.org/obo/UBERON_0001584,VH_F_Heart
 #VHFBloodVasculature,#VHFemaleOrgans,VH_F_brachiocephalic_artery_b,brachiocephalic artery,UBERON:0001529,http://purl.obolibrary.org/obo/UBERON_0001529,VH_F_Heart
 #VHFBloodVasculature,#VHFemaleOrgans,VH_F_brachiocephalic_artery_a,brachiocephalic artery,UBERON:0001529,http://purl.obolibrary.org/obo/UBERON_0001529,VH_F_Heart
-#VHFLung,#VHFemaleOrgans,VH_F_respiratory_system,respiratory system,UBERON:0001004,http://purl.obolibrary.org/obo/UBERON_0001004,3d-vh-f-united
-#VHFLung,#VHFemaleOrgans,VH_F_lungs,lung,UBERON:0002048,http://purl.obolibrary.org/obo/UBERON_0002048,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_left_lungs_L,left lung,UBERON:0002168,http://purl.obolibrary.org/obo/UBERON_0002168,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_hilum_L,left lung hilus,UBERON:0004887,http://purl.obolibrary.org/obo/UBERON_0004887,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_L_lung_upper_lobe,Upper Lobe of Left Lung,UBERON:0008952,http://purl.obolibrary.org/obo/UBERON_0008952,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_hilum_upper_L,left lung hilus,UBERON:0004887,http://purl.obolibrary.org/obo/UBERON_0004887,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_lingula_superior_bronchopulmonary_segment,Superior lingular bronchopulmonary segment,FMA:7374,http://purl.org/sig/ont/fma/fma7374,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_left_anterior_bronchopulmonary_segment,Left Anterior Bronchopulmonary Segment,FMA:7373,http://purl.org/sig/ont/fma/fma7373,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_left_apical_bronchopulmonary_segment,Left apical bronchopulmonary segment,FMA:7385,http://purl.org/sig/ont/fma/fma7385,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_left_posterior_bronchopulmonary_segment,Left posterior bronchopulmonary segment,FMA:7386,http://purl.org/sig/ont/fma/fma7386,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_lingula_inferior_bronchopulmonary_segment,Inferior lingular bronchopulmonary segment,FMA:7375,http://purl.org/sig/ont/fma/fma7375,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_L_lung_lower_lobe,Lower Lobe of Left Lung,UBERON:0008953,http://purl.obolibrary.org/obo/UBERON_0008953,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_left_superior_bronchopulmonary_segment,Left superior bronchopulmonary segment,FMA:7376,http://purl.org/sig/ont/fma/fma7376,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_left_posterior_basal_bronchopulmonary_segment,Left posterior basal bronchopulmonary segment,FMA:7380,http://purl.org/sig/ont/fma/fma7380,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_left_anterior_basal_bronchopulmonary_segment,left anterior basal bronchopulmonary segment,FMA:7378,http://purl.org/sig/ont/fma/fma7378,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_left_lateral_basal_bronchopulmonary_segment,left Lateral Basal Bronchopulmonary Segment,FMA:7379,http://purl.org/sig/ont/fma/fma7379,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_left_medial_basal_bronchopulmonary_segment,Left Medial Basal Bronchopulmonary Segment,FMA:7377,http://purl.org/sig/ont/fma/fma7377,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_hilum_lower_L,left lung hilus,UBERON:0004887,http://purl.obolibrary.org/obo/UBERON_0004887,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_lungs_R,right lung,UBERON:0002167,http://purl.obolibrary.org/obo/UBERON_0002167,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_hilum_R,right lung hilus,UBERON:0004888,http://purl.obolibrary.org/obo/UBERON_0004888,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_R_lung_lower_lobe,Lower Lobe of Right Lung,UBERON:0002171,http://purl.obolibrary.org/obo/UBERON_0002171,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_right_medial_basal_bronchopulmonary_segment,Right Medial Basal Bronchopulmonary Segment,FMA:7365,http://purl.org/sig/ont/fma/fma7365,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_right_posterior_basal_bronchopulmonary_segment,Right Posterior Basal Bronchopulmonary Segment,FMA:7362,http://purl.org/sig/ont/fma/fma7362,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_right_anterior_basal_bronchopulmonary_segment,Right anterior basal bronchopulmonary segment,FMA:7364,http://purl.org/sig/ont/fma/fma7364,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_right_lateral_basal_bronchopulmonary_segment,Right Lateral Basal Bronchopulmonary Segment,FMA:7363,http://purl.org/sig/ont/fma/fma7363,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_right_superior_bronchopulmonary_segment,Right Superior Bronchopulmonary Segment,FMA:7366,http://purl.org/sig/ont/fma/fma7366,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_hilum_lower_R,right lung hilus,UBERON:0004888,http://purl.obolibrary.org/obo/UBERON_0004888,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_R_lung_middle_lobe,Middle Lobe of Right Lung,UBERON:0002174,http://purl.obolibrary.org/obo/UBERON_0002174,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_right_medial_bronchopulmonary_segment,Right Medial Bronchopulmonary Segment,FMA:7360,http://purl.org/sig/ont/fma/fma7360,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_right_lateral_bronchopulmonary_segmennt,Right Lateral Bronchopulmonary Segment,FMA:7361,http://purl.org/sig/ont/fma/fma7361,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_hilum_middle_R,right lung hilus,UBERON:0004888,http://purl.obolibrary.org/obo/UBERON_0004888,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_R_lung_upper_lobe,Upper Lobe of Right Lung,UBERON:0002170,http://purl.obolibrary.org/obo/UBERON_0002170,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_right_anterior_bronchopulmonary_segm,Right Anterior Bronchopulmonary Segment,FMA:7359,http://purl.org/sig/ont/fma/fma7359,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_right_apical_bronchopulmonary_segment,Right Apical Bronchopulmonary Segment,FMA:7338,http://purl.org/sig/ont/fma/fma7338,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_right_posterior_bronchopulmonary_segment,Right Posterior Bronchopulmonary Segment,FMA:7339,http://purl.org/sig/ont/fma/fma7339,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_hilum_upper_R,right lung hilus,UBERON:0004888,http://purl.obolibrary.org/obo/UBERON_0004888,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_respiratory_system,respiratory system,UBERON:0001004,http://purl.obolibrary.org/obo/UBERON_0001004,3d-vh-f-united
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_lungs,lung,UBERON:0002048,http://purl.obolibrary.org/obo/UBERON_0002048,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_left_lungs_L,left lung,UBERON:0002168,http://purl.obolibrary.org/obo/UBERON_0002168,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_hilum_L,left lung hilus,UBERON:0004887,http://purl.obolibrary.org/obo/UBERON_0004887,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_L_lung_upper_lobe,Upper Lobe of Left Lung,UBERON:0008952,http://purl.obolibrary.org/obo/UBERON_0008952,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_hilum_upper_L,left lung hilus,UBERON:0004887,http://purl.obolibrary.org/obo/UBERON_0004887,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_lingula_superior_bronchopulmonary_segment,Superior lingular bronchopulmonary segment,FMA:7374,http://purl.org/sig/ont/fma/fma7374,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_left_anterior_bronchopulmonary_segment,Left Anterior Bronchopulmonary Segment,FMA:7373,http://purl.org/sig/ont/fma/fma7373,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_left_apical_bronchopulmonary_segment,Left apical bronchopulmonary segment,FMA:7385,http://purl.org/sig/ont/fma/fma7385,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_left_posterior_bronchopulmonary_segment,Left posterior bronchopulmonary segment,FMA:7386,http://purl.org/sig/ont/fma/fma7386,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_lingula_inferior_bronchopulmonary_segment,Inferior lingular bronchopulmonary segment,FMA:7375,http://purl.org/sig/ont/fma/fma7375,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_L_lung_lower_lobe,Lower Lobe of Left Lung,UBERON:0008953,http://purl.obolibrary.org/obo/UBERON_0008953,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_left_superior_bronchopulmonary_segment,Left superior bronchopulmonary segment,FMA:7376,http://purl.org/sig/ont/fma/fma7376,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_left_posterior_basal_bronchopulmonary_segment,Left posterior basal bronchopulmonary segment,FMA:7380,http://purl.org/sig/ont/fma/fma7380,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_left_anterior_basal_bronchopulmonary_segment,left anterior basal bronchopulmonary segment,FMA:7378,http://purl.org/sig/ont/fma/fma7378,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_left_lateral_basal_bronchopulmonary_segment,left Lateral Basal Bronchopulmonary Segment,FMA:7379,http://purl.org/sig/ont/fma/fma7379,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_left_medial_basal_bronchopulmonary_segment,Left Medial Basal Bronchopulmonary Segment,FMA:7377,http://purl.org/sig/ont/fma/fma7377,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_hilum_lower_L,left lung hilus,UBERON:0004887,http://purl.obolibrary.org/obo/UBERON_0004887,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_lungs_R,right lung,UBERON:0002167,http://purl.obolibrary.org/obo/UBERON_0002167,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_hilum_R,right lung hilus,UBERON:0004888,http://purl.obolibrary.org/obo/UBERON_0004888,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_R_lung_lower_lobe,Lower Lobe of Right Lung,UBERON:0002171,http://purl.obolibrary.org/obo/UBERON_0002171,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_right_medial_basal_bronchopulmonary_segment,Right Medial Basal Bronchopulmonary Segment,FMA:7365,http://purl.org/sig/ont/fma/fma7365,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_right_posterior_basal_bronchopulmonary_segment,Right Posterior Basal Bronchopulmonary Segment,FMA:7362,http://purl.org/sig/ont/fma/fma7362,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_right_anterior_basal_bronchopulmonary_segment,Right anterior basal bronchopulmonary segment,FMA:7364,http://purl.org/sig/ont/fma/fma7364,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_right_lateral_basal_bronchopulmonary_segment,Right Lateral Basal Bronchopulmonary Segment,FMA:7363,http://purl.org/sig/ont/fma/fma7363,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_right_superior_bronchopulmonary_segment,Right Superior Bronchopulmonary Segment,FMA:7366,http://purl.org/sig/ont/fma/fma7366,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_hilum_lower_R,right lung hilus,UBERON:0004888,http://purl.obolibrary.org/obo/UBERON_0004888,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_R_lung_middle_lobe,Middle Lobe of Right Lung,UBERON:0002174,http://purl.obolibrary.org/obo/UBERON_0002174,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_right_medial_bronchopulmonary_segment,Right Medial Bronchopulmonary Segment,FMA:7360,http://purl.org/sig/ont/fma/fma7360,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_right_lateral_bronchopulmonary_segmennt,Right Lateral Bronchopulmonary Segment,FMA:7361,http://purl.org/sig/ont/fma/fma7361,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_hilum_middle_R,right lung hilus,UBERON:0004888,http://purl.obolibrary.org/obo/UBERON_0004888,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_R_lung_upper_lobe,Upper Lobe of Right Lung,UBERON:0002170,http://purl.obolibrary.org/obo/UBERON_0002170,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_right_anterior_bronchopulmonary_segm,Right Anterior Bronchopulmonary Segment,FMA:7359,http://purl.org/sig/ont/fma/fma7359,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_right_apical_bronchopulmonary_segment,Right Apical Bronchopulmonary Segment,FMA:7338,http://purl.org/sig/ont/fma/fma7338,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_right_posterior_bronchopulmonary_segment,Right Posterior Bronchopulmonary Segment,FMA:7339,http://purl.org/sig/ont/fma/fma7339,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_hilum_upper_R,right lung hilus,UBERON:0004888,http://purl.obolibrary.org/obo/UBERON_0004888,3d-vh-f-lung
 #VHFLarynx,#VHFemaleOrgans,VH_F_larynx,larynx,UBERON:0001737,http://purl.obolibrary.org/obo/UBERON_0001737,3d-vh-f-larynx
 #VHFLarynx,#VHFemaleOrgans,VH_F_laryngeal_cartilage,laryngeal cartilage,UBERON:0001739,http://purl.obolibrary.org/obo/UBERON_0001739,3d-vh-f-larynx
 #VHFLarynx,#VHFemaleOrgans,VH_F_arytenoid_cartilage,arytenoid cartilage,UBERON:0001740,http://purl.obolibrary.org/obo/UBERON_0001740,3d-vh-f-larynx
@@ -905,53 +905,53 @@ anatomical_structure_of,source_spatial_entity,node_name,label,OntologyID,represe
 #VHFLarynx,#VHFemaleOrgans,VH_F_corniculate_cartilage_L,Left corniculate cartilage,FMA:55116,http://purl.org/sig/ont/fma/fma55116,3d-vh-f-larynx
 #VHFLarynx,#VHFemaleOrgans,VH_F_corniculate_cartilage_R,Right corniculate cartilage,FMA:55115,http://purl.org/sig/ont/fma/fma55115,3d-vh-f-larynx
 -,#VHFemaleOrgans,VH_F_tracheobronchial_tree,tracheobronchial tree,UBERON:0007196,http://purl.obolibrary.org/obo/UBERON_0007196,-
-#VHFTrachea,#VHFemaleOrgans,VH_F_trachea_of_respiratory_system,trachea of respiratory system,-,-,3d-vh-f-trachea
+#VHFTrachea,#VHFemaleOrgans,VH_F_trachea_of_respiratory_system,trachea of respiratory system,UBERON:0003126,http://purl.obolibrary.org/obo/UBERON_0003126,3d-vh-f-trachea
 #VHFTrachea,#VHFemaleOrgans,VH_F_trachea,trachea,UBERON:0003126,http://purl.obolibrary.org/obo/UBERON_0003126,3d-vh-f-trachea
 #VHFTrachea,#VHFemaleOrgans,VH_F_tracheal_cartilage,trachea cartilage,UBERON:0003604,http://purl.obolibrary.org/obo/UBERON_0003604,3d-vh-f-trachea
 #VHFTrachea,#VHFemaleOrgans,VH_F_carina,carina of trachea,UBERON:0006679,http://purl.obolibrary.org/obo/UBERON_0006679,3d-vh-f-trachea
-#VHFLung,#VHFemaleOrgans,VH_F_bronchi,bronchus,UBERON:0002185,http://purl.obolibrary.org/obo/UBERON_0002185,3d-vh-f-lung
--,#VHFemaleOrgans,VH_F_main_bronchi,main bronchus,UBERON:0002182,http://purl.obolibrary.org/obo/UBERON_0002182,-
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_bronchi,bronchus,UBERON:0002185,http://purl.obolibrary.org/obo/UBERON_0002185,3d-vh-f-lung
+#VHFMainBronchus,#VHFemaleOrgans,VH_F_main_bronchi,main bronchus,UBERON:0002182,http://purl.obolibrary.org/obo/UBERON_0002182,-
 #VHFMainBronchus,#VHFemaleOrgans,VH_F_right_main_bronchus,Right Main Bronchus,UBERON:0002177,http://purl.obolibrary.org/obo/UBERON_0002177,3d-vh-f-main-bronchus
 #VHFMainBronchus,#VHFemaleOrgans,VH_F_cartilage_of_main_bronchus_R,Cartilage of right main bronchus,FMA:13143,http://purl.org/sig/ont/fma/fma13143,3d-vh-f-main-bronchus
 #VHFMainBronchus,#VHFemaleOrgans,VH_F_left_main_bronchus,Left Main Bronchus,UBERON:0002178,http://purl.obolibrary.org/obo/UBERON_0002178,3d-vh-f-main-bronchus
 #VHFMainBronchus,#VHFemaleOrgans,VH_F_cartilage_of_main_bronchus_L,Cartilage of left main bronchus,FMA:13144,http://purl.org/sig/ont/fma/fma13144,3d-vh-f-main-bronchus
-#VHFLung,#VHFemaleOrgans,VH_F_bronchi_L,-,-,-,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_bronchi_L,-,-,-,3d-vh-f-lung
 -,#VHFemaleOrgans,VH_F_left_bronchial_cartilage,-,-,-,-
-#VHFLung,#VHFemaleOrgans,VH_F_cartilage_of_lobar_bronchus_L,Cartilage of lobar bronchus,FMA:62659,http://purl.org/sig/ont/fma/fma62659,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_cartilage_of_tertiary_bronchus_L,Cartilage of segmental bronchus,FMA:62662,http://purl.org/sig/ont/fma/fma62662,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_lobar_bronchi_L,lobar bronchus of left lung,UBERON:0003405,http://purl.obolibrary.org/obo/UBERON_0003405,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_left_superior_lobar_bronchus,lobar bronchus of left lung upper lobe,UBERON:0012065,http://purl.obolibrary.org/obo/UBERON_0012065,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_left_inferior_lobar_bronchus,lobar bronchus of left lung lower lobe,UBERON:0012066,http://purl.obolibrary.org/obo/UBERON_0012066,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_tertiary_bronchi_L,Segmental bronchus,UBERON:0002184,http://purl.obolibrary.org/obo/UBERON_0002184,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_left_anterior_basal_bronchus,Left anterior basal segmental bronchus,FMA:7506,http://purl.org/sig/ont/fma/fma7506,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_left_lingula_superior_bronchus,Superior lingular bronchus,FMA:7430,http://purl.org/sig/ont/fma/fma7430,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_left_apical_bronchus,Left apical segmental bronchus,FMA:7426,http://purl.org/sig/ont/fma/fma7426,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_left_posterior_basal_bronchus,Left posterior basal segmental bronchus,FMA:7508,http://purl.org/sig/ont/fma/fma7508,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_left_medial_basal_bronchus,Left medial basal segmental bronchus,FMA:7505,http://purl.org/sig/ont/fma/fma7505,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_left_superior_bronchus,Left superior segmental bronchus,FMA:7504,http://purl.org/sig/ont/fma/fma7504,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_left_anterior_bronchus,Left anterior segmental bronchus,FMA:7428,http://purl.org/sig/ont/fma/fma7428,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_left_posterior_bronchus,Left posterior segmental bronchus,FMA:7427,http://purl.org/sig/ont/fma/fma7427,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_left_lateral_basal_bronchus,Left lateral basal segmental bronchus,FMA:7507,http://purl.org/sig/ont/fma/fma7507,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_left_lingula_inferior_bronchi,Inferior lingular bronchus,FMA:7431,http://purl.org/sig/ont/fma/fma7431,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_bronchi_R,-,-,-,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_cartilage_of_lobar_bronchus_L,Cartilage of lobar bronchus,FMA:62659,http://purl.org/sig/ont/fma/fma62659,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_cartilage_of_tertiary_bronchus_L,Cartilage of segmental bronchus,FMA:62662,http://purl.org/sig/ont/fma/fma62662,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_lobar_bronchi_L,lobar bronchus of left lung,UBERON:0003405,http://purl.obolibrary.org/obo/UBERON_0003405,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_left_superior_lobar_bronchus,lobar bronchus of left lung upper lobe,UBERON:0012065,http://purl.obolibrary.org/obo/UBERON_0012065,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_left_inferior_lobar_bronchus,lobar bronchus of left lung lower lobe,UBERON:0012066,http://purl.obolibrary.org/obo/UBERON_0012066,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_tertiary_bronchi_L,Segmental bronchus,UBERON:0002184,http://purl.obolibrary.org/obo/UBERON_0002184,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_left_anterior_basal_bronchus,Left anterior basal segmental bronchus,FMA:7506,http://purl.org/sig/ont/fma/fma7506,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_left_lingula_superior_bronchus,Superior lingular bronchus,FMA:7430,http://purl.org/sig/ont/fma/fma7430,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_left_apical_bronchus,Left apical segmental bronchus,FMA:7426,http://purl.org/sig/ont/fma/fma7426,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_left_posterior_basal_bronchus,Left posterior basal segmental bronchus,FMA:7508,http://purl.org/sig/ont/fma/fma7508,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_left_medial_basal_bronchus,Left medial basal segmental bronchus,FMA:7505,http://purl.org/sig/ont/fma/fma7505,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_left_superior_bronchus,Left superior segmental bronchus,FMA:7504,http://purl.org/sig/ont/fma/fma7504,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_left_anterior_bronchus,Left anterior segmental bronchus,FMA:7428,http://purl.org/sig/ont/fma/fma7428,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_left_posterior_bronchus,Left posterior segmental bronchus,FMA:7427,http://purl.org/sig/ont/fma/fma7427,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_left_lateral_basal_bronchus,Left lateral basal segmental bronchus,FMA:7507,http://purl.org/sig/ont/fma/fma7507,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_left_lingula_inferior_bronchi,Inferior lingular bronchus,FMA:7431,http://purl.org/sig/ont/fma/fma7431,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_bronchi_R,-,-,-,3d-vh-f-lung
 -,#VHFemaleOrgans,VH_F_right_bronchial_cartilage,-,-,-,-
-#VHFLung,#VHFemaleOrgans,VH_F_cartilage_of_lobar_bronchus_R,Cartilage of lobar bronchus,FMA:62659,http://purl.org/sig/ont/fma/fma62659,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_cartilage_of_tertiary_bronchus_R,Cartilage of segmental bronchus,FMA:62662,http://purl.org/sig/ont/fma/fma62662,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_lobar_bronchus_R,lobar bronchus of right lung,UBERON:0003404,http://purl.obolibrary.org/obo/UBERON_0003404,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_right_middle_lobar_bronchus,Middle lobar bronchus,FMA:7401,http://purl.org/sig/ont/fma/fma7401,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_right_superior_lobar_bronchus,Right superior lobar bronchus,FMA:7397,http://purl.org/sig/ont/fma/fma7397,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_right_inferior_lobar_bronchus,Right inferior lobar bronchus,FMA:7404,http://purl.org/sig/ont/fma/fma7404,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_tertiary_bronchi_R,Segmental bronchus,UBERON:0002184,http://purl.obolibrary.org/obo/UBERON_0002184,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_right_anterior_bronchus,Right anterior segmental bronchus,FMA:7400,http://purl.org/sig/ont/fma/fma7400,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_right_lateral_basal_bronchus,Right lateral basal segmental bronchus,FMA:7419,http://purl.org/sig/ont/fma/fma7419,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_right_lateral_bronchus,Lateral segmental bronchus,FMA:7402,http://purl.org/sig/ont/fma/fma7402,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_right_medial_bronchus,Medial segmental bronchus,FMA:7403,http://purl.org/sig/ont/fma/fma7403,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_right_medial_basal_bronchus,Right medial basal segmental bronchus,FMA:7417,http://purl.org/sig/ont/fma/fma7417,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_right_posterior_basal_bronchus,Right posterior basal segmental bronchus,FMA:7420,http://purl.org/sig/ont/fma/fma7420,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_right_posterior_bronchus,Right posterior segmental bronchus,FMA:7399,http://purl.org/sig/ont/fma/fma7399,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_right_superior_bronchus,Right superior segmental bronchus,FMA:7416,http://purl.org/sig/ont/fma/fma7416,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_right_apical_bronchus,Right apical segmental bronchus,FMA:7398,http://purl.org/sig/ont/fma/fma7398,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_right_anterior_basal_bronchus,Right anterior basal segmental bronchus,FMA:7418,http://purl.org/sig/ont/fma/fma7418,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_cartilage_of_lobar_bronchus_R,Cartilage of lobar bronchus,FMA:62659,http://purl.org/sig/ont/fma/fma62659,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_cartilage_of_tertiary_bronchus_R,Cartilage of segmental bronchus,FMA:62662,http://purl.org/sig/ont/fma/fma62662,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_lobar_bronchus_R,lobar bronchus of right lung,UBERON:0003404,http://purl.obolibrary.org/obo/UBERON_0003404,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_right_middle_lobar_bronchus,Middle lobar bronchus,FMA:7401,http://purl.org/sig/ont/fma/fma7401,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_right_superior_lobar_bronchus,Right superior lobar bronchus,FMA:7397,http://purl.org/sig/ont/fma/fma7397,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_right_inferior_lobar_bronchus,Right inferior lobar bronchus,FMA:7404,http://purl.org/sig/ont/fma/fma7404,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_tertiary_bronchi_R,Segmental bronchus,UBERON:0002184,http://purl.obolibrary.org/obo/UBERON_0002184,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_right_anterior_bronchus,Right anterior segmental bronchus,FMA:7400,http://purl.org/sig/ont/fma/fma7400,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_right_lateral_basal_bronchus,Right lateral basal segmental bronchus,FMA:7419,http://purl.org/sig/ont/fma/fma7419,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_right_lateral_bronchus,Lateral segmental bronchus,FMA:7402,http://purl.org/sig/ont/fma/fma7402,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_right_medial_bronchus,Medial segmental bronchus,FMA:7403,http://purl.org/sig/ont/fma/fma7403,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_right_medial_basal_bronchus,Right medial basal segmental bronchus,FMA:7417,http://purl.org/sig/ont/fma/fma7417,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_right_posterior_basal_bronchus,Right posterior basal segmental bronchus,FMA:7420,http://purl.org/sig/ont/fma/fma7420,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_right_posterior_bronchus,Right posterior segmental bronchus,FMA:7399,http://purl.org/sig/ont/fma/fma7399,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_right_superior_bronchus,Right superior segmental bronchus,FMA:7416,http://purl.org/sig/ont/fma/fma7416,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_right_apical_bronchus,Right apical segmental bronchus,FMA:7398,http://purl.org/sig/ont/fma/fma7398,3d-vh-f-lung
+#VHFLungV1.2,#VHFemaleOrgans,VH_F_right_anterior_basal_bronchus,Right anterior basal segmental bronchus,FMA:7418,http://purl.org/sig/ont/fma/fma7418,3d-vh-f-lung
 -,#VHFemaleOrgans,VH_F_lymphatic_system,lymphoid system,UBERON:0002465,http://purl.obolibrary.org/obo/UBERON_0002465,3d-vh-f-united
 #VHFSpleenV1.1,#VHFemaleOrgans,VH_F_spleen,spleen,UBERON:0002106,http://purl.obolibrary.org/obo/UBERON_0002106,VH_F_Spleen
 #VHFSpleenV1.1,#VHFemaleOrgans,VH_F_gastric_surface_of_spleen,gastric surface of spleen,FMA:15837,http://purl.org/sig/ont/fma/fma15837,VH_F_Spleen
@@ -1890,42 +1890,42 @@ anatomical_structure_of,source_spatial_entity,node_name,label,OntologyID,represe
 #VHMBloodVasculature,#VHMaleOrgans,VH_M_right_branch_of_portal_vein,-,-,-,3d-vh-m-blood-vasculature
 #VHMBloodVasculature,#VHMaleOrgans,VH_M_portal_vein,-,-,-,3d-vh-m-blood-vasculature
 #VHMBloodVasculature,#VHMaleOrgans,VH_M_hepatic_portal_vein,hepatic portal vein,UBERON:0001639,http://purl.obolibrary.org/obo/UBERON_0001639,3d-vh-m-blood-vasculature
-#VHMLung,#VHMaleOrgans,VH_M_respiratory_system,respiratory system,UBERON:0001004,http://purl.obolibrary.org/obo/UBERON_0001004,3d-vh-m-united
-#VHMLung,#VHMaleOrgans,VH_M_lungs,lung,UBERON:0002048,http://purl.obolibrary.org/obo/UBERON_0002048,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_lungs_L,left lung,UBERON:0002168,http://purl.obolibrary.org/obo/UBERON_0002168,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_hilum_L,left lung hilus,UBERON:0004887,http://purl.obolibrary.org/obo/UBERON_0004887,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_lungs_L_upper_lobe,Upper Lobe of Left Lung,UBERON:0008952,http://purl.obolibrary.org/obo/UBERON_0008952,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_hilum_upper_L,left lung hilus,UBERON:0004887,http://purl.obolibrary.org/obo/UBERON_0004887,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_left_lingula_superior_bronchopulmonary_segment,Superior lingular bronchopulmonary segment,FMA:7374,http://purl.org/sig/ont/fma/fma7374,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_left_posterior_bronchopulmonary_segment,Left posterior bronchopulmonary segment,FMA:7386,http://purl.org/sig/ont/fma/fma7386,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_left_anterior_bronchopulmonary_segment,Left Anterior Bronchopulmonary Segment,FMA:7373,http://purl.org/sig/ont/fma/fma7373,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_left_apical_bronchopulmonary_segment,Left apical bronchopulmonary segment,FMA:7385,http://purl.org/sig/ont/fma/fma7385,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_left_lingula_inferior_bronchopulmonary_segment,Inferior lingular bronchopulmonary segment,FMA:7375,http://purl.org/sig/ont/fma/fma7375,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_lungs_L_lower_lobe,Lower Lobe of Left Lung,UBERON:0008953,http://purl.obolibrary.org/obo/UBERON_0008953,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_hilum_lower_L,left lung hilus,UBERON:0004887,http://purl.obolibrary.org/obo/UBERON_0004887,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_left_anterior_basal_bronchopulmonary_segment,left anterior basal bronchopulmonary segment,FMA:7378,http://purl.org/sig/ont/fma/fma7378,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_left_lateral_basal_bronchopulmonary_segment,left Lateral Basal Bronchopulmonary Segment,FMA:7379,http://purl.org/sig/ont/fma/fma7379,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_left_medial_basal_bronchopulmonary_segment,Left Medial Basal Bronchopulmonary Segment,FMA:7377,http://purl.org/sig/ont/fma/fma7377,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_left_posetrior_basal_bronchopulmonary_segment,Left posterior basal segmental bronchus,FMA:7508,http://purl.org/sig/ont/fma/fma7508,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_left_superior_bronchopulmonary_segment,Left superior bronchopulmonary segment,FMA:7376,http://purl.org/sig/ont/fma/fma7376,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_lungs_R,right lung,UBERON:0002167,http://purl.obolibrary.org/obo/UBERON_0002167,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_hilum_R,right lung hilus,UBERON:0004888,http://purl.obolibrary.org/obo/UBERON_0004888,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_lungs_R_middle_lobe,Middle Lobe of Right Lung,UBERON:0002174,http://purl.obolibrary.org/obo/UBERON_0002174,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_right_lateral_bronchopulmonary_segment,Right Lateral Bronchopulmonary Segment,FMA:7361,http://purl.org/sig/ont/fma/fma7361,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_right_medial_bronchopulmonary_segment,Right Medial Bronchopulmonary Segment,FMA:7360,http://purl.org/sig/ont/fma/fma7360,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_hilum_middle_R,right lung hilus,UBERON:0004888,http://purl.obolibrary.org/obo/UBERON_0004888,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_lungs_R_lower_lobe,Lower Lobe of Right Lung,UBERON:0002171,http://purl.obolibrary.org/obo/UBERON_0002171,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_hilum_lower_R,right lung hilus,UBERON:0004888,http://purl.obolibrary.org/obo/UBERON_0004888,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_right_anterior_basal_bronchopulmonary_segment,Right anterior basal bronchopulmonary segment,FMA:7364,http://purl.org/sig/ont/fma/fma7364,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_right_lateral_basal_bronchopulmonary_segment,Right Lateral Basal Bronchopulmonary Segment,FMA:7363,http://purl.org/sig/ont/fma/fma7363,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_right_medial_basal_bronchopulmonary_segment,Right Medial Basal Bronchopulmonary Segment,FMA:7365,http://purl.org/sig/ont/fma/fma7365,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_right_posterior_basal_bronchopulmonary_segment,Right Posterior Basal Bronchopulmonary Segment,FMA:7362,http://purl.org/sig/ont/fma/fma7362,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_right_superior_bronchopulmonary_segment,Right Superior Bronchopulmonary Segment,FMA:7366,http://purl.org/sig/ont/fma/fma7366,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_lungs_R_upper_lobe,Upper Lobe of Right Lung,UBERON:0002170,http://purl.obolibrary.org/obo/UBERON_0002170,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_right_apical_bronchopulmonary_segment,Right Apical Bronchopulmonary Segment,FMA:7338,http://purl.org/sig/ont/fma/fma7338,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_right_posterior_bronchopulmonary_segment,Right Posterior Bronchopulmonary Segment,FMA:7339,http://purl.org/sig/ont/fma/fma7339,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_right_anterior_bronchopulmonary_segment,Right Anterior Bronchopulmonary Segment,FMA:7359,http://purl.org/sig/ont/fma/fma7359,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_hilum_upper_R,right lung hilus,UBERON:0004888,http://purl.obolibrary.org/obo/UBERON_0004888,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_respiratory_system,respiratory system,UBERON:0001004,http://purl.obolibrary.org/obo/UBERON_0001004,3d-vh-m-united
+#VHMLungV1.1,#VHMaleOrgans,VH_M_lungs,lung,UBERON:0002048,http://purl.obolibrary.org/obo/UBERON_0002048,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_lungs_L,left lung,UBERON:0002168,http://purl.obolibrary.org/obo/UBERON_0002168,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_hilum_L,left lung hilus,UBERON:0004887,http://purl.obolibrary.org/obo/UBERON_0004887,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_lungs_L_upper_lobe,Upper Lobe of Left Lung,UBERON:0008952,http://purl.obolibrary.org/obo/UBERON_0008952,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_hilum_upper_L,left lung hilus,UBERON:0004887,http://purl.obolibrary.org/obo/UBERON_0004887,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_left_lingula_superior_bronchopulmonary_segment,Superior lingular bronchopulmonary segment,FMA:7374,http://purl.org/sig/ont/fma/fma7374,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_left_posterior_bronchopulmonary_segment,Left posterior bronchopulmonary segment,FMA:7386,http://purl.org/sig/ont/fma/fma7386,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_left_anterior_bronchopulmonary_segment,Left Anterior Bronchopulmonary Segment,FMA:7373,http://purl.org/sig/ont/fma/fma7373,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_left_apical_bronchopulmonary_segment,Left apical bronchopulmonary segment,FMA:7385,http://purl.org/sig/ont/fma/fma7385,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_left_lingula_inferior_bronchopulmonary_segment,Inferior lingular bronchopulmonary segment,FMA:7375,http://purl.org/sig/ont/fma/fma7375,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_lungs_L_lower_lobe,Lower Lobe of Left Lung,UBERON:0008953,http://purl.obolibrary.org/obo/UBERON_0008953,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_hilum_lower_L,left lung hilus,UBERON:0004887,http://purl.obolibrary.org/obo/UBERON_0004887,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_left_anterior_basal_bronchopulmonary_segment,left anterior basal bronchopulmonary segment,FMA:7378,http://purl.org/sig/ont/fma/fma7378,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_left_lateral_basal_bronchopulmonary_segment,left Lateral Basal Bronchopulmonary Segment,FMA:7379,http://purl.org/sig/ont/fma/fma7379,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_left_medial_basal_bronchopulmonary_segment,Left Medial Basal Bronchopulmonary Segment,FMA:7377,http://purl.org/sig/ont/fma/fma7377,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_left_posetrior_basal_bronchopulmonary_segment,Left posterior basal segmental bronchus,FMA:7508,http://purl.org/sig/ont/fma/fma7508,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_left_superior_bronchopulmonary_segment,Left superior bronchopulmonary segment,FMA:7376,http://purl.org/sig/ont/fma/fma7376,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_lungs_R,right lung,UBERON:0002167,http://purl.obolibrary.org/obo/UBERON_0002167,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_hilum_R,right lung hilus,UBERON:0004888,http://purl.obolibrary.org/obo/UBERON_0004888,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_lungs_R_middle_lobe,Middle Lobe of Right Lung,UBERON:0002174,http://purl.obolibrary.org/obo/UBERON_0002174,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_right_lateral_bronchopulmonary_segment,Right Lateral Bronchopulmonary Segment,FMA:7361,http://purl.org/sig/ont/fma/fma7361,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_right_medial_bronchopulmonary_segment,Right Medial Bronchopulmonary Segment,FMA:7360,http://purl.org/sig/ont/fma/fma7360,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_hilum_middle_R,right lung hilus,UBERON:0004888,http://purl.obolibrary.org/obo/UBERON_0004888,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_lungs_R_lower_lobe,Lower Lobe of Right Lung,UBERON:0002171,http://purl.obolibrary.org/obo/UBERON_0002171,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_hilum_lower_R,right lung hilus,UBERON:0004888,http://purl.obolibrary.org/obo/UBERON_0004888,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_right_anterior_basal_bronchopulmonary_segment,Right anterior basal bronchopulmonary segment,FMA:7364,http://purl.org/sig/ont/fma/fma7364,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_right_lateral_basal_bronchopulmonary_segment,Right Lateral Basal Bronchopulmonary Segment,FMA:7363,http://purl.org/sig/ont/fma/fma7363,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_right_medial_basal_bronchopulmonary_segment,Right Medial Basal Bronchopulmonary Segment,FMA:7365,http://purl.org/sig/ont/fma/fma7365,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_right_posterior_basal_bronchopulmonary_segment,Right Posterior Basal Bronchopulmonary Segment,FMA:7362,http://purl.org/sig/ont/fma/fma7362,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_right_superior_bronchopulmonary_segment,Right Superior Bronchopulmonary Segment,FMA:7366,http://purl.org/sig/ont/fma/fma7366,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_lungs_R_upper_lobe,Upper Lobe of Right Lung,UBERON:0002170,http://purl.obolibrary.org/obo/UBERON_0002170,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_right_apical_bronchopulmonary_segment,Right Apical Bronchopulmonary Segment,FMA:7338,http://purl.org/sig/ont/fma/fma7338,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_right_posterior_bronchopulmonary_segment,Right Posterior Bronchopulmonary Segment,FMA:7339,http://purl.org/sig/ont/fma/fma7339,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_right_anterior_bronchopulmonary_segment,Right Anterior Bronchopulmonary Segment,FMA:7359,http://purl.org/sig/ont/fma/fma7359,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_hilum_upper_R,right lung hilus,UBERON:0004888,http://purl.obolibrary.org/obo/UBERON_0004888,3d-vh-m-lung
 #VHMLarynx,#VHMaleOrgans,VH_M_larynx,larynx,UBERON:0001737,http://purl.obolibrary.org/obo/UBERON_0001737,3d-vh-m-larynx
 #VHMLarynx,#VHMaleOrgans,VH_M_laryngeal_cartilage,laryngeal cartilage,UBERON:0001739,http://purl.obolibrary.org/obo/UBERON_0001739,3d-vh-m-larynx
 #VHMLarynx,#VHMaleOrgans,VH_M_arytenoid_cartilage,arytenoid cartilage,UBERON:0001740,http://purl.obolibrary.org/obo/UBERON_0001740,3d-vh-m-larynx
@@ -1938,55 +1938,55 @@ anatomical_structure_of,source_spatial_entity,node_name,label,OntologyID,represe
 #VHMLarynx,#VHMaleOrgans,VH_M_corniculate_cartilage_L,Left corniculate cartilage,FMA:55116,http://purl.org/sig/ont/fma/fma55116,3d-vh-m-larynx
 #VHMLarynx,#VHMaleOrgans,VH_M_corniculate_cartilage_R,Right corniculate cartilage,FMA:55115,http://purl.org/sig/ont/fma/fma55115,3d-vh-m-larynx
 -,#VHMaleOrgans,VH_M_tracheobronchial_tree,tracheobronchial tree,UBERON:0007196 ,http://purl.obolibrary.org/obo/UBERON_0007196,-
-#VHMTrachea,#VHMaleOrgans,VH_M_trachea_of_respiratory_system,trachea of respiratory system,-,-,3d-vh-m-trachea
+#VHMTrachea,#VHMaleOrgans,VH_M_trachea_of_respiratory_system,trachea of respiratory system,UBERON:0003126,http://purl.obolibrary.org/obo/UBERON_0003126,3d-vh-m-trachea
 #VHMTrachea,#VHMaleOrgans,VH_M_trachea,trachea,UBERON:0003126,http://purl.obolibrary.org/obo/UBERON_0003126,3d-vh-m-trachea
 #VHMTrachea,#VHMaleOrgans,VH_M_tracheal_cartilage,trachea cartilage,UBERON:0003604,http://purl.obolibrary.org/obo/UBERON_0003604,3d-vh-m-trachea
 #VHMTrachea,#VHMaleOrgans,VH_M_carina,carina of trachea,UBERON:0006679,http://purl.obolibrary.org/obo/UBERON_0006679,3d-vh-m-trachea
-#VHMLung,#VHMaleOrgans,VH_M_bronchi,bronchus,UBERON:0002185,http://purl.obolibrary.org/obo/UBERON_0002185,3d-vh-m-united
--,#VHMaleOrgans,VH_M_main_bronchi,main bronchus,UBERON:0002182,http://purl.obolibrary.org/obo/UBERON_0002182,3d-vh-m-main-bronchus
+#VHMLungV1.1,#VHMaleOrgans,VH_M_bronchi,bronchus,UBERON:0002185,http://purl.obolibrary.org/obo/UBERON_0002185,3d-vh-m-united
+#VHMMainBronchus,#VHMaleOrgans,VH_M_main_bronchi,main bronchus,UBERON:0002182,http://purl.obolibrary.org/obo/UBERON_0002182,3d-vh-m-main-bronchus
 #VHMMainBronchus,#VHMaleOrgans,VH_M_left_main_bronchus,Left Main Bronchus,UBERON:0002178,http://purl.obolibrary.org/obo/UBERON_0002178,3d-vh-m-main-bronchus
 #VHMMainBronchus,#VHMaleOrgans,VH_M_cartilage_of_the_main_bronchus_L,Cartilage of left main bronchus,FMA:13144,http://purl.org/sig/ont/fma/fma13144,3d-vh-m-main-bronchus
 #VHMMainBronchus,#VHMaleOrgans,VH_M_right_main_bronchus,Right Main Bronchus,UBERON:0002177,http://purl.obolibrary.org/obo/UBERON_0002177,3d-vh-m-main-bronchus
 #VHMMainBronchus,#VHMaleOrgans,VH_M_cartilage_of_the_main_bronchus_R,Cartilage of right main bronchus,FMA:13143,http://purl.org/sig/ont/fma/fma13143,3d-vh-m-main-bronchus
-#VHMLung,#VHMaleOrgans,VH_M_bronchi_L,-,-,-,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_bronchi_L,-,-,-,3d-vh-m-lung
 -,#VHMaleOrgans,VH_M_left_bronchial_cartilage,-,-,-,-
-#VHMLung,#VHMaleOrgans,VH_M_cartilage_of_the_lobar_bronchus_L,Cartilage of lobar bronchus,FMA:62659,http://purl.org/sig/ont/fma/fma62659,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_cartilage_of_the_tertiary_bronchus_L,Cartilage of segmental bronchus,FMA:62662,http://purl.org/sig/ont/fma/fma62662,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_lobar_bronchus_L,lobar bronchus of left lung,UBERON:0003405,http://purl.obolibrary.org/obo/UBERON_0003405,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_left_superior_lobar_bronchus,lobar bronchus of left lung upper lobe,UBERON:0012065,http://purl.obolibrary.org/obo/UBERON_0012065,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_left_inferior_lobar_bronchus,lobar bronchus of left lung lower lobe,UBERON:0012066,http://purl.obolibrary.org/obo/UBERON_0012066,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_tertiary_bronchi_L,Segmental bronchus,UBERON:0002184,http://purl.obolibrary.org/obo/UBERON_0002184,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_left_superior_bronchus,Left superior segmental bronchus,FMA:7504,http://purl.org/sig/ont/fma/fma7504,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_left_posterior_basal_bronchus,Left posterior basal segmental bronchus,FMA:7508,http://purl.org/sig/ont/fma/fma7508,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_left_medial_basal_bronchus,Left medial basal segmental bronchus,FMA:7505,http://purl.org/sig/ont/fma/fma7505,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_left_apical_bronchus,Left apical segmental bronchus,FMA:7426,http://purl.org/sig/ont/fma/fma7426,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_left_anterior_bronchus,Left anterior segmental bronchus,FMA:7428,http://purl.org/sig/ont/fma/fma7428,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_left_lingular_bronchus,-,-,-,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_left_lingula_superior_bronchus,Superior lingular bronchus,FMA:7430,http://purl.org/sig/ont/fma/fma7430,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_left_lingula_inferior_bronchus,Inferior lingular bronchus,FMA:7431,http://purl.org/sig/ont/fma/fma7431,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_left_lateral_basal_bronchus,Left lateral basal segmental bronchus,FMA:7507,http://purl.org/sig/ont/fma/fma7507,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_left_anterior_basal_bronchus,Left anterior basal segmental bronchus,FMA:7506,http://purl.org/sig/ont/fma/fma7506,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_bronchi_R,-,-,-,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_cartilage_of_the_lobar_bronchus_L,Cartilage of lobar bronchus,FMA:62659,http://purl.org/sig/ont/fma/fma62659,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_cartilage_of_the_tertiary_bronchus_L,Cartilage of segmental bronchus,FMA:62662,http://purl.org/sig/ont/fma/fma62662,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_lobar_bronchus_L,lobar bronchus of left lung,UBERON:0003405,http://purl.obolibrary.org/obo/UBERON_0003405,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_left_superior_lobar_bronchus,lobar bronchus of left lung upper lobe,UBERON:0012065,http://purl.obolibrary.org/obo/UBERON_0012065,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_left_inferior_lobar_bronchus,lobar bronchus of left lung lower lobe,UBERON:0012066,http://purl.obolibrary.org/obo/UBERON_0012066,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_tertiary_bronchi_L,Segmental bronchus,UBERON:0002184,http://purl.obolibrary.org/obo/UBERON_0002184,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_left_superior_bronchus,Left superior segmental bronchus,FMA:7504,http://purl.org/sig/ont/fma/fma7504,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_left_posterior_basal_bronchus,Left posterior basal segmental bronchus,FMA:7508,http://purl.org/sig/ont/fma/fma7508,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_left_medial_basal_bronchus,Left medial basal segmental bronchus,FMA:7505,http://purl.org/sig/ont/fma/fma7505,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_left_apical_bronchus,Left apical segmental bronchus,FMA:7426,http://purl.org/sig/ont/fma/fma7426,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_left_anterior_bronchus,Left anterior segmental bronchus,FMA:7428,http://purl.org/sig/ont/fma/fma7428,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_left_lingular_bronchus,-,-,-,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_left_lingula_superior_bronchus,Superior lingular bronchus,FMA:7430,http://purl.org/sig/ont/fma/fma7430,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_left_lingula_inferior_bronchus,Inferior lingular bronchus,FMA:7431,http://purl.org/sig/ont/fma/fma7431,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_left_lateral_basal_bronchus,Left lateral basal segmental bronchus,FMA:7507,http://purl.org/sig/ont/fma/fma7507,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_left_anterior_basal_bronchus,Left anterior basal segmental bronchus,FMA:7506,http://purl.org/sig/ont/fma/fma7506,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_bronchi_R,-,-,-,3d-vh-m-lung
 -,#VHMaleOrgans,VH_M_right_bronchial_cartilage,-,-,-,-
-#VHMLung,#VHMaleOrgans,VH_M_cartilage_of_the_lobar_bronchus_R,Cartilage of lobar bronchus,FMA:62659,http://purl.org/sig/ont/fma/fma62659,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_cartilage_of_the_tertiary_bronchus_R,Cartilage of segmental bronchus,FMA:62662,http://purl.org/sig/ont/fma/fma62662,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_lobar_bronchi_R,lobar bronchus of right lung,UBERON:0003404,http://purl.obolibrary.org/obo/UBERON_0003404,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_right_intermediate_bronchus,Interlobar bronchus,FMA:7415,http://purl.org/sig/ont/fma/fma7415,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_right_middle_lobar_bronchus,Middle lobar bronchus,FMA:7401,http://purl.org/sig/ont/fma/fma7401,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_right_superior_lobar_bronchus,Right superior lobar bronchus,FMA:7397,http://purl.org/sig/ont/fma/fma7397,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_tertiary_bronchi_R,Segmental bronchus,UBERON:0002184,http://purl.obolibrary.org/obo/UBERON_0002184,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_right_anterior_bronchus,Right anterior segmental bronchus,FMA:7400,http://purl.org/sig/ont/fma/fma7400,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_right_lateral_basal_bronchus,Right lateral basal segmental bronchus,FMA:7419,http://purl.org/sig/ont/fma/fma7419,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_right_lateral_bronchus,Lateral segmental bronchus,FMA:7402,http://purl.org/sig/ont/fma/fma7402,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_right_lower_lobar_bronchus,Right inferior lobar bronchus,FMA:7404,http://purl.org/sig/ont/fma/fma7404,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_right_medial_basal_bronchus,Right medial basal segmental bronchus,FMA:7417,http://purl.org/sig/ont/fma/fma7417,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_right_medial_bronchus,Medial segmental bronchus,FMA:7403,http://purl.org/sig/ont/fma/fma7403,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_right_posterior_basal,Right posterior basal segmental bronchus,FMA:7420,http://purl.org/sig/ont/fma/fma7420,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_right_posterior_bronchus,Right posterior segmental bronchus,FMA:7399,http://purl.org/sig/ont/fma/fma7399,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_right_superior_bronchus,Right superior segmental bronchus,FMA:7416,http://purl.org/sig/ont/fma/fma7416,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_right_apical_bronchus,Right superior segmental bronchus,FMA:7416,http://purl.org/sig/ont/fma/fma7416,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_right_anterior_basal_bronchus,Right posterior segmental bronchus,FMA:7399,http://purl.org/sig/ont/fma/fma7399,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_bronchus,bronchus,UBERON:0002185,http://purl.obolibrary.org/obo/UBERON_0002185,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_cartilage_of_the_lobar_bronchus_R,Cartilage of lobar bronchus,FMA:62659,http://purl.org/sig/ont/fma/fma62659,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_cartilage_of_the_tertiary_bronchus_R,Cartilage of segmental bronchus,FMA:62662,http://purl.org/sig/ont/fma/fma62662,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_lobar_bronchi_R,lobar bronchus of right lung,UBERON:0003404,http://purl.obolibrary.org/obo/UBERON_0003404,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_right_intermediate_bronchus,Interlobar bronchus,FMA:7415,http://purl.org/sig/ont/fma/fma7415,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_right_middle_lobar_bronchus,Middle lobar bronchus,FMA:7401,http://purl.org/sig/ont/fma/fma7401,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_right_superior_lobar_bronchus,Right superior lobar bronchus,FMA:7397,http://purl.org/sig/ont/fma/fma7397,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_tertiary_bronchi_R,Segmental bronchus,UBERON:0002184,http://purl.obolibrary.org/obo/UBERON_0002184,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_right_anterior_bronchus,Right anterior segmental bronchus,FMA:7400,http://purl.org/sig/ont/fma/fma7400,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_right_lateral_basal_bronchus,Right lateral basal segmental bronchus,FMA:7419,http://purl.org/sig/ont/fma/fma7419,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_right_lateral_bronchus,Lateral segmental bronchus,FMA:7402,http://purl.org/sig/ont/fma/fma7402,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_right_lower_lobar_bronchus,Right inferior lobar bronchus,FMA:7404,http://purl.org/sig/ont/fma/fma7404,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_right_medial_basal_bronchus,Right medial basal segmental bronchus,FMA:7417,http://purl.org/sig/ont/fma/fma7417,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_right_medial_bronchus,Medial segmental bronchus,FMA:7403,http://purl.org/sig/ont/fma/fma7403,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_right_posterior_basal,Right posterior basal segmental bronchus,FMA:7420,http://purl.org/sig/ont/fma/fma7420,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_right_posterior_bronchus,Right posterior segmental bronchus,FMA:7399,http://purl.org/sig/ont/fma/fma7399,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_right_superior_bronchus,Right superior segmental bronchus,FMA:7416,http://purl.org/sig/ont/fma/fma7416,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_right_apical_bronchus,Right superior segmental bronchus,FMA:7416,http://purl.org/sig/ont/fma/fma7416,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_right_anterior_basal_bronchus,Right posterior segmental bronchus,FMA:7399,http://purl.org/sig/ont/fma/fma7399,3d-vh-m-lung
+#VHMLungV1.1,#VHMaleOrgans,VH_M_bronchus,bronchus,UBERON:0002185,http://purl.obolibrary.org/obo/UBERON_0002185,3d-vh-m-lung
 -,#VHMaleOrgans,VH_M_lymphatic_system,lymphoid system,UBERON:0002465,http://purl.obolibrary.org/obo/UBERON_0002465,3d-vh-m-united
 #VHMSpleen,#VHMaleOrgans,VH_M_spleen,spleen,UBERON:0002106,http://purl.obolibrary.org/obo/UBERON_0002106,VH_M_Spleen
 #VHMSpleen,#VHMaleOrgans,VH_M_colic_surface_of_spleen,colic surface of spleen,FMA:15838,http://purl.org/sig/ont/fma/fma15838,VH_M_Spleen
