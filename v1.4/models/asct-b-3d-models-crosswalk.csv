@@ -5,7 +5,7 @@ Author ORCID(s):,"0000-0001-7655-4833; 0000-0002-3333-5646;  0000-0002-8977-498X
 Reviewer(s):,,,,,,
 Reviewer ORCID(s):,,,,,,
 General Publication(s):,"Borner, Katy, Sarah A. Teichmann, Ellen M. Quardokus, James C. Gee, Kristen Browne, David Osumi-Sutherland, Bruce W. Herr, et al. 2021. ""Anatomical Structures, Cell Types and Biomarkers of the Human Reference Atlas."" Nature Cell Biology 23 (11): 1117-28. https://doi.org/10.1038/s41556-021-00788-6.",,,,,
-Data DOI:,https://doi.org/10.48539/HBM622.BDXN.589,,,,,
+Data DOI:,https://doi.org/10.48539/HBM858.DNFV.736,,,,,
 Date:,6/15/23,,,,,
 Version Number:,v1.4,,,,,
 anatomical_structure_of,source_spatial_entity,node_name,label,OntologyID,representation_of,glb file of single organs
@@ -33,14 +33,39 @@ anatomical_structure_of,source_spatial_entity,node_name,label,OntologyID,represe
 #VHFRightMammaryGland,#VHFemaleOrgans,VH_F_suspensory_ligaments_R,Suspensory ligament of right breast,FMA:73118,http://purl.org/sig/ont/fma/fma73118,3d-vh-f-mammary-gland-r
 -,#VHFemaleOrgans,VH_F_nervous_system,central nervous system,UBERON:0001017,http://purl.obolibrary.org/obo/UBERON_0001017,3d-vh-f-united
 -,#VHFemaleOrgans,VH_F_eyes,eye,UBERON:0000970,http://purl.obolibrary.org/obo/UBERON_0000970,3d-vh-f-united
+#VHFRightEye,#VHFemaleOrgans,VH_F_eye_R,right eye,UBERON:0004549,http://purl.obolibrary.org/obo/UBERON_0004549,3d-vh-f-eye-r
+#VHFRightEye,#VHFemaleOrgans,VH_F_retina_R,Right retina,FMA:58302,http://purl.org/sig/ont/fma/fma58302,3d-vh-f-eye-r
+#VHFRightEye,#VHFemaleOrgans,VH_F_fovea_R,Right fovea centralis,FMA:58661,http://purl.org/sig/ont/fma/fma58661,3d-vh-f-eye-r
+#VHFRightEye,#VHFemaleOrgans,VH_F_macula_lutea_R,Right macula lutea,FMA:58638,http://purl.org/sig/ont/fma/fma58638,3d-vh-f-eye-r
+#VHFRightEye,#VHFemaleOrgans,VH_F_optic_disc_R,Right optic disc,FMA:58635,http://purl.org/sig/ont/fma/fma58635,3d-vh-f-eye-r
+-,-,VH_F_palpebral_conjunctiva_R,-,-,-,-
+#VHFRightEye,#VHFemaleOrgans,VH_F_palpebral_conjunctiva_of_right_upper_eyelid,Palpebral conjunctiva of right upper eyelid,FMA:223076,http://purl.org/sig/ont/fma/fma223076,3d-vh-f-eye-r
+#VHFRightEye,#VHFemaleOrgans,VH_F_palpebral_conjunctiva_of_right_lower_eyelid,Palpebral conjunctiva of right lower eyelid,FMA:223074,http://purl.org/sig/ont/fma/fma223074,3d-vh-f-eye-r
+#VHFRightEye,#VHFemaleOrgans,VH_F_sclera_R,Right sclera,FMA:58271,http://purl.org/sig/ont/fma/fma58271,3d-vh-f-eye-r
+#VHFRightEye,#VHFemaleOrgans,VH_F_optic_choroid_R,Right choroid,FMA:58299,http://purl.org/sig/ont/fma/fma58299,3d-vh-f-eye-r
+#VHFRightEye,#VHFemaleOrgans,VH_F_pupil_R,right pupil,UBERON:0010224,http://purl.obolibrary.org/obo/UBERON_0010224,3d-vh-f-eye-r
+#VHFRightEye,#VHFemaleOrgans,VH_F_ciliary_processes_R,ciliary processes,UBERON:0010427,http://purl.obolibrary.org/obo/UBERON_0010427,3d-vh-f-eye-r
+#VHFRightEye,#VHFemaleOrgans,VH_F_suspensory_ligament_of_lens_R,Suspensory ligament of right lens,FMA:58839,http://purl.org/sig/ont/fma/fma58839,3d-vh-f-eye-r
+#VHFRightEye,#VHFemaleOrgans,VH_F_ora_serrata_of_retina_R,Right ora serrata,FMA:58601,http://purl.org/sig/ont/fma/fma58601,3d-vh-f-eye-r
+#VHFRightEye,#VHFemaleOrgans,VH_F_corneo_scleral_junction_R,Right corneoscleral junction,FMA:58343,http://purl.org/sig/ont/fma/fma58343,3d-vh-f-eye-r
+#VHFRightEye,#VHFemaleOrgans,VH_F_lens_R,Right lens,FMA:58242,http://purl.org/sig/ont/fma/fma58242,3d-vh-f-eye-r
+#VHFRightEye,#VHFemaleOrgans,VH_F_schlemms_canal_R,Right scleral venous sinus,FMA:51874,http://purl.org/sig/ont/fma/fma51874,3d-vh-f-eye-r
+#VHFRightEye,#VHFemaleOrgans,VH_F_aqueous_humor_R,Aqueous humor of right eyeball,FMA:58820,http://purl.org/sig/ont/fma/fma58820,3d-vh-f-eye-r
+#VHFRightEye,#VHFemaleOrgans,VH_F_ciliary_body_R,Right ciliary body,FMA:58296,http://purl.org/sig/ont/fma/fma58296,3d-vh-f-eye-r
+#VHFRightEye,#VHFemaleOrgans,VH_F_ciliary_muscle_R,Right ciliary muscle,FMA:49152,http://purl.org/sig/ont/fma/fma49152,3d-vh-f-eye-r
+#VHFRightEye,#VHFemaleOrgans,VH_F_trabecular_meshwork_R,eye trabecular meshwork,UBERON:0005969,http://purl.obolibrary.org/obo/UBERON_0005969,3d-vh-f-eye-r
+#VHFRightEye,#VHFemaleOrgans,VH_F_iris_R,Right iris,FMA:58236,http://purl.org/sig/ont/fma/fma58236,3d-vh-f-eye-r
+#VHFRightEye,#VHFemaleOrgans,VH_F_bulbar_conjunctiva_R,Right bulbar conjunctiva,FMA:59028,http://purl.org/sig/ont/fma/fma59028,3d-vh-f-eye-r
+#VHFRightEye,#VHFemaleOrgans,VH_F_cornea_R,Right cornea,FMA:58239,http://purl.org/sig/ont/fma/fma58239,3d-vh-f-eye-r
+#VHFRightEye,#VHFemaleOrgans,VH_F_vitreous_humor_R,Humor of right vitreous body,FMA:261236,http://purl.org/sig/ont/fma/fma261236,3d-vh-f-eye-r
 #VHFLeftEye,#VHFemaleOrgans,VH_F_eye_L,left eye,UBERON:0004548,http://purl.obolibrary.org/obo/UBERON_0004548,3d-vh-f-eye-l
 #VHFLeftEye,#VHFemaleOrgans,VH_F_retina_L,Left retina,FMA:58303,http://purl.org/sig/ont/fma/fma58303,3d-vh-f-eye-l
 #VHFLeftEye,#VHFemaleOrgans,VH_F_fovea_L,Left fovea centralis,FMA:58663,http://purl.org/sig/ont/fma/fma58663,3d-vh-f-eye-l
 #VHFLeftEye,#VHFemaleOrgans,VH_F_macula_lutea_L,Left macula lutea,FMA:58639,http://purl.org/sig/ont/fma/fma58639,3d-vh-f-eye-l
 #VHFLeftEye,#VHFemaleOrgans,VH_F_optic_disc_L,Left optic disc,FMA:58636,http://purl.org/sig/ont/fma/fma58636,3d-vh-f-eye-l
 -,-,VH_F_palpebral_conjunctiva_L,-,-,-,-
-#VHFLeftEye,#VHFemaleOrgans,VH_F_palpebral_conjunctiva_of_left_lower_eyelid,Palpebral conjunctiva of left lower eyelid,FMA:223075,http://purl.org/sig/ont/fma/fma223075,3d-vh-f-eye-l
 #VHFLeftEye,#VHFemaleOrgans,VH_F_palpebral_conjunctiva_of_left_upper_eyelid,Palpebral conjunctiva of left upper eyelid,FMA:223078,http://purl.org/sig/ont/fma/fma223078,3d-vh-f-eye-l
+#VHFLeftEye,#VHFemaleOrgans,VH_F_palpebral_conjunctiva_of_left_lower_eyelid,Palpebral conjunctiva of left lower eyelid,FMA:223075,http://purl.org/sig/ont/fma/fma223075,3d-vh-f-eye-l
 #VHFLeftEye,#VHFemaleOrgans,VH_F_vitreous_humor_L,Humor of left vitreous body,FMA:261238,http://purl.org/sig/ont/fma/fma261238,3d-vh-f-eye-l
 #VHFLeftEye,#VHFemaleOrgans,VH_F_cornea_L,Left cornea,FMA:58240,http://purl.org/sig/ont/fma/fma58240,3d-vh-f-eye-l
 #VHFLeftEye,#VHFemaleOrgans,VH_F_bulbar_conjunctiva_L,Left bulbar conjunctiva,FMA:59029,http://purl.org/sig/ont/fma/fma59029,3d-vh-f-eye-l
@@ -58,31 +83,6 @@ anatomical_structure_of,source_spatial_entity,node_name,label,OntologyID,represe
 #VHFLeftEye,#VHFemaleOrgans,VH_F_pupil_L,left pupil,UBERON:0010223,http://purl.obolibrary.org/obo/UBERON_0010223,3d-vh-f-eye-l
 #VHFLeftEye,#VHFemaleOrgans,VH_F_optic_choroid_L,Left choroid,FMA:58300,http://purl.org/sig/ont/fma/fma58300,3d-vh-f-eye-l
 #VHFLeftEye,#VHFemaleOrgans,VH_F_sclera_L,Left sclera,FMA:58272,http://purl.org/sig/ont/fma/fma58272,3d-vh-f-eye-l
-#VHFRightEye,#VHFemaleOrgans,VH_F_eye_R,right eye,UBERON:0004549,http://purl.obolibrary.org/obo/UBERON_0004549,3d-vh-f-eye-r
-#VHFRightEye,#VHFemaleOrgans,VH_F_retina_R,Right retina,FMA:58302,http://purl.org/sig/ont/fma/fma58302,3d-vh-f-eye-r
-#VHFRightEye,#VHFemaleOrgans,VH_F_optic_disc_R,Right optic disc,FMA:58635,http://purl.org/sig/ont/fma/fma58635,3d-vh-f-eye-r
-#VHFRightEye,#VHFemaleOrgans,VH_F_macula_lutea_R,Right macula lutea,FMA:58638,http://purl.org/sig/ont/fma/fma58638,3d-vh-f-eye-r
-#VHFRightEye,#VHFemaleOrgans,VH_F_fovea_R,Right fovea centralis,FMA:58661,http://purl.org/sig/ont/fma/fma58661,3d-vh-f-eye-r
--,-,VH_F_palpebral_conjunctiva_R,-,-,-,-
-#VHFRightEye,#VHFemaleOrgans,VH_F_palpebral_conjunctiva_of_right_lower_eyelid,Palpebral conjunctiva of right lower eyelid,FMA:223074,http://purl.org/sig/ont/fma/fma223074,3d-vh-f-eye-r
-#VHFRightEye,#VHFemaleOrgans,VH_F_palpebral_conjunctiva_of_right_upper_eyelid,Palpebral conjunctiva of right upper eyelid,FMA:223076,http://purl.org/sig/ont/fma/fma223076,3d-vh-f-eye-r
-#VHFRightEye,#VHFemaleOrgans,VH_F_vitreous_humor_R,Humor of right vitreous body,FMA:261236,http://purl.org/sig/ont/fma/fma261236,3d-vh-f-eye-r
-#VHFRightEye,#VHFemaleOrgans,VH_F_cornea_R,Right cornea,FMA:58239,http://purl.org/sig/ont/fma/fma58239,3d-vh-f-eye-r
-#VHFRightEye,#VHFemaleOrgans,VH_F_bulbar_conjunctiva_R,Right bulbar conjunctiva,FMA:59028,http://purl.org/sig/ont/fma/fma59028,3d-vh-f-eye-r
-#VHFRightEye,#VHFemaleOrgans,VH_F_iris_R,Right iris,FMA:58236,http://purl.org/sig/ont/fma/fma58236,3d-vh-f-eye-r
-#VHFRightEye,#VHFemaleOrgans,VH_F_trabecular_meshwork_R,eye trabecular meshwork,UBERON:0005969,http://purl.obolibrary.org/obo/UBERON_0005969,3d-vh-f-eye-r
-#VHFRightEye,#VHFemaleOrgans,VH_F_ciliary_body_R,Right ciliary body,FMA:58296,http://purl.org/sig/ont/fma/fma58296,3d-vh-f-eye-r
-#VHFRightEye,#VHFemaleOrgans,VH_F_ciliary_muscle_R,Right ciliary muscle,FMA:49152,http://purl.org/sig/ont/fma/fma49152,3d-vh-f-eye-r
-#VHFRightEye,#VHFemaleOrgans,VH_F_aqueous_humor_R,Aqueous humor of right eyeball,FMA:58820,http://purl.org/sig/ont/fma/fma58820,3d-vh-f-eye-r
-#VHFRightEye,#VHFemaleOrgans,VH_F_schlemms_canal_R,Right scleral venous sinus,FMA:51874,http://purl.org/sig/ont/fma/fma51874,3d-vh-f-eye-r
-#VHFRightEye,#VHFemaleOrgans,VH_F_lens_R,Right lens,FMA:58242,http://purl.org/sig/ont/fma/fma58242,3d-vh-f-eye-r
-#VHFRightEye,#VHFemaleOrgans,VH_F_corneo_scleral_junction_R,Right corneoscleral junction,FMA:58343,http://purl.org/sig/ont/fma/fma58343,3d-vh-f-eye-r
-#VHFRightEye,#VHFemaleOrgans,VH_F_ora_serrata_of_retina_R,Right ora serrata,FMA:58601,http://purl.org/sig/ont/fma/fma58601,3d-vh-f-eye-r
-#VHFRightEye,#VHFemaleOrgans,VH_F_suspensory_ligament_of_lens_R,Suspensory ligament of right lens,FMA:58839,http://purl.org/sig/ont/fma/fma58839,3d-vh-f-eye-r
-#VHFRightEye,#VHFemaleOrgans,VH_F_ciliary_processes_R,ciliary processes,UBERON:0010427,http://purl.obolibrary.org/obo/UBERON_0010427,3d-vh-f-eye-r
-#VHFRightEye,#VHFemaleOrgans,VH_F_pupil_R,right pupil,UBERON:0010224,http://purl.obolibrary.org/obo/UBERON_0010224,3d-vh-f-eye-r
-#VHFRightEye,#VHFemaleOrgans,VH_F_optic_choroid_R,Right choroid,FMA:58299,http://purl.org/sig/ont/fma/fma58299,3d-vh-f-eye-r
-#VHFRightEye,#VHFemaleOrgans,VH_F_sclera_R,Right sclera,FMA:58271,http://purl.org/sig/ont/fma/fma58271,3d-vh-f-eye-r
 -,#VHFemaleOrgans,VH_F_nerves_of_eye,-,-,-,3d-vh-f-united
 -,#VHFemaleOrgans,VH_F_nerves_of_eye_R,-,-,-,VH_F_Nerves_Eye_R
 #VHFNervesRightEye,#VHFemaleOrgans,VH_F_dura_mater_right,dura mater,UBERON:0002363,http://purl.obolibrary.org/obo/UBERON_0002363,VH_F_Nerves_Eye_R
@@ -906,22 +906,18 @@ anatomical_structure_of,source_spatial_entity,node_name,label,OntologyID,represe
 #VHFLarynx,#VHFemaleOrgans,VH_F_corniculate_cartilage_R,Right corniculate cartilage,FMA:55115,http://purl.org/sig/ont/fma/fma55115,3d-vh-f-larynx
 -,#VHFemaleOrgans,VH_F_tracheobronchial_tree,tracheobronchial tree,UBERON:0007196,http://purl.obolibrary.org/obo/UBERON_0007196,-
 #VHFTrachea,#VHFemaleOrgans,VH_F_trachea,trachea,UBERON:0003126,http://purl.obolibrary.org/obo/UBERON_0003126,3d-vh-f-trachea
--,#VHFemaleOrgans,VH_F_cartilage_of_tracheobronchial_tree,-,-,-,-
 #VHFTrachea,#VHFemaleOrgans,VH_F_tracheal_cartilage,trachea cartilage,UBERON:0003604,http://purl.obolibrary.org/obo/UBERON_0003604,3d-vh-f-trachea
 #VHFTrachea,#VHFemaleOrgans,VH_F_carina,carina of trachea,UBERON:0006679,http://purl.obolibrary.org/obo/UBERON_0006679,3d-vh-f-trachea
--,#VHFemaleOrgans,VH_F_left_bronchial_cartilage,-,-,-,-
-#VHFMainBronchus,#VHFemaleOrgans,VH_F_cartilage_of_main_bronchus_L,Cartilage of left main bronchus,FMA:13144,http://purl.org/sig/ont/fma/fma13144,3d-vh-f-main-bronchus
-#VHFLung,#VHFemaleOrgans,VH_F_cartilage_of_lobar_bronchus_L,Cartilage of lobar bronchus,FMA:62659,http://purl.org/sig/ont/fma/fma62659,VH_F_Lungs
-#VHFLung,#VHFemaleOrgans,VH_F_cartilage_of_tertiary_bronchus_L,Cartilage of segmental bronchus,FMA:62662,http://purl.org/sig/ont/fma/fma62662,VH_F_Lungs
--,#VHFemaleOrgans,VH_F_right_bronchial_cartilage,-,-,-,-
-#VHFMainBronchus,#VHFemaleOrgans,VH_F_cartilage_of_main_bronchus_R,Cartilage of right main bronchus,FMA:13143,http://purl.org/sig/ont/fma/fma13143,3d-vh-f-main-bronchus
-#VHFLung,#VHFemaleOrgans,VH_F_cartilage_of_lobar_bronchus_R,Cartilage of lobar bronchus,FMA:62659,http://purl.org/sig/ont/fma/fma62659,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_cartilage_of_tertiary_bronchus_R,Cartilage of segmental bronchus,FMA:62662,http://purl.org/sig/ont/fma/fma62662,3d-vh-f-lung
 #VHFLung,#VHFemaleOrgans,VH_F_bronchi,bronchus,UBERON:0002185,http://purl.obolibrary.org/obo/UBERON_0002185,3d-vh-f-lung
 -,#VHFemaleOrgans,VH_F_main_bronchi,main bronchus,UBERON:0002182,http://purl.obolibrary.org/obo/UBERON_0002182,-
 #VHFMainBronchus,#VHFemaleOrgans,VH_F_right_main_bronchus,Right Main Bronchus,UBERON:0002177,http://purl.obolibrary.org/obo/UBERON_0002177,3d-vh-f-main-bronchus
+#VHFMainBronchus,#VHFemaleOrgans,VH_F_cartilage_of_main_bronchus_R,Cartilage of right main bronchus,FMA:13143,http://purl.org/sig/ont/fma/fma13143,3d-vh-f-main-bronchus
 #VHFMainBronchus,#VHFemaleOrgans,VH_F_left_main_bronchus,Left Main Bronchus,UBERON:0002178,http://purl.obolibrary.org/obo/UBERON_0002178,3d-vh-f-main-bronchus
+#VHFMainBronchus,#VHFemaleOrgans,VH_F_cartilage_of_main_bronchus_L,Cartilage of left main bronchus,FMA:13144,http://purl.org/sig/ont/fma/fma13144,3d-vh-f-main-bronchus
 #VHFLung,#VHFemaleOrgans,VH_F_bronchi_L,-,-,-,3d-vh-f-lung
+-,#VHFemaleOrgans,VH_F_left_bronchial_cartilage,-,-,-,-
+#VHFLung,#VHFemaleOrgans,VH_F_cartilage_of_lobar_bronchus_L,Cartilage of lobar bronchus,FMA:62659,http://purl.org/sig/ont/fma/fma62659,VH_F_Lungs
+#VHFLung,#VHFemaleOrgans,VH_F_cartilage_of_tertiary_bronchus_L,Cartilage of segmental bronchus,FMA:62662,http://purl.org/sig/ont/fma/fma62662,VH_F_Lungs
 #VHFLung,#VHFemaleOrgans,VH_F_lobar_bronchi_L,lobar bronchus of left lung,UBERON:0003405,http://purl.obolibrary.org/obo/UBERON_0003405,3d-vh-f-lung
 #VHFLung,#VHFemaleOrgans,VH_F_left_superior_lobar_bronchus,lobar bronchus of left lung upper lobe,UBERON:0012065,http://purl.obolibrary.org/obo/UBERON_0012065,3d-vh-f-lung
 #VHFLung,#VHFemaleOrgans,VH_F_left_inferior_lobar_bronchus,lobar bronchus of left lung lower lobe,UBERON:0012066,http://purl.obolibrary.org/obo/UBERON_0012066,3d-vh-f-lung
@@ -937,21 +933,24 @@ anatomical_structure_of,source_spatial_entity,node_name,label,OntologyID,represe
 #VHFLung,#VHFemaleOrgans,VH_F_left_lateral_basal_bronchus,Left lateral basal segmental bronchus,FMA:7507,http://purl.org/sig/ont/fma/fma7507,3d-vh-f-lung
 #VHFLung,#VHFemaleOrgans,VH_F_left_lingula_inferior_bronchi,Inferior lingular bronchus,FMA:7431,http://purl.org/sig/ont/fma/fma7431,3d-vh-f-lung
 #VHFLung,#VHFemaleOrgans,VH_F_bronchi_R,-,-,-,3d-vh-f-lung
+-,#VHFemaleOrgans,VH_F_right_bronchial_cartilage,-,-,-,-
+#VHFLung,#VHFemaleOrgans,VH_F_cartilage_of_lobar_bronchus_R,Cartilage of lobar bronchus,FMA:62659,http://purl.org/sig/ont/fma/fma62659,3d-vh-f-lung
+#VHFLung,#VHFemaleOrgans,VH_F_cartilage_of_tertiary_bronchus_R,Cartilage of segmental bronchus,FMA:62662,http://purl.org/sig/ont/fma/fma62662,3d-vh-f-lung
 #VHFLung,#VHFemaleOrgans,VH_F_lobar_bronchus_R,lobar bronchus of right lung,UBERON:0003404,http://purl.obolibrary.org/obo/UBERON_0003404,3d-vh-f-lung
 #VHFLung,#VHFemaleOrgans,VH_F_right_middle_lobar_bronchus,Middle lobar bronchus,FMA:7401,http://purl.org/sig/ont/fma/fma7401,3d-vh-f-lung
 #VHFLung,#VHFemaleOrgans,VH_F_right_superior_lobar_bronchus,Right superior lobar bronchus,FMA:7397,http://purl.org/sig/ont/fma/fma7397,3d-vh-f-lung
 #VHFLung,#VHFemaleOrgans,VH_F_right_inferior_lobar_bronchus,Right inferior lobar bronchus,FMA:7404,http://purl.org/sig/ont/fma/fma7404,3d-vh-f-lung
 #VHFLung,#VHFemaleOrgans,VH_F_tertiary_bronchi_R,Segmental bronchus,UBERON:0002184,http://purl.obolibrary.org/obo/UBERON_0002184,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_right_anterior_basal_bronchus,Right anterior basal segmental bronchus,FMA:7418,http://purl.org/sig/ont/fma/fma7418,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_right_medial_basal_bronchus,Right medial basal segmental bronchus,FMA:7417,http://purl.org/sig/ont/fma/fma7417,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_right_apical_bronchus,Right apical segmental bronchus,FMA:7398,http://purl.org/sig/ont/fma/fma7398,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_right_posterior_basal_bronchus,Right posterior basal segmental bronchus,FMA:7420,http://purl.org/sig/ont/fma/fma7420,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_right_medial_bronchus,Medial segmental bronchus,FMA:7403,http://purl.org/sig/ont/fma/fma7403,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_right_lateral_bronchus,Lateral segmental bronchus,FMA:7402,http://purl.org/sig/ont/fma/fma7402,3d-vh-f-lung
 #VHFLung,#VHFemaleOrgans,VH_F_right_anterior_bronchus,Right anterior segmental bronchus,FMA:7400,http://purl.org/sig/ont/fma/fma7400,3d-vh-f-lung
 #VHFLung,#VHFemaleOrgans,VH_F_right_lateral_basal_bronchus,Right lateral basal segmental bronchus,FMA:7419,http://purl.org/sig/ont/fma/fma7419,3d-vh-f-lung
-#VHFLung,#VHFemaleOrgans,VH_F_right_superior_bronchus,Right superior segmental bronchus,FMA:7416,http://purl.org/sig/ont/fma/fma7416,3d-vh-f-lung
+#VHFLung,#VHFemaleOrgans,VH_F_right_lateral_bronchus,Lateral segmental bronchus,FMA:7402,http://purl.org/sig/ont/fma/fma7402,3d-vh-f-lung
+#VHFLung,#VHFemaleOrgans,VH_F_right_medial_bronchus,Medial segmental bronchus,FMA:7403,http://purl.org/sig/ont/fma/fma7403,3d-vh-f-lung
+#VHFLung,#VHFemaleOrgans,VH_F_right_medial_basal_bronchus,Right medial basal segmental bronchus,FMA:7417,http://purl.org/sig/ont/fma/fma7417,3d-vh-f-lung
+#VHFLung,#VHFemaleOrgans,VH_F_right_posterior_basal_bronchus,Right posterior basal segmental bronchus,FMA:7420,http://purl.org/sig/ont/fma/fma7420,3d-vh-f-lung
 #VHFLung,#VHFemaleOrgans,VH_F_right_posterior_bronchus,Right posterior segmental bronchus,FMA:7399,http://purl.org/sig/ont/fma/fma7399,3d-vh-f-lung
+#VHFLung,#VHFemaleOrgans,VH_F_right_superior_bronchus,Right superior segmental bronchus,FMA:7416,http://purl.org/sig/ont/fma/fma7416,3d-vh-f-lung
+#VHFLung,#VHFemaleOrgans,VH_F_right_apical_bronchus,Right apical segmental bronchus,FMA:7398,http://purl.org/sig/ont/fma/fma7398,3d-vh-f-lung
+#VHFLung,#VHFemaleOrgans,VH_F_right_anterior_basal_bronchus,Right anterior basal segmental bronchus,FMA:7418,http://purl.org/sig/ont/fma/fma7418,3d-vh-f-lung
 -,#VHFemaleOrgans,VH_F_lymphatic_system,lymphoid system,UBERON:0002465,http://purl.obolibrary.org/obo/UBERON_0002465,3d-vh-f-united
 #VHFSpleenV1.1,#VHFemaleOrgans,VH_F_spleen,spleen,UBERON:0002106,http://purl.obolibrary.org/obo/UBERON_0002106,VH_F_Spleen
 #VHFSpleenV1.1,#VHFemaleOrgans,VH_F_gastric_surface_of_spleen,gastric surface of spleen,FMA:15837,http://purl.org/sig/ont/fma/fma15837,VH_F_Spleen
@@ -1417,33 +1416,33 @@ anatomical_structure_of,source_spatial_entity,node_name,label,OntologyID,represe
 #VHMRightEye,#VHMaleOrgans,VH_M_macula_lutea_R,Right macula lutea,FMA:58638,http://purl.org/sig/ont/fma/fma58638,3d-vh-m-eye-r
 #VHMRightEye,#VHMaleOrgans,VH_M_optic_disc_R,Right optic disc,FMA:58635,http://purl.org/sig/ont/fma/fma58635,3d-vh-m-eye-r
 -,-,VH_M_palpebral_conjunctiva_R,-,-,-,-
-#VHMRightEye,#VHMaleOrgans,VH_M_palpebral_conjunctiva_of_lower_eyelid_R,Palpebral conjunctiva of right lower eyelid,FMA:223074,http://purl.org/sig/ont/fma/fma223074,3d-vh-m-eye-r
 #VHMRightEye,#VHMaleOrgans,VH_M_palpebral_conjunctiva_of_upper_eyelid_R,Palpebral conjunctiva of right upper eyelid,FMA:223076,http://purl.org/sig/ont/fma/fma223076,3d-vh-m-eye-r
-#VHMRightEye,#VHMaleOrgans,VH_M_vitreous_humor_R,Humor of right vitreous body,FMA:261236,http://purl.org/sig/ont/fma/fma261236,3d-vh-m-eye-r
-#VHMRightEye,#VHMaleOrgans,VH_M_cornea_R,Right cornea,FMA:58239,http://purl.org/sig/ont/fma/fma58239,3d-vh-m-eye-r
-#VHMRightEye,#VHMaleOrgans,VH_M_bulbar_conjunctiva_R,Right bulbar conjunctiva,FMA:59028,http://purl.org/sig/ont/fma/fma59028,3d-vh-m-eye-r
-#VHMRightEye,#VHMaleOrgans,VH_M_iris_R,Right iris,FMA:58236,http://purl.org/sig/ont/fma/fma58236,3d-vh-m-eye-r
-#VHMRightEye,#VHMaleOrgans,VH_M_trabecular_meshwork_R,eye trabecular meshwork,UBERON:0005969,http://purl.obolibrary.org/obo/UBERON_0005969,3d-vh-m-eye-r
+#VHMRightEye,#VHMaleOrgans,VH_M_palpebral_conjunctiva_of_lower_eyelid_R,Palpebral conjunctiva of right lower eyelid,FMA:223074,http://purl.org/sig/ont/fma/fma223074,3d-vh-m-eye-r
+#VHMRightEye,#VHMaleOrgans,VH_M_sclera_R,Right sclera,FMA:58271,http://purl.org/sig/ont/fma/fma58271,3d-vh-m-eye-r
+#VHMRightEye,#VHMaleOrgans,VH_M_optic_choroid_R,Right choroid,FMA:58299,http://purl.org/sig/ont/fma/fma58299,3d-vh-m-eye-r
+#VHMRightEye,#VHMaleOrgans,VH_M_pupil_R,right pupil,UBERON:0010224,http://purl.obolibrary.org/obo/UBERON_0010224,3d-vh-m-eye-r
+#VHMRightEye,#VHMaleOrgans,VH_M_ciliary_processes_R,ciliary processes,UBERON:0010427,http://purl.obolibrary.org/obo/UBERON_0010427,3d-vh-m-eye-r
+#VHMRightEye,#VHMaleOrgans,VH_M_suspensory_ligament_of_lens_R,Suspensory ligament of right lens,FMA:58839,http://purl.org/sig/ont/fma/fma58839,3d-vh-m-eye-r
+#VHMRightEye,#VHMaleOrgans,VH_M_ora_serrata_of_retina_R,Right ora serrata,FMA:58601,http://purl.org/sig/ont/fma/fma58601,3d-vh-m-eye-r
+#VHMRightEye,#VHMaleOrgans,VH_M_corneo_scleral_junction_R,Right corneoscleral junction,FMA:58343,http://purl.org/sig/ont/fma/fma58343,3d-vh-m-eye-r
+#VHMRightEye,#VHMaleOrgans,VH_M_lens_R,Right lens,FMA:58242,http://purl.org/sig/ont/fma/fma58242,3d-vh-m-eye-r
+#VHMRightEye,#VHMaleOrgans,VH_M_schlemms_canal_R,Right scleral venous sinus,FMA:51874,http://purl.org/sig/ont/fma/fma51874,3d-vh-m-eye-r
+#VHMRightEye,#VHMaleOrgans,VH_M_aqueous_humor_R,Aqueous humor of right eyeball,FMA:58820,http://purl.org/sig/ont/fma/fma58820,3d-vh-m-eye-r
 #VHMRightEye,#VHMaleOrgans,VH_M_ciliary_body_R,Right ciliary body,FMA:58296,http://purl.org/sig/ont/fma/fma58296,3d-vh-m-eye-r
 #VHMRightEye,#VHMaleOrgans,VH_M_ciliary_muscle_R,Right ciliary muscle,FMA:49152,http://purl.org/sig/ont/fma/fma49152,3d-vh-m-eye-r
-#VHMRightEye,#VHMaleOrgans,VH_M_aqueous_humor_R,Aqueous humor of right eyeball,FMA:58820,http://purl.org/sig/ont/fma/fma58820,3d-vh-m-eye-r
-#VHMRightEye,#VHMaleOrgans,VH_M_schlemms_canal_R,Right scleral venous sinus,FMA:51874,http://purl.org/sig/ont/fma/fma51874,3d-vh-m-eye-r
-#VHMRightEye,#VHMaleOrgans,VH_M_lens_R,Right lens,FMA:58242,http://purl.org/sig/ont/fma/fma58242,3d-vh-m-eye-r
-#VHMRightEye,#VHMaleOrgans,VH_M_corneo_scleral_junction_R,Right corneoscleral junction,FMA:58343,http://purl.org/sig/ont/fma/fma58343,3d-vh-m-eye-r
-#VHMRightEye,#VHMaleOrgans,VH_M_ora_serrata_of_retina_R,Right ora serrata,FMA:58601,http://purl.org/sig/ont/fma/fma58601,3d-vh-m-eye-r
-#VHMRightEye,#VHMaleOrgans,VH_M_suspensory_ligament_of_lens_R,Suspensory ligament of right lens,FMA:58839,http://purl.org/sig/ont/fma/fma58839,3d-vh-m-eye-r
-#VHMRightEye,#VHMaleOrgans,VH_M_ciliary_processes_R,ciliary processes,UBERON:0010427,http://purl.obolibrary.org/obo/UBERON_0010427,3d-vh-m-eye-r
-#VHMRightEye,#VHMaleOrgans,VH_M_pupil_R,right pupil,UBERON:0010224,http://purl.obolibrary.org/obo/UBERON_0010224,3d-vh-m-eye-r
-#VHMRightEye,#VHMaleOrgans,VH_M_optic_choroid_R,Right choroid,FMA:58299,http://purl.org/sig/ont/fma/fma58299,3d-vh-m-eye-r
-#VHMRightEye,#VHMaleOrgans,VH_M_sclera_R,Right sclera,FMA:58271,http://purl.org/sig/ont/fma/fma58271,3d-vh-m-eye-r
+#VHMRightEye,#VHMaleOrgans,VH_M_trabecular_meshwork_R,eye trabecular meshwork,UBERON:0005969,http://purl.obolibrary.org/obo/UBERON_0005969,3d-vh-m-eye-r
+#VHMRightEye,#VHMaleOrgans,VH_M_iris_R,Right iris,FMA:58236,http://purl.org/sig/ont/fma/fma58236,3d-vh-m-eye-r
+#VHMRightEye,#VHMaleOrgans,VH_M_bulbar_conjunctiva_R,Right bulbar conjunctiva,FMA:59028,http://purl.org/sig/ont/fma/fma59028,3d-vh-m-eye-r
+#VHMRightEye,#VHMaleOrgans,VH_M_cornea_R,Right cornea,FMA:58239,http://purl.org/sig/ont/fma/fma58239,3d-vh-m-eye-r
+#VHMRightEye,#VHMaleOrgans,VH_M_vitreous_humor_R,Humor of right vitreous body,FMA:261236,http://purl.org/sig/ont/fma/fma261236,3d-vh-m-eye-r
 #VHMLeftEye,#VHMaleOrgans,VH_M_eye_L,left eye,UBERON:0004548,http://purl.obolibrary.org/obo/UBERON_0004548,3d-vh-m-eye-l
 #VHMLeftEye,#VHMaleOrgans,VH_M_retina_L,Left retina,FMA:58303,http://purl.org/sig/ont/fma/fma58303,3d-vh-m-eye-l
 #VHMLeftEye,#VHMaleOrgans,VH_M_fovea_L,Left fovea centralis,FMA:58663,http://purl.org/sig/ont/fma/fma58663,3d-vh-m-eye-l
 #VHMLeftEye,#VHMaleOrgans,VH_M_macula_lutea_L,Left macula lutea,FMA:58639,http://purl.org/sig/ont/fma/fma58639,3d-vh-m-eye-l
 #VHMLeftEye,#VHMaleOrgans,VH_M_optic_disc_L,Left optic disc,FMA:58636,http://purl.org/sig/ont/fma/fma58636,3d-vh-m-eye-l
 -,-,VH_M_palpebral_conjunctiva_L,-,-,-,-
-#VHMLeftEye,#VHMaleOrgans,VH_M_palpebral_conjunctiva_of_lower_eyelid_L,Palpebral conjunctiva of left lower eyelid,FMA:223075,http://purl.org/sig/ont/fma/fma223075,3d-vh-m-eye-l
 #VHMLeftEye,#VHMaleOrgans,VH_M_palpebral_conjunctiva_of_upper_eyelid_L,Palpebral conjunctiva of left upper eyelid,FMA:223078,http://purl.org/sig/ont/fma/fma223078,3d-vh-m-eye-l
+#VHMLeftEye,#VHMaleOrgans,VH_M_palpebral_conjunctiva_of_lower_eyelid_L,Palpebral conjunctiva of left lower eyelid,FMA:223075,http://purl.org/sig/ont/fma/fma223075,3d-vh-m-eye-l
 #VHMLeftEye,#VHMaleOrgans,VH_M_vitreous_humor_L,Humor of left vitreous body,FMA:261238,http://purl.org/sig/ont/fma/fma261238,3d-vh-m-eye-l
 #VHMLeftEye,#VHMaleOrgans,VH_M_cornea_L,Left cornea,FMA:58240,http://purl.org/sig/ont/fma/fma58240,3d-vh-m-eye-l
 #VHMLeftEye,#VHMaleOrgans,VH_M_bulbar_conjunctiva_L,Left bulbar conjunctiva,FMA:59029,http://purl.org/sig/ont/fma/fma59029,3d-vh-m-eye-l
@@ -1939,22 +1938,18 @@ anatomical_structure_of,source_spatial_entity,node_name,label,OntologyID,represe
 #VHMLarynx,#VHMaleOrgans,VH_M_corniculate_cartilage_R,Right corniculate cartilage,FMA:55115,http://purl.org/sig/ont/fma/fma55115,3d-vh-m-larynx
 -,#VHMaleOrgans,VH_M_tracheobronchial_tree,tracheobronchial tree,UBERON:0007196 ,http://purl.obolibrary.org/obo/UBERON_0007196,-
 #VHMTrachea,#VHMaleOrgans,VH_M_trachea,trachea,UBERON:0003126,http://purl.obolibrary.org/obo/UBERON_0003126,3d-vh-m-trachea
--,#VHMaleOrgans,VH_M_cartilage_of_tracheobronchial_tree,-,-,-,-
 #VHMTrachea,#VHMaleOrgans,VH_M_tracheal_cartilage,trachea cartilage,UBERON:0003604,http://purl.obolibrary.org/obo/UBERON_0003604,3d-vh-m-trachea
 #VHMTrachea,#VHMaleOrgans,VH_M_carina,carina of trachea,UBERON:0006679,http://purl.obolibrary.org/obo/UBERON_0006679,3d-vh-m-trachea
--,#VHMaleOrgans,VH_M_left_bronchial_cartilage,-,-,-,-
-#VHMMainBronchus,#VHMaleOrgans,VH_M_cartilage_of_the_main_bronchus_L,Cartilage of left main bronchus,FMA:13144,http://purl.org/sig/ont/fma/fma13144,3d-vh-m-main-bronchus
-#VHMLung,#VHMaleOrgans,VH_M_cartilage_of_the_lobar_bronchus_L,Cartilage of lobar bronchus,FMA:62659,http://purl.org/sig/ont/fma/fma62659,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_cartilage_of_the_tertiary_bronchus_L,Cartilage of segmental bronchus,FMA:62662,http://purl.org/sig/ont/fma/fma62662,3d-vh-m-lung
--,#VHMaleOrgans,VH_M_right_bronchial_cartilage,-,-,-,-
-#VHMMainBronchus,#VHMaleOrgans,VH_M_cartilage_of_the_main_bronchus_R,Cartilage of right main bronchus,FMA:13143,http://purl.org/sig/ont/fma/fma13143,3d-vh-m-main-bronchus
-#VHMLung,#VHMaleOrgans,VH_M_cartilage_of_the_lobar_bronchus_R,Cartilage of lobar bronchus,FMA:62659,http://purl.org/sig/ont/fma/fma62659,3d-vh-m-lung
-#VHMLung,#VHMaleOrgans,VH_M_cartilage_of_the_tertiary_bronchus_R,Cartilage of segmental bronchus,FMA:62662,http://purl.org/sig/ont/fma/fma62662,3d-vh-m-lung
 #VHMLung,#VHMaleOrgans,VH_M_bronchi,bronchus,UBERON:0002185,http://purl.obolibrary.org/obo/UBERON_0002185,3d-vh-m-united
 -,#VHMaleOrgans,VH_M_main_bronchi,main bronchus,UBERON:0002182,http://purl.obolibrary.org/obo/UBERON_0002182,3d-vh-m-main-bronchus
 #VHMMainBronchus,#VHMaleOrgans,VH_M_left_main_bronchus,Left Main Bronchus,UBERON:0002178,http://purl.obolibrary.org/obo/UBERON_0002178,3d-vh-m-main-bronchus
+#VHMMainBronchus,#VHMaleOrgans,VH_M_cartilage_of_the_main_bronchus_L,Cartilage of left main bronchus,FMA:13144,http://purl.org/sig/ont/fma/fma13144,3d-vh-m-main-bronchus
 #VHMMainBronchus,#VHMaleOrgans,VH_M_right_main_bronchus,Right Main Bronchus,UBERON:0002177,http://purl.obolibrary.org/obo/UBERON_0002177,3d-vh-m-main-bronchus
+#VHMMainBronchus,#VHMaleOrgans,VH_M_cartilage_of_the_main_bronchus_R,Cartilage of right main bronchus,FMA:13143,http://purl.org/sig/ont/fma/fma13143,3d-vh-m-main-bronchus
 #VHMLung,#VHMaleOrgans,VH_M_bronchi_L,-,-,-,3d-vh-m-lung
+-,#VHMaleOrgans,VH_M_left_bronchial_cartilage,-,-,-,-
+#VHMLung,#VHMaleOrgans,VH_M_cartilage_of_the_lobar_bronchus_L,Cartilage of lobar bronchus,FMA:62659,http://purl.org/sig/ont/fma/fma62659,3d-vh-m-lung
+#VHMLung,#VHMaleOrgans,VH_M_cartilage_of_the_tertiary_bronchus_L,Cartilage of segmental bronchus,FMA:62662,http://purl.org/sig/ont/fma/fma62662,3d-vh-m-lung
 #VHMLung,#VHMaleOrgans,VH_M_lobar_bronchus_L,lobar bronchus of left lung,UBERON:0003405,http://purl.obolibrary.org/obo/UBERON_0003405,3d-vh-m-lung
 #VHMLung,#VHMaleOrgans,VH_M_left_superior_lobar_bronchus,lobar bronchus of left lung upper lobe,UBERON:0012065,http://purl.obolibrary.org/obo/UBERON_0012065,3d-vh-m-lung
 #VHMLung,#VHMaleOrgans,VH_M_left_inferior_lobar_bronchus,lobar bronchus of left lung lower lobe,UBERON:0012066,http://purl.obolibrary.org/obo/UBERON_0012066,3d-vh-m-lung
@@ -1970,6 +1965,9 @@ anatomical_structure_of,source_spatial_entity,node_name,label,OntologyID,represe
 #VHMLung,#VHMaleOrgans,VH_M_left_lateral_basal_bronchus,Left lateral basal segmental bronchus,FMA:7507,http://purl.org/sig/ont/fma/fma7507,3d-vh-m-lung
 #VHMLung,#VHMaleOrgans,VH_M_left_anterior_basal_bronchus,Left anterior basal segmental bronchus,FMA:7506,http://purl.org/sig/ont/fma/fma7506,3d-vh-m-lung
 #VHMLung,#VHMaleOrgans,VH_M_bronchi_R,-,-,-,3d-vh-m-lung
+-,#VHMaleOrgans,VH_M_right_bronchial_cartilage,-,-,-,-
+#VHMLung,#VHMaleOrgans,VH_M_cartilage_of_the_lobar_bronchus_R,Cartilage of lobar bronchus,FMA:62659,http://purl.org/sig/ont/fma/fma62659,3d-vh-m-lung
+#VHMLung,#VHMaleOrgans,VH_M_cartilage_of_the_tertiary_bronchus_R,Cartilage of segmental bronchus,FMA:62662,http://purl.org/sig/ont/fma/fma62662,3d-vh-m-lung
 #VHMLung,#VHMaleOrgans,VH_M_lobar_bronchi_R,lobar bronchus of right lung,UBERON:0003404,http://purl.obolibrary.org/obo/UBERON_0003404,3d-vh-m-lung
 #VHMLung,#VHMaleOrgans,VH_M_right_intermediate_bronchus,Interlobar bronchus,FMA:7415,http://purl.org/sig/ont/fma/fma7415,3d-vh-m-lung
 #VHMLung,#VHMaleOrgans,VH_M_right_middle_lobar_bronchus,Middle lobar bronchus,FMA:7401,http://purl.org/sig/ont/fma/fma7401,3d-vh-m-lung
