@@ -493,8 +493,8 @@ anatomical_structure_of,source_spatial_entity,node_name,label,OntologyID,represe
 #VHFUterus,#VHFemaleOrgans,VH_F_external_cervical_os,external cervical os,UBERON:0013760,http://purl.obolibrary.org/obo/UBERON_0013760,VH_F_Uterus
 -,#VHFemaleOrgans,VH_F_digestive_system,digestive system,UBERON:0001007,http://purl.obolibrary.org/obo/UBERON_0001007,3d-vh-f-united
 #VHFPalatineTonsil,#VHFemaleOrgans,VH_F_palatine_tonsil,palatine tonsil,UBERON:0002373,http://purl.obolibrary.org/obo/UBERON_0002373,3d-vh-f-united
-#VHFPalatineTonsil,#VHFemaleOrgans,VH_F_palatine_tonsil_L,Left palatine tonsil,FMA:54974,http://purl.org/sig/ont/fma/fma54974,3d-vh-f-palatine-tonsil-l
-#VHFPalatineTonsil,#VHFemaleOrgans,VH_F_palatine_tonsil_R,Right  palatine tonsil,FMA:54973,http://purl.org/sig/ont/fma/fma54973,3d-vh-f-palatine-tonsil-r
+#VHFLeftPalatineTonsil,#VHFemaleOrgans,VH_F_palatine_tonsil_L,left palatine tonsil,FMA:54974,http://purl.org/sig/ont/fma/fma54974,3d-vh-f-palatine-tonsil-l
+#VHFRightPalatineTonsil,#VHFemaleOrgans,VH_F_palatine_tonsil_R,right palatine tonsil,FMA:54973,http://purl.org/sig/ont/fma/fma54973,3d-vh-f-palatine-tonsil-r
 #VHFLargeIntestine,#VHFemaleOrgans,VH_F_colon,large intestine,UBERON:0000059,http://purl.obolibrary.org/obo/UBERON_0000059,SBU_F_Intestine_Large
 #VHFLargeIntestine,#VHFemaleOrgans,VH_F_hepatic_flexure_of_colon,hepatic flexure of colon,UBERON:0022277,http://purl.obolibrary.org/obo/UBERON_0022277,SBU_F_Intestine_Large
 #VHFLargeIntestine,#VHFemaleOrgans,VH_F_transverse_colon,transverse colon,UBERON:0001157,http://purl.obolibrary.org/obo/UBERON_0001157,SBU_F_Intestine_Large
@@ -905,6 +905,7 @@ anatomical_structure_of,source_spatial_entity,node_name,label,OntologyID,represe
 #VHFLarynx,#VHFemaleOrgans,VH_F_corniculate_cartilage_L,Left corniculate cartilage,FMA:55116,http://purl.org/sig/ont/fma/fma55116,3d-vh-f-larynx
 #VHFLarynx,#VHFemaleOrgans,VH_F_corniculate_cartilage_R,Right corniculate cartilage,FMA:55115,http://purl.org/sig/ont/fma/fma55115,3d-vh-f-larynx
 -,#VHFemaleOrgans,VH_F_tracheobronchial_tree,tracheobronchial tree,UBERON:0007196,http://purl.obolibrary.org/obo/UBERON_0007196,-
+#VHFTrachea,#VHFemaleOrgans,VH_F_trachea_of_respiratory_system,trachea of respiratory system,-,-,3d-vh-f-trachea
 #VHFTrachea,#VHFemaleOrgans,VH_F_trachea,trachea,UBERON:0003126,http://purl.obolibrary.org/obo/UBERON_0003126,3d-vh-f-trachea
 #VHFTrachea,#VHFemaleOrgans,VH_F_tracheal_cartilage,trachea cartilage,UBERON:0003604,http://purl.obolibrary.org/obo/UBERON_0003604,3d-vh-f-trachea
 #VHFTrachea,#VHFemaleOrgans,VH_F_carina,carina of trachea,UBERON:0006679,http://purl.obolibrary.org/obo/UBERON_0006679,3d-vh-f-trachea
@@ -916,8 +917,8 @@ anatomical_structure_of,source_spatial_entity,node_name,label,OntologyID,represe
 #VHFMainBronchus,#VHFemaleOrgans,VH_F_cartilage_of_main_bronchus_L,Cartilage of left main bronchus,FMA:13144,http://purl.org/sig/ont/fma/fma13144,3d-vh-f-main-bronchus
 #VHFLung,#VHFemaleOrgans,VH_F_bronchi_L,-,-,-,3d-vh-f-lung
 -,#VHFemaleOrgans,VH_F_left_bronchial_cartilage,-,-,-,-
-#VHFLung,#VHFemaleOrgans,VH_F_cartilage_of_lobar_bronchus_L,Cartilage of lobar bronchus,FMA:62659,http://purl.org/sig/ont/fma/fma62659,VH_F_Lungs
-#VHFLung,#VHFemaleOrgans,VH_F_cartilage_of_tertiary_bronchus_L,Cartilage of segmental bronchus,FMA:62662,http://purl.org/sig/ont/fma/fma62662,VH_F_Lungs
+#VHFLung,#VHFemaleOrgans,VH_F_cartilage_of_lobar_bronchus_L,Cartilage of lobar bronchus,FMA:62659,http://purl.org/sig/ont/fma/fma62659,3d-vh-f-lung
+#VHFLung,#VHFemaleOrgans,VH_F_cartilage_of_tertiary_bronchus_L,Cartilage of segmental bronchus,FMA:62662,http://purl.org/sig/ont/fma/fma62662,3d-vh-f-lung
 #VHFLung,#VHFemaleOrgans,VH_F_lobar_bronchi_L,lobar bronchus of left lung,UBERON:0003405,http://purl.obolibrary.org/obo/UBERON_0003405,3d-vh-f-lung
 #VHFLung,#VHFemaleOrgans,VH_F_left_superior_lobar_bronchus,lobar bronchus of left lung upper lobe,UBERON:0012065,http://purl.obolibrary.org/obo/UBERON_0012065,3d-vh-f-lung
 #VHFLung,#VHFemaleOrgans,VH_F_left_inferior_lobar_bronchus,lobar bronchus of left lung lower lobe,UBERON:0012066,http://purl.obolibrary.org/obo/UBERON_0012066,3d-vh-f-lung
@@ -1606,8 +1607,8 @@ anatomical_structure_of,source_spatial_entity,node_name,label,OntologyID,represe
 -,-,VH_M_gallbladder_,-,-,-,3d-vh-m-united
 #VHMGallbladder,#VHMaleOrgans,VH_M_gallbladder,gallbladder,UBERON:0002110,http://purl.obolibrary.org/obo/UBERON_0002110,VH_M_Gallbladder
 #VHMPalatineTonsil,#VHMaleOrgans,VH_M_palatine_tonsils,palatine tonsil,UBERON:0002373,http://purl.obolibrary.org/obo/UBERON_0002373,-
-#VHMPalatineTonsil,#VHMaleOrgans,VH_M_palatine_tonsil_L,Left palatine tonsil,FMA:54974,http://purl.org/sig/ont/fma/fma54974,3d-vh-m-palatine-tonsil-l
-#VHMPalatineTonsil,#VHMaleOrgans,VH_M_palatine_tonsil_R,Right  palatine tonsil,FMA:54973,http://purl.org/sig/ont/fma/fma54973,3d-vh-m-palatine-tonsil-r
+#VHMLeftPalatineTonsil,#VHMaleOrgans,VH_M_palatine_tonsil_L,Left palatine tonsil,FMA:54974,http://purl.org/sig/ont/fma/fma54974,3d-vh-m-palatine-tonsil-l
+#VHMRightPalatineTonsil,#VHMaleOrgans,VH_M_palatine_tonsil_R,Right palatine tonsil,FMA:54973,http://purl.org/sig/ont/fma/fma54973,3d-vh-m-palatine-tonsil-r
 -,#VHMaleOrgans,VH_M_urinary_system,renal system,UBERON:0001008,http://purl.obolibrary.org/obo/UBERON_0001008,3d-vh-m-united
 -,#VHMaleOrgans,VH_M_upper_urinary_tract,-,-,-,-
 -,-,VH_M_renal_pelvis_ureter,-,-,-,-
@@ -1937,6 +1938,7 @@ anatomical_structure_of,source_spatial_entity,node_name,label,OntologyID,represe
 #VHMLarynx,#VHMaleOrgans,VH_M_corniculate_cartilage_L,Left corniculate cartilage,FMA:55116,http://purl.org/sig/ont/fma/fma55116,3d-vh-m-larynx
 #VHMLarynx,#VHMaleOrgans,VH_M_corniculate_cartilage_R,Right corniculate cartilage,FMA:55115,http://purl.org/sig/ont/fma/fma55115,3d-vh-m-larynx
 -,#VHMaleOrgans,VH_M_tracheobronchial_tree,tracheobronchial tree,UBERON:0007196 ,http://purl.obolibrary.org/obo/UBERON_0007196,-
+#VHMTrachea,#VHMaleOrgans,VH_M_trachea_of_respiratory_system,trachea of respiratory system,-,-,3d-vh-m-trachea
 #VHMTrachea,#VHMaleOrgans,VH_M_trachea,trachea,UBERON:0003126,http://purl.obolibrary.org/obo/UBERON_0003126,3d-vh-m-trachea
 #VHMTrachea,#VHMaleOrgans,VH_M_tracheal_cartilage,trachea cartilage,UBERON:0003604,http://purl.obolibrary.org/obo/UBERON_0003604,3d-vh-m-trachea
 #VHMTrachea,#VHMaleOrgans,VH_M_carina,carina of trachea,UBERON:0006679,http://purl.obolibrary.org/obo/UBERON_0006679,3d-vh-m-trachea
