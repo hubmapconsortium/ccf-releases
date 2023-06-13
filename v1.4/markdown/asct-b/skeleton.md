@@ -17,5 +17,5 @@
 | **HuBMAP ID:** | HBM233.TRCP.638 |
 | **Data Table:** | [Skeleton, v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.4/asct-b/asct-b-vh-skeleton.csv) |
 | **DOI:** | [https://doi.org/10.48539/HBM233.TRCP.638](https://doi.org/10.48539/HBM233.TRCP.638) |
-| **How to Cite This Data Table:** |  Katherine S Gustilo; Griffin Weber. Skeleton,v1.0 https://doi.org/10.48539/HBM233.TRCP.638, Accessed on June 15, 2023. |
+| **How to Cite This Data Table:** |  Katherine S Gustilo; Griffin Weber. Skeleton, v1.0 https://doi.org/10.48539/HBM233.TRCP.638, Accessed on June 15, 2023. |
 | **How to Cite Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2023. [*HuBMAP ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15, 2023. |
