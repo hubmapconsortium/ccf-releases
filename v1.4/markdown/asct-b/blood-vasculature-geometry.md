@@ -1,15 +1,13 @@
 # Blood Vasculature Geometry, v1.0
 
 ### Description
-| This table provides geometric properties (e.g., length and diameter) of selected vessels in the blood vasculature Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table. The same vessel geometric property might be listed multiple times with different values. These correspond to different references that reported the property.|
+This table provides geometric properties (e.g., length and diameter) of selected vessels in the blood vasculature Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table. The same vessel geometric property might be listed multiple times with different values. These correspond to different references that reported the property.
 | Label | Value |
 | :------------- |:-------------|
 | **Creator(s):** | Griffin Weber; Katherine S Gustilo |
 | **Creator ORCID(s):** | [0000-0002-2597-881X](https://orcid.org/0000-0002-2597-881X); [0000-0002-5574-4272](https://orcid.org/0000-0002-5574-4272) |
 | **Project Lead:** | Katy B&ouml;rner |
 | **Project Lead ORCID:** | [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137) |
-| **Reviewer(s):** |  |
-| **Reviewers ORCID(s):** | |
 | **Creation Date:** | 2023-06-15 |
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
