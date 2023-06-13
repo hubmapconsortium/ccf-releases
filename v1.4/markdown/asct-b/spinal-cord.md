@@ -2,7 +2,7 @@
 
 ### Description
 [Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html) aim to capture the nested *part_of* structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts.The Spinal Cord v1.0  table focuses on lumbar spinal cord cell types from  Yadav, Archana, Kaya J. E. Matson, Li Li, Isabelle Hua, Joana Petrescu, Kristy Kang, Mor R. Alkaslasi, et al. “A Cellular Taxonomy of the
-Adult Human Spinal Cord.” Neuron 111, no. 3 (February 1, 2023): 328-344.e7. https://doi.org/10.1016/j.neuron.2023.01.007 with a companion Human Spinal Cord snRNAseq Viewer https://vmenon.shinyapps.io/humanspinalcord/ which presents a cellular taxonomy of the adult human spinal cord using single-nucleus RNA sequencing with spatial transcriptomics and antibody validation.
+Adult Human Spinal Cord.” Neuron 111, no. 3 (February 1, 2023): 328-344.e7. https://doi.org/10.1016/j.neuron.2023.01.00 with a companion Human Spinal Cord snRNAseq Viewer https://vmenon.shinyapps.io/humanspinalcord/ which presents a cellular taxonomy of the adult human spinal cord using single-nucleus RNA sequencing with spatial transcriptomics and antibody validation.
 | Label | Value |
 | :------------- |:-------------|
 | **Creator(s):** | Vilas Menon |
