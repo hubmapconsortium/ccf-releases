@@ -19,5 +19,5 @@ This lookup table maps [Anatomical Structures, Cell Types and Biomarkers (ASCT+B
 | **HuBMAP ID:** | HBM565.DVKX.367 |
 | **Data Table:** | [Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 2D Functional Tissue Unit (FTU) Reference Object Library Crosswalk, v1.2](https://hubmapconsortium.github.io/ccf-releases/v1.4/2d-ftu/asct-b-2d-models-crosswalk.csv) |
 | **DOI:** | [https://doi.org/10.48539/HBM565.DVKX.367](https://doi.org/10.48539/HBM565.DVKX.367) |
-| **How to Cite This Data Table:** | Supriya Bidanta (2023). **, v1.2, https://doi.org/10.48539/HBM565.DVKX.367)  Accessed on June 15, 2023. |
+| **How to Cite This Data Table:** | Supriya Bidanta (2023). *Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 2D Functional Tissue Unit (FTU) Reference Object Library Crosswalk, v1.2*, https://doi.org/10.48539/HBM565.DVKX.367)  Accessed on June 15, 2023. |
 | **How to Cite 2D Data Overall:** |  Supriya Bidanta; Rachel Bajema; Ellen M. Quardokus; Bruce W. Herr II; Katy B&ouml;rner. 2023. [*HuBMAP CCF 2D Reference Object Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on June 15, 2023.
