@@ -10,7 +10,7 @@
 | **Project Lead:** | Katy B&ouml;rner |
 | **Project Lead ORCID:** | [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137) |
 | **Reviewer(s):** | Angela Kruse; Christine Curcio; Jeff D. Messinger |
-| **Reviewer ORCID(s):** |[0000-0001-8776-2769](https://doi.org/10.5072/0000-0001-8776-2769); [0000-0002-3959-1712](https://doi.org/10.5072/0000-0002-3959-1712) ; [000-0002-5975-3862](https://doi.org/10.5072/000-0002-5975-3862)|
+| **Reviewer ORCID(s):** |[0000-0001-8776-2769](https://orcid.org/0000-0001-8776-2769); [0000-0002-3959-1712](https://orcid.org/0000-0002-3959-1712) ; [000-0002-5975-3862](https://orcid.org/000-0002-5975-3862)|
 | **Date:** | 2023-06-15 |
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
