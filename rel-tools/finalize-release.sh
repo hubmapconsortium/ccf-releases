@@ -1,8 +1,8 @@
 #!/bin/bash
 set -e
 
-hraVersion=v1.4
-prevVersion=v1.3
+hraVersion=${hraVersion:=v1.4}
+prevVersion=${prevVersion:=v1.3}
 
 DO_NAMES=$(cut -f 3 ../reference-entity-ids.tsv | grep "/${hraVersion}/" | perl -pe 's/https\:\/\/.*\///g;s/.html//g;')
 
@@ -12,10 +12,12 @@ if [ "$1" == "clean" ]; then
 fi
 
 # Create docs index.html page
-mkdir -p ../$hraVersion/docs/img
-perl -pe "s/\{VERSION\}/${hraVersion}/g" docs-index-template.html > ../$hraVersion/docs/index.html
-cp ../$prevVersion/docs/img/* ../$hraVersion/docs/img/
-cp ../$prevVersion/docs/styles.css ../$hraVersion/docs/
+if [ "$1" != "hra-2" ]; then
+    mkdir -p ../$hraVersion/docs/img
+    perl -pe "s/\{VERSION\}/${hraVersion}/g" docs-index-template.html > ../$hraVersion/docs/index.html
+    cp ../$prevVersion/docs/img/* ../$hraVersion/docs/img/
+    cp ../$prevVersion/docs/styles.css ../$hraVersion/docs/
+fi
 
 for type in 2d-ftu asct-b vascular-geometry omap ref-organs; do
     if [ "$1" == "migrate" ]; then
@@ -36,25 +38,35 @@ for type in 2d-ftu asct-b vascular-geometry omap ref-organs; do
             node md-to-doi-xml.js ../${hraVersion}/markdown/$type/$f.md ../${hraVersion}/xml/$f.xml
         fi
     done
+    
+    if [ "$1" != "hra-2" ]; then
+        # Create doi xml files
+        mkdir -p ../${hraVersion}/xml
+        for f in $DO_NAMES; do 
+            if [ -e ../${hraVersion}/markdown/$type/$f.md ]; then
+                node md-to-doi-xml.js ../${hraVersion}/markdown/$type/$f.md ../${hraVersion}/xml/$f.xml
+            fi
+        done
 
-    # Create html pages for DOs
-    mkdir -p ../${hraVersion}/docs/$type
-    for f in $DO_NAMES; do 
-        if [ -e ../${hraVersion}/markdown/$type/$f.md ]; then
-            perl -pe "s/\{DO_NAME\}/${f}/g;s/\{DO_TYPE\}/${type}/g" index-template.html > ../${hraVersion}/docs/$type/$f.html
-        fi
-    done
+        # Create html pages for DOs
+        mkdir -p ../${hraVersion}/docs/$type
+        for f in $DO_NAMES; do 
+            if [ -e ../${hraVersion}/markdown/$type/$f.md ]; then
+                perl -pe "s/\{DO_NAME\}/${f}/g;s/\{DO_TYPE\}/${type}/g" index-template.html > ../${hraVersion}/docs/$type/$f.html
+            fi
+        done
 
-    # create html entries for DOs in the main index page
-    files=""
-    for f in ../${hraVersion}/docs/$type/*.html; do
-        n=${type}/$(basename $f)
-        files=$(echo -e "${files}\n        <li><a href=\"${n}\" title=\"Opens detail page for organ\" target=\"_blank\">${n}</a></li>")
-    done
+        # create html entries for DOs in the main index page
+        files=""
+        for f in ../${hraVersion}/docs/$type/*.html; do
+            n=${type}/$(basename $f)
+            files=$(echo -e "${files}\n        <li><a href=\"${n}\" title=\"Opens detail page for organ\" target=\"_blank\">${n}</a></li>")
+        done
 
-    # Replace and output updated docs page
-    INDEX=$(cat ../${hraVersion}/docs/index.html)
-    python3 -c "print(\"\"\"${INDEX}\"\"\".replace('{${type}_FILES}',\"\"\"${files}\"\"\"))" > ../${hraVersion}/docs/index.html
+        # Replace and output updated docs page
+        INDEX=$(cat ../${hraVersion}/docs/index.html)
+        python3 -c "print(\"\"\"${INDEX}\"\"\".replace('{${type}_FILES}',\"\"\"${files}\"\"\"))" > ../${hraVersion}/docs/index.html
+    fi
 done
 
 node ./mk-hra-metadata.js $hraVersion

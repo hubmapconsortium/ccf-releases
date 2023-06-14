@@ -111,7 +111,7 @@ class HraMarkdownParser {
       .basename(this.inputFile, '.md')
       .replace(this.getDoType() + '-', '')
       .replace(/^vh\-/, '')
-      .replace(/^3d\-vh\-/, '')
+      .replace(/^3d\-/, '')
   }
   getTitle() {
     return this.rawMd[0]
