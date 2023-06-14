@@ -1,7 +1,7 @@
 # 3D Reference Organ for Palatine Tonsil, Male, Left v1.0
 
 ### Description
-[This reference organ](https://humanatlas.io/3d-reference-library) was created using data from the Visible Human Male, provided by the National Library of Medicine. The same anatomy was used for the female model, adjusted to fit in with the existing female organs. 
+[This reference organ](https://humanatlas.io/3d-reference-library) was created using data from the Visible Human Male, provided by the National Library of Medicine. 
 
 | Label | Value |
 | :------------- |:-------------|
