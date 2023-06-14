@@ -2,6 +2,7 @@
 
 ### Description
 This table provides geometric properties (e.g., length and diameter) of selected vessels in the blood vasculature Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table. The same vessel geometric property might be listed multiple times with different values. These correspond to different references that reported the property.
+
 | Label | Value |
 | :------------- |:-------------|
 | **Creator(s):** | Griffin Weber; Katherine S Gustilo |
