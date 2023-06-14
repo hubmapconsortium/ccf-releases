@@ -16,6 +16,6 @@
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM287.KVCD.758 |
 | **Data Table:** | [Intestine, Large v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.0/asct-b/ASCT-B_VH_Intestine_Large.csv) |
-| **Publication DOI:** | [https://doi.org/10.48539/hbm287.kvcd.758](https://doi.org/10.48539/hbm287.kvcd.758) |
+| **DOI:** | [https://doi.org/10.48539/hbm287.kvcd.758](https://doi.org/10.48539/hbm287.kvcd.758) |
 | **How to Cite This Data Table:** | Teri A. Longacre; John Hickey; Yiing Lin. HuBMAP ASCT+B Tables. Intestine, Large v1.0 [https://doi.org/10.48539/hbm287.kvcd.758](https://doi.org/10.48539/hbm287.kvcd.758) |
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Hrishikesh Paul, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2021. *HuBMAP ASCT+B Tables*. https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html. Accessed on March 12, 2021. |
