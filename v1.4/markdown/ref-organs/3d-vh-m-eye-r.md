@@ -1,7 +1,7 @@
-# 3D Reference Organ for Eye, Female, Right v1.2
+# 3D Reference Organ for Eye, Male, Right v1.2
 
 ### Description
-[This reference organ](https://humanatlas.io/3d-reference-library) was created using data from the Visible Human Female, provided by the National Library of Medicine.
+[This reference organ](https://humanatlas.io/3d-reference-library) was created using data from the Visible Human Male, provided by the National Library of Medicine.
 
 | Label | Value |
 | :------------- |:-------------|
@@ -16,8 +16,8 @@
 | **Publisher:** | HuBMAP |
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
-| **HuBMAP ID:** |HBM745.RCGM.944 |
-| **3D Data:** | [Eye, Female, Right v1.2](https://hubmapconsortium.github.io/ccf-releases/v1.4/models/) |
-| **DOI:** | [https://doi.org/10.48539/HBM745.RCGM.944](https://doi.org/10.48539/HBM745.RCGM.944) |
-| **How to Cite This 3D Data:** | Kristen Browne; Heidi Schlehlein. 2023. *3D Reference Organ for Eye, Female, Right v1.2.* [https://doi.org/10.48539/HBM745.RCGM.944 ](https://doi.org/10.48539/HBM745.RCGM.944). Accessed on June 15, 2023.|
+| **HuBMAP ID:** | HBM763.WQLH.975 |
+| **3D Data:** | [Eye, Male, Right v1.2](https://hubmapconsortium.github.io/ccf-releases/v1.4/models/3d-vh-m-eye-r.glb) |
+| **DOI:** | [https://doi.org/10.48539/HBM763.WQLH.975](https://doi.org/10.48539/HBM763.WQLH.975) |
+| **How to Cite This 3D Data:** | Kristen Browne; Heidi Schlehlein. 2023. *3D Reference Organ for Eye, Male, Right v1.2.* [https://doi.org/10.48539/HBM763.WQLH.975](https://doi.org/10.48539/HBM763.WQLH.975). Accessed on June 15, 2023.|
 | **How to Cite 3D Data Overall:** | Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2023. [*HuBMAP CCF 3D Reference Object Library*.](https://humanatlas.io/3d-reference-library) Accessed on June 15, 2023. |
