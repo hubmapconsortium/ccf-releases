@@ -12,8 +12,10 @@ if [ "$1" == "clean" ]; then
 fi
 
 # Create docs index.html page
-mkdir -p ../$hraVersion/docs/
+mkdir -p ../$hraVersion/docs/img
 perl -pe "s/\{VERSION\}/${hraVersion}/g" docs-index-template.html > ../$hraVersion/docs/index.html
+cp ../$prevVersion/docs/img/* ../$hraVersion/docs/img/
+cp ../$prevVersion/docs/styles.css ../$hraVersion/docs/
 
 for type in 2d-ftu asct-b vascular-geometry omap ref-organs; do
     if [ "$1" == "migrate" ]; then
