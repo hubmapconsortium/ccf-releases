@@ -1,6 +1,9 @@
 #!/bin/bash
 set -e
 
+# Move to the rel-tools dir
+cd $(dirname "$0")
+
 hraVersion=${hraVersion:=v1.4}
 prevVersion=${prevVersion:=v1.3}
 
