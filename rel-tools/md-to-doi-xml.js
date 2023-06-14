@@ -109,7 +109,9 @@ class HraMarkdownParser {
   getName() {
     return path
       .basename(this.inputFile, '.md')
-      .replace(this.getDoType() !== 'omap' ? this.getDoType() + '-' : '', '');
+      .replace(this.getDoType() + '-', '')
+      .replace(/^vh\-/, '')
+      .replace(/^3d\-vh\-/, '')
   }
   getTitle() {
     return this.rawMd[0]

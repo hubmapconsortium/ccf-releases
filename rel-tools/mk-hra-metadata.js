@@ -9,7 +9,7 @@ const hraRaw = `../scratch/digital-objects/collection/hra/${hraVersion}/raw`;
 sh.mkdir('-p', hraRaw);
 const digitalObjects = sh
   .ls('../scratch/digital-objects/*/*/*/raw/metadata.yaml')
-  .map((s) => s.split('/').slice(2, 5).join('/'))
+  .map((s) => s.split('/').slice(3, 6).join('/'))
   .filter((s) => !s.includes('/hra/'));
 
 fs.writeFileSync(
