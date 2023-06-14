@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">https://doi.org/10.48539/HBM568.RMZB.377</identifier>
+<titles>
+  <title>OMAP-3 Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Kidney with CODEX, v1.1</title>
+</titles>
+<creators>
+  <creator>
+    <creatorName>Elizabeth K. Neumann</creatorName>
+    <givenName>Elizabeth</givenName>
+    <familyName>Neumann</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-6078-3321">0000-0002-6078-3321<nameIdentifier>
+  </creator>
+  <creator>
+    <creatorName>Melissa Farrow</creatorName>
+    <givenName>Melissa</givenName>
+    <familyName>Farrow</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-1602-2082">0000-0002-1602-2082<nameIdentifier>
+  </creator>
+</creators>
+<publisher>HuBMAP</publisher>
+<publicationYear>2022</publicationYear>
+<resourceType resourceTypeGeneral="Dataset">Organ Mapping Antibody Panel</resourceType>
+<subjects>
+  <subject>OMAP-3 Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Kidney with CODEX</subject>
+<subjects>
+<contributors>
+  <contributor contributorType="ProjectLeader">
+      <contributorName>Andrea J. Radtke</contributorName>
+      <givenName>Andrea</givenName>
+      <familyName>Radtke</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-4379-8967">0000-0003-4379-8967<nameIdentifier>
+  </contributor>
+  <contributor contributorType="ProjectLeader">
+      <contributorName>Katy Börner</contributorName>
+      <givenName>Katy</givenName>
+      <familyName>Börner</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3321-6137">0000-0002-3321-6137<nameIdentifier>
+  </contributor>
+  <contributor contributorType="ProjectLeader">
+      <contributorName>Neil Kelleher</contributorName>
+      <givenName>Neil</givenName>
+      <familyName>Kelleher</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-8815-3372">0000-0002-8815-3372<nameIdentifier>
+  </contributor>
+  <contributor contributorType="ProjectLeader">
+      <contributorName>Ronald N. Germain</contributorName>
+      <givenName>Ronald</givenName>
+      <familyName>Germain</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-1495-9143">0000-0003-1495-9143<nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Andrea J. Radtke</contributorName>
+    <givenName>Andrea</givenName>
+    <familyName>Radtke</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-4379-8967">0000-0003-4379-8967<nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Christopher Werlein</contributorName>
+    <givenName>Christopher</givenName>
+    <familyName>Werlein</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-7694-4257">0000-0002-7694-4257<nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Ellen M. Quardokus</contributorName>
+    <givenName>Ellen</givenName>
+    <familyName>Quardokus</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-7655-4833">0000-0001-7655-4833<nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Diane C. Saunders</contributorName>
+    <givenName>Diane</givenName>
+    <familyName>Saunders</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-8849-6746">0000-0002-8849-6746<nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Anna Martinez Casals</contributorName>
+    <givenName>Anna</givenName>
+    <familyName>Casals</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-2722-1965">0000-0003-2722-1965<nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Presha Rajbhandari</contributorName>
+    <givenName>Presha</givenName>
+    <familyName>Rajbhandari</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-2184-7238">0000-0003-2184-7238<nameIdentifier>
+  </contributor>
+</contributors>
+<dates>
+  <date dateType="Available">2022-12-15</date>
+</dates>
+<descriptions>
+  <description>OMAP-3 was designed for CODEX (CO Detection by IndEXing) of fresh frozen human kidney samples (https://doi.org/10.1038/s41596-021-00556-8, https://doi.org/10.1002/eji.202048891). The panel contains 24 antibodies and the nuclear marker DAPI for image alignment and nuclear segmentation. Additional details on tissue preparation, panel design, image analysis, and representative images can be found in accompanying publications (https://doi.org/10.1016/j.kint.2021.08.033, https://doi.org/10.1016/j.xpro.2021.100747). This OMAP provides a spatial context for all anatomical structures and most cell types present in the [ASCT+B kidney table v1.1](https://doi.org/10.48539/HBM673.ZZDK.622). Additionally, the inclusion of tryptase and MARCKS allow profiling of different regions in the glomeruli that are often affected by disease. Several cell types are identified by their morphology, location in the kidney, and expression of Cytokeratin 7. The panel was designed to provide a survey of the cell types found in the kidney and does not allow for granular phenotyping of immune cell populations. However, mast cells, NK cells, T cells, and B cells are broadly classified by several markers included in this OMAP. The core and essential protein biomarkers detailed here overlap (&gt;40%) with a panel developed for multiplexed imaging of kidney samples using imaging mass cytometry (IMC) (10.1172/jci.insight.129477).</description>
+</decsriptions>
+<language>EN</language>
+<alternateIdentfiers>
+  <alternateIdentfier alternateIdentiferType="HuBMAP ID">HBM568.RMZB.377</alternateIdentfier>
+  <alternateIdentfier alternateIdentfierType="How to Cite This OMAP Tables">Elizabeth K. Neumann. OMAP-3 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Kidney with CODEX, v1.1 https://doi.org/10.48539/HBM568.RMZB.377.</alternateIdentfier>
+  <alternateIdentfier alternateIdentfierType="How to Cite OMAP Tables Overall">Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo, Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021. “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for Multiplexed Antibody-Based Imaging.” *Nature Methods*, November. https://doi.org/10.1038/s41592-021-01316-y.</alternateIdentfier>
+</alternateIdentfiers>
+<formats>
+	<format>.csv</format>
+</formats>
+<rightsList>
+  <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
+</rightsList>
+<fundingReferences>
+	<fundingReference>
+		<funderName>National Institutes of Health and National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)</funderName>
+		<awardNumber>OT2OD026671</awardNumber>
+	</fundingReference>
+</fundingReferences>
+</resource>

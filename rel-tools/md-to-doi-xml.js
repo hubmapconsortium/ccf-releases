@@ -13,30 +13,35 @@ const TYPE_MAPPINGS = {
     '2d-ftu': '2D Reference FTU',
     omap: 'Organ Mapping Antibody Panels(OMAPs)',
     'ref-organ': '3D Reference Organs',
+    'vascular-geometry': 'Vascular Geometries'
   },
   resource_mappings: {
     'asct-b': 'Dataset',
     '2d-ftu': 'Image',
     omap: 'Dataset',
     'ref-organ': 'Model',
+    'vascular-geometry': 'Dataset'
   },
   resource_title_mappings: {
     'asct-b': 'ASCT+B Table',
     '2d-ftu': '2D reference human organ FTU object',
     omap: 'Organ Mapping Antibody Panel',
     'ref-organ': '3D reference human organ model',
+    'vascular-geometry': 'Vascular Geometry Table'
   },
   cite_model_mappings: {
     'asct-b': 'Data Table',
     '2d-ftu': '2D Data',
     omap: 'OMAP Tables',
     'ref-organ': '3D Data',
+    'vascular-geometry': 'Data Table'
   },
   cite_overall_model_mappings: {
     'asct-b': 'ASCT+B Tables',
     '2d-ftu': '2D Data',
     omap: 'OMAP Tables',
     'ref-organ': '3D Data',
+    'vascular-geometry': 'Vascular Geometry Tables'
   },
   extension_fixes: { ai: 'svg', xlsx: 'csv' },
 };
@@ -238,7 +243,7 @@ const xml = renderTemplate('doi-xml-template.njk', data);
 fs.writeFileSync(OUTPUT_XML, xml);
 
 // Write out metadata.yaml
-const yamlDir = `../scratch/${md.getDoType()}/${md.getName()}/${md.getVersion()}/raw`;
+const yamlDir = `../scratch/digital-objects/${md.getDoType()}/${md.getName()}/${md.getVersion()}/raw`;
 sh.mkdir('-p', yamlDir);
 
 const dataPaths = data.dataTable
@@ -255,10 +260,16 @@ Object.assign(data, {
   datatable: []
 });
 
-for (const srcPath of dataPaths) {
-  const srcName = srcPath.split('/').slice(-1)[0];
-  sh.cp(path.resolve('..', srcPath), path.resolve(yamlDir, srcName));
+
+for (const inputSrcPath of dataPaths) {
+  const srcName = inputSrcPath.split('/').slice(-1)[0];
+  const srcPath = path.resolve('..', inputSrcPath);
+  const destPath = path.resolve(yamlDir, srcName);
+  sh.cp(srcPath, destPath);
   data.datatable.push(srcName);
+  if (!fs.existsSync(srcPath) || !fs.existsSync(destPath)) {
+    console.log(INPUT_MD, md.getDoType(), srcPath, destPath);
+  }
 }
 
 fs.writeFileSync(yamlDir + '/metadata.yaml', yaml.dump(data));
