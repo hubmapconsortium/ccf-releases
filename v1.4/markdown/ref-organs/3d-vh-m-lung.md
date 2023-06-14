@@ -1,7 +1,7 @@
 # 3D Reference Organ for Lung, Male v1.3
 
 ### Description
-[This reference organ](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created using data from the Visible Human Female, provided by the National Library of Medicine. In version 1.3 the larynx, trachea, main bronchi were removed; however, lung lobes and intrapulmonary bronchi remain part of the lung model.
+[This reference organ](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created using data from the Visible Human Male, provided by the National Library of Medicine. In version 1.3 the larynx, trachea, main bronchi were removed; however, lung lobes and intrapulmonary bronchi remain part of the lung model.
 
 | Label | Value |
 | :------------- |:-------------|
