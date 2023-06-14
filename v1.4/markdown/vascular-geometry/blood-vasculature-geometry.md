@@ -14,7 +14,7 @@ This table provides geometric properties (e.g., length and diameter) of selected
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM796.WLLL.599 |
-| **Data Table:** | [Blood Vasculature Geometry, v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.4/asct-b/blood-vasculature-geometry.csv) |
+| **Data Table:** | [Blood Vasculature Geometry, v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.4/vascular-geometry/blood-vasculature-geometry.csv) |
 | **DOI:** | [https://doi.org/10.48539/HBM796.WLLL.599](https://doi.org/10.48539/HBM796.WLLL.599) |
 | **How to Cite This Data Table:** |  Griffin Weber; Katherine S Gustilo. Blood Vasculature Geometry, v1.0, https://doi.org/10.48539/HBM796.WLLL.599, Accessed on June 15, 2023. |
 | **How to Cite Overall:** | Boppana, Avinash, Sujin Lee, Rajeev Malhotra, Marc Halushka, Ellen M Quardokus, Bruce W. Herr, Katy Börner, and Griffin M Weber. “Anatomical Structures, Cell Types, and Biomarkers of the Healthy Human Blood Vasculature.” BioRxiv, January 1, 2022, 2022.02.28.482302. https://doi.org/10.1101/2022.02.28.482302.|
