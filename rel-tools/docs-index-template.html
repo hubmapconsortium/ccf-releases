@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Release {VERSION} DOI Landing Pages</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet"> 
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/png" href="img/favicon.png">
+    <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="img/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-114x114.png">
+</head>
+  <body class="list-page">
+    <header class="main-header"><div class="main-logo"><a href="https://hubmapconsortium.github.io/ccf/" title="Link to HuBMAP CCF Portal"><img src="img/logo-hubmap.svg" alt="HuBMAP logo" class="logo"></a></div></header>
+    <div class="main">
+      <h1>Release {VERSION} DOI</h1>
+
+      <h2>ASCT+B: Release {VERSION}</h2>
+      <ul class="list-style-none">
+        {asct-b_FILES}
+      </ul>
+
+      <h2>2D Reference FTU Release {VERSION}</h2>
+      <ul class="list-style-none">
+        {2d-ftu_FILES}
+      </ul>
+
+      <h2>Organ Mapping Antibody Panels (OMAPs) Release {VERSION}</h2>
+      <ul class="list-style-none">
+        {omap_FILES}
+      </ul>
+
+      <h2>Vascular Geometries {VERSION}</h2>
+      <ul class="list-style-none">
+        {vascular-geometry_FILES}
+      </ul>
+
+      <h2>3D Reference Organs Release {VERSION}</h2>
+      <ul class="list-style-none">
+        {ref-organs_FILES}
+      </ul>
+    </div>
+    <footer class="main-footer"><p><small>©
+                    <script>new Date().getFullYear() > 2010 && document.write(new Date().getFullYear());</script> All Rights
+                    Reserved.</small></p></footer>
+  </body>
+</html>

@@ -1,7 +1,7 @@
 # 3D Reference Organ for Main Bronchus, Male v1.0
 
 ### Description
-[This reference organ](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created using data from the Visible Human Male, provided by the National Library of Medicine. Version 1.0 main bronchi was separated from the previous v1.2 lung.
+[This reference organ](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created using data from the Visible Human Male, provided by the National Library of Medicine. Version 1.0 main bronchus, the main bronchi were separated from the previous v1.2 lung model.
 
 | Label | Value |
 | :------------- |:-------------|

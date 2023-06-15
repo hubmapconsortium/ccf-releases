@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">https://doi.org/10.48539/HBM869.WZFK.485</identifier>
+<titles>
+  <title>Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Spinal Cord, v1.0</title>
+</titles>
+<creators>
+  <creator>
+    <creatorName>Vilas Menon</creatorName>
+    <givenName>Vilas</givenName>
+    <familyName>Menon</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-4096-8601">0000-0002-4096-8601<nameIdentifier>
+  </creator>
+</creators>
+<publisher>HuBMAP</publisher>
+<publicationYear>2023</publicationYear>
+<resourceType resourceTypeGeneral="Dataset">ASCT+B Table</resourceType>
+<subjects>
+  <subject>Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Spinal Cord</subject>
+<subjects>
+<contributors>
+  <contributor contributorType="ProjectLeader">
+      <contributorName>Katy Börner</contributorName>
+      <givenName>Katy</givenName>
+      <familyName>Börner</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3321-6137">0000-0002-3321-6137<nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Ellen M. Quardokus</contributorName>
+    <givenName>Ellen</givenName>
+    <familyName>Quardokus</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-7655-4833">0000-0001-7655-4833<nameIdentifier>
+  </contributor>
+</contributors>
+<dates>
+  <date dateType="Available">2023-06-15</date>
+</dates>
+<descriptions>
+  <description>[Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html) aim to capture the nested *part_of* structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts.The Spinal Cord v1.0  table focuses on lumbar spinal cord cell types from  [Yadav et al., “A Cellular Taxonomy of the Adult Human Spinal Cord.”): 328-344.e7.](https://doi.org/10.1016/j.neuron.2023.01.00) with a companion [Human Spinal Cord snRNAseq Viewer](https://vmenon.shinyapps.io/humanspinalcord/) which presents a cellular taxonomy of the adult human spinal cord using single-nucleus RNA sequencing with spatial transcriptomics and antibody validation.</description>
+</decsriptions>
+<language>EN</language>
+<alternateIdentfiers>
+  <alternateIdentfier alternateIdentiferType="HuBMAP ID">HBM869.WZFK.485</alternateIdentfier>
+  <alternateIdentfier alternateIdentfierType="How to Cite This Data Table">Vilas Menon, HuBMAP ASCT+B Tables. Spinal Cord v1.0 [https://doi.org/10.48539/HBM869.WZFK.485](https://doi.org/10.48539/HBM869.WZFK.485)</alternateIdentfier>
+  <alternateIdentfier alternateIdentfierType="How to Cite ASCT+B Tables Overall">Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2023. [*HuBMAP ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15, 2023.</alternateIdentfier>
+</alternateIdentfiers>
+<formats>
+	<format>.csv</format>
+</formats>
+<rightsList>
+  <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
+</rightsList>
+<fundingReferences>
+	<fundingReference>
+		<funderName>National Institutes of Health</funderName>
+		<awardNumber>OT2OD026671</awardNumber>
+	</fundingReference>
+</fundingReferences>
+</resource>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">https://doi.org/10.48539/HBM796.WLLL.599</identifier>
+<titles>
+  <title>Blood Vasculature Geometry, v1.0</title>
+</titles>
+<creators>
+  <creator>
+    <creatorName>Griffin Weber</creatorName>
+    <givenName>Griffin</givenName>
+    <familyName>Weber</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-2597-881X">0000-0002-2597-881X<nameIdentifier>
+  </creator>
+  <creator>
+    <creatorName>Katherine S Gustilo</creatorName>
+    <givenName>Katherine</givenName>
+    <familyName>Gustilo</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-5574-4272">0000-0002-5574-4272<nameIdentifier>
+  </creator>
+</creators>
+<publisher>HuBMAP</publisher>
+<publicationYear>2023</publicationYear>
+<resourceType resourceTypeGeneral="Dataset">Vascular Geometry Table</resourceType>
+<subjects>
+  <subject>Blood Vasculature Geometry</subject>
+<subjects>
+<contributors>
+  <contributor contributorType="ProjectLeader">
+      <contributorName>Katy Börner</contributorName>
+      <givenName>Katy</givenName>
+      <familyName>Börner</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3321-6137">0000-0002-3321-6137<nameIdentifier>
+  </contributor>
+</contributors>
+<dates>
+  <date dateType="Available">2023-06-15</date>
+</dates>
+<descriptions>
+  <description>This table provides geometric properties (e.g., length and diameter) of selected vessels in the blood vasculature Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table. The same vessel geometric property might be listed multiple times with different values. These correspond to different references that reported the property.</description>
+</decsriptions>
+<language>EN</language>
+<alternateIdentfiers>
+  <alternateIdentfier alternateIdentiferType="HuBMAP ID">HBM796.WLLL.599</alternateIdentfier>
+  <alternateIdentfier alternateIdentfierType="How to Cite This Data Table">Griffin Weber; Katherine S Gustilo. Blood Vasculature Geometry, v1.0, https://doi.org/10.48539/HBM796.WLLL.599, Accessed on June 15, 2023.</alternateIdentfier>
+  <alternateIdentfier alternateIdentfierType="How to Cite Vascular Geometry Tables Overall">Boppana, Avinash, Sujin Lee, Rajeev Malhotra, Marc Halushka, Ellen M Quardokus, Bruce W. Herr, Katy Börner, and Griffin M Weber. “Anatomical Structures, Cell Types, and Biomarkers of the Healthy Human Blood Vasculature.” BioRxiv, January 1, 2022, 2022.02.28.482302. https://doi.org/10.1101/2022.02.28.482302.</alternateIdentfier>
+</alternateIdentfiers>
+<formats>
+	<format>.csv</format>
+</formats>
+<rightsList>
+  <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
+</rightsList>
+<fundingReferences>
+	<fundingReference>
+		<funderName>National Institutes of Health</funderName>
+		<awardNumber>OT2OD026671</awardNumber>
+	</fundingReference>
+</fundingReferences>
+</resource>

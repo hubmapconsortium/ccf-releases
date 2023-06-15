@@ -1,7 +1,8 @@
 # 3D Reference Organ for Eye, Male, Left v1.2
 
 ### Description
-[This reference organ](https://humanatlas.io/3d-reference-library) was created using data from the Visible Human Male, provided by the National Library of Medicine.
+[This reference organ](https://humanatlas.io/3d-reference-library) was created using data from the Visible Human Male, provided by the National Library of Medicine.The long posterior ciliary artery was added, as well as a more detailed iris. The position of the optic nerve also moved, and made twice as thick. The muscle thickness was decreased and the position of the muscles was shifted. The levator palpebrae superioris muscle was removed as it was not deemed necessary to the eye model. The inferior oblique muscle was rotated more parallel to the plane of the cornea.
+
 
 | Label | Value |
 | :------------- |:-------------|
