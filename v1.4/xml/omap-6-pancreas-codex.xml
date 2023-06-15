@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
-<identifier identifierType="DOI">https://doi.org/10.48539/HBM868.XLTM.922</identifier>
+<identifier identifierType="DOI">https://doi.org/10.48539/HBM948.XLMZ.833 </identifier>
 <titles>
-  <title>OMAP-6  Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX, v1.1</title>
+  <title>OMAP-6  Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX, v1.2</title>
 </titles>
 <creators>
   <creator>
@@ -19,7 +19,7 @@
   </creator>
 </creators>
 <publisher>HuBMAP</publisher>
-<publicationYear>2021</publicationYear>
+<publicationYear>2023</publicationYear>
 <resourceType resourceTypeGeneral="Dataset">Organ Mapping Antibody Panel</resourceType>
 <subjects>
   <subject>OMAP-6  Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX</subject>
@@ -93,15 +93,15 @@
   </contributor>
 </contributors>
 <dates>
-  <date dateType="Available">2021-12-15</date>
+  <date dateType="Available">2023-06-15</date>
 </dates>
 <descriptions>
   <description>The OMAP Pancreas  panel was designed for CODEX (CO Detection by IndEXing) imaging of Formalin-Fixed Paraffin-Embedded (FFPE) human pancreas samples.</description>
 </decsriptions>
 <language>EN</language>
 <alternateIdentfiers>
-  <alternateIdentfier alternateIdentiferType="HuBMAP ID">HBM868.XLTM.922</alternateIdentfier>
-  <alternateIdentfier alternateIdentfierType="How to Cite This OMAP Tables">Anna Martinez Casals, Frida Björklund. OMAP-6 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX, v1.1, https://doi.org/10.48539/HBM868.XLTM.922.</alternateIdentfier>
+  <alternateIdentfier alternateIdentiferType="HuBMAP ID">HBM948.XLMZ.833</alternateIdentfier>
+  <alternateIdentfier alternateIdentfierType="How to Cite This OMAP Tables">Anna Martinez Casals, Frida Björklund. OMAP-6 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX, v1.2, https://doi.org/10.48539/HBM948.XLMZ.833. Accessed June 15, 2023.</alternateIdentfier>
   <alternateIdentfier alternateIdentfierType="How to Cite OMAP Tables Overall">Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo, Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021. “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for Multiplexed Antibody-Based Imaging.” *Nature Methods*, November. https://doi.org/10.1038/s41592-021-01316-y.</alternateIdentfier>
 </alternateIdentfiers>
 <formats>

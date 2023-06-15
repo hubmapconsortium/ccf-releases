@@ -28,7 +28,7 @@ for type in 2d-ftu asct-b vascular-geometry omap ref-organs; do
         mkdir -p ../${hraVersion}/markdown/$type
         for f in ../${prevVersion}/markdown/$type/*.md; do
             n=`basename $f`
-            if [ ! -e ../${hraVersion}/markdown/$type/$n ] && [ ! -e ../${hraVersion}/$type/${type}-${n} ] && [ ! -e ../${hraVersion}/$type/${type}-vh-${n} ]; then 
+            if [ ! -e ../${hraVersion}/markdown/$type/$n ] && [ ! -e ../${hraVersion}/markdown/$type/${type}-${n} ] && [ ! -e ../${hraVersion}/markdown/$type/${type}-vh-${n} ]; then 
                 cp $f ../${hraVersion}/markdown/$type/$n;
             fi
         done
@@ -43,20 +43,11 @@ for type in 2d-ftu asct-b vascular-geometry omap ref-organs; do
     done
     
     if [ "$1" != "hra-2" ]; then
-        # Create doi xml files
-        mkdir -p ../${hraVersion}/xml
-        for f in $DO_NAMES; do 
-            if [ -e ../${hraVersion}/markdown/$type/$f.md ]; then
-                node md-to-doi-xml.js ../${hraVersion}/markdown/$type/$f.md ../${hraVersion}/xml/$f.xml
-            fi
-        done
-
         # Create html pages for DOs
         mkdir -p ../${hraVersion}/docs/$type
-        for f in $DO_NAMES; do 
-            if [ -e ../${hraVersion}/markdown/$type/$f.md ]; then
-                perl -pe "s/\{DO_NAME\}/${f}/g;s/\{DO_TYPE\}/${type}/g" index-template.html > ../${hraVersion}/docs/$type/$f.html
-            fi
+        for md in `ls ../${hraVersion}/markdown/$type/*.md`; do
+            f=`basename ${md%.*}`
+            perl -pe "s/\{DO_NAME\}/${f}/g;s/\{DO_TYPE\}/${type}/g" index-template.html > ../${hraVersion}/docs/$type/$f.html
         done
 
         # create html entries for DOs in the main index page
