@@ -1,0 +1,32 @@
+# Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Main Bronchus v1.0
+
+### Description
+With revision of the Lung v1.2-1.3 revisions, the Trachea and the Main Bronchus were split out into separate ASCT+B tables as v1.0.  With the excellent assistance of Joshua Fortriede, Ellen Quardokus and Aleix Puig Barbe (EBI), Uberon and Cell Ontology were updated, terms added or revised where needed, AS-AS, AS-CT, CT-CT relationships corrected and verified. The provided gene markers were reviewed and updated based on recent scRNAseq lung cell type references.
+
+Main Bronchus, v1.0 Table, includes only the anatomical structures of the extrapulmonary main bronchi as they extend from the branch point of the trachea to the lobar bronchi that become intrapulmonary upon entering the lung at the hilum. Gray's Anatomy The Anatomical Basis of Clinical Practice, the International Federation of Associations of Anatomists): Terminologia Anatomica (TA) were the main AS references used.   Approximately 21 cell types of the main bronchus are named, including six cell types of the tracheal submucosal glands. Ciliated cells of the submucosal gland ducts are included though their existence remains to be demonstrated reliably and thus this cell type has not yet been added to Cell Ontology (CL).  Detail of extracellular matrix of the basal lamina (lamina densa, predominantly type IV collagen and type V laminin), basement membrane, and reticular lamina (predominantly type III and V collagen and fibronectin) is anticipated in coming table versions. 
+
+Structures and cells of the bronchial artery and bronchial vein are included in the Table.  Details of the systemic blood supply to the extrapulmonary bronchi is provided in brief here, originating as left and right bronchial arteries from the aorta in 90% (doi:10.3978/j.issn.2072-1439.2014.09.32). More rarely, bronchial arteries originate from other thoracic arterial structures, even from coronary arteries. At their origin, bronchial artery diameter  is ~1.5 mm, decreasing to 0.5-0.6 mm when entering the lung at the pulmonary hilum. Hypertrophy and increased diameter is reported in chronic pulmonary diseases. Bronchial arteries form a communicating arc round the main bronchi from which divisions radiate along the major bronchi, bifurcating with the bronchi and giving two to three divisions along each bronchus forming a network in the fibrous coat of the bronchus. They adhere closely to the bronchial airway wall to the level of the terminal bronchioles where most anastomose to the pulmonary vasculature. Smaller twigs penetrate the muscular layer, form a similar network in the submucosa and reach the bronchial mucosa. Beyond the terminal bronchioles, the bronchial arterioles form an anastomotic network with pulmonary arterioles. These anastomotic “bronchopulmonary artery” branches, short-narrow (length 1-2 mm, diameter 50-100 microns) or long-wide (length 10-40 mm, diameter 300-400 microns) are observed in both newborns and adults and drain via the pulmonary veins into the left atrium (Tobin et al.). The anastomotic vessels have spiral shape, achieving in this way the self-regulation of the flow between the systemic and pulmonary vascular network, functionally closed under normal conditions but potentially patent and shunting under pathologic conditions. Bronchial vein counterparts return blood from the larger bronchi and structures at the hilum of the lungs, but carry only a small amount of blood while the remaining bronchial artery blood returns to the heart via the pulmonary veins. 
+
+The cell type gene markers have been revised from the previous Lung ASCT+B table. Gene markers up to the finest level of labeling available are from single cell RNAsequencing reference datasets.   The gene markers now represent a harmonization of the genes selected by 1) Azimuth Human - Lung v2 Azimuth References, 2) primary selections from “An integrated cell atlas of the human lung in health and disease (IHLCA, grateful for the assistance of Dr. Nawijn) https://doi.org/10.1101/2022.03.10.483747, 3) the original LungMAP Cell Cards publication https://doi.org/10.1016/j.devcel.2021.11.007  and the “Human CellCards Multi-Study CellRef 1.0 Atlas” doi: https://doi.org/10.1101/2022.05.18.491687.  The markers selected can be reviewed at LungMAP.net. The cell type protein markers are classically referenced in the lung research literature and can be viewed in a number of references. A number of these markers will be demonstrated in multiplexed immunofluorescence data in preparation for the HuBMAP portal.
+
+Standardization of trachea, bronchus and lung cell type nomenclature, ontology expansion, gene and protein marker identification continue by an organization of experts in the field, organized in cell type task forces, initiated on April 19, 2022 at the University of California San Diego, at a Lung Nomenclature Summit organized by the Developmental Lung Molecular Atlas Program (LungMAP).
+
+
+| Label | Value |
+| :------------- |:-------------|
+| **Creator(s):** | Gloria Pryhuber |
+| **Creator ORCID(s):** | [0000-0002-9185-3994](https://orcid.org/0000-0002-9185-3994) |
+| **Project Lead:** | Katy B&ouml;rner |
+| **Project Lead ORCID:** | [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137) |
+| **Reviewer(s):** | Martijn Nawijn; Ellen Quardokus; Gail Deutsch|
+| **Reviewer ORCID(s):** |[0000-0003-3372-6521 ](https://orcid.org/0000-0003-3372-6521); [0000-0001-7655-4833](https://orcid.org/0000-0001-7655-4833);[0000-0002-0571-0285](https://orcid.org/0000-0002-0571-0285)|
+| **Creation Date:** | 2023-06-15 |
+| **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
+| **Publisher:** | HuBMAP |
+| **Funder:** | National Institutes of Health |
+| **Award Number:** | OT2OD026671 |
+| **HuBMAP ID:** | HBM928.WTVJ.677 |
+| **Data Table:** | [Main Bronchus v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.4/asct-b/asct-b-vh-main-bronchus.csv) |
+| **DOI:** | [https://doi.org/10.48539/HBM928.WTVJ.677](https://doi.org/10.48539/HBM928.WTVJ.677)|
+| **How to Cite This Data Table:** | Gloria Pryhuber. HuBMAP ASCT+B Tables. Main Bronchus v1.0 [https://doi.org/10.48539/HBM928.WTVJ.677](https://doi.org/10.48539/HBM928.WTVJ.677) |
+| **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2023. [*HuBMAP ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15, 2023. |

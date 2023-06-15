@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">https://doi.org/10.48539/HBM245.PWLJ.489</identifier>
+<titles>
+  <title>Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Trachea, v1.0</title>
+</titles>
+<creators>
+  <creator>
+    <creatorName>Gloria Pryhuber</creatorName>
+    <givenName>Gloria</givenName>
+    <familyName>Pryhuber</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-9185-3994">0000-0002-9185-3994<nameIdentifier>
+  </creator>
+</creators>
+<publisher>HuBMAP</publisher>
+<publicationYear>2023</publicationYear>
+<resourceType resourceTypeGeneral="Dataset">ASCT+B Table</resourceType>
+<subjects>
+  <subject>Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Trachea</subject>
+<subjects>
+<contributors>
+  <contributor contributorType="ProjectLeader">
+      <contributorName>Katy Börner</contributorName>
+      <givenName>Katy</givenName>
+      <familyName>Börner</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3321-6137">0000-0002-3321-6137<nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Martijn Nawijn</contributorName>
+    <givenName>Martijn</givenName>
+    <familyName>Nawijn</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-3372-6521">0000-0003-3372-6521<nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Gail Deutsch</contributorName>
+    <givenName>Gail</givenName>
+    <familyName>Deutsch</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-0571-0285">0000-0002-0571-0285<nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Ellen Quardokus</contributorName>
+    <givenName>Ellen</givenName>
+    <familyName>Quardokus</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-7655-4833">0000-0001-7655-4833<nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Purushotha Tata</contributorName>
+    <givenName>Purushotha</givenName>
+    <familyName>Tata</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-4837-0337">0000-0003-4837-0337<nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Ansley Conchola</contributorName>
+    <givenName>Ansley</givenName>
+    <familyName>Conchola</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-2385-6712">0000-0002-2385-6712<nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Kristin Ardlie</contributorName>
+    <givenName>Kristin</givenName>
+    <familyName>Ardlie</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-4272-6283">0000-0003-4272-6283<nameIdentifier>
+  </contributor>
+</contributors>
+<dates>
+  <date dateType="Available">2023-06-15</date>
+</dates>
+<descriptions>
+  <description>With revision of the Lung v1.2-1.3 revisions, the Trachea and the Main Bronchus were split out into separate ASCT+B tables as v1.0.  With the excellent assistance of Joshua Fortriede, Ellen Quardokus and Aleix Puig Barbe (EBI), Uberon and Cell Ontology were updated, terms added or revised where needed, AS-AS, AS-CT, CT-CT relationships corrected and verified. The provided gene markers were reviewed and updated based on recent scRNAseq lung cell type references.</description>
+</decsriptions>
+<language>EN</language>
+<alternateIdentfiers>
+  <alternateIdentfier alternateIdentiferType="HuBMAP ID">HBM245.PWLJ.489</alternateIdentfier>
+  <alternateIdentfier alternateIdentfierType="How to Cite This Data Table">Gloria Pryhuber. HuBMAP ASCT+B Tables. Trachea v1.0 [https://doi.org/10.48539/HBM245.PWLJ.489](https://doi.org/10.48539/HBM245.PWLJ.489)</alternateIdentfier>
+  <alternateIdentfier alternateIdentfierType="How to Cite ASCT+B Tables Overall">Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2023. [*HuBMAP ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15, 2023.</alternateIdentfier>
+</alternateIdentfiers>
+<formats>
+	<format>.csv</format>
+</formats>
+<rightsList>
+  <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
+</rightsList>
+<fundingReferences>
+	<fundingReference>
+		<funderName>National Institutes of Health</funderName>
+		<awardNumber>OT2OD026671</awardNumber>
+	</fundingReference>
+</fundingReferences>
+</resource>

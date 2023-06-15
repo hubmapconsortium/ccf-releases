@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">https://doi.org/10.48539/HBM459.SRBX.598</identifier>
+<titles>
+  <title>OMAP-4  Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Skin with Cell DIVE, v1.2</title>
+</titles>
+<creators>
+  <creator>
+    <creatorName>Elizabeth McDonough</creatorName>
+    <givenName>Elizabeth</givenName>
+    <familyName>McDonough</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-7524-8260">0000-0001-7524-8260<nameIdentifier>
+  </creator>
+  <creator>
+    <creatorName>Chrystal Chadwick</creatorName>
+    <givenName>Chrystal</givenName>
+    <familyName>Chadwick</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-6355-5677">0000-0001-6355-5677<nameIdentifier>
+  </creator>
+  <creator>
+    <creatorName>Fiona Ginty</creatorName>
+    <givenName>Fiona</givenName>
+    <familyName>Ginty</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-6638-683X">0000-0001-6638-683X<nameIdentifier>
+  </creator>
+</creators>
+<publisher>HuBMAP</publisher>
+<publicationYear>2023</publicationYear>
+<resourceType resourceTypeGeneral="Dataset">Organ Mapping Antibody Panel</resourceType>
+<subjects>
+  <subject>OMAP-4  Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Skin with Cell DIVE</subject>
+<subjects>
+<contributors>
+  <contributor contributorType="ProjectLeader">
+      <contributorName>Andrea J. Radtke</contributorName>
+      <givenName>Andrea</givenName>
+      <familyName>Radtke</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-4379-8967">0000-0003-4379-8967<nameIdentifier>
+  </contributor>
+  <contributor contributorType="ProjectLeader">
+      <contributorName>Katy Börner</contributorName>
+      <givenName>Katy</givenName>
+      <familyName>Börner</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3321-6137">0000-0002-3321-6137<nameIdentifier>
+  </contributor>
+  <contributor contributorType="ProjectLeader">
+      <contributorName>Neil Kelleher</contributorName>
+      <givenName>Neil</givenName>
+      <familyName>Kelleher</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-8815-3372">0000-0002-8815-3372<nameIdentifier>
+  </contributor>
+  <contributor contributorType="ProjectLeader">
+      <contributorName>Ronald N. Germain</contributorName>
+      <givenName>Ronald</givenName>
+      <familyName>Germain</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-1495-9143">0000-0003-1495-9143<nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Ari Karunamurthy</contributorName>
+    <givenName>Ari</givenName>
+    <familyName>Karunamurthy</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-5739-4923">0000-0002-5739-4923<nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Andrea J. Radtke</contributorName>
+    <givenName>Andrea</givenName>
+    <familyName>Radtke</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-4379-8967">0000-0003-4379-8967<nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Christopher Werlein</contributorName>
+    <givenName>Christopher</givenName>
+    <familyName>Werlein</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-7694-4257">0000-0002-7694-4257<nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Ellen M. Quardokus</contributorName>
+    <givenName>Ellen</givenName>
+    <familyName>Quardokus</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-7655-4833">0000-0001-7655-4833<nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Diane C. Saunders</contributorName>
+    <givenName>Diane</givenName>
+    <familyName>Saunders</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-8849-6746">0000-0002-8849-6746<nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Anna Martinez Casals</contributorName>
+    <givenName>Anna</givenName>
+    <familyName>Casals</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-2722-1965">0000-0003-2722-1965<nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Presha Rajbhandari</contributorName>
+    <givenName>Presha</givenName>
+    <familyName>Rajbhandari</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-2184-7238">0000-0003-2184-7238<nameIdentifier>
+  </contributor>
+</contributors>
+<dates>
+  <date dateType="Available">2023-06-15</date>
+</dates>
+<descriptions>
+  <description>OMAP-4 was designed for Cell DIVE multiplexed imaging of formalin-fixed paraffin-embedded (FFPE) human skin. Cell DIVE enables highly multiplexed single cell analysis using antibody-based imaging (Gerdes, MJ. et al, 2013)  The tissue slides were prepared with a two-step antigen retrieval process (pH 6 and pH 9, as described https://dx.doi.org/10.17504/protocols.io.bpwumpew). Antigens were detected using either primary antibodies with fluorophore-labeled secondaries or fluorescent dye conjugated antibodies (protocol can be found https://dx.doi.org/10.17504/protocols.io.b4kgqutw ). The panel contains 18 antibodies and the nuclear marker DAPI for image registration and nuclear segmentation. This OMAP provides a spatial context for most anatomical structures and cell types present in the [ASCT+B skin table, v1.1](https://doi.org/10.48539/HBM423.RTRR.746).  Keratinocyte populations can be identified based on their spatial location, distinct morphology and, in the case of corneocytes, absence of nuclei.  Additionally, the inclusion of protein biomarkers DDB2 and p53 allow profiling of skin damage and aging effects. The panel was designed to get a broad representation of cell types found in the skin and in the future will be expanded to include dermal dendritic cell (DC) markers (e.g. Langerin, CD11c). This panel does not include markers targeting several immune cell subsets including Langerhans cells, mast cells, and gamma delta T cells. Representative datasets created using this OMAP are publicly available on the [HuBMAP data portal.](https://portal.hubmapconsortium.org/search?mapped_data_types[0]=Cell%20DIVE&amp;entity_type[0]=Dataset)</description>
+</decsriptions>
+<language>EN</language>
+<alternateIdentfiers>
+  <alternateIdentfier alternateIdentiferType="HuBMAP ID">HBM459.SRBX.598</alternateIdentfier>
+  <alternateIdentfier alternateIdentfierType="How to Cite This OMAP Tables">Liz McDonough, Chrystal Chadwick, and Fiona Ginty. OMAP-4  Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Skin with Cell DIVE, v1.2. https://doi.org/10.48539/HBM459.SRBX.598, Accessed June 15, 2023.</alternateIdentfier>
+  <alternateIdentfier alternateIdentfierType="How to Cite OMAP Tables Overall">Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo, Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021. “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for Multiplexed Antibody-Based Imaging.” *Nature Methods*, November. https://doi.org/10.1038/s41592-021-01316-y.</alternateIdentfier>
+</alternateIdentfiers>
+<formats>
+	<format>.csv</format>
+</formats>
+<rightsList>
+  <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
+</rightsList>
+<fundingReferences>
+	<fundingReference>
+		<funderName>National Institutes of Health</funderName>
+		<awardNumber>OT2OD026671</awardNumber>
+	</fundingReference>
+	<fundingReference>
+		<funderName>National Institute of Allergy and Infectious Disease</funderName>
+		<awardNumber>NIH 5UH3CA246594-02</awardNumber>
+	</fundingReference>
+	<fundingReference>
+		<funderName>National Cancer Institute</funderName>
+		<awardNumber>UH3 CA246635</awardNumber>
+	</fundingReference>
+</fundingReferences>
+</resource>
