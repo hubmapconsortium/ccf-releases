@@ -3,8 +3,11 @@
 Changelog for the HuBMAP ccf-release Release Notes
 
 ## 1.4 - 2023-06-15
+
 ### Added in 1.4
+
 **The following reference organs were added with ccf-release v1.4:** 
+
 * left/right female and male palatine tonsil
 * separateing out larynx, trachea, main bronchus from male and female lung model
 * extensive updates to left/right female and male eye models; the levator palpebrae superioris muscle was removed and the long posterior ciliary artery was added.
@@ -28,8 +31,6 @@ Changelog for the HuBMAP ccf-release Release Notes
    - CODEX panels that significantly expand anatomy and cell types detected for kidney, pancreas
    - IBEX panels for spleen, retina
    - MACSima panel for palatine tonsil
-
-
 
 ## 1.3 - 2022-12-15
 
