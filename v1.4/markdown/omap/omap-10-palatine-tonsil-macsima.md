@@ -18,6 +18,6 @@ OMAP-10 was designed for MACSima (MACSima imaging cyclic staining) imaging of pa
 | **HuBMAP ID:** | HBM663.JJMJ.628 |
 | **Data Table:** | OMAP-10: Multiplexed Antibody-Based Imaging of Human Palatine Tonsil with MACSima v1.0 [CSV](https://hubmapconsortium.github.io/ccf-releases/v1.4/omap/omap-10-palatine-tonsil-macsima.csv) [Excel](https://hubmapconsortium.github.io/ccf-releases/v1.4/omap/omap-10-palatine-tonsil-macsima.xlsx) |
 | **DOI:** | [https://doi.org/10.48539/HBM663.JJMJ.628](https://doi.org/10.48539/HBM663.JJMJ.628) |
-| **How to Cite This Data Table:** | OMAP-10: Multiplexed Antibody-Based Imaging of Human Palatine Tonsil with MACSima v1.0, https://doi.org/10.48539/HBM663.JJMJ.628. Accessed on June 15, 2023.|
+| **How to Cite This Data Table:** | Werner Müller; Silvia Rüberg; Andreas Bosio. OMAP-10: Multiplexed Antibody-Based Imaging of Human Palatine Tonsil with MACSima v1.0, https://doi.org/10.48539/HBM663.JJMJ.628. Accessed on June 15, 2023.|
 | **How to Cite OMAP Tables Overall:** | Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo, Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021. “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for Multiplexed Antibody-Based Imaging.” *Nature Methods*, November. https://doi.org/10.1038/s41592-021-01316-y. |
 
