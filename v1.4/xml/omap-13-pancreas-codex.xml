@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">https://doi.org/10.48539/HBM754.BHVR.258</identifier>
+<titles>
+  <title>OMAP-13: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX, v1.0</title>
+</titles>
+<creators>
+  <creator>
+    <creatorName>Diane Saunders</creatorName>
+    <givenName>Diane</givenName>
+    <familyName>Saunders</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-8849-6746">0000-0002-8849-6746<nameIdentifier>
+  </creator>
+  <creator>
+    <creatorName>Conrad Reihsmann</creatorName>
+    <givenName>Conrad</givenName>
+    <familyName>Reihsmann</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-1482-5359">0000-0002-1482-5359<nameIdentifier>
+  </creator>
+</creators>
+<publisher>HuBMAP</publisher>
+<publicationYear>2023</publicationYear>
+<resourceType resourceTypeGeneral="Dataset">Organ Mapping Antibody Panel</resourceType>
+<subjects>
+  <subject>OMAP-13: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX</subject>
+<subjects>
+<contributors>
+  <contributor contributorType="ProjectLeader">
+      <contributorName>Andrea J. Radtke</contributorName>
+      <givenName>Andrea</givenName>
+      <familyName>Radtke</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-4379-8967">0000-0003-4379-8967<nameIdentifier>
+  </contributor>
+  <contributor contributorType="ProjectLeader">
+      <contributorName>Katy Börner</contributorName>
+      <givenName>Katy</givenName>
+      <familyName>Börner</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3321-6137">0000-0002-3321-6137<nameIdentifier>
+  </contributor>
+  <contributor contributorType="ProjectLeader">
+      <contributorName>Neil Kelleher</contributorName>
+      <givenName>Neil</givenName>
+      <familyName>Kelleher</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-8815-3372">0000-0002-8815-3372<nameIdentifier>
+  </contributor>
+  <contributor contributorType="ProjectLeader">
+      <contributorName>Ronald N. Germain</contributorName>
+      <givenName>Ronald</givenName>
+      <familyName>Germain</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-1495-9143">0000-0003-1495-9143<nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Andrea J. Radtke</contributorName>
+    <givenName>Andrea</givenName>
+    <familyName>Radtke</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-4379-8967">0000-0003-4379-8967<nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Ellen M. Quardokus</contributorName>
+    <givenName>Ellen</givenName>
+    <familyName>Quardokus</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-7655-4833">0000-0001-7655-4833<nameIdentifier>
+  </contributor>
+</contributors>
+<dates>
+  <date dateType="Available">2023-06-15</date>
+</dates>
+<descriptions>
+  <description>OMAP-13 was designed for imaging of 4% PFA-fixed, cryopreserved human pancreas samples by CO-Detection by indEXing (CODEX) (https://doi.org/10.1038/s41596-021-00556-8). Containing 27 antibodies and nuclear marker DAPI, this OMAP provides spatial context for 13 anatomical structures and 21 cell types in the ASCT+B Pancreas table v1.2 (https://doi.org/10.48539/HBM975.BBTF.393) and shares 8 markers with OMAP-6 (https://doi.org/10.48539/HBM868.XLTM.922). It also facilitates identification of gamma and epsilon cells, lymphatic endothelial cells, pericytes, resident immune cells, neuronal structures, and some stromal cells and the extracellular matrix (ECM). Due to the inclusion of biomarkers PPY, GHRL, PTPRC (CD45), CD19, ITGAX (CD11c), AIF1 (IBA1), and CD14, this panel is suitable for all regions of the human pancreas (including the uncinate process, UBERON:0010373) from birth to adulthood and can detect inflammatory cells present in diabetes. Panel design and validation was performed on the PhenoCycler Open and Fusion systems (Akoya Biosciences). Carrier free aliquots for antibodies directed against targets GHRL, PPY, and LYVE1  were ordered directly from R&amp;D Biosciences to allow custom conjugation; antibody metadata reflect the catalog versions. The GP2 antibody, which was purified and conjugated by Leinco Technologies, Inc., is best used in conjunction with another acinar cell marker. Application of this CODEX panel to early-stage T2D samples (Walker et al. 2021; https://doi.org/10.1101/2021.12.16.466282) included cellular segmentation by DAPI using the Highplex FL module of HALO image analysis software (Indica Labs). Details on sample preparation and antibody screening can be found at https://doi.org/10.17504/protocols.io.36wgq7dryvk5/v1 and a representative dataset is uploaded at https://doi.org/10.5281/zenodo.7916784. Interactive image browsing is available on Pancreatlas (RRID:SCR_01856).</description>
+</decsriptions>
+<language>EN</language>
+<alternateIdentfiers>
+  <alternateIdentfier alternateIdentiferType="HuBMAP ID">HBM754.BHVR.258</alternateIdentfier>
+  <alternateIdentfier alternateIdentfierType="How to Cite This OMAP Tables">Diane Saunders; Conrad Reihsmann. OMAP-13: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX, v1.0 https://doi.org/10.48539/HBM754.BHVR.258. Accessed on June 15, 2023.</alternateIdentfier>
+  <alternateIdentfier alternateIdentfierType="How to Cite OMAP Tables Overall">Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo, Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021. “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for Multiplexed Antibody-Based Imaging.” *Nature Methods*, November. https://doi.org/10.1038/s41592-021-01316-y.</alternateIdentfier>
+</alternateIdentfiers>
+<formats>
+	<format>.csv</format>
+</formats>
+<rightsList>
+  <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
+</rightsList>
+<fundingReferences>
+	<fundingReference>
+		<funderName>Intramural Research Program of the NIH</funderName>
+		<awardNumber>UH3 CA246635</awardNumber>
+	</fundingReference>
+	<fundingReference>
+		<funderName>National Institute of Allergy and Infectious Disease and National Cancer Institute</funderName>
+		<awardNumber>OT2OD026671</awardNumber>
+	</fundingReference>
+</fundingReferences>
+</resource>

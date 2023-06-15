@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">https://doi.org/10.48539/HBM979.RCXH.454</identifier>
+<titles>
+  <title>OMAP-12: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Retina with IBEX, v1.0</title>
+</titles>
+<creators>
+  <creator>
+    <creatorName>Colin J. Chu</creatorName>
+    <givenName>Colin</givenName>
+    <familyName>Chu</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-2088-8310">0000-0003-2088-8310<nameIdentifier>
+  </creator>
+</creators>
+<publisher>HuBMAP</publisher>
+<publicationYear>2023</publicationYear>
+<resourceType resourceTypeGeneral="Dataset">Organ Mapping Antibody Panel</resourceType>
+<subjects>
+  <subject>OMAP-12: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Retina with IBEX</subject>
+<subjects>
+<contributors>
+  <contributor contributorType="ProjectLeader">
+      <contributorName>Andrea J. Radtke</contributorName>
+      <givenName>Andrea</givenName>
+      <familyName>Radtke</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-4379-8967">0000-0003-4379-8967<nameIdentifier>
+  </contributor>
+  <contributor contributorType="ProjectLeader">
+      <contributorName>Katy Börner</contributorName>
+      <givenName>Katy</givenName>
+      <familyName>Börner</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3321-6137">0000-0002-3321-6137<nameIdentifier>
+  </contributor>
+  <contributor contributorType="ProjectLeader">
+      <contributorName>Neil Kelleher</contributorName>
+      <givenName>Neil</givenName>
+      <familyName>Kelleher</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-8815-3372">0000-0002-8815-3372<nameIdentifier>
+  </contributor>
+  <contributor contributorType="ProjectLeader">
+      <contributorName>Ronald N. Germain</contributorName>
+      <givenName>Ronald</givenName>
+      <familyName>Germain</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-1495-9143">0000-0003-1495-9143<nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Andrea J. Radtke</contributorName>
+    <givenName>Andrea</givenName>
+    <familyName>Radtke</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-4379-8967">0000-0003-4379-8967<nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Ellen M. Quardokus</contributorName>
+    <givenName>Ellen</givenName>
+    <familyName>Quardokus</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-7655-4833">0000-0001-7655-4833<nameIdentifier>
+  </contributor>
+</contributors>
+<dates>
+  <date dateType="Available">2023-06-15</date>
+</dates>
+<descriptions>
+  <description>OMAP-12 was designed for IBEX imaging of fixed frozen human retina samples (https://doi.org/10.1038/s41596-021-00644-9; https://doi.org/10.1073/pnas.2018488117). The panel contains 14 antibodies, 3 lectins, and DAPI for image alignment and nuclear segmentation. The OMAP provides a spatial context for the main anatomical structures and key cell types present in the healthy human retina including photoreceptors, bipolar cells, ganglion cells, astrocytes, microglia, Muller glia, and retinal vascular endothelium. Broad neuronal classes are imaged, but not separated into fine subpopulations partly due to the lack of antibody reagents (e.g., all amacrine, ganglion cell, and bipolar cell subtypes). Fluorescent lectins PNA, Isolectin B4, and Phalloidin were used to visualize oligosaccharides for typing cell types such as cone photoreceptors, vascular endothelium, and outer limiting membrane, respectively. These reagents are visualized in the accompanying dataset but not included in the OMAP because they are not antibodies. Additional details on sample preparation and imaging can be found here: (doi: 10.1038/s41596-021-00644-9) Custom conjugations were performed for several antibodies according to the standard manufacturer protocols. A representative dataset acquired using this OMAP has been uploaded here: https://doi.org/10.5281/zenodo.7777285.</description>
+</decsriptions>
+<language>EN</language>
+<alternateIdentfiers>
+  <alternateIdentfier alternateIdentiferType="HuBMAP ID">HBM979.RCXH.454</alternateIdentfier>
+  <alternateIdentfier alternateIdentfierType="How to Cite This OMAP Tables">Colin J. Chu. OMAP-12: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Retina with IBEX, v1.0, https://doi.org/10.48539/HBM979.RCXH.454. Accessed on June 15, 2023.</alternateIdentfier>
+  <alternateIdentfier alternateIdentfierType="How to Cite OMAP Tables Overall">Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo, Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021. “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for Multiplexed Antibody-Based Imaging.” *Nature Methods*, November. https://doi.org/10.1038/s41592-021-01316-y.</alternateIdentfier>
+</alternateIdentfiers>
+<formats>
+	<format>.csv</format>
+</formats>
+<rightsList>
+  <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
+</rightsList>
+<fundingReferences>
+	<fundingReference>
+		<funderName>National Institute of Health (NIH) National Cancer Institute (NCI)</funderName>
+		<awardNumber>OT2OD026671</awardNumber>
+	</fundingReference>
+	<fundingReference>
+		<funderName>Intramural Research Program of the NIH</funderName>
+		<awardNumber></awardNumber>
+	</fundingReference>
+	<fundingReference>
+		<funderName>National Institute of Allergy and Infectious Disease and National Cancer Institute</funderName>
+		<awardNumber></awardNumber>
+	</fundingReference>
+	<fundingReference>
+		<funderName>National Heart</funderName>
+		<awardNumber></awardNumber>
+	</fundingReference>
+	<fundingReference>
+		<funderName>Lung and Blood Institute</funderName>
+		<awardNumber></awardNumber>
+	</fundingReference>
+</fundingReferences>
+</resource>
