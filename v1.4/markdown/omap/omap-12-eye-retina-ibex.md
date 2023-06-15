@@ -9,7 +9,7 @@ OMAP-12 was designed for IBEX imaging of fixed frozen human retina samples (http
 | **Creator ORCID(s):** | [0000-0003-2088-8310](https://orcid.org/0000-0003-2088-8310)|
 | **Project Lead:** | Andrea J. Radtke; Katy B&ouml;rner; Neil Kelleher; Ronald N. Germain |
 | **Project Lead ORCID:** | [0000-0003-4379-8967](https://orcid.org/0000-0003-4379-8967); [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137); [0000-0002-8815-3372](https://orcid.org/0000-0002-8815-3372); [0000-0003-1495-9143](https://orcid.org/0000-0003-1495-9143) |
-| **Reviewer(s):** |Andrea Radtke; Ellen M. Quardokus |
+| **Reviewer(s):** |Andrea J. Radtke; Ellen M. Quardokus |
 | **Reviewer ORCID(s):** |[0000-0003-4379-8967](https://orcid.org/0000-0003-4379-8967); [0000-0001-7655-4833](https://orcid.org/0000-0001-7655-4833) |  
 | **Creation Date:** | 2023-06-15|
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
@@ -19,6 +19,6 @@ OMAP-12 was designed for IBEX imaging of fixed frozen human retina samples (http
 | **HuBMAP ID:** | HBM979.RCXH.454 |
 | **Data Table:** | OMAP-12: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Retina with IBEX, v1.0 [CSV](https://hubmapconsortium.github.io/ccf-releases/v1.4/omap/omap-12-eye-retina-ibex.csv) [Excel](https://hubmapconsortium.github.io/ccf-releases/v1.4/omap/omap-12-eye-retina-ibex.xlsx) |
 | **DOI:** | [https://doi.org/10.48539/HBM979.RCXH.454](https://doi.org/10.48539/HBM979.RCXH.454) |
-| **How to Cite This Data Table:** | OMAP-12: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Retina with IBEX, v1.0, https://doi.org/10.48539/HBM979.RCXH.454. Accessed on June 15, 2023.|
+| **How to Cite This Data Table:** | Colin J. Chu. OMAP-12: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Retina with IBEX, v1.0, https://doi.org/10.48539/HBM979.RCXH.454. Accessed on June 15, 2023.|
 | **How to Cite OMAP Tables Overall:** | Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo, Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021. “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for Multiplexed Antibody-Based Imaging.” *Nature Methods*, November. https://doi.org/10.1038/s41592-021-01316-y. |
 
