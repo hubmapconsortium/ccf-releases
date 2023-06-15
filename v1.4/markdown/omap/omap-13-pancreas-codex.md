@@ -10,7 +10,7 @@ OMAP-13 was designed for imaging of 4% PFA-fixed, cryopreserved human pancreas s
 | **Creator ORCID(s):** | [0000-0002-8849-6746](https://orcid.org/0000-0002-8849-6746); [0000-0002-1482-5359](https://orcid.org/0000-0002-1482-5359)|
 | **Project Lead:** | Andrea J. Radtke; Katy B&ouml;rner; Neil Kelleher; Ronald N. Germain |
 | **Project Lead ORCID:** | [0000-0003-4379-8967](https://orcid.org/0000-0003-4379-8967); [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137); [0000-0002-8815-3372](https://orcid.org/0000-0002-8815-3372); [0000-0003-1495-9143](https://orcid.org/0000-0003-1495-9143) |
-| **Reviewer(s):** |Andrea Radtke; Ellen M. Quardokus |
+| **Reviewer(s):** |Andrea J. Radtke; Ellen M. Quardokus |
 | **Reviewer ORCID(s):** |[0000-0003-4379-8967](https://orcid.org/0000-0003-4379-8967); [0000-0001-7655-4833](https://orcid.org/0000-0001-7655-4833)|  
 | **Creation Date:** | 2023-06-15|
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
