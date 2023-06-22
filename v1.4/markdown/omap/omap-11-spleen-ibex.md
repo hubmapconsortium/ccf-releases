@@ -2,6 +2,7 @@
 
 ### Description
 OMAP-11 was designed for IBEX imaging of fixed frozen human spleen samples (https://doi.org/10.1038/s41596-021-00644-9; https://doi.org/10.1073/pnas.2018488117). The panel contains 24 primary antibodies, 2 secondary antibodies, and Hoechst for image alignment and nuclear segmentation. This OMAP provides a spatial context for the main anatomical structures and cell types present in the ASCT+B spleen table v1.3 including red pulp macrophages, splenic endothelial cells, stromal cells of the red and white pulp, B cells, T cells, granulocytes, and platelets. This panel can be expanded to include more granular phenotyping of B cells (naïve, memory, switched), T cells (T follicular helper cells, T regulatory cells), NK cells, dendritic cells (cDC1, cDC2, plasmacytoid DCs), and lymphatic endothelial cells with the addition of appropriate markers. Several antibodies for CD271, a critical splenic stromal marker (https://doi.org/10.1111/imm.12469), were tested but did not provide reliable labeling in the spleen for the tissue preservation method employed for this study (RRIDs      AB_10982271,      AB_2564818). Custom antibodies were purchased from BioLegend or conjugated in house using      labeling kits from Abcam (ab269820) and Thermo Fisher Scientific (A20182,      A20188). A representative dataset acquired using this OMAP can be found here: https://doi.org/10.5281/zenodo.5244550.
+
 | Label | Value |
 | :------------- |:-------------|
 | **Creator(s):** | Andrea J. Radtke |
