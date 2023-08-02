@@ -1,7 +1,7 @@
 # 3D Reference Organ for Placenta, Full Term, Female v1.0
 
 ### Description
-[This reference organ](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) The placenta was sculpted partly from MRI data from the Department of Obstetrics, Gynecology, and Reproductive Sciences, Division of Maternal-Fetal Medicine at UC San Diego Health. The atlas “Human Microscopic Anatomy” (R.V. Krstić, 1994) and  [(Mannelli et al. 2015)](https://doi.org/10.1177/1559325815611902) were consulted.
+[This reference organ](https://humanatlas.io/3d-reference-library) The placenta was sculpted partly from MRI data from the Department of Obstetrics, Gynecology, and Reproductive Sciences, Division of Maternal-Fetal Medicine at UC San Diego Health. The atlas “Human Microscopic Anatomy” (R.V. Krstić, 1994) and  [(Mannelli et al. 2015)](https://doi.org/10.1177/1559325815611902) were consulted.
 
 
 | Label | Value |
@@ -21,4 +21,4 @@
 | **3D Data:** | [Placenta, Full Term, Female v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.2/models/VH_F_Placenta.glb) |
 | **DOI:** | [https://doi.org/10.48539/HBM796.CQJZ.982](https://doi.org/10.48539/HBM796.CQJZ.982) |
 | **How to Cite This 3D Data:** | Heidi Schlehlein 2022. *3D Reference Organ for Placenta, Full Term, Female v1.0* [https://doi.org/10.48539/HBM796.CQJZ.982](https://doi.org/10.48539/HBM796.CQJZ.982). Accessed on May 06, 2022. |
-| **How to Cite 3D Data Overall:** | Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2022. [*HuBMAP CCF 3D Reference Object Library*](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html). Accessed on May 06, 2022. |
+| **How to Cite 3D Data Overall:** | Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2022. [*HuBMAP CCF 3D Reference Object Library*](https://humanatlas.io/3d-reference-library). Accessed on May 06, 2022. |

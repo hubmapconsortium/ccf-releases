@@ -1,7 +1,7 @@
 # 3D Reference Organ for Spinal Cord, Male, v1.0
 
 ### Description
-[This reference organ](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created using data from the Visible Human Male, provided by the National Library of Medicine. [(Frostell et al. 2016)](https://www.frontiersin.org/article/10.3389/fneur.2016.00238) was referenced during model preparation.
+[This reference organ](https://humanatlas.io/3d-reference-library) was created using data from the Visible Human Male, provided by the National Library of Medicine. [(Frostell et al. 2016)](https://www.frontiersin.org/article/10.3389/fneur.2016.00238) was referenced during model preparation.
 
 | Label | Value |
 | :------------- |:-------------|
@@ -20,4 +20,4 @@
 | **3D Data:** | [Spinal Cord, Male, v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.2/models/VH_M_Spinal_Cord.glb) |
 | **DOI:** | [https://doi.org/10.48539/HBM366.MTJD.685](https://doi.org/10.48539/HBM366.MTJD.685) |
 | **How to Cite This 3D Data:** | Kristen Browne; Heidi Schlehlein. 2022. *3D Reference Organ for Spinal Cord, Male, v1.0.* [https://doi.org/10.48539/HBM366.MTJD.685](https://doi.org/10.48539/HBM366.MTJD.685). Accessed on May 06, 2022. |
-| **How to Cite 3D Data Overall:** | Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2022. [*HuBMAP CCF 3D Reference Object Library*.](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) Accessed on May 6, 2022. |
+| **How to Cite 3D Data Overall:** | Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2022. [*HuBMAP CCF 3D Reference Object Library*.](https://humanatlas.io/3d-reference-library) Accessed on May 6, 2022. |

@@ -1,7 +1,7 @@
 # 3D Reference Organ for Brain, Female v1.1
 
 ### Description
-[This reference organ](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created using data from the "[Allen Human Reference Atlas – 3D, 2020](https://doi.org/10.1002/cne.24080)" representing one half of the human brain (Ding et al., 2016). The 141 anatomical structures were mirrored to arrive at a whole human brain (as intended) and resized to fit the Visible Human Male and Female bodies.
+[This reference organ](https://humanatlas.io/3d-reference-library) was created using data from the "[Allen Human Reference Atlas – 3D, 2020](https://doi.org/10.1002/cne.24080)" representing one half of the human brain (Ding et al., 2016). The 141 anatomical structures were mirrored to arrive at a whole human brain (as intended) and resized to fit the Visible Human Male and Female bodies.
 
 | Label | Value |
 | :------------- |:-------------|
@@ -20,4 +20,4 @@
 | **3D Data:** | [Brain, Female v1.1](https://hubmapconsortium.github.io/ccf-releases/v1.1/models/Allen_F_Brain.glb) |
 | **DOI:** | [https://doi.org/10.48539/HBM724.XTTN.487](https://doi.org/10.48539/HBM724.XTTN.487) |
 | **How to Cite This 3D Data:** | Kristen Browne. 2021. *3D Reference Organ for Brain, Female v1.1*. [https://doi.org/10.48539/HBM724.XTTN.487](https://doi.org/10.48539/HBM724.XTTN.487). Accessed on December 01, 2021. |
-| **How to Cite 3D Data Overall:** | Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2021. *HuBMAP CCF 3D Reference Object Library*. https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html. Accessed on December 01, 2021. |
+| **How to Cite 3D Data Overall:** | Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2021. *HuBMAP CCF 3D Reference Object Library*. https://humanatlas.io/3d-reference-library. Accessed on December 01, 2021. |

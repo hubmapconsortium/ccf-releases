@@ -1,7 +1,7 @@
 # 3D Reference Organ for Uterus, Female v1.1
 
 ### Description
-[This reference organ](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created using data from the Visible Human Male, provided by the National Library of Medicine.
+[This reference organ](https://humanatlas.io/3d-reference-library) was created using data from the Visible Human Male, provided by the National Library of Medicine.
 
 | Label | Value |
 | :------------- |:-------------|
@@ -20,4 +20,4 @@
 | **3D Data:** | [Uterus, Female v1.1](https://hubmapconsortium.github.io/ccf-releases/v1.2/models/VH_F_Uterus.glb) |
 | **DOI:** | [https://doi.org/10.48539/HBM228.JBNJ.299](https://doi.org/10.48539/HBM228.JBNJ.299) |
 | **How to Cite This 3D Data:** |Kristen Browne; Heidi Schlehlein. 2022. *3D Reference Organ for Uterus v1.1.* [https://doi.org/10.48539/HBM228.JBNJ.299](https://doi.org/10.48539/HBM228.JBNJ.299). Accessed on May 6, 2022. |
-| **How to Cite 3D Data Overall:** | Kristen Browne, Heidi Schlehlein , Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2022. [*HuBMAP CCF 3D Reference Object Library*.](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) Accessed on May 6, 2022. |
+| **How to Cite 3D Data Overall:** | Kristen Browne, Heidi Schlehlein , Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2022. [*HuBMAP CCF 3D Reference Object Library*.](https://humanatlas.io/3d-reference-library) Accessed on May 6, 2022. |

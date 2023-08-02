@@ -1,7 +1,7 @@
 # 3D Reference Organ for Large Intestine, Female v1.2
 
 ### Description
-[This reference organ](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created using data provided by Arie Kaufman, Stony Brook University as a base for a custom model built using Pixelogic Zbrush.
+[This reference organ](https://humanatlas.io/3d-reference-library) was created using data provided by Arie Kaufman, Stony Brook University as a base for a custom model built using Pixelogic Zbrush.
 
 | Label | Value |
 | :------------- |:-------------|
@@ -20,4 +20,4 @@
 | **3D Data:** | [Large Intestine, Female v1.2](https://hubmapconsortium.github.io/ccf-releases/v1.2/models/SBU_F_Intestine_Large.glb) |
 | **DOI:** | [https://doi.org/10.48539/HBM637.SRWT.828](https://doi.org/10.48539/HBM637.SRWT.828) |
 | **How to Cite This 3D Data:** | Kristen Browne; Heidi Schlehlein. 2022. *3D Reference Organ for Large Intestine, Female v1.2.* [https://doi.org/10.48539/HBM637.SRWT.828](https://doi.org/10.48539/HBM637.SRWT.828). Accessed on May 6, 2022. |
-| **How to Cite 3D Data Overall:** | Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2022. [*HuBMAP CCF 3D Reference Object Library*.](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) Accessed on May 6, 2022. |
+| **How to Cite 3D Data Overall:** | Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2022. [*HuBMAP CCF 3D Reference Object Library*.](https://humanatlas.io/3d-reference-library) Accessed on May 6, 2022. |

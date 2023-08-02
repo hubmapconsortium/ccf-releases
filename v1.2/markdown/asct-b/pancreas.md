@@ -1,7 +1,7 @@
 # Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Pancreas v1.1
 
 ### Description
-[Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html) aim to capture the nested *part_of* structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts. 
+[Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://humanatlas.io/asctb-tables) aim to capture the nested *part_of* structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts. 
 
 This version for Pancreas, v1.1, lists anatomical structures and cell types in the pancreas head region which are analogous to those for the pancreas neck, body and tail regions. Detailed annotation of the pancreas region will reduce redundancies in anatomical structure and cell type nomenclature representative of all pancreas regions and will improve visualization by the ASCT+B reporter by reducing multiple converging lines for a given structure or cell type from multiple regions.
 
@@ -29,4 +29,4 @@ Immune cells are included though in low numbers as part of the innate immune sys
 | **Data Table:** | [Pancreas v1.1](https://hubmapconsortium.github.io/ccf-releases/v1.2/asct-b/ASCT-B_VH_Pancreas.csv) |
 | **DOI:** |[https://doi.org/10.48539/HBM557.XHHV.557](https://doi.org/10.48539/HBM557.XHHV.557) |
 | **How to Cite This Data Table:** | Martha Campbell-Thompson; Adel Eskaros; Diane Saunders, HuBMAP ASCT+B Tables. Pancreas v1.1 [https://doi.org/10.48539/HBM557.XHHV.557](https://doi.org/10.48539/HBM557.XHHV.557) |
-| **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2022. [*HuBMAP ASCT+B Tables*](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html). Accessed on May 6, 2022. |
+| **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2022. [*HuBMAP ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on May 6, 2022. |
