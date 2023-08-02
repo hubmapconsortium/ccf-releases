@@ -23,4 +23,4 @@ This functional tissue unit (FTU) illustration was created from anatomical struc
 | **2D Data:** | [Kidney, 2D Renal Corpuscle FTU v.1.0](https://hubmapconsortium.github.io/ccf-releases/v1.2/2d-ftu/renal_corpuscle_kidney.svg) |
 | **DOI:** | [https://doi.org/10.48539/HBM395.LVFN.656](https://doi.org/10.48539/HBM395.LVFN.656) |
 | **How to Cite This 2D Data:** | Rachel Bajema 2022. *2D Reference Renal Corpuscle FTU for Kidney, v1.0.* [https://doi.org/10.48539/HBM395.LVFN.656](https://doi.org/10.48539/HBM395.LVFN.656). Accessed on May 6, 2022. |
-| **How to Cite 2D Data Overall:** | Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy Börner. 2022. [*HuBMAP CCF 2D Reference Object Library*](https://hubmapconsortium.github.io/ccf/pages/ccf-2d-reference-library.html). Accessed on May 6, 2022. |
+| **How to Cite 2D Data Overall:** | Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy Börner. 2022. [*HuBMAP CCF 2D Reference Object Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on May 6, 2022. |

@@ -1,7 +1,7 @@
 # 3D Reference Organ for Larynx, Female v1.0
 
 ### Description
-[This reference organ](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created using data from the Visible Human Female, provided by the National Library of Medicine. Version 1.0 larynx, was separated from the previous v1.2 lung model.
+[This reference organ](https://humanatlas.io/3d-reference-library) was created using data from the Visible Human Female, provided by the National Library of Medicine. Version 1.0 larynx, was separated from the previous v1.2 lung model.
 
 | Label | Value |
 | :------------- |:-------------|

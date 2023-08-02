@@ -37,4 +37,4 @@ Machine learning and AI are employed in segmenting these FTUs from data which wi
 | **2D Data:** | Lung, 2D Bronchial Submucosal Gland FTU v.1.0 [SVG](https://hubmapconsortium.github.io/ccf-releases/v1.3/2d-ftu/2d-ftu-lung-pulmonary-alveolus.svg) [AI](https://hubmapconsortium.github.io/ccf-releases/v1.3/2d-ftu/2d-ftu-lung-pulmonary-alveolus.ai) |
 | **DOI:** | [https://doi.org/10.48539/HBM438.ZJGP.747](https://doi.org/10.48539/HBM438.ZJGP.747) |
 | **How to Cite This 2D Data:** | Rachel Bajema 2022. *2D Reference Bronchial Submucosal Gland FTU for Lung, v1.0.* https://doi.org/10.48539/HBM438.ZJGP.747. Accessed on December 15, 2022.|
-| **How to Cite 2D Data Overall:** | Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy Börner. 2022. [*HuBMAP CCF 2D Reference Object Library*](https://hubmapconsortium.github.io/ccf/pages/ccf-2d-reference-library.html). Accessed on December 15, 2022. |
+| **How to Cite 2D Data Overall:** | Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy Börner. 2022. [*HuBMAP CCF 2D Reference Object Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on December 15, 2022. |

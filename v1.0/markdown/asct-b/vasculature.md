@@ -1,7 +1,7 @@
 # Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Vasculature v1.0
 
 ### Description
-[Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html) aim to capture the nested *part_of* structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts.
+[Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://humanatlas.io/asctb-tables) aim to capture the nested *part_of* structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts.
 
 | Label | Value |
 | :------------- |:-------------|
@@ -18,4 +18,4 @@
 | **Data Table:** | [Vaculature v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.0/asct-b/ASCT-B_VH_Vasculature.csv) |
 | **DOI:** | [https://doi.org/10.48539/hbm426.gzpn.888](https://doi.org/10.48539/hbm426.gzpn.888) |
 | **How to Cite This Data Table:** | Griffin Weber; Sujin Lee; Rajeev Malhotra; Marc Halushka; Avinash Boppana. HuBMAP ASCT+B Tables. Vasculature v1.0 [https://doi.org/10.48539/hbm426.gzpn.888](https://doi.org/10.48539/hbm426.gzpn.888) |
-| **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Hrishikesh Paul, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2021. *HuBMAP ASCT+B Tables*. https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html. Accessed on March 12, 2021. |
+| **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Hrishikesh Paul, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2021. *HuBMAP ASCT+B Tables*. https://humanatlas.io/asctb-tables. Accessed on March 12, 2021. |

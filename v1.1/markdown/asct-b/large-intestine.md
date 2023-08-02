@@ -1,7 +1,7 @@
 # Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Large Intestine v1.1
 
 ### Description
-[Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html) aim to capture the nested *part_of* structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts.
+[Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://humanatlas.io/asctb-tables) aim to capture the nested *part_of* structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts.
 
 | Label | Value |
 | :------------- |:-------------|
@@ -20,4 +20,4 @@
 | **Data Table:** | [Large Intestine v1.1](https://hubmapconsortium.github.io/ccf-releases/v1.1/asct-b/ASCT-B_VH_Large_Intestine.csv)  |
 | **DOI:** |[https://doi.org/10.48539/HBM325.NZPB.589](https://doi.org/10.48539/HBM325.NZPB.589) |
 | **How to Cite This Data Table:** | Teri A. Longacre; John Hickey; Yiing Lin, HuBMAP ASCT+B Tables. Large Intestine v1.1 [https://doi.org/10.48539/HBM325.NZPB.589](https://doi.org/10.48539/HBM325.NZPB.589) |
-| **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2021. *HuBMAP ASCT+B Tables*. https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html. Accessed on Dec 1, 2021. |
+| **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2021. *HuBMAP ASCT+B Tables*. https://humanatlas.io/asctb-tables. Accessed on Dec 1, 2021. |

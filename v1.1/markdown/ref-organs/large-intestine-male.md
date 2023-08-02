@@ -1,7 +1,7 @@
 # 3D Reference Organ for Large Intestine, Male v1.1
 
 ### Description
-[This reference organ](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created using data provided by Arie Kaufman, Stony Brook University as a base for a custom model built using Pixelogic Zbrush.
+[This reference organ](https://humanatlas.io/3d-reference-library) was created using data provided by Arie Kaufman, Stony Brook University as a base for a custom model built using Pixelogic Zbrush.
 
 | Label | Value |
 | :------------- |:-------------|
@@ -20,4 +20,4 @@
 | **3D Data:** | [Large Intestine, Male v1.1](https://hubmapconsortium.github.io/ccf-releases/v1.1/models/SBU_M_Intestine_Large.glb) |
 | **DOI:** | [https://doi.org/10.48539/HBM626.PBQL.796](https://doi.org/10.48539/HBM626.PBQL.796) |
 | **How to Cite This 3D Data:** | Kristen Browne. 2021. *3D Reference Organ for Large intestine, Male v1.1.* [https://doi.org/10.48539/HBM626.PBQL.796](https://doi.org/10.48539/HBM626.PBQL.796). Accessed on December 01, 2021. |
-| **How to Cite 3D Data Overall:** | Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2021. *HuBMAP CCF 3D Reference Object Library*. https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html. Accessed on December 01, 2021. |
+| **How to Cite 3D Data Overall:** | Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2021. *HuBMAP CCF 3D Reference Object Library*. https://humanatlas.io/3d-reference-library. Accessed on December 01, 2021. |

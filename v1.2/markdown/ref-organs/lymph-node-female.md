@@ -1,7 +1,7 @@
 # 3D Reference Organ for Lymph Node, Female v1.2
 
 ### Description
-[This reference organ](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created using data from the Visible Human Female, provided by the National Library of Medicine.
+[This reference organ](https://humanatlas.io/3d-reference-library) was created using data from the Visible Human Female, provided by the National Library of Medicine.
 
 | Label | Value |
 | :------------- |:-------------|
@@ -20,4 +20,4 @@
 | **3D Data:** | [Lymph Node, Female v1.2](https://hubmapconsortium.github.io/ccf-releases/v1.2/models/NIH_F_Lymph_Node.glb) |
 | **DOI:** | [https://doi.org/10.48539/HBM463.LFHF.874](https://doi.org/10.48539/HBM463.LFHF.874) |
 | **How to Cite This 3D Data:** | Kristen Browne; Heidi Schlehlein. 2022. *3D Reference Organ for Lymph Node, Female v1.2.* [https://doi.org/10.48539/HBM463.LFHF.874](https://doi.org/10.48539/HBM463.LFHF.874).  Accessed on May 6, 2022. |
-| **How to Cite 3D Data Overall:** | Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2022. [*HuBMAP CCF 3D Reference Object Library*.](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) Accessed on May 6, 2022. |
+| **How to Cite 3D Data Overall:** | Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2022. [*HuBMAP CCF 3D Reference Object Library*.](https://humanatlas.io/3d-reference-library) Accessed on May 6, 2022. |

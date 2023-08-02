@@ -1,7 +1,7 @@
 # 3D Reference Organ for Lymph Node, Male v1.2
 
 ### Description
-[This reference organ](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created using the Clearing-enhanced 3D (Ce3D) method developed by Dr. Weizhe Li, Laboratory of Immune System Biology, National Institute of Allergy and Infectious Diseases, NIH using data documented in https://www.pnas.org/content/114/35/E7321. While the size and cellular composition of mouse and human lymph nodes varies between species, the overall anatomy is well-conserved.
+[This reference organ](https://humanatlas.io/3d-reference-library) was created using the Clearing-enhanced 3D (Ce3D) method developed by Dr. Weizhe Li, Laboratory of Immune System Biology, National Institute of Allergy and Infectious Diseases, NIH using data documented in https://www.pnas.org/content/114/35/E7321. While the size and cellular composition of mouse and human lymph nodes varies between species, the overall anatomy is well-conserved.
 
 | Label | Value |
 | :------------- |:-------------|
@@ -20,4 +20,4 @@
 | **3D Data:** | [Lymph Node, Male v1.2](https://hubmapconsortium.github.io/ccf-releases/v1.2/models/NIH_M_Lymph_Node.glb) |
 | **DOI:** | [https://doi.org/10.48539/HBM299.VVXH.634](https://doi.org/10.48539/HBM299.VVXH.634) |
 | **How to Cite This 3D Data:** |Kristen Browne; Heidi Schlehlein. 2022. *3D Reference Organ for Lymph Node, Male v1.2.* [https://doi.org/10.48539/HBM299.VVXH.634](https://doi.org/10.48539/HBM299.VVXH.634). Accessed on May 6, 2022. |
-| **How to Cite 3D Data Overall:** | Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2022. [*HuBMAP CCF 3D Reference Object Library*.](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) Accessed on May 6, 2022. |
+| **How to Cite 3D Data Overall:** | Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2022. [*HuBMAP CCF 3D Reference Object Library*.](https://humanatlas.io/3d-reference-library) Accessed on May 6, 2022. |

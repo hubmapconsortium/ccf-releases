@@ -24,4 +24,4 @@ This functional tissue unit (FTU) illustration was created from anatomical struc
 | **2D Data:** | [Thymus, 2D Thymus Lobule FTU v.1.0](https://hubmapconsortium.github.io/ccf-releases/v1.2/2d-ftu/thymus_lobule_thymus.svg) |
 | **DOI:** | [https://doi.org/10.48539/HBM794.PKVD.274](https://doi.org/10.48539/HBM794.PKVD.274) |
 | **How to Cite This 2D Data:** | Rachel Bajema 2022. *2D Thymus Lobule Functional Tissue Unit (FTU) for Thymus, v1.0.* [https://doi.org/10.48539/HBM794.PKVD.274](https://doi.org/10.48539/HBM794.PKVD.274). Accessed on May 6, 2022. |
-| **How to Cite 2D Data Overall:** | Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy Börner. 2022. [*HuBMAP CCF 2D Reference Object Library*]( https://hubmapconsortium.github.io/ccf/pages/ccf-2d-reference-library.html). Accessed on May 6, 2022. |
+| **How to Cite 2D Data Overall:** | Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy Börner. 2022. [*HuBMAP CCF 2D Reference Object Library*]( https://humanatlas.io/2d-ftu-illustrations). Accessed on May 6, 2022. |

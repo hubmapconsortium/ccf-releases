@@ -1,7 +1,7 @@
 # Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Bone Marrow/Pelvis v1.2
 
 ### Description
-[Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html) aim to capture the nested *part_of* structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts.
+[Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://humanatlas.io/asctb-tables) aim to capture the nested *part_of* structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts.
 
 | Label | Value |
 | :------------- |:-------------|
@@ -20,4 +20,4 @@
 | **Data Table:** | [Bone marrow/Pelvis v1.2](https://hubmapconsortium.github.io/ccf-releases/v1.2/asct-b/ASCT-B_VH_BoneMarrow_Pelvis.csv) |
 | **DOI:** | [https://doi.org/10.48539/HBM449.NWVK.668](https://doi.org/10.48539/HBM449.NWVK.668) |
 | **How to Cite This Data Table:** | Muzlifah A. Haniffa; Laura Jardine; Sarah A. Teichmann. HuBMAP ASCT+B Tables. Bone marrow/Pelvis v1.2 [https://doi.org/10.48539/HBM449.NWVK.668](https://doi.org/10.48539/HBM449.NWVK.668) |
-| **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen M., Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2022. [*HuBMAP ASCT+B Tables*](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html). Accessed on May 6, 2022. |
+| **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen M., Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2022. [*HuBMAP ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on May 6, 2022. |

@@ -1,7 +1,7 @@
 # ASCT-B 3D Models Mapping
 
 ### Description
-This lookup table maps [Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Table](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html) terms to anatomical structure terms used in the [3D Reference Object Library](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html).
+This lookup table maps [Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Table](https://humanatlas.io/asctb-tables) terms to anatomical structure terms used in the [3D Reference Object Library](https://humanatlas.io/3d-reference-library).
 
 | Label | Value |
 | :------------- |:-------------|
@@ -18,4 +18,4 @@ This lookup table maps [Anatomical Structures, Cell Types and Biomarkers (ASCT+B
 | **Data Table:** | [Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 3D Reference Object Library Mapping v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.0/models/ASCT-B_3D_Models_Mapping.csv) |
 | **DOI:** | [https://doi.org/10.48539/hbm527.rcxm.366](https://doi.org/10.48539/hbm527.rcxm.366) |
 | **How to Cite This Data Table:** | Ellen M. Quardokus; Kristen Browne; Andreas Bueckle; Bruce W. Herr II; Katy Börner. (2021). [Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 3D Reference Object Library Mapping v1.0](https://doi.org/10.48539/hbm527.rcxm.366).  Accessed on July 28, 2021. |
-| **How to Cite 3D Data Overall:** | Kristen Browne; Leonard E. Cross; Bruce W. Herr II; Lisel Record; Ellen M. Quardokus; Andreas Bueckle; Katy B&ouml;rner. 2021. HuBMAP CCF 3D Reference Object Library. https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html. Accessed on July 28, 2021. |
+| **How to Cite 3D Data Overall:** | Kristen Browne; Leonard E. Cross; Bruce W. Herr II; Lisel Record; Ellen M. Quardokus; Andreas Bueckle; Katy B&ouml;rner. 2021. HuBMAP CCF 3D Reference Object Library. https://humanatlas.io/3d-reference-library. Accessed on July 28, 2021. |

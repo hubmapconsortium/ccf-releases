@@ -1,7 +1,7 @@
 # 3D Reference Organ Set for United, Female v1.3
 
 ### Description
-[This reference organ set](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created using data from the Visible Human Female, provided by the National Library of Medicine.
+[This reference organ set](https://humanatlas.io/3d-reference-library) was created using data from the Visible Human Female, provided by the National Library of Medicine.
 
 | Label | Value |
 | :------------- |:-------------|
@@ -20,4 +20,4 @@
 | **3D Data:** | [United, Female v1.3](https://hubmapconsortium.github.io/ccf-releases/v1.3/models/3d-vh-f-united.glb.zip) |
 | **DOI:** | [https://doi.org/10.48539/HBM245.CNSG.248](https://doi.org/10.48539/HBM245.CNSG.248) |
 | **How to Cite This 3D Data:** |Kristen Browne; Heidi Schlehlein. 2022. *3D Reference Organ Set for Female, v1.3.*, https://doi.org/10.48539/HBM245.CNSG.248. Accessed on December 15 2022. |
-| **How to Cite 3D Data Overall:** | Kristen Browne, Heidi Schlehlein , Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2022. [*HuBMAP CCF 3D Reference Object Library*.](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) Accessed on December 15 2022. |
+| **How to Cite 3D Data Overall:** | Kristen Browne, Heidi Schlehlein , Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2022. [*HuBMAP CCF 3D Reference Object Library*.](https://humanatlas.io/3d-reference-library) Accessed on December 15 2022. |
