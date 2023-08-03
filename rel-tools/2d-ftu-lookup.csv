@@ -1,0 +1,26 @@
+id,representation_of,label,old_id
+kidney-ascending-thin-loop-of-henle,UBERON:,,#FTUAscendingThinLimb
+kidney-cortical-collecting-duct,UBERON:0004203,Cortical Collecting Duct,#FTUCorticalCollectingDuct
+kidney-descending-thin-loop-of-henle,UBERON:,,#FTUDescendingThinLimb
+kidney-inner-medullary-collecting-duct,UBERON:,,#FTUInnerMedullaryCollectingDuct
+kidney-nephron,UBERON:,,#FTUNephron
+kidney-outer-medullary-collecting-duct,UBERON:,,#FTUOuterMedullaryCollectingDuct
+kidney-renal-corpuscle,UBERON:,,#FTURenalCorpuscle
+kidney-thick-ascending-loop-of-henle,UBERON:,,#FTUThickAscendingLimb
+large-intestine-crypt-lieberkuhn,UBERON:,,#FTUCryptOfLieberkuhn
+liver-liver-lobule,UBERON:,,#FTULiverLobule_inset1
+liver-liver-lobule,UBERON:,,#FTULiverLobule_inset2
+lung-bronchial-submucosal-gland,UBERON:,,#FTUBronchialSubmucosalGland
+lung-pulmonary-alveolus,UBERON:,,#FTUAlveoli
+pancreas-intercalated-duct,UBERON:,,#FTUIntercalatedDuct
+pancreas-islets-langerhans,UBERON:,,#FTUIsletOfLangerhans
+pancreas-pancreatic-acinus,UBERON:,,#FTUAcinus
+prostate-prostate-glandular-acinus,UBERON:,,#FTUProstateGlandularAcinus
+skin-dermal-papilla,UBERON:,,#FTUDermalPapilla
+skin-epidermal-ridge,UBERON:,,#FTUEpidermalRidge
+spleen-red-pulp,UBERON:,,#FTURedPulp_Inset1
+spleen-red-pulp,UBERON:,,#FTURedPulp_Inset2
+spleen-white-pulp,UBERON:,,#FTUWhitePulp_Inset1
+spleen-white-pulp,UBERON:,,#FTUWhitePulp_Inset2
+thymus-thymus-lobule,UBERON:,,#FTUThymusLobule_Inset1
+thymus-thymus-lobule,UBERON:,,#FTUThymusLobule_Inset2

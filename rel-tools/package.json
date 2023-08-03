@@ -12,6 +12,7 @@
     "html-escaper": "^3.0.3",
     "js-yaml": "^4.1.0",
     "nunjucks": "^3.2.3",
+    "papaparse": "^5.4.1",
     "shelljs": "^0.8.5"
   }
 }
