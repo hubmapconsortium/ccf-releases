@@ -66,7 +66,7 @@ for (const row of mappingRows) {
   mapping.push({
     '@id': `${iri}#${row.node_name}`,
     '@type': 'FtuIllustrationNode',
-    svgId: row.node_name,
+    svg_id: row.node_name,
     label: row.label,
     representation_of: row.representation_of,
   });
@@ -74,8 +74,27 @@ for (const row of mappingRows) {
 
 const results = Object.values(refIllustrations);
 const jsonld = {
-  '@context':
+  '@context': [
     'https://hubmapconsortium.github.io/ccf-ontology/ccf-context.jsonld',
+    {
+      "UBERON": {
+        "@id": "http://purl.obolibrary.org/obo/UBERON_",
+        "@prefix": true
+      },
+      illustration_files: {
+        '@id': 'ccf:has_illustration_file',
+        '@type': '@id'
+      },
+      mapping: {
+        '@id': 'ccf:has_illustration_node',
+        '@type': '@id'
+      },
+      organ_id: {
+        '@id': 'ccf:organ_id',
+        '@type': '@id'
+      }
+    }
+  ],
   '@graph': results,
 };
 
