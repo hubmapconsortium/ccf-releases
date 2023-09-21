@@ -67,6 +67,7 @@ for (const row of mappingRows) {
     '@id': `${iri}#${row.node_name}`,
     '@type': 'FtuIllustrationNode',
     svg_id: row.node_name,
+    svg_group_id: row.node_group,
     label: row.label,
     representation_of: row.representation_of,
   });
