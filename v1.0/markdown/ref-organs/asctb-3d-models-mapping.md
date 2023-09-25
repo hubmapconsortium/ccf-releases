@@ -1,4 +1,4 @@
-# ASCT-B 3D Models Mapping
+# ASCT-B 3D Models Mapping, v1.0
 
 ### Description
 This lookup table maps [Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Table](https://humanatlas.io/asctb-tables) terms to anatomical structure terms used in the [3D Reference Object Library](https://humanatlas.io/3d-reference-library).
