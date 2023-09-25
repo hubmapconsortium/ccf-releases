@@ -18,9 +18,9 @@ const NAME_REMAPPING = {
   'female-intestine-large': 'female-large-intestine',
   'male-vasculature': 'male-blood-vasculature',
   'female-vasculature': 'female-blood-vasculature',
-  'vasculature': 'blood-vasculature',
-  'brain': 'allen-brain',
-  'bone-marrow-and-blood': 'bonemarrow-pelvis'
+  vasculature: 'blood-vasculature',
+  brain: 'allen-brain',
+  'bone-marrow-and-blood': 'bonemarrow-pelvis',
 };
 
 class HraMarkdownParser {
@@ -98,11 +98,15 @@ class HraMarkdownParser {
       sex = 'male';
     }
     if (sex) {
-      name = name
-        .split('-')
-        .filter((s) => s !== sex)
-        .join('-');
-      name = `${sex}-${name}`;
+      const hasLaterality = name.endsWith('-left') || name.endsWith('-right');
+      const elts = name.split('-').filter((s) => s !== sex);
+
+      // Format for reference organs = ${organ}-${sex}-${laterality "optional"}
+      if (hasLaterality) {
+        name = `${elts.slice(0, -1).join('-')}-${sex}-${elts.slice(-1).join('-')}`;
+      } else {
+        name = `${elts.join('-')}-${sex}`;
+      }
     }
 
     name = NAME_REMAPPING[name] || name;
