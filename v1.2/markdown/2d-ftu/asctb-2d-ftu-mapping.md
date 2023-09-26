@@ -1,4 +1,4 @@
-# ASCT+B 2D FTU Mapping
+# ASCT+B 2D FTU Mapping, v1.0
 
 ### Description
 This lookup table maps [Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Table](https://humanatlas.io/asctb-tables) terms to anatomical structure and cell type terms used in the [CCF-2D-reference-object-library](https://github.com/hubmapconsortium/ccf-2d-reference-object-library).

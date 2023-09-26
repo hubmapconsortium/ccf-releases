@@ -8,7 +8,7 @@ These markers may not cover early term placentas or placentas from more complica
 | Label | Value |
 | :------------- |:-------------|
 | **Creator(s):** | Louise Laurent; Mana Parast; Kathleen Fisch|
-| **Creator ORCID(s):** | [0000-0002-2095-7534](https://orcid.org/0000-0002-2095-7534); [000-0001-5963-2246](https://orcid.org/000-0001-5963-2246); [0000-0002-0117-7444](https://orcid.org/0000-0002-0117-7444)|
+| **Creator ORCID(s):** | [0000-0002-2095-7534](https://orcid.org/0000-0002-2095-7534); [0000-0001-5963-2246](https://orcid.org/000-0001-5963-2246); [0000-0002-0117-7444](https://orcid.org/0000-0002-0117-7444)|
 | **Project Lead:** | Katy B&ouml;rner |
 | **Project Lead ORCID:** | [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137) |
 | **Reviewer(s):** | Drucilla Roberts |
