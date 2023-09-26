@@ -39,7 +39,7 @@ function writeDigitalObject(md) {
 }
 
 const OUT = '../scratch/digital-objects';
-sh.rm('-r', OUT);
+// sh.rm('-r', OUT);
 sh.mkdir('-p', OUT);
 
 const allMd = sh

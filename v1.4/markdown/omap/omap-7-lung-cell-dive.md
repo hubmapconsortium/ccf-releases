@@ -12,7 +12,7 @@ OMAP-7 was designed for Cell DIVE imaging of Formalin-Fixed Paraffin-Embedded (F
 | **Project Lead:** | Andrea J. Radtke; Katy B&ouml;rner; Neil Kelleher; Ronald N. Germain |
 | **Project Lead ORCID:** | [0000-0003-4379-8967](https://orcid.org/0000-0003-4379-8967); [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137); [0000-0002-8815-3372](https://orcid.org/0000-0002-8815-3372); [0000-0003-1495-9143](https://orcid.org/0000-0003-1495-9143) |
 | **Reviewer(s):** |James Hagood, Christopher Werlein, Andrea J. Radtke, Ellen M. Quardokus; Diane C. Saunders; Anna Martinez Casals; Presha Rajbhandari|
-| **Reviewer ORCID(s):** |[0000-0003-3938-0330](https://orcid.org/0000-0003-3938-0330); [0000-0002-7694-4257](https://orcid.org/0000-0002-7694-4257); [0000-0003-4379-896](https://orcid.org/0000-0003-4379-896); [0000-0001-7655-4833](https://orcid.org/0000-0001-7655-4833); [0000-0002-8849-6746](https://orcid.org/0000-0002-8849-6746); [0000-0003-2722-1965](https://orcid.org/0000-0003-2722-1965); [0000-0003-2184-7238](https://orcid.org/0000-0003-2184-7238)  
+| **Reviewer ORCID(s):** |[0000-0003-3938-0330](https://orcid.org/0000-0003-3938-0330); [0000-0002-7694-4257](https://orcid.org/0000-0002-7694-4257); [0000-0003-4379-8967](https://orcid.org/0000-0003-4379-8967); [0000-0001-7655-4833](https://orcid.org/0000-0001-7655-4833); [0000-0002-8849-6746](https://orcid.org/0000-0002-8849-6746); [0000-0003-2722-1965](https://orcid.org/0000-0003-2722-1965); [0000-0003-2184-7238](https://orcid.org/0000-0003-2184-7238)  
 | **Creation Date:** | 2023-06-15|
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |

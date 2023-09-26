@@ -11,7 +11,7 @@ OMAP-11 was designed for IBEX imaging of fixed frozen human spleen samples (http
 | **Project Lead:** | Andrea J. Radtke; Katy B&ouml;rner; Neil Kelleher; Ronald N. Germain |
 | **Project Lead ORCID:** | [0000-0003-4379-8967](https://orcid.org/0000-0003-4379-8967); [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137); [0000-0002-8815-3372](https://orcid.org/0000-0002-8815-3372); [0000-0003-1495-9143](https://orcid.org/0000-0003-1495-9143) |
 | **Reviewer(s):** |Danny Jonigk; Ronald N. Germain; Ellen Quardokus; Diane Saunders |
-| **Reviewer ORCID(s):** |[0000-0002-5251-2281](https://orcid.org/0000-0002-5251-2281); [0000-0003-1495-9143;](https://orcid.org/0000-0003-1495-9143;); [0000-0001-7655-4833](https://orcid.org/0000-0001-7655-4833); [0000-0002-8849-6746](https://orcid.org/0000-0002-8849-6746) |  
+| **Reviewer ORCID(s):** |[0000-0002-5251-2281](https://orcid.org/0000-0002-5251-2281); [0000-0003-1495-9143](https://orcid.org/0000-0003-1495-9143); [0000-0001-7655-4833](https://orcid.org/0000-0001-7655-4833); [0000-0002-8849-6746](https://orcid.org/0000-0002-8849-6746) |  
 | **Creation Date:** | 2023-06-15|
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
