@@ -8,7 +8,7 @@ This functional tissue unit (FTU) illustration was created from anatomical struc
 | Label | Value |
 | :------------- |:-------------|
 | **Creator(s):** | Rachel Bajema |
-| **Creator ORCID(s):** |0000-0002-3775-8574|
+| **Creator ORCID(s):** | [0000-0002-3775-8574](https://orcid.org/0000-0002-3775-8574) |
 | **Project Lead:** | Katy B&ouml;rner |
 | **Project Lead ORCID:** | [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137) |
 | **Reviewer(s):** | Sanjay Jain; M. Todd Valerius |
