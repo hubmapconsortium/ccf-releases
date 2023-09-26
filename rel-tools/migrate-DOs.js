@@ -25,10 +25,26 @@ function writeDigitalObject(md) {
   });
 
   for (const inputSrcPath of dataPaths) {
-    const srcName = inputSrcPath.split('/').slice(-1)[0];
+    let srcName = inputSrcPath.split('/').slice(-1)[0];
     const srcPath = path.resolve('..', inputSrcPath);
-    const destPath = path.resolve(yamlDir, srcName);
+    let destPath = path.resolve(yamlDir, srcName);
+    
     sh.cp(srcPath, destPath);
+
+    if (srcPath.endsWith('.zip')) {
+      srcName = srcName.replace('.zip', '');
+      destPath = destPath.replace('.zip', '');
+      sh.exec(`unzip -o ${srcPath} -d ${yamlDir} ${srcName}`);
+    } else if (srcPath.endsWith('.bz2')) {
+      srcName = srcName.replace('.bz2', '');
+      destPath = destPath.replace('.bz2', '');
+      sh.exec(`bunzip2 -c ${srcPath} > ${destPath}`);
+    } if (srcPath.endsWith('.7z')) {
+      srcName = srcName.replace('.7z', '');
+      destPath = destPath.replace('.7z', '');
+      sh.exec(`7z e -aoa ${srcPath} -o${yamlDir} ${srcName}`);
+    }
+
     data.datatable.push(srcName);
     if (!fs.existsSync(srcPath) || !fs.existsSync(destPath)) {
       console.log(md.inputFile, md.getDoType(), srcPath, destPath);
