@@ -39,7 +39,7 @@ const crosswalkRows = Papa.parse(crosswalkText, { header: true }).data.filter((r
 
 // Filter the full crosswalk to just the info we need for this reference organ
 const refOrganCrosswalk = crosswalkRows.filter((row) => {
-  let id = row['anatomical_structure_of'];
+  const id = row['anatomical_structure_of'];
 
   return (
     id.startsWith(refOrgan) ||

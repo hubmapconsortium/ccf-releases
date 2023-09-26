@@ -64,10 +64,16 @@ for (const [version, digitalObjects] of Object.entries(collections)) {
 
   sh.cp('hra-metadata.yaml', yamlDir + '/metadata.yaml');
 
-  const crosswalk = digitalObjects.find(str => str.startsWith('ref-organ/') && str.includes('crosswalk'));
+  const crosswalk = digitalObjects.find(str => str.startsWith('2d-ftu/') && str.includes('crosswalk'));
+  const ftuIllustrations = digitalObjects.filter(str => str.startsWith('2d-ftu/') && !str.includes('crosswalk'));
+  for (const doString of ftuIllustrations) {
+    sh.exec(`node ./split-2d-ftu-crosswalk.js ${crosswalk} ${doString}`);
+  }
+
+  const refOrganCrosswalk = digitalObjects.find(str => str.startsWith('ref-organ/') && str.includes('crosswalk'));
   const refOrgans = digitalObjects.filter(str => str.startsWith('ref-organ/') && !str.includes('crosswalk'));
   for (const doString of refOrgans) {
-    sh.exec(`node ./split-ref-organ-crosswalk.js ${crosswalk} ${doString}`);
+    sh.exec(`node ./split-ref-organ-crosswalk.js ${refOrganCrosswalk} ${doString}`);
   }
 }
 
