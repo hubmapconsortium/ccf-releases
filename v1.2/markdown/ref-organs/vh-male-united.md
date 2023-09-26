@@ -18,6 +18,6 @@
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM527.VTCC.559 |
 | **3D Data:** | [United, Male v1.2](https://hubmapconsortium.github.io/ccf-releases/v1.2/models/VH_M_United.glb.zip) |
-| **DOI:** | [https://doi.org/10.48539/HBM527.VTCC.559 ](https://doi.org/10.48539/HBM527.VTCC.559 ) |
+| **DOI:** | [https://doi.org/10.48539/HBM527.VTCC.559](https://doi.org/10.48539/HBM527.VTCC.559) |
 | **How to Cite This 3D Data:** |Kristen Browne; Heidi Schlehlein. 2022. *3D Reference Organ Set for Male, v1.2.* [https://doi.org/10.48539/HBM527.VTCC.559 ](https://doi.org/10.48539/HBM527.VTCC.559 ). Accessed on May 6, 2022. |
 | **How to Cite 3D Data Overall:** | Kristen Browne, Heidi Schlehlein , Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2022. [*HuBMAP CCF 3D Reference Object Library*.](https://humanatlas.io/3d-reference-library) Accessed on May 6, 2022. |
