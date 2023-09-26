@@ -63,6 +63,12 @@ for (const [version, digitalObjects] of Object.entries(collections)) {
   fs.writeFileSync(yamlDir + '/digital-objects.yaml', yaml.dump({ 'digital-objects': digitalObjects }));
 
   sh.cp('hra-metadata.yaml', yamlDir + '/metadata.yaml');
+
+  const crosswalk = digitalObjects.find(str => str.startsWith('ref-organ/') && str.includes('crosswalk'));
+  const refOrgans = digitalObjects.filter(str => str.startsWith('ref-organ/') && !str.includes('crosswalk'));
+  for (const doString of refOrgans) {
+    sh.exec(`node ./split-ref-organ-crosswalk.js ${crosswalk} ${doString}`);
+  }
 }
 
 fs.writeFileSync('../scratch/collections.json', JSON.stringify(collections, null, 2));
