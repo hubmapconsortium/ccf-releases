@@ -38,19 +38,26 @@ const crosswalkText = crosswalkLines.slice(headerRow).join('\n');
 const crosswalkRows = Papa.parse(crosswalkText, { header: true }).data.filter((row) => row['OntologyID'] !== '-');
 
 // Filter the full crosswalk to just the info we need for this reference organ
-const refOrganCrosswalk = crosswalkRows.filter((row) => {
-  const id = row['anatomical_structure_of'];
+const refOrganCrosswalk = crosswalkRows
+  .filter((row) => {
+    const id = row['anatomical_structure_of'];
 
-  return (
-    id.startsWith(refOrgan) ||
-    // united uses all nodes as crosswalk
-    refOrganDo.startsWith('ref-organ/united-') ||
-    // Some exceptions as IDs have changed over the years
-    (id === '#VHFColon' && refOrgan === '#VHFLargeIntestine') ||
-    (id === '#VHFLymphNode' && glbFile === 'NIH_F_Lymph_Node') ||
-    (id === '#VHMLymphNode' && glbFile === 'NIH_M_Lymph_Node')
-  );
-});
+    return (
+      id.startsWith(refOrgan) ||
+      // united uses all nodes as crosswalk
+      refOrganDo.startsWith('ref-organ/united-') ||
+      // Some exceptions as IDs have changed over the years
+      (id === '#VHFColon' && refOrgan === '#VHFLargeIntestine') ||
+      (id === '#VHFLymphNode' && glbFile === 'NIH_F_Lymph_Node') ||
+      (id === '#VHMLymphNode' && glbFile === 'NIH_M_Lymph_Node')
+    );
+  })
+  .map((row) => ({
+    ...row,
+    // Special case for a malformed CURIE
+    OntologyID: row.OntologyID?.toLowerCase() === 'ma:fma46564' ? 'FMA:46564' : row.OntologyID,
+  }));
+
 const refOrganCrosswalkFile = path.resolve('../scratch/digital-objects', refOrganDo, 'raw/crosswalk.csv');
 fs.writeFileSync(
   refOrganCrosswalkFile,
