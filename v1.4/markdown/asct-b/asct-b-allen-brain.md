@@ -45,7 +45,7 @@ c.	We performed NS-Forest at the supercluster level using the sampled_WHB datase
 | Label | Value |
 | :------------- |:-------------|
 | **Creator(s):** | Jeremy A. Miller; Kimberly Siletti; Richard H. Scheuermann |
-| **Creator ORCID(s):** | [0000-0003-4549-588X](https://orcid.org/0000-0003-4549-588X); [0000-0001-7620-8973](https://orcid.org/0000-0001-7620-8973); [0000-0003-1355-892X ](https://orcid.org/0000-0003-1355-892X)|
+| **Creator ORCID(s):** | [0000-0003-4549-588X](https://orcid.org/0000-0003-4549-588X); [0000-0001-7620-8973](https://orcid.org/0000-0001-7620-8973); [0000-0003-1355-892X](https://orcid.org/0000-0003-1355-892X)|
 | **Project Lead:** | Katy B&ouml;rner |
 | **Project Lead ORCID:** | [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137) |
 | **Reviewer(s):** | Ed Lein; David Osumi-Sutherland; Ellen M. Quardokus 

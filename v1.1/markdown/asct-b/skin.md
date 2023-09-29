@@ -6,7 +6,7 @@
 | Label | Value |
 | :------------- |:-------------|
 | **Creator(s):** | Fiona Ginty; Jonhan Ho; Joel Sunshine |
-| **Creator ORCID(s):** | [0000-0001-6638-683X](https://orcid.org/0000-0001-6638-683X); [0000-0002-1134-8585](https://orcid.org/0000-0002-1134-8585); [0000-0001-9987-6712](https://orcid.org/0000-0001-9987-6712   ) |
+| **Creator ORCID(s):** | [0000-0001-6638-683X](https://orcid.org/0000-0001-6638-683X); [0000-0002-1134-8585](https://orcid.org/0000-0002-1134-8585); [0000-0001-9987-6712](https://orcid.org/0000-0001-9987-6712) |
 | **Project Lead:** | Katy B&ouml;rner |
 | **Project Lead ORCID:** | [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137) |
 | **Reviewer(s):** | Lou Falo; Muzlifah A. Haniffa; Hemali Phatnani; David M. Owens; Ellen M. Quardokus   |

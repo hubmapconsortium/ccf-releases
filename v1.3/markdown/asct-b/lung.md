@@ -25,7 +25,7 @@ Standardization of lung cell type nomenclature, ontology expansion, gene and pro
 | **Project Lead:** | Katy B&ouml;rner |
 | **Project Lead ORCID:** | [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137) |
 | **Reviewer(s):** | Bruce Aronow; Joshua Fortriede|
-| **Reviewer ORCID(s):** |[0000-0001-5109-6514 ](https://orcid.org/0000-0001-5109-6514); [0000-0002-3293-5463](https://orcid.org/0000-0002-3293-5463)|
+| **Reviewer ORCID(s):** |[0000-0001-5109-6514](https://orcid.org/0000-0001-5109-6514); [0000-0002-3293-5463](https://orcid.org/0000-0002-3293-5463)|
 | **Creation Date:** | 2021-05-06 |
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
