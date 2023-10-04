@@ -10,14 +10,14 @@
 | **Project Lead:** | Katy B&ouml;rner |
 | **Project Lead ORCID:** | [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137) |
 | **Reviewer(s):**| Jeffrey Spraggins; David Anderson; Ellen M. Quardokus|
-| **Reviewer ORCID(s):**|[000-0001-9198-5498](https://orcid.org/0000-0001-9198-5498); [0000-0002-3866-0923](https://orcid.org/0000-0002-3866-0923); [0000-0001-7655-4833](https://orcid.org/0000-0001-7655-4833)|
+| **Reviewer ORCID(s):**|[0000-0001-9198-5498](https://orcid.org/0000-0001-9198-5498); [0000-0002-3866-0923](https://orcid.org/0000-0002-3866-0923); [0000-0001-7655-4833](https://orcid.org/0000-0001-7655-4833)|
 | **Creation Date:** | 2022-05-06 |
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM494.KLQK.628|
-| **Data Table:** |[Eye v1.1](https://hubmapconsortium.github.io/ccf-releases/v1.2/asct-b/ASCT-B_VH_Eye.csv) |
+| **Data Table:** |[Eye v1.1](https://cdn.humanatlas.io/hra-releases/v1.2/asct-b/ASCT-B_VH_Eye.csv) |
 | **DOI:** |[https://doi.org/10.48539/HBM494.KLQK.628](https://doi.org/10.48539/HBM494.KLQK.628) |
 | **How to Cite This Data Table:** |  Angela Kruse; Kevin Schey; Christine Curcio, HuBMAP ASCT+B Tables. Eye v1.1 [https://doi.org/10.48539/HBM494.KLQK.628](https://doi.org/10.48539/HBM494.KLQK.628) |
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2022. [*HuBMAP ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on May 6, 2022. |

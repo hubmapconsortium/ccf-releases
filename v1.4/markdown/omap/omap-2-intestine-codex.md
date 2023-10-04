@@ -18,7 +18,7 @@ OMAP-2 was designed for CODEX (CO Detection by IndEXing) imaging of fresh frozen
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** |HBM783.TQTD.539 |
-| **Data Table:** | OMAP-2 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Intestine with CODEX v1.2 [CSV](https://hubmapconsortium.github.io/ccf-releases/v1.4/omap/omap-2-intestine-codex.csv) [Excel](https://hubmapconsortium.github.io/ccf-releases/v1.4/omap/omap-2-intestine-codex.xlsx) |
+| **Data Table:** | OMAP-2 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Intestine with CODEX v1.2 [CSV](https://cdn.humanatlas.io/hra-releases/v1.4/omap/omap-2-intestine-codex.csv) [Excel](https://cdn.humanatlas.io/hra-releases/v1.4/omap/omap-2-intestine-codex.xlsx) |
 | **DOI:** | [https://doi.org/10.48539/HBM783.TQTD.539](https://doi.org/10.48539/HBM783.TQTD.539) |
 | **How to Cite This Data Table:** |John Hickey. OMAP-2 Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Intestine with CODEX v1.2. https://doi.org/10.48539/HBM783.TQTD.539. Accessed June 15,2023.|
 | **How to Cite OMAP Tables Overall:** | Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo, Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021. “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for Multiplexed Antibody-Based Imaging.” *Nature Methods*, November. https://doi.org/10.1038/s41592-021-01316-y. |

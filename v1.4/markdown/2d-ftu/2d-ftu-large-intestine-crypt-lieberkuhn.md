@@ -25,7 +25,7 @@ Machine learning and AI are employed in segmenting these FTUs from data which wi
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM344.NWFX.797 |
-| **2D Data:** | Large Intestine, 2D Crypt of Lieberkuhn FTU v1.1 [SVG](https://hubmapconsortium.github.io/ccf-releases/v1.3/2d-ftu/2d-ftu-large-intestine-crypt-lieberkuhn.svg) [AI](https://hubmapconsortium.github.io/ccf-releases/v1.3/2d-ftu/2d-ftu-large-intestine-crypt-lieberkuhn.ai) |
+| **2D Data:** | Large Intestine, 2D Crypt of Lieberkuhn FTU v1.1 [SVG](https://cdn.humanatlas.io/hra-releases/v1.3/2d-ftu/2d-ftu-large-intestine-crypt-lieberkuhn.svg) [AI](https://cdn.humanatlas.io/hra-releases/v1.3/2d-ftu/2d-ftu-large-intestine-crypt-lieberkuhn.ai) |
 | **DOI:** | [https://doi.org/10.48539/HBM344.NWFX.797](https://doi.org/10.48539/HBM344.NWFX.797) |
 | **How to Cite This 2D Data:** | Rachel Bajema 2022. *2D Crypt of Lieberkuhn FTU for Large Intestine, v1.1* https://doi.org/10.48539/HBM344.NWFX.797. Accessed on December 15, 2022. |
 | **How to Cite 2D Data Overall:** | Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy Börner. 2022. [*HuBMAP CCF 2D Reference Object Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on December 15, 2022. |

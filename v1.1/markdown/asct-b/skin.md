@@ -6,7 +6,7 @@
 | Label | Value |
 | :------------- |:-------------|
 | **Creator(s):** | Fiona Ginty; Jonhan Ho; Joel Sunshine |
-| **Creator ORCID(s):** | [0000-0001-6638-683X](https://orcid.org/0000-0001-6638-683X); [0000-0002-1134-8585](https://orcid.org/0000-0002-1134-8585); [0000-0001-9987-6712](https://orcid.org/0000-0001-9987-6712   ) |
+| **Creator ORCID(s):** | [0000-0001-6638-683X](https://orcid.org/0000-0001-6638-683X); [0000-0002-1134-8585](https://orcid.org/0000-0002-1134-8585); [0000-0001-9987-6712](https://orcid.org/0000-0001-9987-6712) |
 | **Project Lead:** | Katy B&ouml;rner |
 | **Project Lead ORCID:** | [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137) |
 | **Reviewer(s):** | Lou Falo; Muzlifah A. Haniffa; Hemali Phatnani; David M. Owens; Ellen M. Quardokus   |
@@ -17,7 +17,7 @@
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM423.RTRR.746 |
-| **Data Table:** | [Skin v1.1](https://hubmapconsortium.github.io/ccf-releases/v1.1/asct-b/ASCT-B_VH_Skin.csv)  |
+| **Data Table:** | [Skin v1.1](https://cdn.humanatlas.io/hra-releases/v1.1/asct-b/ASCT-B_VH_Skin.csv)  |
 | **DOI:** | [https://doi.org/10.48539/HBM423.RTRR.746](https://doi.org/10.48539/HBM423.RTRR.746) |
 | **How to Cite This Data Table:** | Fiona Ginty; Jonhan Ho; Joel Sunshine, HuBMAP ASCT+B Tables. Skin v1.1 [https://doi.org/10.48539/HBM423.RTRR.746](https://doi.org/10.48539/HBM423.RTRR.746) |
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2021. *HuBMAP ASCT+B Tables*. https://humanatlas.io/asctb-tables. Accessed on Dec 1, 2021. |

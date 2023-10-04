@@ -17,7 +17,7 @@
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM825.SJZF.445 |
-| **Data Table:** |  [Ovary v1.1](https://hubmapconsortium.github.io/ccf-releases/v1.2/asct-b/ASCT-B_VH_Ovary.csv)  |
+| **Data Table:** |  [Ovary v1.1](https://cdn.humanatlas.io/hra-releases/v1.2/asct-b/ASCT-B_VH_Ovary.csv)  |
 | **DOI:** |[https://doi.org/10.48539/HBM825.SJZF.445](https://doi.org/10.48539/HBM825.SJZF.445) |
 | **How to Cite This Data Table:** | Kathleen O'Neill; Elizabeth Tsui; Monica M. Laronda, HuBMAP ASCT+B Tables. Ovary v1.1 [https://doi.org/10.48539/HBM825.SJZF.445](https://doi.org/10.48539/HBM825.SJZF.445) |
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2021. [*HuBMAP ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on May 06, 2022. |

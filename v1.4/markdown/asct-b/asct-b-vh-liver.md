@@ -17,7 +17,7 @@
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM456.SLDZ.399 |
-| **Data Table:** | [Liver v1.1](https://hubmapconsortium.github.io/ccf-releases/v1.2/asct-b/ASCT-B_VH_Liver.csv)  |
+| **Data Table:** | [Liver v1.1](https://cdn.humanatlas.io/hra-releases/v1.2/asct-b/ASCT-B_VH_Liver.csv)  |
 | **DOI:** | [https://doi.org/10.48539/HBM456.SLDZ.399](https://doi.org/10.48539/HBM456.SLDZ.399) |
 | **How to Cite This Data Table:** | Anna Maria Masci; Tim Kendall; Ayako Suzuki, HuBMAP ASCT+B Tables. Liver v1.1 [https://doi.org/10.48539/HBM456.SLDZ.399](https://doi.org/10.48539/HBM456.SLDZ.399) |
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2022. [*HuBMAP ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on May 6, 2022. |

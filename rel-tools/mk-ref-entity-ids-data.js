@@ -2,7 +2,7 @@ const fs = require('fs');
 
 const HRA_VERSION='v1.3'
 const BASE_ENTITY_URL='https://entity.api.hubmapconsortium.org/redirect';
-const BASE_RELEASE_URL=`https://hubmapconsortium.github.io/ccf-releases/${HRA_VERSION}/docs`;
+const BASE_RELEASE_URL=`https://cdn.humanatlas.io/hra-releases/${HRA_VERSION}/docs`;
 const BASE_DOI_URL=`https://doi.org/10.48539`;
 
 function getBase(s) {

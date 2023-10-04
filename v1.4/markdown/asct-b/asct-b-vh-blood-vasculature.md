@@ -17,7 +17,7 @@
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM279.CXVW.525 |
-| **Data Table:** | [Blood Vasculature v1.4](https://hubmapconsortium.github.io/ccf-releases/v1.4/asct-b/asct-b-vh-blood-vasculature.csv) |
+| **Data Table:** | [Blood Vasculature v1.4](https://cdn.humanatlas.io/hra-releases/v1.4/asct-b/asct-b-vh-blood-vasculature.csv) |
 | **DOI:** | [https://doi.org/10.48539/HBM279.CXVW.525](https://doi.org/10.48539/HBM279.CXVW.525) |
 | **How to Cite This Data Table:** |  Griffin Weber; Sujin Lee; Rajeev Malhotra. HuBMAP ASCT+B Tables. Blood Vasculature v1.4 https://doi.org/10.48539/HBM279.CXVW.525, Accessed on June 15, 2023. |
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2023. [*HuBMAP ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15, 2023. |

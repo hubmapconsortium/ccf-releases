@@ -26,8 +26,8 @@ complexity of finding suitable and stable antibodies.  A representative dataset 
 | **Funder:** | National Institutes of Health (NIH), National Institute of Allergy and Infectious Disease and National Cancer Institute, European Union (EU) Expression and Spatial analysis Pancreas Atlas Consortium Europe (ESPACE)|
 | **Award Number:** | OT2OD026671, UH3 CA246635|
 | **HuBMAP ID:** | HBM948.XLMZ.833 |
-| **Data Table:** | OMAP-6 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX, v1.2 [CSV](https://hubmapconsortium.github.io/ccf-releases/v1.4/omap/omap-6-pancreas-codex.csv) [Excel](https://hubmapconsortium.github.io/ccf-releases/v1.4/omap/omap-6-pancreas-codex.xlsx) |
-| **DOI:** | [https://doi.org/10.48539/HBM948.XLMZ.833 ](https://doi.org/10.48539/HBM948.XLMZ.833 )|
+| **Data Table:** | OMAP-6 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX, v1.2 [CSV](https://cdn.humanatlas.io/hra-releases/v1.4/omap/omap-6-pancreas-codex.csv) [Excel](https://cdn.humanatlas.io/hra-releases/v1.4/omap/omap-6-pancreas-codex.xlsx) |
+| **DOI:** | [https://doi.org/10.48539/HBM948.XLMZ.833](https://doi.org/10.48539/HBM948.XLMZ.833)|
 | **How to Cite This Data Table:** |Anna Martinez Casals, Frida Björklund. OMAP-6 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX, v1.2, https://doi.org/10.48539/HBM948.XLMZ.833. Accessed June 15, 2023.|
 | **How to Cite OMAP Tables Overall:** | Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo, Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021. “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for Multiplexed Antibody-Based Imaging.” *Nature Methods*, November. https://doi.org/10.1038/s41592-021-01316-y. |
 

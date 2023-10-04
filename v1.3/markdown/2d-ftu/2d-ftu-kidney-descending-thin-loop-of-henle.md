@@ -1,7 +1,7 @@
 # 2D Descending Thin Limb of Loop of Henle FTU for Kidney, v1.0
 
 ### Description
-This functional tissue unit (FTU) illustration includes cell types related to the descending thin limb of loop of Henle FTU in the Anatomical Structures, Cell Types and Biomarkers table  in the ASCT+B Table [Kidney v1.2](https://hubmapconsortium.github.io/ccf-releases/v1.2/asct-b/ASCT-B_VH_Kidney.csv). This illustration was inspired by the [Kidney Tissue Atlas Explorer](https://atlas.kpmp.org/explorer/)created by the Kidney Precision Medicine Project (KPMP). Multiple histology atlases, especially “Human Microscopic Anatomy” (R.V. Krstić, 1994) and “Histology: A Text and Atlas” (Michael H. Ross, et al., 2003) were referenced. Cell type diameters were primarily defined by [(Hu, McDonough, and Layton 2021)](https://doi.org/10.1016/j.isci.2021.102667).
+This functional tissue unit (FTU) illustration includes cell types related to the descending thin limb of loop of Henle FTU in the Anatomical Structures, Cell Types and Biomarkers table  in the ASCT+B Table [Kidney v1.2](https://cdn.humanatlas.io/hra-releases/v1.2/asct-b/ASCT-B_VH_Kidney.csv). This illustration was inspired by the [Kidney Tissue Atlas Explorer](https://atlas.kpmp.org/explorer/)created by the Kidney Precision Medicine Project (KPMP). Multiple histology atlases, especially “Human Microscopic Anatomy” (R.V. Krstić, 1994) and “Histology: A Text and Atlas” (Michael H. Ross, et al., 2003) were referenced. Cell type diameters were primarily defined by [(Hu, McDonough, and Layton 2021)](https://doi.org/10.1016/j.isci.2021.102667).
 
 Primary references:
 
@@ -28,18 +28,18 @@ Machine learning and AI are employed in segmenting these FTUs from data which wi
 | Label | Value |
 | :------------- |:-------------|
 | **Creator(s):** | Rachel Bajema |
-| **Creator ORCID(s):** |0000-0002-3775-8574|
+| **Creator ORCID(s):** | [0000-0002-3775-8574](https://orcid.org/0000-0002-3775-8574) |
 | **Project Lead:** | Katy B&ouml;rner |
 | **Project Lead ORCID:** | [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137) |
-| **Reviewer(s):** | Sanjay Jain; Matthias Kretzler; M. Todd Valerius  |
+| **Reviewer(s):** | Sanjay Jain; Matthias Kretzler; M. Todd Valerius |
 | **Reviewer ORCID(s):** |[0000-0003-2804-127X](https://orcid.org/0000-0003-2804-127X); [0000-0003-4064-0582](https://orcid.org/0000-0003-4064-0582); [0000-0001-8143-9231](https://orcid.org/0000-0001-8143-9231)|
-| **Creation Date:** | 2022-12-15|
+| **Creation Date:** | 2022-12-15 |
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM752.FQRT.755 |
-| **2D Data:** | Kidney, 2D Descending Thin Limb of Loop of Henle FTU, v.1.0 [SVG](https://hubmapconsortium.github.io/ccf-releases/v1.3/2d-ftu/2d-ftu-kidney-descending-thin-loop-of-henle.svg) [AI](https://hubmapconsortium.github.io/ccf-releases/v1.3/2d-ftu/2d-ftu-kidney-descending-thin-loop-of-henle.ai)|
+| **2D Data:** | Kidney, 2D Descending Thin Limb of Loop of Henle FTU, v.1.0 [SVG](https://cdn.humanatlas.io/hra-releases/v1.3/2d-ftu/2d-ftu-kidney-descending-thin-loop-of-henle.svg) [AI](https://cdn.humanatlas.io/hra-releases/v1.3/2d-ftu/2d-ftu-kidney-descending-thin-loop-of-henle.ai)|
 | **DOI:** | [https://doi.org/10.48539/HBM752.FQRT.755](https://doi.org/10.48539/HBM752.FQRT.755) |
 | **How to Cite This 2D Data:** | Rachel Bajema 2022. *2D Reference Descending Thin Limb of Loop of Henle FTU for Kidney, v1.0.* https://doi.org/10.48539/HBM752.FQRT.755. Accessed on December 15, 2022.|
 | **How to Cite 2D Data Overall:** | Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy Börner. 2022. [*HuBMAP CCF 2D Reference Object Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on December 15, 2022.|

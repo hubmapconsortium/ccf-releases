@@ -29,7 +29,7 @@ for (const type of doTypes) {
 
     if (oldFiles.has(base)) {
       const md = fs.readFileSync(prevMd).toString();
-      const baseDataUrl = 'https://hubmapconsortium.github.io/ccf-releases/'
+      const baseDataUrl = 'https://cdn.humanatlas.io/hra-releases/'
       const dataLine = md.split('\n').find(n => n.includes(baseDataUrl + 'v1.'));
       const dataUrl = dataLine.slice(dataLine.indexOf('(')+1, dataLine.indexOf(')'));
 

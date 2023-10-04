@@ -11,14 +11,14 @@ OMAP-11 was designed for IBEX imaging of fixed frozen human spleen samples (http
 | **Project Lead:** | Andrea J. Radtke; Katy B&ouml;rner; Neil Kelleher; Ronald N. Germain |
 | **Project Lead ORCID:** | [0000-0003-4379-8967](https://orcid.org/0000-0003-4379-8967); [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137); [0000-0002-8815-3372](https://orcid.org/0000-0002-8815-3372); [0000-0003-1495-9143](https://orcid.org/0000-0003-1495-9143) |
 | **Reviewer(s):** |Danny Jonigk; Ronald N. Germain; Ellen Quardokus; Diane Saunders |
-| **Reviewer ORCID(s):** |[0000-0002-5251-2281](https://orcid.org/0000-0002-5251-2281); [0000-0003-1495-9143;](https://orcid.org/0000-0003-1495-9143;); [0000-0001-7655-4833](https://orcid.org/0000-0001-7655-4833); [0000-0002-8849-6746](https://orcid.org/0000-0002-8849-6746) |  
+| **Reviewer ORCID(s):** |[0000-0002-5251-2281](https://orcid.org/0000-0002-5251-2281); [0000-0003-1495-9143](https://orcid.org/0000-0003-1495-9143); [0000-0001-7655-4833](https://orcid.org/0000-0001-7655-4833); [0000-0002-8849-6746](https://orcid.org/0000-0002-8849-6746) |  
 | **Creation Date:** | 2023-06-15|
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
 | **Funder:** | National Institute of Health (NIH) National Cancer Institute (NCI), Intramural Research Program of the NIH, National Institute of Allergy and Infectious Disease and National Cancer Institute, National Heart, Lung and Blood Institute|
 | **Award Number:** | 3UH3CA246594-02S1, UH3 CA246635, OT2OD026671, U01HL148861-02S1, U54HL145608-04 |
 | **HuBMAP ID:** | HBM957.RHVB.545 |
-| **Data Table:** | OMAP-11: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Spleen with IBEX, v1.0 [CSV](https://hubmapconsortium.github.io/ccf-releases/v1.4/omap/omap-11-spleen-ibex.csv) [Excel](https://hubmapconsortium.github.io/ccf-releases/v1.4/omap/omap-11-spleen-ibex.xlsx) |
+| **Data Table:** | OMAP-11: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Spleen with IBEX, v1.0 [CSV](https://cdn.humanatlas.io/hra-releases/v1.4/omap/omap-11-spleen-ibex.csv) [Excel](https://cdn.humanatlas.io/hra-releases/v1.4/omap/omap-11-spleen-ibex.xlsx) |
 | **DOI:** | [https://doi.org/10.48539/HBM957.RHVB.545](https://doi.org/10.48539/HBM957.RHVB.545) |
 | **How to Cite This Data Table:** | Andrea J. Radtke. OMAP-11: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Spleen with IBEX, v1.0, https://doi.org/10.48539/HBM957.RHVB.545. Accessed on June 15, 2023.|
 | **How to Cite OMAP Tables Overall:** | Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo, Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021. “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for Multiplexed Antibody-Based Imaging.” *Nature Methods*, November. https://doi.org/10.1038/s41592-021-01316-y. |

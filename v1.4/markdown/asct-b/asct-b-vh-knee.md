@@ -17,7 +17,7 @@
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM433.MCBL.623 |
-| **Data Table:** | [Knee v1.1](https://hubmapconsortium.github.io/ccf-releases/v1.2/asct-b/ASCT-B_VH_Knee.csv)  |
+| **Data Table:** | [Knee v1.1](https://cdn.humanatlas.io/hra-releases/v1.2/asct-b/ASCT-B_VH_Knee.csv)  |
 | **DOI:** | [https://doi.org/10.48539/HBM433.MCBL.623](https://doi.org/10.48539/HBM433.MCBL.623) |
 | **How to Cite This Data Table:** | David Rowe, HuBMAP ASCT+B Tables. Knee v1.1 [https://doi.org/10.48539/HBM433.MCBL.623](https://doi.org/10.48539/HBM433.MCBL.623) |
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2022. [*HuBMAP ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on May 6, 2022. |

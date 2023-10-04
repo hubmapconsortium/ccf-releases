@@ -15,7 +15,7 @@
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM693.RTRN.866 |
-| **3D Data:** | [Kidney, Male, Right v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.0/models/VH_M_Kidney_Right.glb) |
+| **3D Data:** | [Kidney, Male, Right v1.0](https://cdn.humanatlas.io/hra-releases/v1.0/models/VH_M_Kidney_Right.glb) |
 | **DOI:** | [https://doi.org/10.48539/hbm693.rtrn.866](https://doi.org/10.48539/hbm693.rtrn.866) |
 | **How to Cite This 3D Data:** | Kristen Browne. 2021. *3D Reference Organ for Kidney, Male, Right v1.0.* [https://doi.org/10.48539/hbm693.rtrn.866](https://doi.org/10.48539/hbm693.rtrn.866). Accessed on March 12, 2021. |
 | **How to Cite 3D Data Overall:** | Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2021. *HuBMAP CCF 3D Reference Object Library*. https://humanatlas.io/3d-reference-library. Accessed on March 12, 2021. |

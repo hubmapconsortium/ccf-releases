@@ -17,7 +17,7 @@
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM725.JHNS.532 |
-| **Data Table:** | [Skin v1.2](https://hubmapconsortium.github.io/ccf-releases/v1.2/asct-b/ASCT-B_VH_Skin.csv)  |
+| **Data Table:** | [Skin v1.2](https://cdn.humanatlas.io/hra-releases/v1.2/asct-b/ASCT-B_VH_Skin.csv)  |
 | **DOI:** | [https://doi.org/10.48539/HBM725.JHNS.532](https://doi.org/10.48539/HBM725.JHNS.532) |
 | **How to Cite This Data Table:** | Fiona Ginty; Jonhan Ho; Joel Sunshine, HuBMAP ASCT+B Tables. Skin v1.1 [https://doi.org/10.48539/HBM725.JHNS.532](https://doi.org/10.48539/HBM725.JHNS.532) |
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2021. [*HuBMAP ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on May 6, 2022 |

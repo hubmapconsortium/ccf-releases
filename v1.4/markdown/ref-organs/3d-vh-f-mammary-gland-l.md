@@ -18,7 +18,7 @@ The breast was sculpted from scratch to include relevant anatomy for placement o
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM378.VWZG.633|
-| **3D Data:** | [Breast (mammary gland), Female left, v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.3/models/3d-vh-f-mammary-gland-l.glb) |
+| **3D Data:** | [Breast (mammary gland), Female left, v1.0](https://cdn.humanatlas.io/hra-releases/v1.3/models/3d-vh-f-mammary-gland-l.glb) |
 | **DOI:** | [https://doi.org/10.48539/HBM378.VWZG.633](https://doi.org/10.48539/HBM378.VWZG.633) |
 | **How to Cite This 3D Data:** | Heidi Schlehlein 2022. *3D Reference Organ for Breast (mammary gland), Female left, v1.0*, https://doi.org/10.48539/HBM378.VWZG.633. Accessed on December 15, 2022. |
 | **How to Cite 3D Data Overall:** | Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2022. *HuBMAP CCF 3D Reference Object Library*. https://humanatlas.io/3d-reference-library. Accessed on December 15, 2022. |

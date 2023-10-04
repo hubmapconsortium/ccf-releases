@@ -17,7 +17,7 @@
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM577.JGGH.294 |
-| **Data Table:** | [Lymph Vasculature v1.1](https://hubmapconsortium.github.io/ccf-releases/v1.2/asct-b/ASCT-B_VH_Lymph_Vasculature.csv)  |
+| **Data Table:** | [Lymph Vasculature v1.1](https://cdn.humanatlas.io/hra-releases/v1.2/asct-b/ASCT-B_VH_Lymph_Vasculature.csv)  |
 | **DOI:** |[https://doi.org/10.48539/HBM577.JGGH.294](https://doi.org/10.48539/HBM577.JGGH.294) |
 | **How to Cite This Data Table:** | Dhruv Singhal; Maxim Itkin; Avinash Boppana, HuBMAP ASCT+B Tables. Lymph Vasculature v1.1 [https://doi.org/10.48539/HBM577.JGGH.294](https://doi.org/10.48539/HBM577.JGGH.294) |
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2022. [*HuBMAP ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on May 06, 2022.

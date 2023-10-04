@@ -17,7 +17,7 @@
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM736.PJQV.368 |
-| **Data Table:** | [Small Intestine v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.2/asct-b/ASCT-B_VH_Small_Intestine.csv)  |
+| **Data Table:** | [Small Intestine v1.0](https://cdn.humanatlas.io/hra-releases/v1.2/asct-b/ASCT-B_VH_Small_Intestine.csv)  |
 | **DOI:** | [https://doi.org/10.48539/HBM736.PJQV.368](https://doi.org/10.48539/HBM736.PJQV.368) |
 | **How to Cite This Data Table:** | Teri Longacre, HuBMAP ASCT+B Tables. Small Intestine v1.0 [https://doi.org/10.48539/HBM736.PJQV.368](https://doi.org/10.48539/HBM736.PJQV.368) |
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2021. [*HuBMAP ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on Dec 1, 2021. |

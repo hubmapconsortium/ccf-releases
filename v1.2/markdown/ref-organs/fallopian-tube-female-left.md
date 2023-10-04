@@ -17,7 +17,7 @@
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM887.HZKB.637 |
-| **3D Data:** | [Fallopian Tube, Female, Left v1.1](https://hubmapconsortium.github.io/ccf-releases/v1.2/models/VH_F_Fallopian_Tube_L.glb) |
+| **3D Data:** | [Fallopian Tube, Female, Left v1.1](https://cdn.humanatlas.io/hra-releases/v1.2/models/VH_F_Fallopian_Tube_L.glb) |
 | **DOI:** | [https://doi.org/10.48539/HBM887.HZKB.637](https://doi.org/10.48539/HBM887.HZKB.637) |
 | **How to Cite This 3D Data:** | Kristen Browne; Heidi Schlehlein. 2022. *3D Reference Organ for Fallopian Tube, Female, Left v1.1.* [https://doi.org/10.48539/HBM887.HZKB.637](https://doi.org/10.48539/HBM887.HZKB.637). Accessed on May 6, 2022. |
 | **How to Cite 3D Data Overall:** | Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2022. [*HuBMAP CCF 3D Reference Object Library*.](https://humanatlas.io/3d-reference-library) Accessed on May 6, 2022. |

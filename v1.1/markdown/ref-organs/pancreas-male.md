@@ -17,7 +17,7 @@
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM249.BLBM.234 |
-| **3D Data:** | [Pancreas, Male v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.1/models/VH_M_Pancreas.glb) |
+| **3D Data:** | [Pancreas, Male v1.0](https://cdn.humanatlas.io/hra-releases/v1.1/models/VH_M_Pancreas.glb) |
 | **DOI:** | [https://doi.org/10.48539/HBM249.BLBM.234](https://doi.org/10.48539/HBM249.BLBM.234) |
 | **How to Cite This 3D Data:** | Kristen Browne. 2021. *3D Reference Organ for Pancreas, Male v1.0.* [https://doi.org/10.48539/HBM249.BLBM.234](https://doi.org/10.48539/HBM249.BLBM.234). Accessed on December 1, 2021. |
 | **How to Cite 3D Data Overall:** | Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2021. *HuBMAP CCF 3D Reference Object Library*. https://humanatlas.io/3d-reference-library. Accessed on December 1, 2021. |

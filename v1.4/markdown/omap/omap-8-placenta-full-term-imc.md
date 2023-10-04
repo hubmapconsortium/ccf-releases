@@ -18,8 +18,8 @@ OMAP-8 was designed for Imaging Mass Cytometry (IMC) (https://pubmed.ncbi.nlm.ni
 | **Funder:** | National Institute of Health (NIH) National Cancer Institute (NCI), Intramural Research Program of the NIH, National Institute of Allergy and Infectious Disease and National Cancer Institute, National Heart, Lung and Blood Institute|
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM375.WFJN.332 |
-| **Data Table:** | OMAP-8: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Placenta with Imaging Mass Cytometry (IMC), v1.0 [CSV](https://hubmapconsortium.github.io/ccf-releases/v1.4/omap/omap-8-placenta-full-term-imc.csv) [Excel](https://hubmapconsortium.github.io/ccf-releases/v1.4/omap/omap-8-placenta-full-term-imc.xlsx) |
-| **DOI:** | [https://doi.org/10.48539/HBM375.WFJN.332 ](https://doi.org/10.48539/HBM375.WFJN.332 ) |
+| **Data Table:** | OMAP-8: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Placenta with Imaging Mass Cytometry (IMC), v1.0 [CSV](https://cdn.humanatlas.io/hra-releases/v1.4/omap/omap-8-placenta-full-term-imc.csv) [Excel](https://cdn.humanatlas.io/hra-releases/v1.4/omap/omap-8-placenta-full-term-imc.xlsx) |
+| **DOI:** | [https://doi.org/10.48539/HBM375.WFJN.332](https://doi.org/10.48539/HBM375.WFJN.332) |
 | **How to Cite This Data Table:** | Paul Robson; Santhosh Sivajothi; Ramalakshmi Ramasamy. OMAP-8: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Placenta with Imaging Mass Cytometry (IMC), v1.0, https://doi.org/10.48539/HBM375.WFJN.332. Accessed on June 15, 2023.|
 | **How to Cite OMAP Tables Overall:** | Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo, Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021. “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for Multiplexed Antibody-Based Imaging.” *Nature Methods*, November. https://doi.org/10.1038/s41592-021-01316-y. |
 

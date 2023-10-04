@@ -18,7 +18,7 @@ OMAP-13 was designed for imaging of 4% PFA-fixed, cryopreserved human pancreas s
 | **Funder:** |Intramural Research Program of the NIH, National Institute of Allergy and Infectious Disease and National Cancer Institute|
 | **Award Number:** | UH3 CA246635, OT2OD026671, UH3 CA246594-01  |
 | **HuBMAP ID:** | HBM754.BHVR.258 |
-| **Data Table:** | OMAP-13: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX, v1.0 [CSV](https://hubmapconsortium.github.io/ccf-releases/v1.4/omap/omap-13-pancreas-codex.csv) [Excel](https://hubmapconsortium.github.io/ccf-releases/v1.4/omap/omap-13-pancreas-codex.xlsx) |
+| **Data Table:** | OMAP-13: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX, v1.0 [CSV](https://cdn.humanatlas.io/hra-releases/v1.4/omap/omap-13-pancreas-codex.csv) [Excel](https://cdn.humanatlas.io/hra-releases/v1.4/omap/omap-13-pancreas-codex.xlsx) |
 | **DOI:** | [https://doi.org/10.48539/HBM754.BHVR.258](https://doi.org/10.48539/HBM754.BHVR.258) |
 | **How to Cite This Data Table:** | Diane Saunders; Conrad Reihsmann. OMAP-13: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Pancreas with CODEX, v1.0 https://doi.org/10.48539/HBM754.BHVR.258. Accessed on June 15, 2023.|
 | **How to Cite OMAP Tables Overall:** | Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo, Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021. “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for Multiplexed Antibody-Based Imaging.” *Nature Methods*, November. https://doi.org/10.1038/s41592-021-01316-y. |
