@@ -15,7 +15,7 @@
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM734.KXRL.243 |
-| **3D Data:** | [Large, Intestine, Female v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.0/models/SBU_F_Intestine_Large.glb) |
+| **3D Data:** | [Large, Intestine, Female v1.0](https://cdn.humanatlas.io/hra-releases/v1.0/models/SBU_F_Intestine_Large.glb) |
 | **DOI:** | [https://doi.org/10.48539/hbm734.kxrl.243](https://doi.org/10.48539/hbm734.kxrl.243) |
 | **How to Cite This 3D Data:** | Kristen Browne. 2021. *3D Reference Organ for Intestine, Large, Male v1.0.* [https://doi.org/10.48539/hbm734.kxrl.243](https://doi.org/10.48539/hbm734.kxrl.243). Accessed on March 12, 2021. |
 | **How to Cite 3D Data Overall:** | Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2021. *HuBMAP CCF 3D Reference Object Library*. https://humanatlas.io/3d-reference-library. Accessed on March 12, 2021. |

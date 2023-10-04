@@ -17,7 +17,7 @@
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM369.RBVN.935 |
-| **Data Table:** |[Eye v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.1/asct-b/ASCT-B_VH_Eye.csv) |
+| **Data Table:** |[Eye v1.0](https://cdn.humanatlas.io/hra-releases/v1.1/asct-b/ASCT-B_VH_Eye.csv) |
 | **DOI:** |[https://doi.org/10.48539/HBM369.RBVN.935](https://doi.org/10.48539/HBM369.RBVN.935) |
 | **How to Cite This Data Table:** |  Angela Kruse; Kevin Schey; Christine Curcio, HuBMAP ASCT+B Tables. Eye v1.0 [https://doi.org/10.48539/HBM369.RBVN.935](https://doi.org/10.48539/HBM369.RBVN.935) |
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2021. *HuBMAP ASCT+B Tables*. https://humanatlas.io/asctb-tables. Accessed on Dec 1, 2021. |

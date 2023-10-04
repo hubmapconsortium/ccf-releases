@@ -17,7 +17,7 @@
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM577.MCCB.463 |
-| **Data Table:** | [Blood Vasculature Organ Crosswalk,v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.4/asct-b/blood-vasculature-organ-crosswalk.csv) |
+| **Data Table:** | [Blood Vasculature Organ Crosswalk,v1.0](https://cdn.humanatlas.io/hra-releases/v1.4/asct-b/blood-vasculature-organ-crosswalk.csv) |
 | **DOI:** | [https://doi.org/10.48539/HBM577.MCCB.463](https://doi.org/10.48539/HBM577.MCCB.463) |
 | **How to Cite This Data Table:** |  Griffin Weber; Katherine S Gustilo. Blood Vasculature Organ Crosswalk,v1.0 https://doi.org/10.48539/HBM577.MCCB.463, Accessed on June 15, 2023. |
 | **How to Cite Overall:** | Boppana, Avinash, Sujin Lee, Rajeev Malhotra, Marc Halushka, Ellen M Quardokus, Bruce W. Herr, Katy Börner, and Griffin M Weber. “Anatomical Structures, Cell Types, and Biomarkers of the Healthy Human Blood Vasculature.” BioRxiv, January 1, 2022, 2022.02.28.482302. https://doi.org/10.1101/2022.02.28.482302.|

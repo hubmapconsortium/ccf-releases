@@ -17,7 +17,7 @@
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM582.WJWX.929 |
-| **Data Table:** |  [Spleen v1.1](https://hubmapconsortium.github.io/ccf-releases/v1.1/asct-b/ASCT-B_VH_Spleen.csv) |
+| **Data Table:** |  [Spleen v1.1](https://cdn.humanatlas.io/hra-releases/v1.1/asct-b/ASCT-B_VH_Spleen.csv) |
 | **DOI:** | [https://doi.org/10.48539/HBM582.WJWX.929](https://doi.org/10.48539/HBM582.WJWX.929) |
 | **How to Cite This Data Table:** | Marda Jorgensen; Andrea J. Radtke; Rebecca T. Beuschel, HuBMAP ASCT+B Tables. Spleen v1.1 [https://doi.org/10.48539/HBM582.WJWX.929](https://doi.org/10.48539/HBM582.WJWX.929) |
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2021. *HuBMAP ASCT+B Tables*. https://humanatlas.io/asctb-tables. Accessed on Dec 1, 2021. |

@@ -17,7 +17,7 @@ OMAP-5 was designed for Secondary Ionization Mass Spectrometry (SIMS) imaging of
 | **Funder:** | National Institutes of Health; National Institute of Allergy and Infectious Disease (NIAID)and National Cancer Institute (NCI) |
 | **Award Number:** | OT2OD026671;  UH3 CA246635|
 | **HuBMAP ID:** |HBM495.QBSV.777 |
-| **Data Table:** | OMAP-5 Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Liver with SIMS, v1.1 [CSV](https://hubmapconsortium.github.io/ccf-releases/v1.3/omap/omap-5-liver-sims.csv) [Excel](https://hubmapconsortium.github.io/ccf-releases/v1.3/omap/omap-5-liver-sims.xlsx) |
+| **Data Table:** | OMAP-5 Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Liver with SIMS, v1.1 [CSV](https://cdn.humanatlas.io/hra-releases/v1.3/omap/omap-5-liver-sims.csv) [Excel](https://cdn.humanatlas.io/hra-releases/v1.3/omap/omap-5-liver-sims.xlsx) |
 | **DOI:** | [https://doi.org/10.48539/HBM495.QBSV.777](https://doi.org/10.48539/HBM495.QBSV.777) |
 | **How to Cite This Data Table:** |Hua Tian, Presha Rajbhandari. OMAP-5 Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Liver with SIMS, v1.1, https://doi.org/10.48539/HBM495.QBSV.777.|
 | **How to Cite OMAP Tables Overall:** | Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo, Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021. “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for Multiplexed Antibody-Based Imaging.” *Nature Methods*, November. https://doi.org/10.1038/s41592-021-01316-y. |

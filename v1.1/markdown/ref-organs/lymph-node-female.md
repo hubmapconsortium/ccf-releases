@@ -17,7 +17,7 @@
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM992.ZQPV.642 |
-| **3D Data:** | [Lymph Node, Female v1.1](https://hubmapconsortium.github.io/ccf-releases/v1.1/models/NIH_F_Lymph_Node.glb) |
+| **3D Data:** | [Lymph Node, Female v1.1](https://cdn.humanatlas.io/hra-releases/v1.1/models/NIH_F_Lymph_Node.glb) |
 | **DOI:** | [https://doi.org/10.48539/HBM992.ZQPV.642](https://doi.org/10.48539/HBM992.ZQPV.642) |
 | **How to Cite This 3D Data:** | Kristen Browne. 2021. *3D Reference Organ for Lymph Node, Female v1.1.* [https://doi.org/10.48539/HBM992.ZQPV.642](https://doi.org/10.48539/HBM992.ZQPV.642). Accessed on December 1, 2021. |
 | **How to Cite 3D Data Overall:** | Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2021. *HuBMAP CCF 3D Reference Object Library*. https://humanatlas.io/3d-reference-library. Accessed on December 1, 2021. |

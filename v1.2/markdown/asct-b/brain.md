@@ -17,7 +17,7 @@
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM527.JQCW.377 |
-| **Data Table:** |[Brain v1.2](https://hubmapconsortium.github.io/ccf-releases/v1.2/asct-b/ASCT-B_Allen_Brain.csv)|
+| **Data Table:** |[Brain v1.2](https://cdn.humanatlas.io/hra-releases/v1.2/asct-b/ASCT-B_Allen_Brain.csv)|
 | **DOI:** | [https://doi.org/10.48539/HBM527.JQCW.377](https://doi.org/10.48539/HBM527.JQCW.377) |
 | **How to Cite This Data Table:** |  Jeremy A. Miller; Raymond Sanchez; Richard Scheuermann. HuBMAP ASCT+B Tables. Brain v1.2 [https://doi.org/10.48539/HBM527.JQCW.377](https://doi.org/10.48539/HBM527.JQCW.377)|
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen M., Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2022. [*HuBMAP ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on May 06, 2022. |

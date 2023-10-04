@@ -15,7 +15,7 @@
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM426.GZPN.888 |
-| **Data Table:** | [Vaculature v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.0/asct-b/ASCT-B_VH_Vasculature.csv) |
+| **Data Table:** | [Vaculature v1.0](https://cdn.humanatlas.io/hra-releases/v1.0/asct-b/ASCT-B_VH_Vasculature.csv) |
 | **DOI:** | [https://doi.org/10.48539/hbm426.gzpn.888](https://doi.org/10.48539/hbm426.gzpn.888) |
 | **How to Cite This Data Table:** | Griffin Weber; Sujin Lee; Rajeev Malhotra; Marc Halushka; Avinash Boppana. HuBMAP ASCT+B Tables. Vasculature v1.0 [https://doi.org/10.48539/hbm426.gzpn.888](https://doi.org/10.48539/hbm426.gzpn.888) |
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Hrishikesh Paul, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2021. *HuBMAP ASCT+B Tables*. https://humanatlas.io/asctb-tables. Accessed on March 12, 2021. |

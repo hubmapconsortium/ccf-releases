@@ -17,7 +17,7 @@ This lookup table maps [Anatomical Structures, Cell Types and Biomarkers (ASCT+B
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM266.FLTT.686 |
-| **Data Table:** | [Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 2D Reference Object Library Mapping](https://hubmapconsortium.github.io/ccf-releases/v1.3/2d-ftu/asct-b-2d-models-mapping.csv) |
+| **Data Table:** | [Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 2D Reference Object Library Mapping](https://cdn.humanatlas.io/hra-releases/v1.3/2d-ftu/asct-b-2d-models-mapping.csv) |
 | **DOI:** | [https://doi.org/10.48539/HBM266.FLTT.686](https://doi.org/10.48539/HBM266.FLTT.686) |
 | **How to Cite This Data Table:** | Supriya Bidanta; Fauzan Isnaini. (2022). *Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 2D Reference Object Library Mapping*, v1.1, https://doi.org/10.48539/HBM266.FLTT.686  Accessed on December 15, 2022. |
 | **How to Cite 2D Data Overall:** |  Supriya Bidanta; Fauzan Isnaini; Rachel Bajema; Ellen M. Quardokus; Bruce W. Herr II; Katy B&ouml;rner. 2022. [*HuBMAP CCF 2D Reference Object Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on December 15, 2022.

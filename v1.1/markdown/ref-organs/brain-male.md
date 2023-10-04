@@ -17,7 +17,7 @@
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM246.TXGH.789 |
-| **3D Data:** | [Brain, Male v1.1](https://hubmapconsortium.github.io/ccf-releases/v1.1/models/Allen_M_Brain.glb) |
+| **3D Data:** | [Brain, Male v1.1](https://cdn.humanatlas.io/hra-releases/v1.1/models/Allen_M_Brain.glb) |
 | **DOI:** | [https://doi.org/10.48539/HBM246.TXGH.789](https://doi.org/10.48539/HBM246.TXGH.789) |
 | **How to Cite This 3D Data:** | Kristen Browne. 2021. *3D Reference Organ for Brain, Male v1.1*. [https://doi.org/10.48539/HBM246.TXGH.789](https://doi.org/10.48539/HBM246.TXGH.789). Accessed on December 01, 2021. |
 | **How to Cite 3D Data Overall:** | Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2021. *HuBMAP CCF 3D Reference Object Library*. https://humanatlas.io/3d-reference-library. Accessed on December 01, 2021. |

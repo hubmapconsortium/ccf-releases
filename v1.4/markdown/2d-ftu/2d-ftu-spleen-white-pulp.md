@@ -27,7 +27,7 @@ Machine learning and AI are employed in segmenting these FTUs from data which wi
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM332.LMKD.869 |
-| **2D Data:** | Spleen, 2D White Pulp FTU v.1.0 [SVG](https://hubmapconsortium.github.io/ccf-releases/v1.4/2d-ftu/2d-ftu-spleen-white-pulp.svg) [AI](https://hubmapconsortium.github.io/ccf-releases/v1.4/2d-ftu/2d-ftu-spleen-white-pulp.ai) |
+| **2D Data:** | Spleen, 2D White Pulp FTU v.1.0 [SVG](https://cdn.humanatlas.io/hra-releases/v1.4/2d-ftu/2d-ftu-spleen-white-pulp.svg) [AI](https://cdn.humanatlas.io/hra-releases/v1.4/2d-ftu/2d-ftu-spleen-white-pulp.ai) |
 | **DOI:** | [https://doi.org/10.48539/HBM332.LMKD.869](https://doi.org/10.48539/HBM332.LMKD.869) |
 | **How to Cite This 2D Data:** | Rachel Bajema 2023. *2D White Pulp Functional Tissue Unit (FTU) for Spleen v1.0.* https://doi.org/10.48539/HBM332.LMKD.869. Accessed on June 15, 2023.|
 | **How to Cite 2D Data Overall:** | Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy Börner. 2023. [*HuBMAP CCF 2D Reference Object Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on June 15, 2023. |

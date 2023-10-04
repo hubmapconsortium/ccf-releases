@@ -18,7 +18,7 @@ OMAP-4 was designed for Cell DIVE multiplexed imaging of formalin-fixed paraffin
 | **Funder:** | National Institutes of Health, National Institute of Allergy and Infectious Disease, National Cancer Institute |
 | **Award Number:** |OT2OD026671, NIH 5UH3CA246594-02, UH3 CA246635, UH3 CA246594-01|
 | **HuBMAP ID:** |HBM459.SRBX.598 |
-| **Data Table:** | OMAP-4 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Skin with Cell DIVE, v1.2 [CSV](https://hubmapconsortium.github.io/ccf-releases/v1.4/omap/omap-4-skin-cell-dive.csv) [Excel](https://hubmapconsortium.github.io/ccf-releases/v1.4/omap/omap-4-skin-cell-dive.xlsx) |
+| **Data Table:** | OMAP-4 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Skin with Cell DIVE, v1.2 [CSV](https://cdn.humanatlas.io/hra-releases/v1.4/omap/omap-4-skin-cell-dive.csv) [Excel](https://cdn.humanatlas.io/hra-releases/v1.4/omap/omap-4-skin-cell-dive.xlsx) |
 | **DOI:** | [https://doi.org/10.48539/HBM459.SRBX.598](https://doi.org/10.48539/HBM459.SRBX.598) |
 | **How to Cite This Data Table:** |Liz McDonough, Chrystal Chadwick, and Fiona Ginty. OMAP-4  Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Skin with Cell DIVE, v1.2. https://doi.org/10.48539/HBM459.SRBX.598, Accessed June 15, 2023.|
 | **How to Cite OMAP Tables Overall:** | Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo, Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021. “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for Multiplexed Antibody-Based Imaging.” *Nature Methods*, November. https://doi.org/10.1038/s41592-021-01316-y. |

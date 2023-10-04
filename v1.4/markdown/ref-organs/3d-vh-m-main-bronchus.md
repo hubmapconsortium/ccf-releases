@@ -17,7 +17,7 @@
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM795.LVRX.842 |
-| **3D Data:** | [Main Bronchus, Male v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.4/models/3d-vh-m-main-bronchus.glb) |
+| **3D Data:** | [Main Bronchus, Male v1.0](https://cdn.humanatlas.io/hra-releases/v1.4/models/3d-vh-m-main-bronchus.glb) |
 | **DOI:** | [https://doi.org/10.48539/HBM795.LVRX.842](https://doi.org/10.48539/HBM795.LVRX.842) |
 | **How to Cite This 3D Data:** |  Kristen Browne; Heidi Schlehlein. 2023. *3D Reference Organ for Main Bronchus, Male v1.0.* [https://doi.org/10.48539/HBM795.LVRX.842](https://doi.org/10.48539/HBM795.LVRX.842). Accessed on June 15, 2023. |
 | **How to Cite 3D Data Overall:** | Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2023. [*HuBMAP CCF 3D Reference Object Library*.](https://humanatlas.io/3d-reference-library) Accessed on June 15, 2023. | 

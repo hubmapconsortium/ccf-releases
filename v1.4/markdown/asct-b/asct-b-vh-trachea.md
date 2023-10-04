@@ -25,7 +25,7 @@ Standardization of trachea, bronchus and lung cell type nomenclature, ontology e
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM245.PWLJ.489 |
-| **Data Table:** | [Trachea v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.4/asct-b/asct-b-vh-trachea.csv) |
+| **Data Table:** | [Trachea v1.0](https://cdn.humanatlas.io/hra-releases/v1.4/asct-b/asct-b-vh-trachea.csv) |
 | **DOI:** | [https://doi.org/10.48539/HBM245.PWLJ.489](https://doi.org/10.48539/HBM245.PWLJ.489) |
 | **How to Cite This Data Table:** | Gloria Pryhuber. HuBMAP ASCT+B Tables. Trachea v1.0 [https://doi.org/10.48539/HBM245.PWLJ.489](https://doi.org/10.48539/HBM245.PWLJ.489) |
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2023. [*HuBMAP ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15, 2023. |

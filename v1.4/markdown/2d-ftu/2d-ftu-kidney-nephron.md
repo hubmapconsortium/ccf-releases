@@ -1,7 +1,7 @@
 # 2D Nephron Functional Tissue Unit (FTU) for Kidney, v1.1
 
 ### Description
-This functional tissue unit (FTU) illustration includes cell types related to the nephron FTU in the ASCT+B Table [Kidney v1.2](https://hubmapconsortium.github.io/ccf-releases/v1.2/asct-b/ASCT-B_VH_Kidney.csv). This illustration was inspired by the [Kidney Tissue Atlas Explorer](https://atlas.kpmp.org/explorer/)created by the Kidney Precision Medicine Project (KPMP). Multiple histology atlases, especially “Human Microscopic Anatomy” (R.V. Krstić, 1994) and “Histology: A Text and Atlas” (Michael H. Ross, et al., 2003) were referenced. Cell type diameters were primarily defined by [(Hu, McDonough, and Layton 2021)](https://doi.org/10.1016/j.isci.2021.102667).
+This functional tissue unit (FTU) illustration includes cell types related to the nephron FTU in the ASCT+B Table [Kidney v1.2](https://cdn.humanatlas.io/hra-releases/v1.2/asct-b/ASCT-B_VH_Kidney.csv). This illustration was inspired by the [Kidney Tissue Atlas Explorer](https://atlas.kpmp.org/explorer/)created by the Kidney Precision Medicine Project (KPMP). Multiple histology atlases, especially “Human Microscopic Anatomy” (R.V. Krstić, 1994) and “Histology: A Text and Atlas” (Michael H. Ross, et al., 2003) were referenced. Cell type diameters were primarily defined by [(Hu, McDonough, and Layton 2021)](https://doi.org/10.1016/j.isci.2021.102667).
 
 Primary references:
 
@@ -38,7 +38,7 @@ Machine learning and AI are employed in segmenting these FTUs from data which wi
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM868.LLHZ.223 |
-| **2D Data:** | Kidney, 2D Nephron FTU v.1.1 [SVG](https://hubmapconsortium.github.io/ccf-releases/v1.3/2d-ftu/2d-ftu-kidney-nephron.svg) [AI](https://hubmapconsortium.github.io/ccf-releases/v1.3/2d-ftu/2d-ftu-kidney-nephron.ai)|
+| **2D Data:** | Kidney, 2D Nephron FTU v.1.1 [SVG](https://cdn.humanatlas.io/hra-releases/v1.3/2d-ftu/2d-ftu-kidney-nephron.svg) [AI](https://cdn.humanatlas.io/hra-releases/v1.3/2d-ftu/2d-ftu-kidney-nephron.ai)|
 | **DOI:** | [https://doi.org/10.48539/HBM868.LLHZ.223](https://doi.org/10.48539/HBM868.LLHZ.223) |
 | **How to Cite This 2D Data:** | Rachel Bajema 2022. *2D Reference Nephron FTU for Kidney, v1.1.* [https://doi.org/10.48539/HBM868.LLHZ.223](https://doi.org/10.48539/HBM868.LLHZ.223). Accessed on December 15, 2022.|
 | **How to Cite 2D Data Overall:** | Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy Börner. 2022. [*HuBMAP CCF 2D Reference Object Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on December 15, 2022.|

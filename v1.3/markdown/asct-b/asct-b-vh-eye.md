@@ -22,7 +22,7 @@ The lens is less complex than the retina, containing only two major cell types. 
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** |HBM762.WRRQ.394 |
-| **Data Table:** |[Eye v1.2](https://hubmapconsortium.github.io/ccf-releases/v1.3/asct-b/asct-b-vh-eye.csv) |
+| **Data Table:** |[Eye v1.2](https://cdn.humanatlas.io/hra-releases/v1.3/asct-b/asct-b-vh-eye.csv) |
 | **DOI:** | [https://doi.org/10.48539/HBM762.WRRQ.394](https://doi.org/10.48539/HBM762.WRRQ.394) |
 | **How to Cite This Data Table:** |  Angela Kruse; Kevin Schey; Christine Curcio, HuBMAP ASCT+B Tables. Eye v1.2, https://doi.org/10.48539/HBM762.WRRQ.394, Accessed on December 15, 2022. |
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2022. [*HuBMAP ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on December 15, 2022.|

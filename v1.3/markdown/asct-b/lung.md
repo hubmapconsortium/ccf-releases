@@ -32,7 +32,7 @@ Standardization of lung cell type nomenclature, ontology expansion, gene and pro
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM396.QVLQ.449 |
-| **Data Table:** | [Lung v1.2](https://hubmapconsortium.github.io/ccf-releases/v1.2/asct-b/ASCT-B_VH_Lung.csv)  |
+| **Data Table:** | [Lung v1.2](https://cdn.humanatlas.io/hra-releases/v1.2/asct-b/ASCT-B_VH_Lung.csv)  |
 | **DOI:** | [https://doi.org/10.48539/HBM396.QVLQ.449](https://doi.org/10.48539/HBM396.QVLQ.449) |
 | **How to Cite This Data Table:** | Gloria Pryhuber. HuBMAP ASCT+B Tables. Lung v1.2 [https://doi.org/10.48539/HBM396.QVLQ.449](https://doi.org/10.48539/HBM396.QVLQ.449) |
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2022. [*HuBMAP ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on May 6, 2022. |

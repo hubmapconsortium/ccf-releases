@@ -17,7 +17,7 @@
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM449.NWVK.668 |
-| **Data Table:** | [Bone marrow/Pelvis v1.2](https://hubmapconsortium.github.io/ccf-releases/v1.2/asct-b/ASCT-B_VH_BoneMarrow_Pelvis.csv) |
+| **Data Table:** | [Bone marrow/Pelvis v1.2](https://cdn.humanatlas.io/hra-releases/v1.2/asct-b/ASCT-B_VH_BoneMarrow_Pelvis.csv) |
 | **DOI:** | [https://doi.org/10.48539/HBM449.NWVK.668](https://doi.org/10.48539/HBM449.NWVK.668) |
 | **How to Cite This Data Table:** | Muzlifah A. Haniffa; Laura Jardine; Sarah A. Teichmann. HuBMAP ASCT+B Tables. Bone marrow/Pelvis v1.2 [https://doi.org/10.48539/HBM449.NWVK.668](https://doi.org/10.48539/HBM449.NWVK.668) |
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen M., Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2022. [*HuBMAP ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on May 6, 2022. |

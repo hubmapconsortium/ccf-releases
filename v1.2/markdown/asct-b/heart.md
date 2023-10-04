@@ -17,7 +17,7 @@
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM876.HSSQ.977 |
-| **Data Table:** | [Heart v1.1](https://hubmapconsortium.github.io/ccf-releases/v1.2/asct-b/ASCT-B_VH_Heart.csv) |
+| **Data Table:** | [Heart v1.1](https://cdn.humanatlas.io/hra-releases/v1.2/asct-b/ASCT-B_VH_Heart.csv) |
 | **DOI:** | [https://doi.org/10.48539/HBM876.HSSQ.977](https://doi.org/10.48539/HBM876.HSSQ.977) |
 | **How to Cite This Data Table:** | Shin Lin; Marc Halushka; Avinash Boppana, HuBMAP ASCT+B Tables. Heart v1.1 [https://doi.org/10.48539/HBM876.HSSQ.977](https://doi.org/10.48539/HBM876.HSSQ.977) |
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2021. [*HuBMAP ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on Dec 1, 2021. |
