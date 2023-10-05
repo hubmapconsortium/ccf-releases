@@ -17,7 +17,7 @@
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM794.PKQV.978 |
-| **3D Data:** | [Lung, Female v1.3](https://hubmapconsortium.github.io/ccf-releases/v1.4/models/3d-vh-f-lung.glb) |
+| **3D Data:** | [Lung, Female v1.3](https://cdn.humanatlas.io/hra-releases/v1.4/models/3d-vh-f-lung.glb) |
 | **DOI:** | [https://doi.org/10.48539/HBM794.PKQV.978](https://doi.org/10.48539/HBM794.PKQV.978) |
 | **How to Cite This 3D Data:** |  Kristen Browne; Heidi Schlehlein. 2023. *3D Reference Organ for Lung, Female v1.3.* [https://doi.org/10.48539/HBM794.PKQV.978](https://doi.org/10.48539/HBM794.PKQV.978). Accessed on June 15, 2023. |
 | **How to Cite 3D Data Overall:** | Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2023. [*HuBMAP CCF 3D Reference Object Library*.](https://humanatlas.io/3d-reference-library) Accessed on June 15, 2023. | 

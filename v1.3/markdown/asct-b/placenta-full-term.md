@@ -8,7 +8,7 @@ These markers may not cover early term placentas or placentas from more complica
 | Label | Value |
 | :------------- |:-------------|
 | **Creator(s):** | Louise Laurent; Mana Parast; Kathleen Fisch|
-| **Creator ORCID(s):** | [0000-0002-2095-7534](https://orcid.org/0000-0002-2095-7534); [000-0001-5963-2246](https://orcid.org/000-0001-5963-2246); [0000-0002-0117-7444](https://orcid.org/0000-0002-0117-7444)|
+| **Creator ORCID(s):** | [0000-0002-2095-7534](https://orcid.org/0000-0002-2095-7534); [0000-0001-5963-2246](https://orcid.org/000-0001-5963-2246); [0000-0002-0117-7444](https://orcid.org/0000-0002-0117-7444)|
 | **Project Lead:** | Katy B&ouml;rner |
 | **Project Lead ORCID:** | [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137) |
 | **Reviewer(s):** | Drucilla Roberts |
@@ -19,7 +19,7 @@ These markers may not cover early term placentas or placentas from more complica
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM446.WGLG.755 |
-| **Data Table:** |  [Placenta Full Term v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.2/asct-b/ASCT-B_VH_Placenta_Full_Term.csv)  |
+| **Data Table:** |  [Placenta Full Term v1.0](https://cdn.humanatlas.io/hra-releases/v1.2/asct-b/ASCT-B_VH_Placenta_Full_Term.csv)  |
 | **DOI:** |[https://doi.org/10.48539/HBM446.WGLG.755](https://doi.org/10.48539/HBM446.WGLG.755) |
 | **How to Cite This Data Table:** | Louise Laurent; Mana Parast; Kathleen Fisch, HuBMAP ASCT+B Tables. Placenta Full Term v1.0. [https://doi.org/10.48539/HBM446.WGLG.755](https://doi.org/10.48539/HBM446.WGLG.755)|
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2022. [*HuBMAP ASCT+B Tables*.]( https://humanatlas.io/asctb-tables) Accessed on May 6, 2022. |

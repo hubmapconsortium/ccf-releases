@@ -1,4 +1,4 @@
-# ASCT+B 2D FTU Mapping
+# ASCT+B 2D FTU Mapping, v1.0
 
 ### Description
 This lookup table maps [Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Table](https://humanatlas.io/asctb-tables) terms to anatomical structure and cell type terms used in the [CCF-2D-reference-object-library](https://github.com/hubmapconsortium/ccf-2d-reference-object-library).
@@ -17,7 +17,7 @@ This lookup table maps [Anatomical Structures, Cell Types and Biomarkers (ASCT+B
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM984.MZSG.873 |
-| **Data Table:** | [Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 2D Reference Object Library Mapping](https://hubmapconsortium.github.io/ccf-releases/v1.2/2d-ftu/ASCT-B_ftu_2D_illustration_mapping.csv) |
+| **Data Table:** | [Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 2D Reference Object Library Mapping](https://cdn.humanatlas.io/hra-releases/v1.2/2d-ftu/ASCT-B_ftu_2D_illustration_mapping.csv) |
 | **DOI:** | [https://doi.org/10.48539/HBM984.MZSG.873](https://doi.org/10.48539/HBM984.MZSG.873) |
 | **How to Cite This Data Table:** | Supriya Bidanta; Fauzan Isnaini. (2022). *Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 2D Reference Object Library Mapping* [https://doi.org/10.48539/HBM984.MZSG.873](https://doi.org/10.48539/HBM984.MZSG.873).  Accessed on May 06, 2022. |
 | **How to Cite 2D Data Overall:** |  Supriya Bidanta; Fauzan Isnaini; Rachel Bajema; Ellen M. Quardokus; Bruce W. Herr II; Katy B&ouml;rner. 2022. [*HuBMAP CCF 2D Reference Object Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on May 06, 2022.

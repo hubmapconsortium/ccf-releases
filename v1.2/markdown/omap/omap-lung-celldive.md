@@ -12,14 +12,14 @@ The OMAP Lung panel was designed for Cell DIVE imaging of  Formalin-Fixed Paraff
 | **Project Lead:** | Andrea J. Radtke; Katy B&ouml;rner; Neil Kelleher; Ronald N. Germain |
 | **Project Lead ORCID:** | [0000-0003-4379-8967](https://orcid.org/0000-0003-4379-8967); [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137); [0000-0002-8815-3372](https://orcid.org/0000-0002-8815-3372); [0000-0003-1495-9143](https://orcid.org/0000-0003-1495-9143) |
 | **Reviewer(s):** |James Hagood, Christopher Werlein, Andrea J. Radtke, Ellen M. Quardokus|
-| **Reviewer ORCID(s):** |[0000-0003-3938-0330](https://orcid.org/0000-0003-3938-0330); [0000-0002-7694-4257](https://orcid.org/0000-0002-7694-4257); [0000-0003-4379-896](https://orcid.org/0000-0003-4379-896); [0000-0001-7655-4833](https://orcid.org/0000-0001-7655-4833)  
+| **Reviewer ORCID(s):** |[0000-0003-3938-0330](https://orcid.org/0000-0003-3938-0330); [0000-0002-7694-4257](https://orcid.org/0000-0002-7694-4257); [0000-0003-4379-8967](https://orcid.org/0000-0003-4379-8967); [0000-0001-7655-4833](https://orcid.org/0000-0001-7655-4833)  
 | **Creation Date:** | 2022-05-06|
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
 | **Funder:** | National Institute of Health (NIH) National Cancer Institute (NCI), Intramural Research Program of the NIH, National Institute of Allergy and Infectious Disease and National Cancer Institute, National Heart, Lung and Blood Institute|
 | **Award Number:** | 3UH3CA246594-02S1, UH3 CA246635, OT2OD026671, U01HL148861-02S1,  U54HL145608-04 |
 | **HuBMAP ID:** |HBM366.RQZK.248|
-| **Data Table:** | Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Lung with Cell DIVE v1.0 [CSV](https://hubmapconsortium.github.io/ccf-releases/v1.2/omap/OMAP_Lung_Cell_DIVE.csv) [Excel](https://hubmapconsortium.github.io/ccf-releases/v1.2/omap/OMAP_Lung_Cell_DIVE.xlsx) |
+| **Data Table:** | Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Lung with Cell DIVE v1.0 [CSV](https://cdn.humanatlas.io/hra-releases/v1.2/omap/OMAP_Lung_Cell_DIVE.csv) [Excel](https://cdn.humanatlas.io/hra-releases/v1.2/omap/OMAP_Lung_Cell_DIVE.xlsx) |
 | **DOI:** | [https://doi.org/10.48539/HBM366.RQZK.248](https://doi.org/10.48539/HBM366.RQZK.248) |
 | **How to Cite This Data Table:** |Christine Surrette, Lisa Lowery, Gloria Pryhuber,Gail Deutsch, Fiona Ginty. Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Lung with Cell DIVE v1.0 [https://doi.org/10.48539/HBM366.RQZK.248](https://doi.org/10.48539/HBM366.RQZK.248) |
 | **How to Cite OMAP Tables Overall:** | Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo, Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021. “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for Multiplexed Antibody-Based Imaging.” *Nature Methods*, November. https://doi.org/10.1038/s41592-021-01316-y. |

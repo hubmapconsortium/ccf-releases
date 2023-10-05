@@ -18,7 +18,7 @@
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM869.WZFK.485 |
-| **Data Table:** | [Spinal Cord, v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.4/asct-b/asct-b-vh-spinal-cord.csv) |
+| **Data Table:** | [Spinal Cord, v1.0](https://cdn.humanatlas.io/hra-releases/v1.4/asct-b/asct-b-vh-spinal-cord.csv) |
 | **DOI:** | [https://doi.org/10.48539/HBM869.WZFK.485](https://doi.org/10.48539/HBM869.WZFK.485)|
 | **How to Cite This Data Table:** |Vilas Menon, HuBMAP ASCT+B Tables. Spinal Cord v1.0 [https://doi.org/10.48539/HBM869.WZFK.485](https://doi.org/10.48539/HBM869.WZFK.485) |
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2023. [*HuBMAP ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15, 2023. |

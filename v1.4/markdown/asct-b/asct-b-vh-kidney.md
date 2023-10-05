@@ -18,7 +18,7 @@
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM944.SVLH.825 |
-| **Data Table:** | [Kidney v1.3](https://hubmapconsortium.github.io/ccf-releases/v1.4/asct-b/asct-b-vh-kidney.csv) |
+| **Data Table:** | [Kidney v1.3](https://cdn.humanatlas.io/hra-releases/v1.4/asct-b/asct-b-vh-kidney.csv) |
 | **DOI:** | [https://doi.org/10.48539/HBM944.SVLH.825](https://doi.org/10.48539/HBM944.SVLH.825) |
 | **How to Cite This Data Table:** | Sanjay Jain; M. Todd Valerius; Yongqun He; Tarek El-Achkar; Michael Eadon; Jeffrey Spraggins, HuBMAP ASCT+B Tables. Kidney v1.3 [https://doi.org/10.48539/HBM944.SVLH.825](https://doi.org/10.48539/HBM944.SVLH.825) |
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2023. [*HuBMAP ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15, 2023. |

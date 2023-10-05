@@ -18,7 +18,7 @@ The lymph vasculature table focuses on major central lymphatic structures. The p
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM738.GKLM.876 |
-| **Data Table:** | [Lymph Vasculature v1.3](https://hubmapconsortium.github.io/ccf-releases/v1.4/asct-b/asct-b-vh-lymph-vasculature.csv)  |
+| **Data Table:** | [Lymph Vasculature v1.3](https://cdn.humanatlas.io/hra-releases/v1.4/asct-b/asct-b-vh-lymph-vasculature.csv)  |
 | **DOI:** |[https://doi.org/10.48539/HBM738.GKLM.876](https://doi.org/10.48539/HBM738.GKLM.876) |
 | **How to Cite This Data Table:** | Dhruv Singhal; Maxim Itkin; Avinash Boppana, HuBMAP ASCT+B Tables. Lymph Vasculature v1.3,https://doi.org/10.48539/HBM738.GKLM.876. Accessed on June 15, 2023. |
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2023. [*HuBMAP ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15, 2023. |

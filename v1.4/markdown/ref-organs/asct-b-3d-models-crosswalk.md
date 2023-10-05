@@ -15,7 +15,7 @@ This lookup table maps [Anatomical Structures, Cell Types and Biomarkers (ASCT+B
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM622.BDXN.589 |
-| **Data Table:** | [Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 3D Reference Object Library Crosswalk, v1.4](https://hubmapconsortium.github.io/ccf-releases/v1.4/models/asct-b-3d-models-crosswalk.csv) |
+| **Data Table:** | [Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 3D Reference Object Library Crosswalk, v1.4](https://cdn.humanatlas.io/hra-releases/v1.4/models/asct-b-3d-models-crosswalk.csv) |
 | **DOI:** | [https://doi.org/10.48539/HBM622.BDXN.589](https://doi.org/10.48539/HBM622.BDXN.589) |
 | **How to Cite This Data Table:** | Ellen M. Quardokus; Heidi Schlehlein; Bruce W. Herr II; Katy Börner. (2023). *Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 3D Reference Object Library Crosswalk*, v1.4, https://doi.org/10.48539/HBM622.BDXN.589.  Accessed on June 15, 2023. |
 | **How to Cite 3D Data Overall:** |  Heidi Schlehlein; Bruce W. Herr II; Ellen M. Quardokus; Andreas Bueckle; Katy B&ouml;rner. 2023. [*HuBMAP CCF 3D Reference Object Library*](https://humanatlas.io/3d-reference-library). Accessed on June 15, 2023.

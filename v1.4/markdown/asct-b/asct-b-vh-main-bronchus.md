@@ -19,14 +19,14 @@ Standardization of trachea, bronchus and lung cell type nomenclature, ontology e
 | **Project Lead:** | Katy B&ouml;rner |
 | **Project Lead ORCID:** | [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137) |
 | **Reviewer(s):** | Martijn Nawijn; Ellen Quardokus; Gail Deutsch|
-| **Reviewer ORCID(s):** |[0000-0003-3372-6521 ](https://orcid.org/0000-0003-3372-6521); [0000-0001-7655-4833](https://orcid.org/0000-0001-7655-4833);[0000-0002-0571-0285](https://orcid.org/0000-0002-0571-0285)|
+| **Reviewer ORCID(s):** |[0000-0003-3372-6521](https://orcid.org/0000-0003-3372-6521); [0000-0001-7655-4833](https://orcid.org/0000-0001-7655-4833);[0000-0002-0571-0285](https://orcid.org/0000-0002-0571-0285)|
 | **Creation Date:** | 2023-06-15 |
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM928.WTVJ.677 |
-| **Data Table:** | [Main Bronchus v1.0](https://hubmapconsortium.github.io/ccf-releases/v1.4/asct-b/asct-b-vh-main-bronchus.csv) |
+| **Data Table:** | [Main Bronchus v1.0](https://cdn.humanatlas.io/hra-releases/v1.4/asct-b/asct-b-vh-main-bronchus.csv) |
 | **DOI:** | [https://doi.org/10.48539/HBM928.WTVJ.677](https://doi.org/10.48539/HBM928.WTVJ.677)|
 | **How to Cite This Data Table:** | Gloria Pryhuber. HuBMAP ASCT+B Tables. Main Bronchus v1.0 [https://doi.org/10.48539/HBM928.WTVJ.677](https://doi.org/10.48539/HBM928.WTVJ.677) |
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2023. [*HuBMAP ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15, 2023. |

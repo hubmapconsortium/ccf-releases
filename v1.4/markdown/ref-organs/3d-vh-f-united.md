@@ -17,7 +17,7 @@
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM959.JMVR.733 |
-| **3D Data:** | [United, Female v1.4](https://hubmapconsortium.github.io/ccf-releases/v1.4/models/3d-vh-f-united.glb.7z) |
+| **3D Data:** | [United, Female v1.4](https://cdn.humanatlas.io/hra-releases/v1.4/models/3d-vh-f-united.glb.7z) |
 | **DOI:** | [https://doi.org/10.48539/HBM959.JMVR.733](https://doi.org/10.48539/HBM959.JMVR.733) |
 | **How to Cite This 3D Data:** |Kristen Browne; Heidi Schlehlein. 2023. *3D Reference Organ Set for Female, v1.4.*, https://doi.org/10.48539/HBM959.JMVR.733. Accessed on June 15, 2023. |
 | **How to Cite 3D Data Overall:** | Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2023. [*HuBMAP CCF 3D Reference Object Library*.](https://humanatlas.io/3d-reference-library) Accessed on June 15, 2023. |

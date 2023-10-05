@@ -36,7 +36,7 @@ Machine learning and AI are employed in segmenting these FTUs from data which wi
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** |HBM458.HKKL.976 |
-| **2D Data:** | Pancreas, Intercalated Duct 2D FTU v.1.0 [SVG](https://hubmapconsortium.github.io/ccf-releases/v1.3/2d-ftu/2d-ftu-pancreas-intercalated-duct.svg) [AI](https://hubmapconsortium.github.io/ccf-releases/v1.3/2d-ftu/2d-ftu-pancreas-intercalated-duct.ai)|
+| **2D Data:** | Pancreas, Intercalated Duct 2D FTU v.1.0 [SVG](https://cdn.humanatlas.io/hra-releases/v1.3/2d-ftu/2d-ftu-pancreas-intercalated-duct.svg) [AI](https://cdn.humanatlas.io/hra-releases/v1.3/2d-ftu/2d-ftu-pancreas-intercalated-duct.ai)|
 | **DOI:** |[https://doi.org/10.48539/HBM458.HKKL.976](https://doi.org/10.48539/HBM458.HKKL.976) |
 | **How to Cite This 2D Data:** | Rachel Bajema 2022. *Pancreas, Intercalated Duct 2D FTU v.1.0.* https://doi.org/10.48539/HBM458.HKKL.976. Accessed on December 15 2022.  |
 | **How to Cite 2D Data Overall:** | Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy Börner. 2022. [*HuBMAP CCF 2D Reference Object Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on December 15 2022. |

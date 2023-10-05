@@ -45,7 +45,7 @@ c.	We performed NS-Forest at the supercluster level using the sampled_WHB datase
 | Label | Value |
 | :------------- |:-------------|
 | **Creator(s):** | Jeremy A. Miller; Kimberly Siletti; Richard H. Scheuermann |
-| **Creator ORCID(s):** | [0000-0003-4549-588X](https://orcid.org/0000-0003-4549-588X); [0000-0001-7620-8973](https://orcid.org/0000-0001-7620-8973); [0000-0003-1355-892X ](https://orcid.org/0000-0003-1355-892X)|
+| **Creator ORCID(s):** | [0000-0003-4549-588X](https://orcid.org/0000-0003-4549-588X); [0000-0001-7620-8973](https://orcid.org/0000-0001-7620-8973); [0000-0003-1355-892X](https://orcid.org/0000-0003-1355-892X)|
 | **Project Lead:** | Katy B&ouml;rner |
 | **Project Lead ORCID:** | [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137) |
 | **Reviewer(s):** | Ed Lein; David Osumi-Sutherland; Ellen M. Quardokus 
@@ -56,7 +56,7 @@ c.	We performed NS-Forest at the supercluster level using the sampled_WHB datase
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM568.VJBK.732 |
-| **Data Table:** |[Brain v1.4](https://hubmapconsortium.github.io/ccf-releases/v1.4/asct-b/asct-b-allen-brain.csv)|
+| **Data Table:** |[Brain v1.4](https://cdn.humanatlas.io/hra-releases/v1.4/asct-b/asct-b-allen-brain.csv)|
 | **DOI:** | [https://doi.org/10.48539/HBM568.VJBK.732](https://doi.org/10.48539/HBM568.VJBK.732) |
 | **How to Cite This Data Table:** |  Jeremy A. Miller; Raymond Sanchez; Richard Scheuermann. HuBMAP ASCT+B Tables. Brain v1.4,https://doi.org/10.48539/HBM568.VJBK.732, Accessed on June 15, 2023.|
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2023. [*HuBMAP ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15, 2023. |

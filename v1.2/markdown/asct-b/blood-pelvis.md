@@ -17,7 +17,7 @@
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM296.NBLN.233 |
-| **Data Table:** | [Blood/Pelvis v1.1](https://hubmapconsortium.github.io/ccf-releases/v1.2/asct-b/ASCT-B_VH_BM_Blood_Pelvis.csv) |
+| **Data Table:** | [Blood/Pelvis v1.1](https://cdn.humanatlas.io/hra-releases/v1.2/asct-b/ASCT-B_VH_BM_Blood_Pelvis.csv) |
 | **DOI:** | [https://doi.org/10.48539/HBM296.NBLN.233](https://doi.org/10.48539/HBM296.NBLN.233) |
 | **How to Cite This Data Table:** | Muzlifah A. Haniffa; Laura Jardine; Sarah A. Teichmann. HuBMAP ASCT+B Tables. Blood/Pelvis v1.1 [https://doi.org/10.48539/HBM296.NBLN.233](https://doi.org/10.48539/HBM296.NBLN.233) |
 | **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2022. [*HuBMAP ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on May 06, 2022. |

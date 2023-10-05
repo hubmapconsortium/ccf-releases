@@ -17,7 +17,7 @@ OMAP-12 was designed for IBEX imaging of fixed frozen human retina samples (http
 | **Funder:** | National Institute of Health (NIH) National Cancer Institute (NCI), Intramural Research Program of the NIH, National Institute of Allergy and Infectious Disease and National Cancer Institute, National Heart, Lung and Blood Institute|
 | **Award Number:** | OT2OD026671 |
 | **HuBMAP ID:** | HBM979.RCXH.454 |
-| **Data Table:** | OMAP-12: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Retina with IBEX, v1.0 [CSV](https://hubmapconsortium.github.io/ccf-releases/v1.4/omap/omap-12-eye-retina-ibex.csv) [Excel](https://hubmapconsortium.github.io/ccf-releases/v1.4/omap/omap-12-eye-retina-ibex.xlsx) |
+| **Data Table:** | OMAP-12: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Retina with IBEX, v1.0 [CSV](https://cdn.humanatlas.io/hra-releases/v1.4/omap/omap-12-eye-retina-ibex.csv) [Excel](https://cdn.humanatlas.io/hra-releases/v1.4/omap/omap-12-eye-retina-ibex.xlsx) |
 | **DOI:** | [https://doi.org/10.48539/HBM979.RCXH.454](https://doi.org/10.48539/HBM979.RCXH.454) |
 | **How to Cite This Data Table:** | Colin J. Chu. OMAP-12: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Retina with IBEX, v1.0, https://doi.org/10.48539/HBM979.RCXH.454. Accessed on June 15, 2023.|
 | **How to Cite OMAP Tables Overall:** | Hickey, John W., Elizabeth K. Neumann, Andrea J. Radtke, Jeannie M. Camarillo, Rebecca T. Beuschel, Alexandre Albanese, Elizabeth McDonough, et al. 2021. “Spatial Mapping of Protein Composition and Tissue Organization: A Primer for Multiplexed Antibody-Based Imaging.” *Nature Methods*, November. https://doi.org/10.1038/s41592-021-01316-y. |
