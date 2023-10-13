@@ -20,8 +20,7 @@ function getIllustrationFiles(iri, id) {
   files.reverse();
   return files.map((f) => {
     const ext = f.split('.').slice(-1)[0];
-    // const url = `https://hubmapconsortium.github.io/ccf-releases/${f.slice(3)}`;
-    const url = `assets/TEMP/temp-svgs/2d-ftu-${id}.${ext}`;
+    const url = `https://hubmapconsortium.github.io/ccf-releases/${f.slice(3)}`;
     return {
       '@id': `${iri}#${ext}_file`,
       '@type': 'FtuIllustrationFile',
