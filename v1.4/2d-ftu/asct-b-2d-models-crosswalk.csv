@@ -1159,11 +1159,11 @@ Liver,UBERON:0002107,#FTULiverLobule_Inset2,#2DRefObjects,Hepatocyte,Hepatocyte_
 Liver,UBERON:0002107,#FTULiverLobule_Inset2,#2DRefObjects,Hepatocyte,Hepatocyte_66,hepatocyte,CL:0000182,http://purl.obolibrary.org/obo/CL_0000182,2d-ftu-liver-liver-lobule,1,CT,,,,2
 Liver,UBERON:0002107,#FTULiverLobule_Inset2,#2DRefObjects,Hepatocyte,Hepatocyte_67,hepatocyte,CL:0000182,http://purl.obolibrary.org/obo/CL_0000182,2d-ftu-liver-liver-lobule,1,CT,,,,2
 Liver,UBERON:0002107,#FTULiverLobule_Inset2,#2DRefObjects,Hepatocyte,Hepatocyte_68,hepatocyte,CL:0000182,http://purl.obolibrary.org/obo/CL_0000182,2d-ftu-liver-liver-lobule,1,CT,,,,2
-Kidney,UBERON:0002113,#FTUNephron,#2DRefObjects,Thin_limb,Thin_limb_1,ascending thin limb of loop of Henle,UBERON:0004193,http://purl.obolibrary.org/obo/UBERON_0004193,2d-ftu-kidney-nephron,1,AS,,,,
-Kidney,UBERON:0002113,#FTUNephron,#2DRefObjects,Thin_limb,Thin_limb_2,descending thin limb of loop of Henle,UBERON:0001289,http://purl.obolibrary.org/obo/UBERON_0001289,2d-ftu-kidney-nephron,1,AS,,,,
-Kidney,UBERON:0002113,#FTUNephron,#2DRefObjects,Thin_limb,Thin_Limb_Cell_1,kidney loop of Henle thin ascending limb epithelial cell,CL:1001107,http://purl.obolibrary.org/obo/CL_1001107,2d-ftu-kidney-nephron,1,CT,,,,
-Kidney,UBERON:0002113,#FTUNephron,#2DRefObjects,Thin_limb,Thin_Limb_Cell_2,kidney loop of Henle thin descending limb epithelial cell,CL:1001111,http://purl.obolibrary.org/obo/CL_1001111,2d-ftu-kidney-nephron,1,CT,,,,
-Kidney,UBERON:0002113,#FTUNephron,#2DRefObjects,Cortical_Collecting_Duct,Cortical_Collecting_Duct,cortical collecting duct,UBERON:0004203,http://purl.obolibrary.org/obo/UBERON_0004203,2d-ftu-kidney-nephron,1,AS,,,,
+Kidney,UBERON:0002113,#FTUNephron,#2DRefObjects,Thin_limb,Thin_limb_1,thin limb of loop of Henle,UBERON:0004193,http://purl.obolibrary.org/obo/UBERON_0004193,2d-ftu-kidney-nephron,1,AS,,,,
+Kidney,UBERON:0002113,#FTUNephron,#2DRefObjects,Thin_limb,Thin_limb_2,thin limb of loop of Henle,UBERON:0001289,http://purl.obolibrary.org/obo/UBERON_0001289,2d-ftu-kidney-nephron,1,AS,,,,
+Kidney,UBERON:0002113,#FTUNephron,#2DRefObjects,Thin_limb,Thin_Limb_Cell_1,kidney loop of Henle thin limb epithelial cell,CL:1001107,http://purl.obolibrary.org/obo/CL_1001107,2d-ftu-kidney-nephron,1,CT,,,,
+Kidney,UBERON:0002113,#FTUNephron,#2DRefObjects,Thin_limb,Thin_Limb_Cell_2,kidney loop of Henle thin limb epithelial cell,CL:1001111,http://purl.obolibrary.org/obo/CL_1001111,2d-ftu-kidney-nephron,1,CT,,,,
+Kidney,UBERON:0002113,#FTUNephron,#2DRefObjects,Collecting_Duct,Collecting_Duct,collecting duct,UBERON:0004203,http://purl.obolibrary.org/obo/UBERON_0004203,2d-ftu-kidney-nephron,1,AS,,,,
 Kidney,UBERON:0002113,#FTUNephron,#2DRefObjects,Distal_Convoluted_Tubule,Distal_Convoluted_Tubule_1,distal convoluted tubule,UBERON:0001292,http://purl.obolibrary.org/obo/UBERON_0001292,2d-ftu-kidney-nephron,1,AS,,,,
 Kidney,UBERON:0002113,#FTUNephron,#2DRefObjects,Distal_Convoluted_Tubule,Distal_Convoluted_Tubule_2,distal convoluted tubule,UBERON:0001292,http://purl.obolibrary.org/obo/UBERON_0001292,2d-ftu-kidney-nephron,1,AS,,,,
 Kidney,UBERON:0002113,#FTUNephron,#2DRefObjects,Distal_Convoluted_Tubule,Distal_Convoluted_Tubule_Cell_1,kidney distal convoluted tubule epithelial cell,CL:1000849,http://purl.obolibrary.org/obo/CL_1000849,2d-ftu-kidney-nephron,1,AS,,,,
@@ -1180,8 +1180,8 @@ Kidney,UBERON:0002113,#FTUNephron,#2DRefObjects,Distal_Convoluted_Tubule,Distal_
 Kidney,UBERON:0002113,#FTUNephron,#2DRefObjects,Distal_Convoluted_Tubule,Distal_Convoluted_Tubule_Cell_12,kidney distal convoluted tubule epithelial cell,CL:1000849,http://purl.obolibrary.org/obo/CL_1000849,2d-ftu-kidney-nephron,1,AS,,,,
 Kidney,UBERON:0002113,#FTUNephron,#2DRefObjects,Distal_Convoluted_Tubule,Distal_Convoluted_Tubule_Cell_13,kidney distal convoluted tubule epithelial cell,CL:1000849,http://purl.obolibrary.org/obo/CL_1000849,2d-ftu-kidney-nephron,1,AS,,,,
 Kidney,UBERON:0002113,#FTUNephron,#2DRefObjects,Distal_Convoluted_Tubule,Distal_Convoluted_Tubule_Cell_14,kidney distal convoluted tubule epithelial cell,CL:1000849,http://purl.obolibrary.org/obo/CL_1000849,2d-ftu-kidney-nephron,1,AS,,,,
-Kidney,UBERON:0002113,#FTUNephron,#2DRefObjects,Glomerulus,Glomerulus_1,Renal Corpuscle,UBERON:0001229,http://purl.obolibrary.org/obo/UBERON_0001229,2d-ftu-kidney-nephron,1,AS,,,,
-Kidney,UBERON:0002113,#FTUNephron,#2DRefObjects,Glomerulus,Glomerulus_2,Renal Corpuscle,UBERON:0001229,http://purl.obolibrary.org/obo/UBERON_0001229,2d-ftu-kidney-nephron,1,AS,,,,
+Kidney,UBERON:0002113,#FTUNephron,#2DRefObjects,Glomerulus,Glomerulus_1,renal corpuscle,UBERON:0001229,http://purl.obolibrary.org/obo/UBERON_0001229,2d-ftu-kidney-nephron,1,AS,,,,
+Kidney,UBERON:0002113,#FTUNephron,#2DRefObjects,Glomerulus,Glomerulus_2,renal corpuscle,UBERON:0001229,http://purl.obolibrary.org/obo/UBERON_0001229,2d-ftu-kidney-nephron,1,AS,,,,
 Kidney,UBERON:0002113,#FTUNephron,#2DRefObjects,Connecting_Tubule,Connecting_Tubule_1,connecting tubule,UBERON:0005097,http://purl.obolibrary.org/obo/UBERON_0005097,2d-ftu-kidney-nephron,1,AS,,,,
 Kidney,UBERON:0002113,#FTUNephron,#2DRefObjects,Connecting_Tubule,Connecting_Tubule_2,connecting tubule,UBERON:0005097,http://purl.obolibrary.org/obo/UBERON_0005097,2d-ftu-kidney-nephron,1,AS,,,,
 Kidney,UBERON:0002113,#FTUNephron,#2DRefObjects,Connecting_Tubule,Connecting_Tubule_Cell_1,kidney connecting tubule epithelial cell,CL:1000768,http://purl.obolibrary.org/obo/CL_1000768,2d-ftu-kidney-nephron,1,CT,,,,1
