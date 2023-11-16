@@ -100,6 +100,7 @@ async function main() {
     'Attribution Instructions': mdToHtml(m.citation),
     Category: 'Anatomy',
     Collection: 'Human Reference Atlas 3D Reference Object Library',
+    Subcollection: parser.getName().includes('female') ? 'Female' : 'Male',
     Description: mdToHtml(m.description),
     // 'Diagnostic Code': '',
     // 'Experimental Method': '',
