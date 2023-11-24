@@ -40,9 +40,9 @@
 </descriptions>
 <language>EN</language>
 <alternateIdentifiers>
-	<alternateIdentifier alternateIdentifierType="How to Cite This Model">Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record, Ellen Quardokus, Andreas Bueckle, Katy Börner. 2021. HuBMAP CCF 3D Reference Object Library.https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html. Accessed on December 1, 2021.</alternateIdentifier>
+	<alternateIdentifier alternateIdentifierType="How to Cite This Model">Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record, Ellen Quardokus, Andreas Bueckle, Katy Börner. 2021. HuBMAP CCF 3D Reference Object Library.https://humanatlas.io/3d-reference-library. Accessed on December 1, 2021.</alternateIdentifier>
 	<alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM585.ZVKW.798</alternateIdentifier>
-	<alternateIdentifier alternateIdentifierType="How to Cite This 3D Data Overall">Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record, Ellen Quardokus, Andreas Bueckle, Katy Börner. 2021. HuBMAP CCF 3D Reference Object Library. https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html. Accessed on December 1, 2021.</alternateIdentifier>
+	<alternateIdentifier alternateIdentifierType="How to Cite This 3D Data Overall">Browne, Kristen, Leonard E. Cross, Bruce W. Herr II, Lisel Record, Ellen Quardokus, Andreas Bueckle, Katy Börner. 2021. HuBMAP CCF 3D Reference Object Library. https://humanatlas.io/3d-reference-library. Accessed on December 1, 2021.</alternateIdentifier>
 </alternateIdentifiers>
 <formats>
 	<format>.glb</format>

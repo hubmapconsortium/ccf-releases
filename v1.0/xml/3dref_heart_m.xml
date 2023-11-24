@@ -29,7 +29,7 @@
         <subject>Heart, Male 3D Organ v1.0</subject>
     </subjects>
     <descriptions>
-        <description descriptionType="Abstract">[This reference organ](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) was created using data from the Visible Human Male, provided by the National Library of Medicine.</description>
+        <description descriptionType="Abstract">[This reference organ](https://humanatlas.io/3d-reference-library) was created using data from the Visible Human Male, provided by the National Library of Medicine.</description>
     </descriptions>
     <rightsList>
         <rights rightsIdentifier="CC-BY-4.0" rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>

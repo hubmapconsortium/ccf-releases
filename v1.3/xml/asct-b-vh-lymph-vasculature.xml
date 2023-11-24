@@ -72,7 +72,7 @@
 <alternateIdentfiers>
   <alternateIdentfier alternateIdentiferType="HuBMAP ID">HBM469.NHVB.448</alternateIdentfier>
   <alternateIdentfier alternateIdentfierType="How to Cite This Data Table">Dhruv Singhal; Maxim Itkin; Avinash Boppana, HuBMAP ASCT+B Tables. Lymph Vasculature v1.2,https://doi.org/10.48539/HBM469.NHVB.448. Accessed on December 15, 2022.</alternateIdentfier>
-  <alternateIdentfier alternateIdentfierType="How to Cite ASCT+B Tables Overall">Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2022. [*HuBMAP ASCT+B Tables*](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html). Accessed on December 15, 2022.</alternateIdentfier>
+  <alternateIdentfier alternateIdentfierType="How to Cite ASCT+B Tables Overall">Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2022. [*HuBMAP ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on December 15, 2022.</alternateIdentfier>
 </alternateIdentfiers>
 <formats>
 	<format>.csv</format>

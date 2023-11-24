@@ -54,7 +54,7 @@
 <alternateIdentifiers>
 	<alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM232.FSRK.728</alternateIdentifier>
 	<alternateIdentifier alternateIdentifierType="How to Cite This Model">Kristen Browne; Heidi Schlehlein. 2022. 3D Reference Organ for Blood Vasculature, Female v1.2 https://doi.org/10.48539/HBM232.FSRK.728. Accessed on May 6, 2022.>
-	<alternateIdentifier alternateIdentifierType="How to Cite This 3D Data Overall">Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2022. [*HuBMAP CCF 3D Reference Object Library*.](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html) Accessed on May 6, 2022.</alternateIdentifier>
+	<alternateIdentifier alternateIdentifierType="How to Cite This 3D Data Overall">Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2022. [*HuBMAP CCF 3D Reference Object Library*.](https://humanatlas.io/3d-reference-library) Accessed on May 6, 2022.</alternateIdentifier>
 </alternateIdentifiers>
 <formats>
 	<format>.glb</format>
