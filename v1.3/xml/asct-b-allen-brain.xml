@@ -60,13 +60,13 @@
   <date dateType="Available">2022-12-15</date>
 </dates>
 <descriptions>
-  <description>[Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html) aim to capture the nested *part_of* structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts. Only cell types and biomarkers for the primary motor cortex are represented in the table currently [(Bakken et al. 2021)](https://doi.org/10.1038/s41586-021-03465-8.)</description>
+  <description>[Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://humanatlas.io/asctb-tables) aim to capture the nested *part_of* structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts. Only cell types and biomarkers for the primary motor cortex are represented in the table currently [(Bakken et al. 2021)](https://doi.org/10.1038/s41586-021-03465-8.)</description>
 </decsriptions>
 <language>EN</language>
 <alternateIdentfiers>
   <alternateIdentfier alternateIdentiferType="HuBMAP ID">HBM256.HGZN.489</alternateIdentfier>
   <alternateIdentfier alternateIdentfierType="How to Cite This Data Table">Jeremy A. Miller; Raymond Sanchez; Richard Scheuermann. HuBMAP ASCT+B Tables. Brain v1.3,https://doi.org/10.48539/HBM256.HGZN.489, Accessed on December 15, 2022.</alternateIdentfier>
-  <alternateIdentfier alternateIdentfierType="How to Cite ASCT+B Tables Overall">Quardokus, Ellen M., Bruce W. Herr II, Lisel Record, Katy Börner. 2022. [*HuBMAP ASCT+B Tables*](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html). Accessed on December 15, 2022.</alternateIdentfier>
+  <alternateIdentfier alternateIdentfierType="How to Cite ASCT+B Tables Overall">Quardokus, Ellen M., Bruce W. Herr II, Lisel Record, Katy Börner. 2022. [*HuBMAP ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on December 15, 2022.</alternateIdentfier>
 </alternateIdentfiers>
 <formats>
 	<format>.csv</format>

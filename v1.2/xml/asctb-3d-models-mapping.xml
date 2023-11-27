@@ -54,7 +54,7 @@
 <alternateIdentifiers>
 	<alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM858.DNFV.736</alternateIdentifier>
 	<alternateIdentifier alternateIdentifierType="How to Cite This Data Table">Ellen M. Quardokus; Heidi Schlehlein; Bruce W. Herr II; Katy Börner. (2022). Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 3D Reference Object Library Mapping https://doi.org/10.48539/HBM858.DNFV.736. Accessed on May 06, 2022.</alternateIdentifier>
-	<alternateIdentifier alternateIdentifierType="How to Cite 3D Data Overall">Heidi Schlehlein; Bruce W. Herr II; Ellen M. Quardokus; Andreas Bueckle; Katy Börner. 2022. [*HuBMAP CCF 3D Reference Object Library*](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html). Accessed on May 06, 2022.</alternateIdentifier>
+	<alternateIdentifier alternateIdentifierType="How to Cite 3D Data Overall">Heidi Schlehlein; Bruce W. Herr II; Ellen M. Quardokus; Andreas Bueckle; Katy Börner. 2022. [*HuBMAP CCF 3D Reference Object Library*](https://humanatlas.io/3d-reference-library). Accessed on May 06, 2022.</alternateIdentifier>
 </alternateIdentifiers>
 <formats>
 	<format>.csv</format>
