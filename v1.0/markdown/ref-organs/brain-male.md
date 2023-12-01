@@ -5,8 +5,8 @@
 
 | Label | Value |
 | :------------- |:-------------|
-| **Creator(s):** | Allen Institute |
-| **Creator ORCID:** | [00dcv1019](https://ror.org/00dcv1019) |
+| **Creator(s):** | Kristen Browne |
+| **Creator ORCID:** | [0000-0003-4066-7531](https://orcid.org/0000-0003-4066-7531) |
 | **Project Lead:** | Katy B&ouml;rner |
 | **Project Lead ORCID:** | [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137) |
 | **Date:** | 2021-03-12 |
