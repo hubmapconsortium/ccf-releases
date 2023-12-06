@@ -1,7 +1,7 @@
-# 3D Reference Organ for Brain, Female v1.2
+# 3D Reference Organ for Brain, Female v1.3
 
 ### Description
-[This reference organ](https://humanatlas.io/3d-reference-library) was created using data from the "[Allen Human Reference Atlas – 3D, 2020](https://doi.org/10.1002/cne.24080)" representing one half of the human brain (Ding et al., 2016). The 141 anatomical structures were mirrored to arrive at a whole human brain (as intended) and resized to fit the Visible Human Male and Female bodies. Note that this organ is not licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). Instead, these terms of use apply: [Allen Institute Terms of Use](https://alleninstitute.org/legal/terms-use).
+[This reference organ](https://humanatlas.io/3d-reference-library) was created using data from the "[Allen Human Reference Atlas – 3D, 2020](https://doi.org/10.1002/cne.24080)" representing one half of the human brain (Ding et al., 2016). The 141 anatomical structures were mirrored to arrive at a whole human brain (as intended) and resized to fit the Visible Human Male and Female bodies. In version v1.3, an update in licensing occurred; this brain model is now licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). 
 
 | Label | Value |
 | :------------- |:-------------|
@@ -11,13 +11,13 @@
 | **Project Lead ORCID:** | [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137) |
 | **Reviewer(s):** | Song-Lin Ding |
 | **Reviewer ORCID(s):** |[0000-0002-7072-5272](https://doi.org/10.5072/0000-0002-7072-5272) |
-| **Date:** | 2022-05-06 |
-| **License:** | [Allen Institute Terms of Use](https://alleninstitute.org/legal/terms-use) |
+| **Date:** | 2023-12-15 |
+| **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
 | **Funder:** | National Institutes of Health |
-| **Award Number:** | OT2OD026671 |
-| **HuBMAP ID:** | HBM883.TBLV.838 |
-| **3D Data:** | [Brain, Female v1.2](https://cdn.humanatlas.io/hra-releases/v1.2/models/Allen_F_Brain.glb) |
-| **DOI:** | [https://doi.org/10.48539/HBM883.TBLV.838](https://doi.org/10.48539/HBM883.TBLV.838) |
-| **How to Cite This 3D Data:** | Kristen Browne; Heidi Schlehlein. 2022. *3D Reference Organ for Brain, Female v1.2*. [https://doi.org/10.48539/HBM883.TBLV.838](https://doi.org/10.48539/HBM883.TBLV.838). Accessed on May 6, 2022.|
-| **How to Cite 3D Data Overall:** | Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2022. [*HuBMAP CCF 3D Reference Object Library*.](https://humanatlas.io/3d-reference-library) Accessed on May 6, 2022. |
+| **Award Number:** |OT2OD033756 and OT2OD026671|
+| **HuBMAP ID:** | HBM425.NDKM.969 |
+| **3D Data:** | [Brain, Female v1.3](https://cdn.humanatlas.io/hra-releases/v2.0/models/Allen_F_Brain.glb) |
+| **DOI:** | [https://doi.org/10.48539/HBM425.NDKM.969]([https://doi.org/10.48539/HBM425.NDKM.969](https://doi.org/10.48539/HBM425.NDKM.969)) |
+| **How to Cite This 3D Data:** | Kristen Browne; Heidi Schlehlein. 2023. 3D Reference Organ for Brain, Female v1.3. https://doi.org/10.48539/HBM425.NDKM.969. Accessed on December 15, 2023.|
+| **How to Cite 3D Data Overall:** | Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2023. [*HuBMAP HRA 3D Reference Object Library*.](https://humanatlas.io/3d-reference-library) Accessed on December 15, 2023. |
