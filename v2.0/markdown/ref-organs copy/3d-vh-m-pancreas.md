@@ -1,7 +1,8 @@
-# 3D Reference Organ for Pancreas, Male v1.1
+# 3D Reference Organ for Pancreas, Male v1.2
 
 ### Description
-[This reference organ](https://humanatlas.io/3d-reference-library) was created using data from the Visible Human Male, provided by the National Library of Medicine.
+[This reference organ](https://humanatlas.io/3d-reference-library) was created using data from the Visible Human Male, provided by the National Library of Medicine. Adjustments were made from the previous version to make the neck region smaller, and the body and tail regions more equal in length.
+
 
 | Label | Value |
 | :------------- |:-------------|
@@ -11,13 +12,13 @@
 | **Project Lead ORCID:** | [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137) |
 | **Reviewer(s):** | Martha Campbell-Thompson | 
 | **Reviewer ORCID(s):** |[0000-0001-6878-1235](https://doi.org/10.5072/0000-0001-6878-1235) |
-| **Date:** | 2022-05-06 |
+| **Date:** | 2023-12-15 |
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
 | **Funder:** | National Institutes of Health |
-| **Award Number:** | OT2OD026671 |
-| **HuBMAP ID:** | HBM992.BMVW.775 |
-| **3D Data:** | [Pancreas, Male v1.1](https://cdn.humanatlas.io/hra-releases/v1.2/models/VH_M_Pancreas.glb) |
-| **DOI:** | [https://doi.org/10.48539/HBM992.BMVW.775](https://doi.org/10.48539/HBM992.BMVW.775) |
-| **How to Cite This 3D Data:** | Kristen Browne; Heidi Schlehlein. 2022. *3D Reference Organ for Pancreas, Male v1.1.* [https://doi.org/10.48539/HBM992.BMVW.775](https://doi.org/10.48539/HBM992.BMVW.775). Accessed on May 6, 2022. |
-| **How to Cite 3D Data Overall:** | Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2022. [*HuBMAP CCF 3D Reference Object Library*.](https://humanatlas.io/3d-reference-library) Accessed on May 6, 2022. |
+| **Award Number:** | OT2OD033756 and OT2OD026671 |
+| **HuBMAP ID:** | HBM368.XMJZ.722 |
+| **3D Data:** | [Pancreas, Male v1.2](https://cdn.humanatlas.io/hra-releases/v1.2/models/3d-vh-m-pancreas.glb) |
+| **DOI:** | [https://doi.org/10.48539/HBM368.XMJZ.722](https://doi.org/10.48539/HBM368.XMJZ.722) |
+| **How to Cite This 3D Data:** | Kristen Browne; Heidi Schlehlein. 2023. *3D Reference Organ for Pancreas, Male v1.2.* [https://doi.org/10.48539/HBM368.XMJZ.722](https://doi.org/10.48539/HBM368.XMJZ.722). Accessed on December 15, 2023. |
+| **How to Cite 3D Data Overall:** | Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2023. [*HuBMAP CCF 3D Reference Object Library*.](https://humanatlas.io/3d-reference-library) Accessed on December 15, 2023. |
