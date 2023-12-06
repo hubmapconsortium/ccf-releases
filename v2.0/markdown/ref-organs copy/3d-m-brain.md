@@ -20,4 +20,4 @@
 | **3D Data:** | [Brain, Male v1.3](https://cdn.humanatlas.io/hra-releases/v2.0/models/Allen_M_Brain.glb) |
 | **DOI:** | [https://doi.org/10.48539/HBM929.XKCL.339](https://doi.org/10.48539/HBM929.XKCL.339) |
 | **How to Cite This 3D Data:** | Kristen Browne; Heidi Schlehlein. 2023. *3D Reference Organ for Brain, Male v1.3*. [https://doi.org/10.48539/HBM929.XKCL.339](https://doi.org/10.48539/HBM929.XKCL.339). Accessed on December 15, 2023. |
-| **How to Cite 3D Data Overall:** | Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2023. [*HuBMAP HRA 3D Reference Object Library*.](https://humanatlas.io/3d-reference-library) Accessed on December 15, 2023. |
+| **How to Cite 3D Data Overall:** | Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2023. [*HuBMAP CCF 3D Reference Object Library*.](https://humanatlas.io/3d-reference-library) Accessed on December 15, 2023. |
