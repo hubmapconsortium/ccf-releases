@@ -1,7 +1,9 @@
-# Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Brain, v1.4
+# Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Brain, v1.5
 
 ### Description
-This is a major update of the CT+B component of the table that extends it from well-curated high-resolution cell types in a single small brain region (DOI: 10.1038/s41586-021-03465-8), to also include a first draft of cell types across the entire human brain (DOI: 10.1101/2022.10.12.511898).  There are no changes to the AS part of the table, EXCEPT adding the appropriate reference (DOI: 10.1002/cne.24080) in each row of the table corresponding to anatomic structures.  Similarly, there are no changes to rows relating to cell types from v1.3 of this table, EXCEPT adding “Human - Motor Cortex” in the “CT/1/NOTES” slot to distinguish these cell types from the newly added whole brain atlas types described in detail below. In addition, Kimberly Siletti has replaced Raymond Sanchez as an author of this table, as the updated CT components represent work that she led and participated in converting to this format.
+[Brain v1.5](https://cdn.humanatlas.io/hra-releases/v2.0/asct-b/asct-b-allen-brain.csv) is a minor update of the table that provides parent cell type mappings to Cell Ontology for the specific cell types that were added to [Brain v1.4](https://cdn.humanatlas.io/hra-releases/v1.4/asct-b/asct-b-allen-brain.csv), but do not yet have Cell Ontology (CL) or Provisional Cell Ontology (PCL) IDs. More of the brain anatomy was also mapped to the Uberon multispecies anatomy ontology based on exact matching synonym terms.
+
+[Brain v1.4](https://cdn.humanatlas.io/hra-releases/v1.4/asct-b/asct-b-allen-brain.csv) was a major update of the CT+B component of the table that extends it from well-curated high-resolution cell types in a single small brain region (DOI: 10.1038/s41586-021-03465-8), to also include a first draft of cell types across the entire human brain (DOI: 10.1101/2022.10.12.511898).  There are no changes to the AS part of the table, EXCEPT adding the appropriate reference (DOI: 10.1002/cne.24080) in each row of the table corresponding to anatomic structures.  Similarly, there are no changes to rows relating to cell types from v1.3 of this table, EXCEPT adding “Human - Motor Cortex” in the “CT/1/NOTES” slot to distinguish these cell types from the newly added whole brain atlas types described in detail below. In addition, Kimberly Siletti has replaced Raymond Sanchez as an author of this table, as the updated CT components represent work that she led and participated in converting to this format.
 
 The new information cell type names and locations for the CT+B component of the table are derived from Table S2 from Siletti et al 2023, representing the 461 superclusters defined therein. Biomarkers for these clusters were defined using NS-Forest markers as described in more detail below. The conversion from Table S2 to this ASCT+B table was done as follows, where [bracketed] represent column names from Table S2: 
 * ANATOMIC STRUCTURES: (for the CT+B rows only.  ‘AS’ rows are unchanged as mentioned)
@@ -50,13 +52,13 @@ c.	We performed NS-Forest at the supercluster level using the sampled_WHB datase
 | **Project Lead ORCID:** | [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137) |
 | **Reviewer(s):** | Ed Lein; David Osumi-Sutherland; Ellen M. Quardokus 
 | **Reviewers ORCID(s):** |[0000-0001-9012-6552](https://orcid.org/0000-0001-9012-6552); [0000-0002-7073-9172](https://orcid.org/0000-0002-7073-9172); [0000-0001-7655-4833](https://orcid.org/0000-0001-7655-4833)|
-| **Creation Date:** | 2023-06-15 |
+| **Creation Date:** | 2023-012-15 |
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
 | **Funder:** | National Institutes of Health |
-| **Award Number:** | OT2OD026671 |
-| **HuBMAP ID:** | HBM568.VJBK.732 |
-| **Data Table:** |[Brain v1.4](https://cdn.humanatlas.io/hra-releases/v1.4/asct-b/asct-b-allen-brain.csv)|
-| **DOI:** | [https://doi.org/10.48539/HBM568.VJBK.732](https://doi.org/10.48539/HBM568.VJBK.732) |
-| **How to Cite This Data Table:** |  Jeremy A. Miller; Raymond Sanchez; Richard Scheuermann. HuBMAP ASCT+B Tables. Brain v1.4,https://doi.org/10.48539/HBM568.VJBK.732, Accessed on June 15, 2023.|
-| **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2023. [*HuBMAP ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on June 15, 2023. |
+| **Award Number:** | OT2OD033756 and OT2OD026671 |
+| **HuBMAP ID:** | HBM474.JXRC.885 |
+| **Data Table:** |[Brain v1.5](https://cdn.humanatlas.io/hra-releases/v2.0/asct-b/asct-b-allen-brain.csv)|
+| **DOI:** | [https://doi.org/10.48539/HBM474.JXRC.885](https://doi.org/10.48539/HBM474.JXRC.885) |
+| **How to Cite This Data Table:** |  Jeremy A. Miller; Raymond Sanchez; Richard Scheuermann. HuBMAP ASCT+B Tables. Brain v1.5,https://doi.org/10.48539/HBM474.JXRC.885, Accessed on December 15, 2023.|
+| **How to Cite ASCT+B Tables Overall:** | Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy B&ouml;rner. 2023. [*HuBMAP ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on December 15, 2023. |
