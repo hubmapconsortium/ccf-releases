@@ -1,7 +1,7 @@
-# 2D Nephron Functional Tissue Unit (FTU) for Kidney, v1.1
+# 2D Nephron Functional Tissue Unit (FTU) for Kidney, v1.2
 
 ### Description
-This functional tissue unit (FTU) illustration includes cell types related to the nephron FTU in the ASCT+B Table [Kidney v1.2](https://cdn.humanatlas.io/hra-releases/v1.2/asct-b/ASCT-B_VH_Kidney.csv). This illustration was inspired by the [Kidney Tissue Atlas Explorer](https://atlas.kpmp.org/explorer/)created by the Kidney Precision Medicine Project (KPMP). Multiple histology atlases, especially “Human Microscopic Anatomy” (R.V. Krstić, 1994) and “Histology: A Text and Atlas” (Michael H. Ross, et al., 2003) were referenced. Cell type diameters were primarily defined by [(Hu, McDonough, and Layton 2021)](https://doi.org/10.1016/j.isci.2021.102667).
+This functional tissue unit (FTU) illustration includes cell types related to the nephron FTU in the ASCT+B Table [Kidney v1.3](https://cdn.humanatlas.io/hra-releases/v1.4/asct-b/asct-b-vh-kidney.csv). This illustration was inspired by the [Kidney Tissue Atlas Explorer](https://atlas.kpmp.org/explorer/)created by the Kidney Precision Medicine Project (KPMP). Multiple histology atlases, especially “Human Microscopic Anatomy” (R.V. Krstić, 1994) and “Histology: A Text and Atlas” (Michael H. Ross, et al., 2003) were referenced. Cell type diameters were primarily defined by [(Hu, McDonough, and Layton 2021)](https://doi.org/10.1016/j.isci.2021.102667). In v1.2 of the 2D Nephron FTU for kidney, three insets were added: inner and outer medullary and cortical collecting ducts. Regional areas of the kidney were adjusted to reflect the ratio of the stripes against KPMP measurements.
 
 Primary references:
 
@@ -32,13 +32,13 @@ Machine learning and AI are employed in segmenting these FTUs from data which wi
 | **Project Lead ORCID:** | [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137) |
 | **Reviewer(s):** | Sanjay Jain; Matthias Kretzler; M. Todd Valerius  |
 | **Reviewer ORCID(s):** |[0000-0003-2804-127X](https://orcid.org/0000-0003-2804-127X); [0000-0003-4064-0582](https://orcid.org/0000-0003-4064-0582); [0000-0001-8143-9231](https://orcid.org/0000-0001-8143-9231)|
-| **Creation Date:** | 2022-12-15|
+| **Creation Date:** | 2023-12-15|
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
 | **Funder:** | National Institutes of Health |
-| **Award Number:** | OT2OD026671 |
-| **HuBMAP ID:** | HBM868.LLHZ.223 |
-| **2D Data:** | Kidney, 2D Nephron FTU v.1.1 [SVG](https://cdn.humanatlas.io/hra-releases/v1.3/2d-ftu/2d-ftu-kidney-nephron.svg) [AI](https://cdn.humanatlas.io/hra-releases/v1.3/2d-ftu/2d-ftu-kidney-nephron.ai)|
-| **DOI:** | [https://doi.org/10.48539/HBM868.LLHZ.223](https://doi.org/10.48539/HBM868.LLHZ.223) |
-| **How to Cite This 2D Data:** | Rachel Bajema 2022. *2D Reference Nephron FTU for Kidney, v1.1.* [https://doi.org/10.48539/HBM868.LLHZ.223](https://doi.org/10.48539/HBM868.LLHZ.223). Accessed on December 15, 2022.|
-| **How to Cite 2D Data Overall:** | Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy Börner. 2022. [*HuBMAP CCF 2D Reference Object Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on December 15, 2022.|
+| **Award Number:** |OT2OD033756 and OT2OD026671 |
+| **HuBMAP ID:** | HBM927.DQNW.448 |
+| **2D Data:** | Kidney, 2D Nephron FTU v.1.2 [SVG](https://cdn.humanatlas.io/hra-releases/v2.0/2d-ftu/2d-ftu-kidney-nephron.svg) [AI](https://cdn.humanatlas.io/hra-releases/v2.0/2d-ftu/2d-ftu-kidney-nephron.ai)|
+| **DOI:** | [https://doi.org/10.48539/HBM927.DQNW.448](https://doi.org/10.48539HBM927.DQNW.448) |
+| **How to Cite This 2D Data:** | Rachel Bajema 2023. *2D Reference Nephron FTU for Kidney, v1.2.* [https://doi.org/10.48539/HBM927.DQNW.448](https://doi.org/10.48539/HBM927.DQNW.448). Accessed on December 15, 2023.|
+| **How to Cite 2D Data Overall:** | Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy Börner. 2023. [*HuBMAP CCF 2D Reference Object Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on December 15, 2023.|
