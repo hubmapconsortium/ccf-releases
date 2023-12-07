@@ -4,7 +4,7 @@ const Papa = require('papaparse');
 
 const output = '../scratch/2d-ftu-illustrations.jsonld';
 const baseIri = 'https://purl.humanatlas.io/2d-ftu/';
-const MAPPING = '../v1.4/2d-ftu/asct-b-2d-models-crosswalk.csv';
+const MAPPING = '../v2.0/2d-ftu/asct-b-2d-models-crosswalk.csv';
 
 const iriLookup = {};
 const refIllustrations = {};
@@ -16,7 +16,7 @@ const MIMETYPES = {
 };
 
 function getIllustrationFiles(iri, id) {
-  const files = glob.sync(`../v1.*/2d-ftu/2d-ftu-${id}.*`);
+  const files = glob.sync(`../v?.*/2d-ftu/2d-ftu-${id}.*`);
   files.reverse();
   return files.map((f) => {
     const ext = f.split('.').slice(-1)[0];
@@ -67,6 +67,7 @@ for (const row of mappingRows) {
     '@id': `${iri}#${row.node_name}`,
     '@type': 'FtuIllustrationNode',
     svg_id: row.node_name,
+    svg_group_id: row.node_group,
     label: row.label,
     representation_of: row.representation_of,
   });
