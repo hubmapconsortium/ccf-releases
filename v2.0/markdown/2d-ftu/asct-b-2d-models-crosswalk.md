@@ -17,7 +17,7 @@ Minor revisions to add new cell type Cell Ontology mappings to thymus cells, cor
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
 | **Funder:** | National Institutes of Health |
-| **Award Number:** | OT2OD033756 and OT2OD026671 |
+| **Award Number:** | OT2OD033756; OT2OD026671 |
 | **HuBMAP ID:** | HBM637.PWPQ.773 |
 | **Data Table:** | [Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 2D Functional Tissue Unit (FTU) Reference Object Library Crosswalk, v1.3](https://cdn.humanatlas.io/hra-releases/v2.0/2d-ftu/asct-b-2d-models-crosswalk.csv) |
 | **DOI:** | [https://doi.org/10.48539/HBM637.PWPQ.773](https://doi.org/10.48539/HBM637.PWPQ.773) |

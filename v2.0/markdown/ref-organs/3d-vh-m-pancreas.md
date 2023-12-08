@@ -16,7 +16,7 @@
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
 | **Funder:** | National Institutes of Health |
-| **Award Number:** | OT2OD033756 and OT2OD026671 |
+| **Award Number:** | OT2OD033756; OT2OD026671 |
 | **HuBMAP ID:** | HBM368.XMJZ.722 |
 | **3D Data:** | [Pancreas, Male v1.2](https://cdn.humanatlas.io/hra-releases/v2.0/models/3d-vh-m-pancreas.glb) |
 | **DOI:** | [https://doi.org/10.48539/HBM368.XMJZ.722](https://doi.org/10.48539/HBM368.XMJZ.722) |

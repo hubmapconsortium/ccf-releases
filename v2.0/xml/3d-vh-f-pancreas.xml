@@ -2,7 +2,7 @@
 <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
 <identifier identifierType="DOI">https://doi.org/10.48539/HBM938.BRGC.644</identifier>
 <titles>
-  <title>3D Reference Organ for Pancreas, Female, </title>
+  <title>3D Reference Organ for Pancreas, Female, v1.2</title>
 </titles>
 <creators>
   <creator>
@@ -20,7 +20,7 @@
 </creators>
 <publisher>HuBMAP</publisher>
 <publicationYear>2023</publicationYear>
-<resourceType resourceTypeGeneral=""></resourceType>
+<resourceType resourceTypeGeneral="Model">3D reference human organ model</resourceType>
 <subjects>
   <subject>3D Reference Organ for Pancreas, Female</subject>
 </subjects>
@@ -47,8 +47,8 @@
 <language>EN</language>
 <alternateIdentifiers>
   <alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM938.BRGC.644</alternateIdentifier>
-  <alternateIdentifier alternateIdentifierType="How to Cite This ">Kristen Browne; Heidi Schlehlein. 2023. *3D Reference Organ for Pancreas, Female v1.2.* [https://doi.org/10.48539/HBM938.BRGC.644](https://doi.org/10.48539/HBM938.BRGC.644). Accessed on December 15, 2023.</alternateIdentifier>
-  <alternateIdentifier alternateIdentifierType="How to Cite  Overall">Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy Börner. 2023. [*HuBMAP CCF 3D Reference Object Library*.](https://humanatlas.io/3d-reference-library) Accessed on December 15, 2023.</alternateIdentifier>
+  <alternateIdentifier alternateIdentifierType="How to Cite This 3D Data">Kristen Browne; Heidi Schlehlein. 2023. *3D Reference Organ for Pancreas, Female v1.2.* [https://doi.org/10.48539/HBM938.BRGC.644](https://doi.org/10.48539/HBM938.BRGC.644). Accessed on December 15, 2023.</alternateIdentifier>
+  <alternateIdentifier alternateIdentifierType="How to Cite 3D Data Overall">Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy Börner. 2023. [*HuBMAP CCF 3D Reference Object Library*.](https://humanatlas.io/3d-reference-library) Accessed on December 15, 2023.</alternateIdentifier>
 </alternateIdentifiers>
 <formats>
 	<format>.glb</format>
@@ -59,7 +59,11 @@
 <fundingReferences>
 	<fundingReference>
 		<funderName>National Institutes of Health</funderName>
-		<awardNumber>OT2OD033756 and OT2OD026671</awardNumber>
+		<awardNumber>OT2OD033756</awardNumber>
+	</fundingReference>
+	<fundingReference>
+		<funderName>National Institutes of Health</funderName>
+		<awardNumber>OT2OD026671</awardNumber>
 	</fundingReference>
 </fundingReferences>
 </resource>

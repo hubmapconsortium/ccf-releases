@@ -27,7 +27,7 @@ Machine learning and AI are employed in segmenting these FTUs from data which wi
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
 | **Funder:** | National Institutes of Health |
-| **Award Number:** | OT2OD033756 and OT2OD026671 |
+| **Award Number:** | OT2OD033756; OT2OD026671 |
 | **HuBMAP ID:** | HBM974.XQDB.889|
 | **2D Data:** | Small Intestine, 2D Intestinal Villus FTU v1.0 [SVG](https://cdn.humanatlas.io/hra-releases/v2.0/2d-ftu/2d-ftu-small-intestine-villus.svg) [AI](https://cdn.humanatlas.io/hra-releases/v2.0/2d-ftu/2d-ftu-small-intestine-villus.ai) |
 | **DOI:** | [https://doi.org/10.48539/HBM974.XQDB.889](https://doi.org/10.48539/HBM974.XQDB.889) |

@@ -32,7 +32,7 @@ Standardization of lung cell type nomenclature, ontology expansion, gene and pro
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
 | **Funder:** | National Institutes of Health |
-| **Award Number:** | OT2OD033756 and OT2OD026671 |
+| **Award Number:** | OT2OD033756; OT2OD026671 |
 | **HuBMAP ID:** | HBM823.VZGJ.394 |
 | **Data Table:** | [Lung v1.4](https://cdn.humanatlas.io/hra-releases/v2.0/asct-b/asct-b-vh-lung.csv)  |
 | **DOI:** | [https://doi.org/10.48539/HBM823.VZGJ.394](https://doi.org/10.48539/HBM823.VZGJ.394) |

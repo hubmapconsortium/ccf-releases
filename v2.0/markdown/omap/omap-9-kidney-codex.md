@@ -17,7 +17,7 @@ OMAP-9 was designed for CODEX multiplex antibody-based imaging of fresh frozen h
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
 | **Funder:** | National Institute of Health (NIH) National Cancer Institute (NCI), Intramural Research Program of the NIH, National Institute of Allergy and Infectious Disease and National Cancer Institute, National Heart, Lung and Blood Institute|
-| **Award Number:** | OT2OD033756 and OT2OD026671 |
+| **Award Number:** | OT2OD033756; OT2OD026671 |
 | **HuBMAP ID:** | HBM542.NNZP.924 |
 | **Data Table:** | OMAP-9: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Kidney with CODEX, v1.1 [CSV](https://cdn.humanatlas.io/hra-releases/v2.0/omap/omap-9-kidney-codex.csv) [Excel](https://cdn.humanatlas.io/hra-releases/v2.0/omap/omap-9-kidney-codex.xlsx) |
 | **DOI:** | [https://doi.org/10.48539/HBM542.NNZP.924](https://doi.org/10.48539/HBM542.NNZP.924) |

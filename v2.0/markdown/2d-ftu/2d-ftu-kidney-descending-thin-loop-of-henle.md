@@ -39,7 +39,7 @@ Machine learning and AI are employed in segmenting these FTUs from data which wi
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
 | **Funder:** | National Institutes of Health |
-| **Award Number:** | OT2OD033756 and OT2OD026671 |
+| **Award Number:** | OT2OD033756; OT2OD026671 |
 | **HuBMAP ID:** | HBM979.XZTC.458|
 | **2D Data:** | Kidney, 2D Descending Thin Limb of Loop of Henle FTU, v.1.1 [SVG](https://cdn.humanatlas.io/hra-releases/v2.0/2d-ftu/2d-ftu-kidney-descending-thin-loop-of-henle.svg) [AI](https://cdn.humanatlas.io/hra-releases/v2.0/2d-ftu/2d-ftu-kidney-descending-thin-loop-of-henle.ai)|
 | **DOI:** | [https://doi.org/10.48539/HBM979.XZTC.458](https://doi.org/10.48539/v) |

@@ -31,7 +31,7 @@ Machine learning and AI are employed in segmenting these FTUs from data which wi
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
 | **Funder:** | National Institutes of Health |
-| **Award Number:** | OT2OD033756 and OT2OD026671 |
+| **Award Number:** | OT2OD033756; OT2OD026671 |
 | **HuBMAP ID:** | HBM574.WCKK.526 |
 | **2D Data:** | Skin, 2D Epidermal Ridge FTU v.1.1 [SVG](https://cdn.humanatlas.io/hra-releases/v2.0/2d-ftu/2d-ftu-pancreas-intercalated-duct.svg) [AI](https://cdn.humanatlas.io/hra-releases/v2.0/2d-ftu/2d-ftu-pancreas-intercalated-duct.ai) |
 | **DOI:** | [https://doi.org/10.48539/HBM574.WCKK.526](https://doi.org/10.48539/HBM574.WCKK.526) |

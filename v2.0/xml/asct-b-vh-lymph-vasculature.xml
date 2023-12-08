@@ -2,7 +2,7 @@
 <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
 <identifier identifierType="DOI">https://doi.org/10.48539/HBM836.BDKQ.873</identifier>
 <titles>
-  <title>Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Lymph Vasculature, </title>
+  <title>Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Lymph Vasculature, v1.4</title>
 </titles>
 <creators>
   <creator>
@@ -26,7 +26,7 @@
 </creators>
 <publisher>HuBMAP</publisher>
 <publicationYear>2023</publicationYear>
-<resourceType resourceTypeGeneral=""></resourceType>
+<resourceType resourceTypeGeneral="Dataset">ASCT+B Table</resourceType>
 <subjects>
   <subject>Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Lymph Vasculature</subject>
 </subjects>
@@ -71,8 +71,8 @@
 <language>EN</language>
 <alternateIdentifiers>
   <alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM836.BDKQ.873</alternateIdentifier>
-  <alternateIdentifier alternateIdentifierType="How to Cite This ">Dhruv Singhal; Maxim Itkin; Avinash Boppana, HuBMAP ASCT+B Tables. Lymph Vasculature v1.4, https://doi.org/10.48539/HBM836.BDKQ.873. Accessed on December 15, 2023.</alternateIdentifier>
-  <alternateIdentifier alternateIdentifierType="How to Cite  Overall">Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2023. [*HuBMAP ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on December 15, 2023.</alternateIdentifier>
+  <alternateIdentifier alternateIdentifierType="How to Cite This Data Table">Dhruv Singhal; Maxim Itkin; Avinash Boppana, HuBMAP ASCT+B Tables. Lymph Vasculature v1.4, https://doi.org/10.48539/HBM836.BDKQ.873. Accessed on December 15, 2023.</alternateIdentifier>
+  <alternateIdentifier alternateIdentifierType="How to Cite ASCT+B Tables Overall">Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2023. [*HuBMAP ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on December 15, 2023.</alternateIdentifier>
 </alternateIdentifiers>
 <formats>
 	<format>.csv</format>
@@ -83,7 +83,11 @@
 <fundingReferences>
 	<fundingReference>
 		<funderName>National Institutes of Health</funderName>
-		<awardNumber>OT2OD033756 and OT2OD026671</awardNumber>
+		<awardNumber>OT2OD033756</awardNumber>
+	</fundingReference>
+	<fundingReference>
+		<funderName>National Institutes of Health</funderName>
+		<awardNumber>OT2OD026671</awardNumber>
 	</fundingReference>
 </fundingReferences>
 </resource>

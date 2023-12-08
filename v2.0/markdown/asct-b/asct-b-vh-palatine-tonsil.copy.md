@@ -16,7 +16,7 @@ The Palatine Tonsil ASCT+B table is derived from published literature, public da
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
 | **Funder:** | National Institutes of Health |
-| **Award Number:** |OT2OD033756 and OT2OD026671 |
+| **Award Number:** |OT2OD033756; OT2OD026671 |
 | **HuBMAP ID:** | HBM636.MRBJ.524 |
 | **Data Table:** |[Palatine tonsil, v1.0](https://cdn.humanatlas.io/hra-releases/v2.0/asct-b/asct-b-vh-palatine-tonsil.csv)|
 | **DOI:** | [https://doi.org/10.48539/HBM636.MRBJ.524](https://doi.org/10.48539/HBM636.MRBJ.524) |

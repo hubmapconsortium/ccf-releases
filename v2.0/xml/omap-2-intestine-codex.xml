@@ -2,7 +2,7 @@
 <resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
 <identifier identifierType="DOI">https://doi.org/10.48539/HBM244.TNJG.649</identifier>
 <titles>
-  <title>OMAP-2 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Intestines with CODEX, </title>
+  <title>OMAP-2 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Intestines with CODEX, v1.3</title>
 </titles>
 <creators>
   <creator>
@@ -14,7 +14,7 @@
 </creators>
 <publisher>HuBMAP</publisher>
 <publicationYear>2023</publicationYear>
-<resourceType resourceTypeGeneral=""></resourceType>
+<resourceType resourceTypeGeneral="Dataset">Organ Mapping Antibody Panel</resourceType>
 <subjects>
   <subject>OMAP-2 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Intestines with CODEX</subject>
 </subjects>
@@ -95,8 +95,8 @@
 <language>EN</language>
 <alternateIdentifiers>
   <alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM244.TNJG.649</alternateIdentifier>
-  <alternateIdentifier alternateIdentifierType="How to Cite This ">John Hickey. OMAP-2 Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Intestine with CODEX v1.3. https://doi.org/10.48539/HBM244.TNJG.649. Accessed December 15,2023.</alternateIdentifier>
-  <alternateIdentifier alternateIdentifierType="How to Cite  Overall">Quardokus, Ellen M., Diane C. Saunders, Elizabeth McDonough, John W. Hickey, Christopher Werlein, Christine Surrette, Presha Rajbhandari, et al. 2023. “Organ Mapping Antibody Panels: A Community Resource for Standardized Multiplexed Tissue Imaging.” Nature Methods, July. https://doi.org/10.1038/s41592-023-01846-7.</alternateIdentifier>
+  <alternateIdentifier alternateIdentifierType="How to Cite This OMAP Tables">John Hickey. OMAP-2 Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Intestine with CODEX v1.3. https://doi.org/10.48539/HBM244.TNJG.649. Accessed December 15,2023.</alternateIdentifier>
+  <alternateIdentifier alternateIdentifierType="How to Cite OMAP Tables Overall">Quardokus, Ellen M., Diane C. Saunders, Elizabeth McDonough, John W. Hickey, Christopher Werlein, Christine Surrette, Presha Rajbhandari, et al. 2023. “Organ Mapping Antibody Panels: A Community Resource for Standardized Multiplexed Tissue Imaging.” Nature Methods, July. https://doi.org/10.1038/s41592-023-01846-7.</alternateIdentifier>
 </alternateIdentifiers>
 <formats>
 	<format>.csv</format>
@@ -107,7 +107,11 @@
 <fundingReferences>
 	<fundingReference>
 		<funderName>National Institutes of Health</funderName>
-		<awardNumber>OT2OD033756 and OT2OD026671</awardNumber>
+		<awardNumber>OT2OD033756</awardNumber>
+	</fundingReference>
+	<fundingReference>
+		<funderName>National Institutes of Health</funderName>
+		<awardNumber>OT2OD026671</awardNumber>
 	</fundingReference>
 </fundingReferences>
 </resource>

@@ -16,7 +16,7 @@ OMAP-2 was designed for CODEX (CO Detection by IndEXing) imaging of fresh frozen
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
 | **Funder:** | National Institutes of Health |
-| **Award Number:** |OT2OD033756 and OT2OD026671|
+| **Award Number:** |OT2OD033756; OT2OD026671|
 | **HuBMAP ID:** |HBM244.TNJG.649|
 | **Data Table:** | OMAP-2 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Intestine with CODEX v1.3 [CSV](https://cdn.humanatlas.io/hra-releases/v2.0/omap/omap-2-intestine-codex.csv) [Excel](https://cdn.humanatlas.io/hra-releases/v2.0/omap/omap-2-intestine-codex.xlsx) |
 | **DOI:** | [https://doi.org/10.48539/HBM244.TNJG.649](https://doi.org/10.48539/HBM244.TNJG.649) |

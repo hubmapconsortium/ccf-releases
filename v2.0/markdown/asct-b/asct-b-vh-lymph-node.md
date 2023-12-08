@@ -18,7 +18,7 @@ Minor changes were made to Lymph node v1.3 to ensure all cell types were mapped 
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
 | **Funder:** | National Institutes of Health |
-| **Award Number:** | OT2OD033756 and OT2OD026671 |
+| **Award Number:** | OT2OD033756; OT2OD026671 |
 | **HuBMAP ID:** | HBM493.NGHW.438 |
 | **Data Table:** | [Lymph Node v1.3](https://cdn.humanatlas.io/hra-releases/v2.0/asct-b/asct-b-vh-lymph-node.csv)  |
 | **DOI:** | [https://doi.org/10.48539/HBM493.NGHW.438](https://doi.org/10.48539/HBM493.NGHW.438) |

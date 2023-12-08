@@ -37,7 +37,7 @@ Machine learning and AI are employed in segmenting these FTUs from data which wi
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
 | **Funder:** | National Institutes of Health |
-| **Award Number:** | OT2OD033756 and OT2OD026671|
+| **Award Number:** | OT2OD033756; OT2OD026671|
 | **HuBMAP ID:** | HBM778.SHGJ.294 |
 | **2D Data:** | Kidney, 2D Renal Corpuscle FTU v.1.2 [SVG](https://cdn.humanatlas.io/hra-releases/v2.0/2d-ftu/2d-ftu-kidney-renal-corpuscle.svg) [AI](https://cdn.humanatlas.io/hra-releases/v2.0/2d-ftu/2d-ftu-kidney-renal-corpuscle.ai)|
 | **DOI:** | [https://doi.org/10.48539/HBM778.SHGJ.294](https://doi.org/10.48539/HBM778.SHGJ.294) |

@@ -17,7 +17,7 @@ Minor changes were made for Thymus v1.4 to ensure all cell types were mapped to 
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
 | **Funder:** | National Institutes of Health |
-| **Award Number:** | OT2OD033756 and OT2OD026671 |
+| **Award Number:** | OT2OD033756; OT2OD026671 |
 | **HuBMAP ID:** | HBM668.QPSF.678|
 | **Data Table:** | [Thymus v1.4](https://cdn.humanatlas.io/hra-releases/v2.0/asct-b/asct-b-vh-thymus.csv)  |
 | **DOI:** | [https://doi.org/10.48539/HBM668.QPSF.678](https://doi.org/10.48539/HBM668.QPSF.678) |

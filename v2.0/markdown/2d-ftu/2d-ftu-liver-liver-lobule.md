@@ -26,7 +26,7 @@ Machine learning and AI are employed in segmenting these FTUs from data which wi
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
 | **Funder:** | National Institutes of Health |
-| **Award Number:** |OT2OD033756 and OT2OD026671 |
+| **Award Number:** |OT2OD033756; OT2OD026671 |
 | **HuBMAP ID:** | HBM866.VXKL.442 |
 | **2D Data:** | Liver, 2D Liver Lobule FTU v.1.2 [SVG](https://cdn.humanatlas.io/hra-releases/v2.0/2d-ftu/2d-ftu-liver-liver-lobule.svg) [AI](https://cdn.humanatlas.io/hra-releases/v2.0/2d-ftu/2d-ftu-liver-liver-lobule.ai) |
 | **DOI:** | [https://doi.org/10.48539/HBM866.VXKL.442](https://doi.org/10.48539/HBM866.VXKL.442) |
