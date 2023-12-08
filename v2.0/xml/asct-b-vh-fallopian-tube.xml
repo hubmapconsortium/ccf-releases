@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">https://doi.org/10.48539/HBM368.FBRW.337</identifier>
+<titles>
+  <title>Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Fallopian Tube, </title>
+</titles>
+<creators>
+  <creator>
+    <creatorName>Kathleen O'Neill</creatorName>
+    <givenName>Kathleen</givenName>
+    <familyName>O'Neill</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-1980-6840">0000-0003-1980-6840</nameIdentifier>
+  </creator>
+  <creator>
+    <creatorName>Stephen Fisher</creatorName>
+    <givenName>Stephen</givenName>
+    <familyName>Fisher</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-8034-7685">0000-0001-8034-7685</nameIdentifier>
+  </creator>
+</creators>
+<publisher>HuBMAP</publisher>
+<publicationYear>2023</publicationYear>
+<resourceType resourceTypeGeneral=""></resourceType>
+<subjects>
+  <subject>Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Fallopian Tube</subject>
+</subjects>
+<contributors>
+  <contributor contributorType="ProjectLeader">
+      <contributorName>Katy Börner</contributorName>
+      <givenName>Katy</givenName>
+      <familyName>Börner</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3321-6137">0000-0002-3321-6137</nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Ellen M. Quardokus</contributorName>
+    <givenName>Ellen</givenName>
+    <familyName>Quardokus</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-7655-4833">0000-0001-7655-4833</nameIdentifier>
+  </contributor>
+</contributors>
+<dates>
+  <date dateType="Available">2023-12-15</date>
+</dates>
+<descriptions>
+  <description descriptionType="Abstract">[Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://humanatlas.io/asctb-tables) aim to capture the nested *part_of* structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts.</description>
+</descriptions>
+<language>EN</language>
+<alternateIdentifiers>
+  <alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM368.FBRW.337</alternateIdentifier>
+  <alternateIdentifier alternateIdentifierType="How to Cite This ">Kathleen O&#39;Neill; Stephen Fisher. HuBMAP ASCT+B Tables. Fallopian Tube v1.2 [https://doi.org/10.48539/HBM368.FBRW.337](https://doi.org/10.48539/HBM368.FBRW.337)</alternateIdentifier>
+  <alternateIdentifier alternateIdentifierType="How to Cite  Overall">Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2023. [*HuBMAP ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on December 15, 2023.</alternateIdentifier>
+</alternateIdentifiers>
+<formats>
+	<format>.csv</format>
+</formats>
+<rightsList>
+  <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
+</rightsList>
+<fundingReferences>
+	<fundingReference>
+		<funderName>National Institutes of Health</funderName>
+		<awardNumber></awardNumber>
+	</fundingReference>
+</fundingReferences>
+</resource>

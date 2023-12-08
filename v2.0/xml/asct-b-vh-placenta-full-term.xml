@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">https://doi.org/10.48539/HBM555.XTKB.342</identifier>
+<titles>
+  <title>Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Placenta Full Term, </title>
+</titles>
+<creators>
+  <creator>
+    <creatorName>Mana Parast</creatorName>
+    <givenName>Mana</givenName>
+    <familyName>Parast</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-5963-2246">0000-0001-5963-2246</nameIdentifier>
+  </creator>
+  <creator>
+    <creatorName>Valentina Stanley</creatorName>
+    <givenName>Valentina</givenName>
+    <familyName>Stanley</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-2212-7796">0000-0002-2212-7796</nameIdentifier>
+  </creator>
+  <creator>
+    <creatorName>Scott A Lindsay</creatorName>
+    <givenName>Scott</givenName>
+    <familyName>Lindsay</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-2929-7755">0000-0002-2929-7755</nameIdentifier>
+  </creator>
+</creators>
+<publisher>HuBMAP</publisher>
+<publicationYear>2023</publicationYear>
+<resourceType resourceTypeGeneral=""></resourceType>
+<subjects>
+  <subject>Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) table for Placenta Full Term</subject>
+</subjects>
+<contributors>
+  <contributor contributorType="ProjectLeader">
+      <contributorName>Katy Börner</contributorName>
+      <givenName>Katy</givenName>
+      <familyName>Börner</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3321-6137">0000-0002-3321-6137</nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Louise C Laurent</contributorName>
+    <givenName>Louise</givenName>
+    <familyName>Laurent</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-2095-7534">0000-0002-2095-7534</nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Drucilla Roberts</contributorName>
+    <givenName>Drucilla</givenName>
+    <familyName>Roberts</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-9104-6674">0000-0002-9104-6674</nameIdentifier>
+  </contributor>
+</contributors>
+<dates>
+  <date dateType="Available">2023-12-15</date>
+</dates>
+<descriptions>
+  <description descriptionType="Abstract">[Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://humanatlas.io/asctb-tables) aim to capture the nested *part_of* structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts. The Placenta ASCT+B table represents terms related to the full term human placenta. These include both macroscopic and microscopic anatomical structures, major cell types, and protein and lipid biomarkers specific for each cell type listed. This table was generated based on published placental histopathologic nomenclature, as well as published literature on cell-type specific biomarkers.  Most of the markers listed are observed in more than 1 study or orthogonally validated.  Note that these are predicted markers and a single marker to annotate a cell type is not likely sufficient or specific. Where more refined cell types are not available in the ontologies, the closest general term is used. For example, there are likely multiple types of placental stromal cells; however, further characterization is needed to distinguish between these cell types. Where cells of similar type occur in different locations, the closest and highest level of resolution available is used. For example, vascular endothelial cells (CL0000071) occur in multiple different contexts within the placenta, including the umbilical vessels, chorionic plate vessels, chorionic stem villous vessels and capillaries, and decidual vessels; similarly, vascular smooth muscle cells (CL0000359) occur in umbilical vessels, chorionic plate vessels, and chorionic stem villous vessels.</description>
+</descriptions>
+<language>EN</language>
+<alternateIdentifiers>
+  <alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM555.XTKB.342</alternateIdentifier>
+  <alternateIdentifier alternateIdentifierType="How to Cite This ">Mana Parast; Valentina Stanley; Scott A Lindsay, HuBMAP ASCT+B Tables. Placenta Full Term v1.1. [https://doi.org/10.48539/HBM555.XTKB.342](https://doi.org/10.48539/HBM555.XTKB.342)</alternateIdentifier>
+  <alternateIdentifier alternateIdentifierType="How to Cite  Overall">Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2023. [*HuBMAP ASCT+B Tables*.]( https://humanatlas.io/asctb-tables) Accessed on December 15, 2023.</alternateIdentifier>
+</alternateIdentifiers>
+<formats>
+	<format>.csv</format>
+</formats>
+<rightsList>
+  <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
+</rightsList>
+<fundingReferences>
+	<fundingReference>
+		<funderName>National Institutes of Health</funderName>
+		<awardNumber>OT2OD033756 and OT2OD026671</awardNumber>
+	</fundingReference>
+</fundingReferences>
+</resource>

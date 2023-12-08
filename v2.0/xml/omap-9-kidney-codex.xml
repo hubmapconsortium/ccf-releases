@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">https://doi.org/10.48539/HBM542.NNZP.924</identifier>
+<titles>
+  <title>OMAP-9: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Kidney with CODEX, </title>
+</titles>
+<creators>
+  <creator>
+    <creatorName>Daria Barwinska</creatorName>
+    <givenName>Daria</givenName>
+    <familyName>Barwinska</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-0776-3030">0000-0002-0776-3030</nameIdentifier>
+  </creator>
+  <creator>
+    <creatorName>Tarek M. El-Achkar</creatorName>
+    <givenName>Tarek</givenName>
+    <familyName>El-Achkar</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-4645-3614">0000-0003-4645-3614</nameIdentifier>
+  </creator>
+  <creator>
+    <creatorName>Angela R. Sabo</creatorName>
+    <givenName>Angela</givenName>
+    <familyName>Sabo</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-7496-8570">0000-0002-7496-8570</nameIdentifier>
+  </creator>
+  <creator>
+    <creatorName>Michael J. Ferkowicz</creatorName>
+    <givenName>Michael</givenName>
+    <familyName>Ferkowicz</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-9531-3899">0000-0002-9531-3899</nameIdentifier>
+  </creator>
+  <creator>
+    <creatorName>Seth Winfree</creatorName>
+    <givenName>Seth</givenName>
+    <familyName>Winfree</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-2396-5871">0000-0002-2396-5871</nameIdentifier>
+  </creator>
+  <creator>
+    <creatorName>William S. Bowen</creatorName>
+    <givenName>William</givenName>
+    <familyName>Bowen</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0009-0005-1408-596x">0009-0005-1408-596x</nameIdentifier>
+  </creator>
+</creators>
+<publisher>HuBMAP</publisher>
+<publicationYear>2023</publicationYear>
+<resourceType resourceTypeGeneral=""></resourceType>
+<subjects>
+  <subject>OMAP-9: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Kidney with CODEX</subject>
+</subjects>
+<contributors>
+  <contributor contributorType="ProjectLeader">
+      <contributorName>Andrea J. Radtke</contributorName>
+      <givenName>Andrea</givenName>
+      <familyName>Radtke</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-4379-8967">0000-0003-4379-8967</nameIdentifier>
+  </contributor>
+  <contributor contributorType="ProjectLeader">
+      <contributorName>Katy Börner</contributorName>
+      <givenName>Katy</givenName>
+      <familyName>Börner</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3321-6137">0000-0002-3321-6137</nameIdentifier>
+  </contributor>
+  <contributor contributorType="ProjectLeader">
+      <contributorName>Neil Kelleher</contributorName>
+      <givenName>Neil</givenName>
+      <familyName>Kelleher</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-8815-3372">0000-0002-8815-3372</nameIdentifier>
+  </contributor>
+  <contributor contributorType="ProjectLeader">
+      <contributorName>Ronald N. Germain</contributorName>
+      <givenName>Ronald</givenName>
+      <familyName>Germain</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-1495-9143">0000-0003-1495-9143</nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Andrea J. Radtke</contributorName>
+    <givenName>Andrea</givenName>
+    <familyName>Radtke</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-4379-8967">0000-0003-4379-8967</nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Ellen M. Quardokus</contributorName>
+    <givenName>Ellen</givenName>
+    <familyName>Quardokus</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-7655-4833">0000-0001-7655-4833</nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Diane Saunders</contributorName>
+    <givenName>Diane</givenName>
+    <familyName>Saunders</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-8849-6746">0000-0002-8849-6746</nameIdentifier>
+  </contributor>
+</contributors>
+<dates>
+  <date dateType="Available">2023-12-15</date>
+</dates>
+<descriptions>
+  <description descriptionType="Abstract">OMAP-9 was designed for CODEX multiplex antibody-based imaging of fresh frozen human kidney tissue (dx.doi.org/10.17504/protocols.io.8epv5jdbnl1b/v1). The panel contains 41 antibodies and the nuclear marker DAPI for image alignment and nuclear segmentation. OMAP-9 provides a spatial context for all anatomical structures and most cell types present in the ASCT+B kidney table v1.1. This OMAP expands on OMAP-3 (10.48539/HBM373.TBKP.375), an 18-plex kidney CODEX panel, by including additional markers for granular phenotyping of key cells in the kidney such as structural cells (Podocalyxin, LRP2, E-cadherin, SLC12A3, Na/K ATPase and Cytokeratin 8), immune cells including T cells (CD3D, CD4, CD45RO, CD8, FOXP3, GATA-3), myeloid cells (CD11c, CD68, CD206, HLA-DR, Myeloperoxidase), and B cells (CD20). Antibodies directed against injury markers (KIM1, IGFBP7, Osteopontin, PLSCR1, VCAM1, MCP1, phosphor c-JUN, phosphor MLKL, Fibronectin, Collagen IV, LC3, Cystatin 3, and PROM1) allows profiling of kidney disease progression, prognosis, and repair. The following markers utilize different antibody clones than OMAP-3: vimentin, beta-catenin, and uromodulin. Mesangial cells present in the glomerulus are not targeted in the existing panel due to the absence of suitable antibodies compatible with the methodology. Additional details on sample preparation and CODEX multiplexing workflow can be found on Protocols.io (dx.doi.org/10.17504/protocols.io.8epv5jdbnl1b/v1). Correction to update to authors list and spelling of names appears in OMAP-9 v1.1.</description>
+</descriptions>
+<language>EN</language>
+<alternateIdentifiers>
+  <alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM542.NNZP.924</alternateIdentifier>
+  <alternateIdentifier alternateIdentifierType="How to Cite This ">Daria Barwinska; Tarek M. El-Achkar; Angela R. Sabo; Michael J. Ferkowicz; Seth Winfree; William S. Bowen. OMAP-9: Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Kidney with CODEX, v1.1, https://doi.org/10.48539/HBM542.NNZP.924. Accessed on December 15, 2023.</alternateIdentifier>
+  <alternateIdentifier alternateIdentifierType="How to Cite  Overall">Quardokus, Ellen M., Diane C. Saunders, Elizabeth McDonough, John W. Hickey, Christopher Werlein, Christine Surrette, Presha Rajbhandari, et al. 2023. “Organ Mapping Antibody Panels: A Community Resource for Standardized Multiplexed Tissue Imaging.” Nature Methods, July. https://doi.org/10.1038/s41592-023-01846-7.</alternateIdentifier>
+</alternateIdentifiers>
+<formats>
+	<format>.csv</format>
+</formats>
+<rightsList>
+  <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
+</rightsList>
+<fundingReferences>
+	<fundingReference>
+		<funderName>National Institute of Health (NIH) National Cancer Institute (NCI)</funderName>
+		<awardNumber>OT2OD033756 and OT2OD026671</awardNumber>
+	</fundingReference>
+	<fundingReference>
+		<funderName>Intramural Research Program of the NIH</funderName>
+		<awardNumber></awardNumber>
+	</fundingReference>
+	<fundingReference>
+		<funderName>National Institute of Allergy and Infectious Disease and National Cancer Institute</funderName>
+		<awardNumber></awardNumber>
+	</fundingReference>
+	<fundingReference>
+		<funderName>National Heart</funderName>
+		<awardNumber></awardNumber>
+	</fundingReference>
+	<fundingReference>
+		<funderName>Lung and Blood Institute</funderName>
+		<awardNumber></awardNumber>
+	</fundingReference>
+</fundingReferences>
+</resource>
