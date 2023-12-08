@@ -5,17 +5,17 @@ const glob = require('glob');
 const HraMarkdownParser = require('./md-parser.js').HraMarkdownParser;
 const MarkdownIt = require('markdown-it');
 
-const VERSION = 'v1.4';
+const VERSION = 'v2.0';
 
 const md = new MarkdownIt();
 
 const TERMS_ENDPOINT = 'http://grlc.io/api-git/hubmapconsortium/ccf-grlc/subdir/hra-scratch//get-glb-nodes';
 
 const GLB_FIXES = {
-  'https://cdn.humanatlas.io/hra-releases/v1.4/models/3d-vh-f-united.glb.7z':
-    'https://cdn.humanatlas.io/digital-objects/ref-organ/united-female/v1.4/assets/3d-vh-f-united.glb',
-  'https://cdn.humanatlas.io/hra-releases/v1.4/models/3d-vh-m-united.glb.zip':
-    'https://cdn.humanatlas.io/digital-objects/ref-organ/united-male/v1.4/assets/3d-vh-m-united.glb',
+  'https://cdn.humanatlas.io/hra-releases/v2.0/models/3d-vh-f-united.glb.7z':
+    'https://cdn.humanatlas.io/digital-objects/ref-organ/united-female/v2.0/assets/3d-vh-f-united.glb',
+  'https://cdn.humanatlas.io/hra-releases/v2.0/models/3d-vh-m-united.glb.zip':
+    'https://cdn.humanatlas.io/digital-objects/ref-organ/united-male/v2.0/assets/3d-vh-m-united.glb',
 };
 
 async function fetchTerms() {
@@ -140,6 +140,6 @@ async function main() {
     'Username/Content Owner': 'katy@iu.edu',
   }));
 
-  fs.writeFileSync('../scratch/hra-v1.4.nih3d-metadata.csv', Papa.unparse(nih3d));
+  fs.writeFileSync(`../scratch/hra-${VERSION}.nih3d-metadata.csv`, Papa.unparse(nih3d));
 }
 main();
