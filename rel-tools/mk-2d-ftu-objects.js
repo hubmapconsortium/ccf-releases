@@ -16,7 +16,7 @@ const MIMETYPES = {
 };
 
 function getIllustrationFiles(iri, id) {
-  const files = glob.sync(`../v?.*/2d-ftu/2d-ftu-${id}.*`);
+  const files = glob.sync(`../v2.*/2d-ftu/2d-ftu-${id}.*`);
   files.reverse();
   return files.map((f) => {
     const ext = f.split('.').slice(-1)[0];
