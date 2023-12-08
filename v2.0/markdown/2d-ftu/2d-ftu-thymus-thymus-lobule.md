@@ -1,7 +1,9 @@
-# 2D Thymus Lobule Functional Tissue Unit (FTU) for Thymus, v1.1
+# 2D Thymus Lobule Functional Tissue Unit (FTU) for Thymus, v1.2
 
 ### Description
 This functional tissue unit (FTU) illustration includes cell types related to the thymus lobule FTU in the Anatomical Structures, Cell Types and Biomarkers table [Thymus v1.2](https://doi.org/10.48539/HBM284.RFDC.542). 
+
+Minor revisions were made in v1.2 to fix overlapping labels or labels in different layers of the ai file and to correct missing colors in some sections of the illustrations to use the svg file in the interactive FTU Explorer. 
 
 Primary references:
 
@@ -30,13 +32,13 @@ Machine learning and AI are employed in segmenting these FTUs from data which wi
 | **Project Lead ORCID:** | [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137) |
 | **Reviewer(s):** | Maigan Brusko; Andrea J. Radtke |
 | **Reviewer ORCID(s):** | [0000-0002-4331-2202](https://orcid.org/0000-0002-4331-2202); [0000-0003-4379-8967](https://orcid.org/0000-0003-4379-8967) |
-| **Creation Date:** | 2022-12-15 |
+| **Creation Date:** | 2023-12-15 |
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
 | **Funder:** | National Institutes of Health |
-| **Award Number:** | OT2OD026671 |
-| **HuBMAP ID:** | HBM234.BXNR.636 |
-| **2D Data:** | Thymus, 2D Thymus Lobule FTU v.1.1 [SVG](https://cdn.humanatlas.io/hra-releases/v1.3/2d-ftu/2d-ftu-thymus-thymus-lobule.svg) [AI](https://cdn.humanatlas.io/hra-releases/v1.3/2d-ftu/2d-ftu-thymus-thymus-lobule.ai) |
-| **DOI:** | [https://doi.org/10.48539/HBM234.BXNR.636](https://doi.org/10.48539/HBM234.BXNR.636) |
-| **How to Cite This 2D Data:** | Rachel Bajema 2022. *2D Thymus Lobule Functional Tissue Unit (FTU) for Thymus, v1.1.* https://doi.org/10.48539/HBM234.BXNR.636. Accessed on December 15, 2022. |
-| **How to Cite 2D Data Overall:** | Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy Börner. 2022. [*HuBMAP CCF 2D Reference Object Library*]( https://humanatlas.io/2d-ftu-illustrations). Accessed on December 15, 2022. |
+| **Award Number:** | OT2OD033756 and OT2OD026671|
+| **HuBMAP ID:** | HBM255.DBJW.679 |
+| **2D Data:** | Thymus, 2D Thymus Lobule FTU v.1.2 [SVG](https://cdn.humanatlas.io/hra-releases/v2.0/2d-ftu/2d-ftu-thymus-thymus-lobule.svg) [AI](https://cdn.humanatlas.io/hra-releases/v2.0/2d-ftu/2d-ftu-thymus-thymus-lobule.ai) |
+| **DOI:** | [https://doi.org/10.48539/HBM255.DBJW.679](https://doi.org/10.48539/HBM255.DBJW.679) |
+| **How to Cite This 2D Data:** | Rachel Bajema 2023. *2D Thymus Lobule Functional Tissue Unit (FTU) for Thymus, v1.2.* https://doi.org/10.48539/HBM255.DBJW.679. Accessed on December 15, 2023. |
+| **How to Cite 2D Data Overall:** | Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy Börner. 2023. [*HuBMAP CCF 2D Reference Object Library*]( https://humanatlas.io/2d-ftu-illustrations). Accessed on December 15, 2023. |
