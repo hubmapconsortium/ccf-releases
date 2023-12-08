@@ -5,6 +5,8 @@
 This functional tissue unit (FTU) illustration was created from anatomical structures and cell types listed in the ASCT+B Table [Small Intestine v1.1](https://cdn.humanatlas.io/hra-releases/v1.3/asct-b/asct-b-vh-small-intestine.csv).  Multiple histology atlases, especially “Human Microscopic Anatomy” (R.V. Krstić, 1994) and “Histology: A Text and Atlas” (Michael H. Ross, et al., 2003) were referenced. Measurements were taken from Ojukwu K, Hutchings D. Histology-small intestine. PathologyOutlines.com website. https://www.pathologyoutlines.com/topic/smallbowelnormalhistology.html. Accessed November 13th, 2023.
 This illustration shows a typical section of the jejunum.
 
+Minor revisions were made in this 2D FTU illustrations to fix overlapping labels or labels in different layers of the ai file and to correct missing colors in some sections of the illustrations to use the svg file in the interactive FTU Explorer. 
+
 Note: These illustrations are a stylized representation of the average number and distribution of cell type populations within a functional tissue unit (FTU). Cell types are included based on their linkage to the FTU in each organ’s Anatomical Structures, Cell Type and Biomarkers (ASCT+B) Table. The intention is to illustrate relationships between individual cells and to include visual information on their relative shape, scale and distribution within the tissue. A relationship to blood supply is indicated.
 
 We are working towards an understanding of cellular relationships within each FTU, as well as perfusion, innervation, structural and extracellular matrix support. Greater relationships of scale within the body are also considered. Smaller FTUs may be nested within larger FTUs.
