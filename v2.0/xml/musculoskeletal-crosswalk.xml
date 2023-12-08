@@ -31,12 +31,6 @@
       <familyName>Börner</familyName>
       <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3321-6137">0000-0002-3321-6137</nameIdentifier>
   </contributor>
-  <contributor contributorType="Other">
-    <contributorName></contributorName>
-    <givenName></givenName>
-    <familyName></familyName>
-    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"></nameIdentifier>
-  </contributor>
 </contributors>
 <dates>
   <date dateType="Available">2023-12-15</date>

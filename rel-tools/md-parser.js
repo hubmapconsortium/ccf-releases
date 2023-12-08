@@ -35,10 +35,10 @@ class HraMarkdownParser {
   }
 
   hasKey(key) {
-    return !!this.rawMd.find((l) => l.includes(`**${key}:**`));
+    return !!this.rawMd.find((l) => l.includes(`**${key}:**`)) && this.getMetadata(key)?.trim().length > 0;
   }
   getMetadata(key) {
-    if (!this.hasKey(key)) {
+    if (!this.rawMd.find((l) => l.includes(`**${key}:**`))) {
       return '';
     }
     return this.rawMd

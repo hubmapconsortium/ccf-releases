@@ -8,7 +8,7 @@ OMAP-9 was designed for CODEX multiplex antibody-based imaging of fresh frozen h
 | Label | Value |
 | :------------- |:-------------|
 | **Creator(s):** | Daria Barwinska; Tarek M. El-Achkar; Angela R. Sabo; Michael J. Ferkowicz; Seth Winfree; William S. Bowen |
-| **Creator ORCID(s):** | [0000-0002-0776-3030](https://orcid.org/0000-0002-0776-3030); [ 0000-0003-4645-3614](https://orcid.org/0000-0003-4645-3614); [0000-0002-7496-8570](https://orcid.org/0000-0002-7496-8570); [0000-0002-9531-3899](https://orcid.org/0000-0002-9531-3899); [0000-0002-2396-5871](https://orcid.org/0000-0002-2396-5871);[0009-0005-1408-596x](https://orcid.org/0009-0005-1408-596x)|
+| **Creator ORCID(s):** | [0000-0002-0776-3030](https://orcid.org/0000-0002-0776-3030); [ 0000-0003-4645-3614](https://orcid.org/0000-0003-4645-3614); [0000-0002-7496-8570](https://orcid.org/0000-0002-7496-8570); [0000-0002-9531-3899](https://orcid.org/0000-0002-9531-3899); [0000-0002-2396-5871](https://orcid.org/0000-0002-2396-5871);[0009-0005-1408-596X](https://orcid.org/0009-0005-1408-596X)|
 | **Project Lead:** | Andrea J. Radtke; Katy B&ouml;rner; Neil Kelleher; Ronald N. Germain |
 | **Project Lead ORCID:** | [0000-0003-4379-8967](https://orcid.org/0000-0003-4379-8967); [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137); [0000-0002-8815-3372](https://orcid.org/0000-0002-8815-3372); [0000-0003-1495-9143](https://orcid.org/0000-0003-1495-9143) |
 | **Reviewer(s):** |Andrea J. Radtke; Ellen M. Quardokus; Diane Saunders |
