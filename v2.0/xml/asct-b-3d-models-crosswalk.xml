@@ -32,7 +32,7 @@
 </creators>
 <publisher>HuBMAP</publisher>
 <publicationYear>2023</publicationYear>
-<resourceType resourceTypeGeneral="Model">3D reference human organ model</resourceType>
+<resourceType resourceTypeGeneral="Dataset">ASCT+B table to 3D model crosswalk Table</resourceType>
 <subjects>
   <subject>Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 3D Reference Object Library Crosswalk</subject>
 </subjects>

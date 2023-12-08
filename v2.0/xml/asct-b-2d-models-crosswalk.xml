@@ -14,7 +14,7 @@
 </creators>
 <publisher>HuBMAP</publisher>
 <publicationYear>2023</publicationYear>
-<resourceType resourceTypeGeneral="Image">2D reference human organ FTU object</resourceType>
+<resourceType resourceTypeGeneral="Dataset">ASCT+B table to 2D FTU crosswalk Table</resourceType>
 <subjects>
   <subject>Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 2D Functional Tissue Unit (FTU) Reference Object Library Crosswalk</subject>
 </subjects>

@@ -20,7 +20,7 @@
 </creators>
 <publisher>HuBMAP</publisher>
 <publicationYear>2023</publicationYear>
-<resourceType resourceTypeGeneral="Dataset">ASCT+B Table</resourceType>
+<resourceType resourceTypeGeneral="Dataset">ASCT+B Crosswalk Table</resourceType>
 <subjects>
   <subject>Musculoskeletal Crosswalk</subject>
 </subjects>
