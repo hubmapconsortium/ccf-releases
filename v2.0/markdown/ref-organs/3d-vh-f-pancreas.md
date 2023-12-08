@@ -18,7 +18,7 @@
 | **Funder:** | National Institutes of Health |
 | **Award Number:** | OT2OD033756; OT2OD026671 |
 | **HuBMAP ID:** | HBM938.BRGC.644 |
-| **3D Data:** | [Pancreas, Female v1.2](https://cdn.humanatlas.io/hra-releases/v2.0/models/3d-vh-f-pancreas-.glb) |
+| **3D Data:** | [Pancreas, Female v1.2](https://cdn.humanatlas.io/hra-releases/v2.0/models/3d-vh-f-pancreas.glb) |
 | **DOI:** | [https://doi.org/10.48539/HBM938.BRGC.644](https://doi.org/10.48539/HBM938.BRGC.644) |
 | **How to Cite This 3D Data:** | Kristen Browne; Heidi Schlehlein. 2023. *3D Reference Organ for Pancreas, Female v1.2.* [https://doi.org/10.48539/HBM938.BRGC.644](https://doi.org/10.48539/HBM938.BRGC.644). Accessed on December 15, 2023.  |
 | **How to Cite 3D Data Overall:** | Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2023. [*HuBMAP CCF 3D Reference Object Library*.](https://humanatlas.io/3d-reference-library) Accessed on December 15, 2023. |

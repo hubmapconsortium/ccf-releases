@@ -17,7 +17,7 @@
 | **Funder:** | National Institutes of Health |
 | **Award Number:** |OT2OD033756; OT2OD026671|
 | **HuBMAP ID:** | HBM425.NDKM.969 |
-| **3D Data:** | [Brain, Female v1.3](https://cdn.humanatlas.io/hra-releases/v2.0/models/3d-vh-f-brain-.glb) |
+| **3D Data:** | [Brain, Female v1.3](https://cdn.humanatlas.io/hra-releases/v2.0/models/3d-vh-f-allen-brain.glb) |
 | **DOI:** | [https://doi.org/10.48539/HBM425.NDKM.969]([https://doi.org/10.48539/HBM425.NDKM.969](https://doi.org/10.48539/HBM425.NDKM.969)) |
 | **How to Cite This 3D Data:** | Kristen Browne; Heidi Schlehlein. 2023. 3D Reference Organ for Brain, Female v1.3. https://doi.org/10.48539/HBM425.NDKM.969. Accessed on December 15, 2023.|
 | **How to Cite 3D Data Overall:** | Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2023. [*HuBMAP CCF 3D Reference Object Library*.](https://humanatlas.io/3d-reference-library) Accessed on December 15, 2023. |
