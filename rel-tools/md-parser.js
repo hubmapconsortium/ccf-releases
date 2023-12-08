@@ -143,6 +143,11 @@ class HraMarkdownParser {
     return this.inputFile.split('/').slice(-2)[0].replace('ref-organs', 'ref-organ');
   }
 
+  getResourceType() {
+    const type = this.getDoType();
+    return this.getName().includes('crosswalk') ? `${type}-crosswalk` : type;
+  }
+
   getDoString() {
     return [this.getDoType(), this.getName(), this.getVersion()].join('/');
   }
