@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">https://doi.org/10.48539/HBM387.DSQL.745</identifier>
+<titles>
+  <title>Musculoskeletal Crosswalk, v1.0</title>
+</titles>
+<creators>
+  <creator>
+    <creatorName>Griffin Weber</creatorName>
+    <givenName>Griffin</givenName>
+    <familyName>Weber</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-2597-881X">0000-0002-2597-881X</nameIdentifier>
+  </creator>
+  <creator>
+    <creatorName>Katherine S Gustilo</creatorName>
+    <givenName>Katherine</givenName>
+    <familyName>Gustilo</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-5574-4272">0000-0002-5574-4272</nameIdentifier>
+  </creator>
+</creators>
+<publisher>HuBMAP</publisher>
+<publicationYear>2023</publicationYear>
+<resourceType resourceTypeGeneral="Dataset">ASCT+B Crosswalk Table</resourceType>
+<subjects>
+  <subject>Musculoskeletal Crosswalk</subject>
+</subjects>
+<contributors>
+  <contributor contributorType="ProjectLeader">
+      <contributorName>Katy Börner</contributorName>
+      <givenName>Katy</givenName>
+      <familyName>Börner</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3321-6137">0000-0002-3321-6137</nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName></contributorName>
+    <givenName></givenName>
+    <familyName></familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/"></nameIdentifier>
+  </contributor>
+</contributors>
+<dates>
+  <date dateType="Available">2023-12-15</date>
+</dates>
+<descriptions>
+  <description descriptionType="Abstract">[Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://humanatlas.io/asctb-tables) aim to capture anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts. This table describes relationships between anatomical structures in the muscular system and skeleton ASCT+B tables. This includes (1) bone “adjacent_to” bone crosswalks and (2) muscle “attached_to” bone, ligament, tendon, fascia, or skin crosswalks. The bone “adjacent_to” relationships may indicate a joint and joining structures. The “attached_to” relationships have a “Relationship2” value of “has_muscle_origin” or “has_muscle_insertion”. The focus of this initial version of this crosswalk table is the upper extremities, but it will be expanded in the future to other parts of the body.</description>
+</descriptions>
+<language>EN</language>
+<alternateIdentifiers>
+  <alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM387.DSQL.745</alternateIdentifier>
+  <alternateIdentifier alternateIdentifierType="How to Cite This Data Table">Griffin Weber; Katherine S Gustilo. Blood Vasculature Organ Crosswalk,v1.0 https://doi.org/10.48539/HBM387.DSQL.745, Accessed on December 15, 2023.</alternateIdentifier>
+  <alternateIdentifier alternateIdentifierType="How to Cite ASCT+B Tables Overall">Boppana, Avinash, Sujin Lee, Rajeev Malhotra, Marc Halushka, Katherine S. Gustilo, Ellen M. Quardokus, Bruce W. Herr, Katy Börner, and Griffin M. Weber. 2023. “Anatomical Structures, Cell Types, and Biomarkers of the Healthy Human Blood Vasculature.” Scientific Data 10 (1): 452. https://doi.org/10.1038/s41597-023-02018-0.</alternateIdentifier>
+</alternateIdentifiers>
+<formats>
+	<format>.csv</format>
+</formats>
+<rightsList>
+  <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
+</rightsList>
+<fundingReferences>
+	<fundingReference>
+		<funderName>National Institutes of Health</funderName>
+		<awardNumber>OT2OD033756</awardNumber>
+	</fundingReference>
+	<fundingReference>
+		<funderName>National Institutes of Health</funderName>
+		<awardNumber>OT2OD026671</awardNumber>
+	</fundingReference>
+</fundingReferences>
+</resource>

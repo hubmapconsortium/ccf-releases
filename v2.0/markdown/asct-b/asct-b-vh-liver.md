@@ -17,7 +17,7 @@ Minor changes were made for Liver v1.2 to ensure all cell types were mapped to C
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
 | **Funder:** | National Institutes of Health |
-| **Award Number:** | OT2OD033756 and OT2OD026671 |
+| **Award Number:** | OT2OD033756; OT2OD026671 |
 | **HuBMAP ID:** | HBM449.XCGD.289 |
 | **Data Table:** | [Liver v1.2](https://cdn.humanatlas.io/hra-releases/v2.0/asct-b/asct-b-vh-liver.csv)  |
 | **DOI:** | [https://doi.org/10.48539/HBM449.XCGD.289](https://doi.org/10.48539/HBM449.XCGD.289) |

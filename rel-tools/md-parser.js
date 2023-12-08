@@ -73,9 +73,9 @@ class HraMarkdownParser {
     const funders = this.getMultiValue(funderKey);
     const awards = this.getMultiValue(awardKey);
 
-    return funders.map((funder, index) => ({
-      funder,
-      awardNumber: awards[index],
+    return awards.map((awardNumber, index) => ({
+      funder: funders[index] || (funders?.slice(-1)[0] ?? undefined),
+      awardNumber,
     }));
   }
 
@@ -143,6 +143,11 @@ class HraMarkdownParser {
     return this.inputFile.split('/').slice(-2)[0].replace('ref-organs', 'ref-organ');
   }
 
+  getResourceType() {
+    const type = this.getDoType();
+    return this.getName().includes('crosswalk') ? `${type}-crosswalk` : type;
+  }
+
   getDoString() {
     return [this.getDoType(), this.getName(), this.getVersion()].join('/');
   }
@@ -151,9 +156,9 @@ class HraMarkdownParser {
     return {
       // The following three properties are inferred from the directory structure
       // and thus are commented out below.
-      // type: this.getDoType(),
-      // name: this.getName(),
-      // version: this.getVersion(),
+      type: this.getDoType(),
+      name: this.getName(),
+      version: this.getVersion(),
 
       title: this.getTitle(),
       description: this.getDescription(),

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">https://doi.org/10.48539/HBM637.PWPQ.773</identifier>
+<titles>
+  <title>Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 2D Functional Tissue Unit (FTU) Reference Object Library Crosswalk, v1.3</title>
+</titles>
+<creators>
+  <creator>
+    <creatorName>Supriya Bidanta</creatorName>
+    <givenName>Supriya</givenName>
+    <familyName>Bidanta</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-2142-983X">0000-0002-2142-983X</nameIdentifier>
+  </creator>
+</creators>
+<publisher>HuBMAP</publisher>
+<publicationYear>2023</publicationYear>
+<resourceType resourceTypeGeneral="Dataset">ASCT+B table to 2D FTU crosswalk Table</resourceType>
+<subjects>
+  <subject>Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 2D Functional Tissue Unit (FTU) Reference Object Library Crosswalk</subject>
+</subjects>
+<contributors>
+  <contributor contributorType="ProjectLeader">
+      <contributorName>Katy Börner</contributorName>
+      <givenName>Katy</givenName>
+      <familyName>Börner</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3321-6137">0000-0002-3321-6137</nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Ellen M. Quardokus</contributorName>
+    <givenName>Ellen</givenName>
+    <familyName>Quardokus</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-7655-4833">0000-0001-7655-4833</nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Katy Börner</contributorName>
+    <givenName>Katy</givenName>
+    <familyName>Börner</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3321-6137">0000-0002-3321-6137</nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Rachel Bajema</contributorName>
+    <givenName>Rachel</givenName>
+    <familyName>Bajema</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3775-8574">0000-0002-3775-8574</nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Bruce W. Herr II</contributorName>
+    <givenName>Bruce</givenName>
+    <familyName>Herr</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-6703-7647">0000-0002-6703-7647</nameIdentifier>
+  </contributor>
+</contributors>
+<dates>
+  <date dateType="Available">2023-12-15</date>
+</dates>
+<descriptions>
+  <description descriptionType="Abstract">This lookup table maps [Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Table](https://humanatlas.io/asctb-tables) terms to anatomical structure and cell type terms used in the [CCF-2D-reference-object-library](https://humanatlas.io/2d-ftu-illustrations).</description>
+</descriptions>
+<language>EN</language>
+<alternateIdentifiers>
+  <alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM637.PWPQ.773</alternateIdentifier>
+  <alternateIdentifier alternateIdentifierType="How to Cite This 2D Data">Supriya Bidanta (2023). *Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 2D Functional Tissue Unit (FTU) Reference Object Library Crosswalk, v1.3*, https://doi.org/10.48539/HBM637.PWPQ.773)  Accessed on December 15, 2023.</alternateIdentifier>
+  <alternateIdentifier alternateIdentifierType="How to Cite 2D Data Overall">Supriya Bidanta; Rachel Bajema; Ellen M. Quardokus; Bruce W. Herr II; Katy Börner. 2023. [*HuBMAP CCF 2D Reference Object Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on December 15, 2023.</alternateIdentifier>
+</alternateIdentifiers>
+<formats>
+	<format>.csv</format>
+</formats>
+<rightsList>
+  <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
+</rightsList>
+<fundingReferences>
+	<fundingReference>
+		<funderName>National Institutes of Health</funderName>
+		<awardNumber>OT2OD033756</awardNumber>
+	</fundingReference>
+	<fundingReference>
+		<funderName>National Institutes of Health</funderName>
+		<awardNumber>OT2OD026671</awardNumber>
+	</fundingReference>
+</fundingReferences>
+</resource>

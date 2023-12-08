@@ -13,7 +13,7 @@ This lookup table maps [Anatomical Structures, Cell Types and Biomarkers (ASCT+B
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
 | **Funder:** | National Institutes of Health |
-| **Award Number:** | OT2OD033756 and OT2OD026671|
+| **Award Number:** | OT2OD033756; OT2OD026671|
 | **HuBMAP ID:** | HBM595.JNGT.446 |
 | **Data Table:** | [Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 3D Reference Object Library Crosswalk, v1.5](https://cdn.humanatlas.io/hra-releases/v2.0/models/asct-b-3d-models-crosswalk.csv) |
 | **DOI:** | [https://doi.org/10.48539/HBM595.JNGT.446](https://doi.org/10.48539/HBM595.JNGT.446) |

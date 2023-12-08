@@ -1,10 +1,12 @@
-# 2D Intercalated Duct FTU for Pancreas, v1.0
+# 2D Intercalated Duct FTU for Pancreas, v1.1
 
 
 ### Description
 This functional tissue unit (FTU) illustration includes cell types related to the intercalated duct FTU in the Anatomical Structures, Cell Types and Biomarkers table [Pancreas v1.1](https://doi.org/10.48539/HBM557.XHHV.557). 
 
 Multiple histology atlases, especially “Netter’s Essential Histology with Correlated Histopathology” (William K. Ovalle and Patrick C. Nahirney, 2021), “Junqueira’s Basic Histology Text & Atlas” (Anthony L. Mescher, 2021), “Human Microscopic Anatomy” (R.V. Krstić, 1994), and “Histology: A Text and Atlas” (Michael H. Ross, et al., 2003) were referenced.
+
+Minor revisions were made in v1.1 2D FTU illustrations to fix overlapping labels or labels in different layers of the ai file and to correct missing colors in some sections of the illustrations to use the svg file in the interactive FTU Explorer. 
 
 Primary references:
 
@@ -30,13 +32,13 @@ Machine learning and AI are employed in segmenting these FTUs from data which wi
 | **Project Lead ORCID:** | [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137) |
 | **Reviewer(s):** |Martha Campbell-Thompson |
 | **Reviewer ORCID(s):** | [0000-0001-6878-1235](https://orcid.org/0000-0001-6878-1235) |
-| **Creation Date:** | 2022-12-15 |
+| **Creation Date:** | 2023-12-15 |
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
 | **Funder:** | National Institutes of Health |
-| **Award Number:** | OT2OD026671 |
-| **HuBMAP ID:** |HBM458.HKKL.976 |
-| **2D Data:** | Pancreas, Intercalated Duct 2D FTU v.1.0 [SVG](https://cdn.humanatlas.io/hra-releases/v1.3/2d-ftu/2d-ftu-pancreas-intercalated-duct.svg) [AI](https://cdn.humanatlas.io/hra-releases/v1.3/2d-ftu/2d-ftu-pancreas-intercalated-duct.ai)|
-| **DOI:** |[https://doi.org/10.48539/HBM458.HKKL.976](https://doi.org/10.48539/HBM458.HKKL.976) |
-| **How to Cite This 2D Data:** | Rachel Bajema 2022. *Pancreas, Intercalated Duct 2D FTU v.1.0.* https://doi.org/10.48539/HBM458.HKKL.976. Accessed on December 15 2022.  |
-| **How to Cite 2D Data Overall:** | Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy Börner. 2022. [*HuBMAP CCF 2D Reference Object Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on December 15 2022. |
+| **Award Number:** | OT2OD033756; OT2OD026671 |
+| **HuBMAP ID:** | HBM774.RVFF.767|
+| **2D Data:** | Pancreas, Intercalated Duct 2D FTU v.1.1 [SVG](https://cdn.humanatlas.io/hra-releases/v2.0/2d-ftu/2d-ftu-pancreas-intercalated-duct.svg) [AI](https://cdn.humanatlas.io/hra-releases/v2.0/2d-ftu/2d-ftu-pancreas-intercalated-duct.ai)|
+| **DOI:** |[https://doi.org/10.48539/HBM774.RVFF.767](https://doi.org/10.48539/HBM774.RVFF.767) |
+| **How to Cite This 2D Data:** | Rachel Bajema 2023. *Pancreas, Intercalated Duct 2D FTU v.1.1.* https://doi.org/10.48539/HBM774.RVFF.767. Accessed on December 15 2023.  |
+| **How to Cite 2D Data Overall:** | Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy Börner. 2023. [*HuBMAP CCF 2D Reference Object Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on December 15 2023. |

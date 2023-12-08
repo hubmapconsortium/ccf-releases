@@ -18,7 +18,7 @@ These markers may not cover early term placentas or placentas from more complica
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
 | **Funder:** | National Institutes of Health |
-| **Award Number:** | OT2OD033756 and OT2OD026671 |
+| **Award Number:** | OT2OD033756; OT2OD026671 |
 | **HuBMAP ID:** | HBM555.XTKB.342 |
 | **Data Table:** |  [Placenta Full Term v1.1](https://cdn.humanatlas.io/hra-releases/v2.0/asct-b/asct-b-vh-placenta-full-term.csv)  |
 | **DOI:** |[https://doi.org/10.48539/HBM555.XTKB.342](https://doi.org/10.48539/HBM555.XTKB.342) |

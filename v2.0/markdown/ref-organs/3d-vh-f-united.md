@@ -15,9 +15,9 @@
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
 | **Funder:** | National Institutes of Health |
-| **Award Number:** | OT2OD033756 and OT2OD026671 |
+| **Award Number:** | OT2OD033756; OT2OD026671 |
 | **HuBMAP ID:** | HBM352.BTSQ.586 |
-| **3D Data:** | [United, Female v1.5](https://ccf-ontology.hubmapconsortium.org/objects/v2.0/3d-vh-f-united.glb) |
+| **3D Data:** | [United, Female v1.5](https://cdn.humanatlas.io/hra-releases/v2.0/models/3d-vh-f-united.glb.7z) |
 | **DOI:** | [https://doi.org/10.48539/HBM352.BTSQ.586](https://doi.org/10.48539/HBM352.BTSQ.586) |
 | **How to Cite This 3D Data:** |Kristen Browne; Heidi Schlehlein. 2023. *3D Reference Organ Set for Female, v1.5.*, https://doi.org/10.48539/HBM352.BTSQ.586. Accessed on December 15, 2023. |
 | **How to Cite 3D Data Overall:** | Kristen Browne, Heidi Schlehlein, Bruce W. Herr II, Ellen Quardokus, Andreas Bueckle, Katy B&ouml;rner. 2023. [*HuBMAP CCF 3D Reference Object Library*.](https://humanatlas.io/3d-reference-library) Accessed on December 15, 2023. |

@@ -4,8 +4,8 @@ set -e
 # Move to the rel-tools dir
 cd $(dirname "$0")
 
-hraVersion=${hraVersion:=v1.4}
-prevVersion=${prevVersion:=v1.3}
+hraVersion=${hraVersion:=v2.0}
+prevVersion=${prevVersion:=v1.4}
 
 DO_NAMES=$(cut -f 3 ../reference-entity-ids.tsv | grep "/${hraVersion}/" | perl -pe 's/https\:\/\/.*\///g;s/.html//g;')
 

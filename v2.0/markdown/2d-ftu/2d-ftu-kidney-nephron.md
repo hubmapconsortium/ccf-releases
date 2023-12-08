@@ -1,7 +1,7 @@
 # 2D Nephron Functional Tissue Unit (FTU) for Kidney, v1.2
 
 ### Description
-This functional tissue unit (FTU) illustration includes cell types related to the nephron FTU in the ASCT+B Table [Kidney v1.3](https://cdn.humanatlas.io/hra-releases/v1.4/asct-b/asct-b-vh-kidney.csv). This illustration was inspired by the [Kidney Tissue Atlas Explorer](https://atlas.kpmp.org/explorer/)created by the Kidney Precision Medicine Project (KPMP). Multiple histology atlases, especially “Human Microscopic Anatomy” (R.V. Krstić, 1994) and “Histology: A Text and Atlas” (Michael H. Ross, et al., 2003) were referenced. Cell type diameters were primarily defined by [(Hu, McDonough, and Layton 2021)](https://doi.org/10.1016/j.isci.2021.102667). In v1.2 of the 2D Nephron FTU for kidney, three insets were added: inner and outer medullary and cortical collecting ducts. Regional areas of the kidney were adjusted to reflect the ratio of the stripes against KPMP measurements.
+This functional tissue unit (FTU) illustration includes cell types related to the nephron FTU in the ASCT+B Table [Kidney v1.3](https://cdn.humanatlas.io/hra-releases/v1.4/asct-b/asct-b-vh-kidney.csv). This illustration was inspired by the [Kidney Tissue Atlas Explorer](https://atlas.kpmp.org/explorer/)created by the Kidney Precision Medicine Project (KPMP). Multiple histology atlases, especially “Human Microscopic Anatomy” (R.V. Krstić, 1994) and “Histology: A Text and Atlas” (Michael H. Ross, et al., 2003) were referenced. Cell type diameters were primarily defined by [(Hu, McDonough, and Layton 2021)](https://doi.org/10.1016/j.isci.2021.102667). In v1.2 of the 2D Nephron FTU for kidney, three insets were added: inner and outer medullary and cortical collecting ducts. Regional areas of the kidney were adjusted to reflect the ratio of the stripes against KPMP measurements. Minor revisions were also made in v1.2 to fix overlapping labels or labels in different layers of the ai file and to correct missing colors in some sections of the illustrations to use the svg file in the interactive FTU Explorer. 
 
 Primary references:
 
@@ -36,7 +36,7 @@ Machine learning and AI are employed in segmenting these FTUs from data which wi
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
 | **Funder:** | National Institutes of Health |
-| **Award Number:** |OT2OD033756 and OT2OD026671 |
+| **Award Number:** |OT2OD033756; OT2OD026671 |
 | **HuBMAP ID:** | HBM927.DQNW.448 |
 | **2D Data:** | Kidney, 2D Nephron FTU v.1.2 [SVG](https://cdn.humanatlas.io/hra-releases/v2.0/2d-ftu/2d-ftu-kidney-nephron.svg) [AI](https://cdn.humanatlas.io/hra-releases/v2.0/2d-ftu/2d-ftu-kidney-nephron.ai)|
 | **DOI:** | [https://doi.org/10.48539/HBM927.DQNW.448](https://doi.org/10.48539HBM927.DQNW.448) |

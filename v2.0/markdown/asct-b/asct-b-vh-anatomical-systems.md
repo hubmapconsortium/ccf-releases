@@ -17,7 +17,7 @@ The anatomical systems v1.0 ASCT+B table is meant to provide a foundation for th
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
 | **Funder:** | National Institutes of Health |
-| **Award Number:** |OT2OD033756 and OT2OD026671 |
+| **Award Number:** |OT2OD033756; OT2OD026671 |
 | **HuBMAP ID:** | HBM323.SHHZ.249|
 | **Data Table:** |[Anatomical Systems, v1.0](https://cdn.humanatlas.io/hra-releases/v2.0/asct-b/asct-b-vh-anatomical-systems.csv)|
 | **DOI:** | [https://doi.org/10.48539/HBM323.SHHZ.249](https://doi.org/10.48539/HBM323.SHHZ.249) |

@@ -17,7 +17,7 @@ This table includes the major cell types in skin and the biomarkers that have be
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
 | **Funder:** | National Institutes of Health |
-| **Award Number:** |5UH3CA246594-02, OT2OD033756 and OT2OD026671 |
+| **Award Number:** |5UH3CA246594-02, OT2OD033756; OT2OD026671 |
 | **HuBMAP ID:** | HBM785.XBPB.444 |
 | **Data Table:** | [Skin v1.3](https://cdn.humanatlas.io/hra-releases/v2.0/asct-b/asct-b-vh-skin.csv)  |
 | **DOI:** | [https://doi.org/10.48539/HBM785.XBPB.444](https://doi.org/10.48539/HBM785.XBPB.444) |
