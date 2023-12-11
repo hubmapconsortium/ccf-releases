@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">https://doi.org/10.48539/HBM927.DQNW.448</identifier>
+<titles>
+  <title>2D Nephron Functional Tissue Unit (FTU) for Kidney, v1.2</title>
+</titles>
+<creators>
+  <creator>
+    <creatorName>Rachel Bajema</creatorName>
+    <givenName>Rachel</givenName>
+    <familyName>Bajema</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3775-8574">0000-0002-3775-8574</nameIdentifier>
+  </creator>
+</creators>
+<publisher>HuBMAP</publisher>
+<publicationYear>2023</publicationYear>
+<resourceType resourceTypeGeneral="Image">2D reference human organ FTU object</resourceType>
+<subjects>
+  <subject>2D Nephron Functional Tissue Unit (FTU) for Kidney</subject>
+</subjects>
+<contributors>
+  <contributor contributorType="ProjectLeader">
+      <contributorName>Katy Börner</contributorName>
+      <givenName>Katy</givenName>
+      <familyName>Börner</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3321-6137">0000-0002-3321-6137</nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Sanjay Jain</contributorName>
+    <givenName>Sanjay</givenName>
+    <familyName>Jain</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-2804-127X">0000-0003-2804-127X</nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Matthias Kretzler</contributorName>
+    <givenName>Matthias</givenName>
+    <familyName>Kretzler</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-4064-0582">0000-0003-4064-0582</nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>M. Todd Valerius</contributorName>
+    <givenName>M.</givenName>
+    <familyName>Valerius</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-8143-9231">0000-0001-8143-9231</nameIdentifier>
+  </contributor>
+</contributors>
+<dates>
+  <date dateType="Available">2023-12-15</date>
+</dates>
+<descriptions>
+  <description descriptionType="Abstract">This functional tissue unit (FTU) illustration includes cell types related to the nephron FTU in the ASCT+B Table [Kidney v1.3](https://cdn.humanatlas.io/hra-releases/v1.4/asct-b/asct-b-vh-kidney.csv). This illustration was inspired by the [Kidney Tissue Atlas Explorer](https://atlas.kpmp.org/explorer/)created by the Kidney Precision Medicine Project (KPMP). Multiple histology atlases, especially “Human Microscopic Anatomy” (R.V. Krstić, 1994) and “Histology: A Text and Atlas” (Michael H. Ross, et al., 2003) were referenced. Cell type diameters were primarily defined by [(Hu, McDonough, and Layton 2021)](https://doi.org/10.1016/j.isci.2021.102667). In v1.2 of the 2D Nephron FTU for kidney, three insets were added: inner and outer medullary and cortical collecting ducts. Regional areas of the kidney were adjusted to reflect the ratio of the stripes against KPMP measurements. Minor revisions were also made in v1.2 to fix overlapping labels or labels in different layers of the ai file and to correct missing colors in some sections of the illustrations to use the svg file in the interactive FTU Explorer.</description>
+</descriptions>
+<language>EN</language>
+<alternateIdentifiers>
+  <alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM927.DQNW.448</alternateIdentifier>
+  <alternateIdentifier alternateIdentifierType="How to Cite This 2D Data">Rachel Bajema 2023. *2D Reference Nephron FTU for Kidney, v1.2.* [https://doi.org/10.48539/HBM927.DQNW.448](https://doi.org/10.48539/HBM927.DQNW.448). Accessed on December 15, 2023.</alternateIdentifier>
+  <alternateIdentifier alternateIdentifierType="How to Cite 2D Data Overall">Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy Börner. 2023. [*HuBMAP CCF 2D Reference Object Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on December 15, 2023.</alternateIdentifier>
+</alternateIdentifiers>
+<formats>
+	<format>.svg</format>
+</formats>
+<rightsList>
+  <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
+</rightsList>
+<fundingReferences>
+	<fundingReference>
+		<funderName>National Institutes of Health</funderName>
+		<awardNumber>OT2OD033756</awardNumber>
+	</fundingReference>
+	<fundingReference>
+		<funderName>National Institutes of Health</funderName>
+		<awardNumber>OT2OD026671</awardNumber>
+	</fundingReference>
+</fundingReferences>
+</resource>

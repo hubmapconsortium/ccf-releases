@@ -19,6 +19,9 @@ const TYPE_MAPPINGS = {
     omap: 'Dataset',
     'ref-organ': 'Model',
     'vascular-geometry': 'Dataset',
+    'asct-b-crosswalk': 'Dataset',
+    'ref-organ-crosswalk': 'Dataset',
+    '2d-ftu-crosswalk': 'Dataset',
   },
   resource_title_mappings: {
     'asct-b': 'ASCT+B Table',
@@ -26,6 +29,9 @@ const TYPE_MAPPINGS = {
     omap: 'Organ Mapping Antibody Panel',
     'ref-organ': '3D reference human organ model',
     'vascular-geometry': 'Vascular Geometry Table',
+    'asct-b-crosswalk': 'ASCT+B Crosswalk Table',
+    '2d-ftu-crosswalk': 'ASCT+B table to 2D FTU crosswalk Table',
+    'ref-organ-crosswalk': 'ASCT+B table to 3D model crosswalk Table',
   },
   cite_model_mappings: {
     'asct-b': 'Data Table',
@@ -48,7 +54,8 @@ function renderTemplate(templateFile, data) {
   nunjucks.configure({ autoescape: false });
   const env = new nunjucks.Environment();
   env.addFilter('fileExtension', (str) => {
-    const ext = str !== undefined ? str.slice(str.replace('.zip', '').lastIndexOf('.') + 1).replace(')', '') : '';
+    str = str.replace('.zip', '').replace('.7z', '');
+    const ext = str !== undefined ? str.slice(str.lastIndexOf('.') + 1).replace(')', '') : '';
     return TYPE_MAPPINGS.extension_fixes[ext] || ext;
   });
   env.addFilter('mdLinkAsUrlOnly', (str) => str.slice(str.lastIndexOf('(') + 1, str.lastIndexOf(')') - 1));
@@ -65,6 +72,7 @@ function renderTemplate(templateFile, data) {
 
 const md = new HraMarkdownParser(INPUT_MD);
 const data = md.toJson();
+data.resource_type = md.getResourceType();
 
 // Write out DOI/XML
 const xml = renderTemplate('doi-xml-template.njk', data);

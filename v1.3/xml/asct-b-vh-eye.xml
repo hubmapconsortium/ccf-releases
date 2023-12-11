@@ -66,7 +66,7 @@
 <alternateIdentfiers>
   <alternateIdentfier alternateIdentiferType="HuBMAP ID">HBM762.WRRQ.394</alternateIdentfier>
   <alternateIdentfier alternateIdentfierType="How to Cite This Data Table">Angela Kruse; Kevin Schey; Christine Curcio, HuBMAP ASCT+B Tables. Eye v1.2, https://doi.org/10.48539/HBM762.WRRQ.394, Accessed on December 15, 2022.</alternateIdentfier>
-  <alternateIdentfier alternateIdentfierType="How to Cite ASCT+B Tables Overall">Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2022. [*HuBMAP ASCT+B Tables*](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html). Accessed on December 15, 2022.</alternateIdentfier>
+  <alternateIdentfier alternateIdentfierType="How to Cite ASCT+B Tables Overall">Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2022. [*HuBMAP ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on December 15, 2022.</alternateIdentfier>
 </alternateIdentfiers>
 <formats>
 	<format>.csv</format>

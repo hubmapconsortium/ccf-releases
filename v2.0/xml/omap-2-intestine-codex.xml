@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">https://doi.org/10.48539/HBM244.TNJG.649</identifier>
+<titles>
+  <title>OMAP-2 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Intestines with CODEX, v1.3</title>
+</titles>
+<creators>
+  <creator>
+    <creatorName>John Hickey</creatorName>
+    <givenName>John</givenName>
+    <familyName>Hickey</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-9961-7673">0000-0001-9961-7673</nameIdentifier>
+  </creator>
+</creators>
+<publisher>HuBMAP</publisher>
+<publicationYear>2023</publicationYear>
+<resourceType resourceTypeGeneral="Dataset">Organ Mapping Antibody Panel</resourceType>
+<subjects>
+  <subject>OMAP-2 Organ Mapping Antibody Panel (OMAP) for Multiplexed Antibody-Based Imaging of Human Intestines with CODEX</subject>
+</subjects>
+<contributors>
+  <contributor contributorType="ProjectLeader">
+      <contributorName>Andrea J. Radtke</contributorName>
+      <givenName>Andrea</givenName>
+      <familyName>Radtke</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-4379-8967">0000-0003-4379-8967</nameIdentifier>
+  </contributor>
+  <contributor contributorType="ProjectLeader">
+      <contributorName>Katy Börner</contributorName>
+      <givenName>Katy</givenName>
+      <familyName>Börner</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3321-6137">0000-0002-3321-6137</nameIdentifier>
+  </contributor>
+  <contributor contributorType="ProjectLeader">
+      <contributorName>Neil Kelleher</contributorName>
+      <givenName>Neil</givenName>
+      <familyName>Kelleher</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-8815-3372">0000-0002-8815-3372</nameIdentifier>
+  </contributor>
+  <contributor contributorType="ProjectLeader">
+      <contributorName>Ronald N. Germain</contributorName>
+      <givenName>Ronald</givenName>
+      <familyName>Germain</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-1495-9143">0000-0003-1495-9143</nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Teri Longacre</contributorName>
+    <givenName>Teri</givenName>
+    <familyName>Longacre</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-0935-7300">0000-0002-0935-7300</nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Andrea J. Radtke</contributorName>
+    <givenName>Andrea</givenName>
+    <familyName>Radtke</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-4379-8967">0000-0003-4379-8967</nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Christopher Werlein</contributorName>
+    <givenName>Christopher</givenName>
+    <familyName>Werlein</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-7694-4257">0000-0002-7694-4257</nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Ellen M. Quardokus</contributorName>
+    <givenName>Ellen</givenName>
+    <familyName>Quardokus</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0001-7655-4833">0000-0001-7655-4833</nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Diane C. Saunders</contributorName>
+    <givenName>Diane</givenName>
+    <familyName>Saunders</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-8849-6746">0000-0002-8849-6746</nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Anna Martinez Casals</contributorName>
+    <givenName>Anna</givenName>
+    <familyName>Casals</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-2722-1965">0000-0003-2722-1965</nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Presha Rajbhandari</contributorName>
+    <givenName>Presha</givenName>
+    <familyName>Rajbhandari</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0003-2184-7238">0000-0003-2184-7238</nameIdentifier>
+  </contributor>
+</contributors>
+<dates>
+  <date dateType="Available">2023-12-15</date>
+</dates>
+<descriptions>
+  <description descriptionType="Abstract">OMAP-2 was designed for CODEX (CO Detection by IndEXing) imaging of fresh frozen human intestine (https://doi.org/10.1038/s41596-021-00556-8, https://doi.org/10.1002/eji.202048891). The panel contains 54 antibodies and the nuclear marker Hoechst for image alignment and nuclear segmentation. This panel provides spatial context for all anatomical structures and most cell types present in the [ASCT+B intestine table,v1.1](https://doi.org/10.48539/HBM325.NZPB.589). However, this panel does not include a marker for tuft cells, M cells, and subsets of major cell types that are known to be present in the intestine (e.g., neuroendocrine cell lineages, distinctions between alpha/beta and gamma/delta T cells, and IgA+ plasma cells). In general the panel was aimed to provide a broad representation of cell types found in the intestine spanning stromal, immune, and epithelial origins and could be used across disease settings of the intestine. Data from this panel has been analyzed as described previously (https://doi.org/10.3389/fimmu.2021.727626, https://doi.org/10.1101/2021.11.25.469203). All antibodies are custom conjugated in house with oligonucleotide barcodes (no lot number available) and run using CODEX imaging per previous protocols (https://doi.org/10.1038/s41596-021-00556-8). Representative datasets using this OMAP can be found here: https://doi.org/10.5061/dryad.76hdr7t1p; https://doi.org/10.5061/dryad.gmsbcc2sq. OMAP-2 v1.3 corrects the rrid listed for CDX2 to  AB_2864405 and the protein target detected by panCytokeratin cloneID AE-1/AE-3 Biolegend 914204 from KRT17 to all of these KRT1, KRT2, KRT3, KRT4, KRT5, KRT7, KRT8, KRT10, KRT14, KRT15, KRT16, KRT19.</description>
+</descriptions>
+<language>EN</language>
+<alternateIdentifiers>
+  <alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM244.TNJG.649</alternateIdentifier>
+  <alternateIdentifier alternateIdentifierType="How to Cite This OMAP Tables">John Hickey. OMAP-2 Organ Mapping Antibody Panel (OMAP)  for Multiplexed Antibody-Based Imaging of Human Intestine with CODEX v1.3. https://doi.org/10.48539/HBM244.TNJG.649. Accessed December 15,2023.</alternateIdentifier>
+  <alternateIdentifier alternateIdentifierType="How to Cite OMAP Tables Overall">Quardokus, Ellen M., Diane C. Saunders, Elizabeth McDonough, John W. Hickey, Christopher Werlein, Christine Surrette, Presha Rajbhandari, et al. 2023. “Organ Mapping Antibody Panels: A Community Resource for Standardized Multiplexed Tissue Imaging.” Nature Methods, July. https://doi.org/10.1038/s41592-023-01846-7.</alternateIdentifier>
+</alternateIdentifiers>
+<formats>
+	<format>.csv</format>
+</formats>
+<rightsList>
+  <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
+</rightsList>
+<fundingReferences>
+	<fundingReference>
+		<funderName>National Institutes of Health</funderName>
+		<awardNumber>OT2OD033756</awardNumber>
+	</fundingReference>
+	<fundingReference>
+		<funderName>National Institutes of Health</funderName>
+		<awardNumber>OT2OD026671</awardNumber>
+	</fundingReference>
+</fundingReferences>
+</resource>

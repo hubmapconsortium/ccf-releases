@@ -72,13 +72,13 @@
   <date dateType="Available">2022-12-15</date>
 </dates>
 <descriptions>
-  <description>[Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html) aim to capture the nested *part_of* structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts.</description>
+  <description>[Anatomical Structures, Cell Types, plus Biomarkers (ASCT+B) tables](https://humanatlas.io/asctb-tables) aim to capture the nested *part_of* structure of anatomical human body parts, the typology of cells, and biomarkers used to identify cell types. The tables are authored and reviewed by an international team of experts.</description>
 </decsriptions>
 <language>EN</language>
 <alternateIdentfiers>
   <alternateIdentfier alternateIdentiferType="HuBMAP ID">HBM975.BBTF.393</alternateIdentfier>
   <alternateIdentfier alternateIdentfierType="How to Cite This Data Table">Martha Campbell-Thompson; Adel Eskaros; Diane Saunders, HuBMAP ASCT+B Tables. Pancreas v1.2 https://doi.org/10.48539/HBM975.BBTF.393, Accessed on December 15, 2022.</alternateIdentfier>
-  <alternateIdentfier alternateIdentfierType="How to Cite ASCT+B Tables Overall">Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2022. [*HuBMAP ASCT+B Tables*](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html). Accessed on December 15, 2022.</alternateIdentfier>
+  <alternateIdentfier alternateIdentfierType="How to Cite ASCT+B Tables Overall">Quardokus, Ellen, Bruce W. Herr II, Lisel Record, Katy Börner. 2022. [*HuBMAP ASCT+B Tables*](https://humanatlas.io/asctb-tables). Accessed on December 15, 2022.</alternateIdentfier>
 </alternateIdentfiers>
 <formats>
 	<format>.csv</format>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">https://doi.org/10.48539/HBM993.HMQG.575</identifier>
+<titles>
+  <title>2D Pulmonary Alveolus Functional Tissue Unit (FTU) for Lung, v1.2</title>
+</titles>
+<creators>
+  <creator>
+    <creatorName>Rachel Bajema</creatorName>
+    <givenName>Rachel</givenName>
+    <familyName>Bajema</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3775-8574">0000-0002-3775-8574</nameIdentifier>
+  </creator>
+</creators>
+<publisher>HuBMAP</publisher>
+<publicationYear>2023</publicationYear>
+<resourceType resourceTypeGeneral="Image">2D reference human organ FTU object</resourceType>
+<subjects>
+  <subject>2D Pulmonary Alveolus Functional Tissue Unit (FTU) for Lung</subject>
+</subjects>
+<contributors>
+  <contributor contributorType="ProjectLeader">
+      <contributorName>Katy Börner</contributorName>
+      <givenName>Katy</givenName>
+      <familyName>Börner</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-3321-6137">0000-0002-3321-6137</nameIdentifier>
+  </contributor>
+  <contributor contributorType="Other">
+    <contributorName>Gloria Pryhuber</contributorName>
+    <givenName>Gloria</givenName>
+    <familyName>Pryhuber</familyName>
+    <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org/0000-0002-9185-3994">0000-0002-9185-3994</nameIdentifier>
+  </contributor>
+</contributors>
+<dates>
+  <date dateType="Available">2023-12-15</date>
+</dates>
+<descriptions>
+  <description descriptionType="Abstract">This functional tissue unit (FTU) illustration includes cell types related to the alveolus FTU in the Anatomical Structures, Cell Types and Biomarkers table ASCT+B Table “Lung_v1.2&quot;[Lung v1.2](https://doi.org/10.48539/HBM396.QVLQ.449). Multiple histology atlases, especially “Netter’s Essential Histology with Correlated Histopathology” (William K. Ovalle and Patrick C. Nahirney, 2021), “Junqueira’s Basic Histology Text &amp; Atlas” (Anthony L. Mescher, 2021), “Human Microscopic Anatomy” (R.V. Krstić, 1994), and “Histology: A Text and Atlas” (Michael H. Ross, et al., 2003) were referenced.Especially helpful in determining the structure of the fibroblast cell types was figure 2 in [(Rodríguez-Castillo et al. 2018)](https://doi.org/10.1186/s12931-018-0837-5).</description>
+</descriptions>
+<language>EN</language>
+<alternateIdentifiers>
+  <alternateIdentifier alternateIdentifierType="HuBMAP ID">HBM993.HMQG.575</alternateIdentifier>
+  <alternateIdentifier alternateIdentifierType="How to Cite This 2D Data">Rachel Bajema 2023. *2D Pulmonary Alveolus Functional Tissue Unit (FTU) for Lung, v1.2.* https://doi.org/10.48539/HBM993.HMQG.575. Accessed on December 15, 2023.</alternateIdentifier>
+  <alternateIdentifier alternateIdentifierType="How to Cite 2D Data Overall">Rachel Bajema, Supriya Bidanta, Ellen Quardokus,  Bruce W. Herr II, Katy Börner. 2023. [*HuBMAP CCF 2D Reference Object Library*](https://humanatlas.io/2d-ftu-illustrations). Accessed on December 15, 2023.</alternateIdentifier>
+</alternateIdentifiers>
+<formats>
+	<format>.svg</format>
+</formats>
+<rightsList>
+  <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</rights>
+</rightsList>
+<fundingReferences>
+	<fundingReference>
+		<funderName>National Institutes of Health</funderName>
+		<awardNumber>OT2OD033756</awardNumber>
+	</fundingReference>
+	<fundingReference>
+		<funderName>National Institutes of Health</funderName>
+		<awardNumber>OT2OD026671</awardNumber>
+	</fundingReference>
+</fundingReferences>
+</resource>

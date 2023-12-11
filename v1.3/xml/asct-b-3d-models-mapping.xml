@@ -48,13 +48,13 @@
   <date dateType="Available">2022-12-15</date>
 </dates>
 <descriptions>
-  <description>This lookup table maps [Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Table](https://hubmapconsortium.github.io/ccf/pages/ccf-anatomical-structures.html) terms to anatomical structure terms used in the [3D Reference Object Library](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html).</description>
+  <description>This lookup table maps [Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Table](https://humanatlas.io/asctb-tables) terms to anatomical structure terms used in the [3D Reference Object Library](https://humanatlas.io/3d-reference-library).</description>
 </decsriptions>
 <language>EN</language>
 <alternateIdentfiers>
   <alternateIdentfier alternateIdentiferType="HuBMAP ID">HBM766.SDNC.676</alternateIdentfier>
   <alternateIdentfier alternateIdentfierType="How to Cite This 3D Data">Ellen M. Quardokus; Heidi Schlehlein; Bruce W. Herr II; Katy Börner. (2022). *Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Tables to 3D Reference Object Library Mapping*, v1.3, https://doi.org/10.48539/HBM766.SDNC.676.  Accessed on December 15, 2022.</alternateIdentfier>
-  <alternateIdentfier alternateIdentfierType="How to Cite 3D Data Overall">Heidi Schlehlein; Bruce W. Herr II; Ellen M. Quardokus; Andreas Bueckle; Katy Börner. 2022. [*HuBMAP CCF 3D Reference Object Library*](https://hubmapconsortium.github.io/ccf/pages/ccf-3d-reference-library.html). Accessed on December 15, 2022.</alternateIdentfier>
+  <alternateIdentfier alternateIdentfierType="How to Cite 3D Data Overall">Heidi Schlehlein; Bruce W. Herr II; Ellen M. Quardokus; Andreas Bueckle; Katy Börner. 2022. [*HuBMAP CCF 3D Reference Object Library*](https://humanatlas.io/3d-reference-library). Accessed on December 15, 2022.</alternateIdentfier>
 </alternateIdentfiers>
 <formats>
 	<format>.csv</format>
