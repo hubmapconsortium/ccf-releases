@@ -2,6 +2,46 @@
 
 Changelog for the HuBMAP ccf-release Release Notes
 
+## 2.0 - 2023-12-15
+
+### Added in 2.0
+
+**The following were new or revised with ccf-release v2.0:** 
+
+**Reference organs**
+* male and female pancreas-change borders of head/neck but no additional anatomical structures were added.
+* male and female brain model licensing was updated to Creative Commons Attribution 4.0 International (CC BY 4.0)
+* united male & female bodies revised to include pancreas revisions.
+
+**2D FTU illustrations**
+
+* **1 new 2D functional tissue unit (FTU) reference illustrations was added**
+* - **small intestine:** intestinal villus
+* **1 major revision to a 2D functional tissue unit (FTU) reference illustrations**
+* - **kidney** nephron- three insets were added: inner and outer medullary and cortical collecting ducts and regional areas of the kidney were adjusted to reflect the ratio of the stripes against KPMP measurements.
+* 20 minor revisions were also made to fix all 2D illustrations to correct overlapping labels or labels in different layers of the ai file and to correct missing colors in some sections of the illustrations to use the svg file to support the interactive Functional Tissue Unit (FTU) Explorer.
+  
+**ASCT+B tables**
+
+* **2 ASCT+B table were added:** anatomical systems and palatine tonsil
+* **13 ASCT+B tables had minor revised:** :bone marrow, brain, heart, fallopian tube, kidney; liver, lung; lymph node, main bronchus, pancreas, prostate, skin, and thymus.
+* **7 ASCT+B tables had major revised:** : blood vasculature, knee,lymph vasculature, peripheral nervous system,  placenta, muscular system, and skeleton
+  
+**Crosswalks**
+* 1 Musculoskeletal crosswalk table was added
+* 1 Blood Vessel Geometry table was revised
+* 1 Blood vasculature to organ crosswalk was revised
+* 3D models crosswalk- revised to match model revisions
+* 2D crosswalk was revised to correct cell types in the coritcal collecting duct mislabelled as connecting duct, updates to cell types recently added to Cell ontology
+
+
+**Organ Mapping Antibody Panels (OMAPs)**
+
+* **2 Organ Mapping Antibody Panels (OMAPs) were revised:**
+  - OMAP-2 Intestines CODEX correct the RRID for CDX2 is AB_2864405, AE1/AE3 pan cytokeratin was corrected from KRT17 to detecting KRT1, KRT2, KRT3, KRT4, KRT5, KRT7, KRT8KRT10, KRT14, KRT15, KRT16, KRT19, 
+  - OMAP-9 Kidney CODEX—updated author list to include, correct spelling for names
+
+* 
 ## 1.4 - 2023-06-15
 
 ### Added in 1.4
