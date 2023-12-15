@@ -10,7 +10,7 @@ kidney-thick-ascending-loop-of-henle,UBERON:0001291,thick ascending limb of loop
 large-intestine-crypt-lieberkuhn,UBERON:0001984,crypt of Lieberkuhn of large intestine,#FTUCryptOfLieberkuhn,Large Intestine,UBERON:0000059
 liver-liver-lobule,UBERON:0004647,liver lobule,#FTULiverLobule_Inset1,Liver,UBERON:0002107
 liver-liver-lobule,UBERON:0004647,liver lobule,#FTULiverLobule_Inset2,Liver,UBERON:0002107
-lung-bronchial-submucosal-gland,UBERON_8410043,bronchus submucosal gland,#FTUBronchialSubmucosalGland
+lung-bronchial-submucosal-gland,UBERON:8410043,bronchus submucosal gland,#FTUBronchialSubmucosalGland
 lung-pulmonary-alveolus,UBERON:0002299,alveolus of lung,#FTUAlveoli,Lung,UBERON:0002048
 pancreas-intercalated-duct,UBERON:0014726,intercalated duct of pancreas,#FTUIntercalatedDuct
 pancreas-islets-langerhans,UBERON:0000006,islet of Langerhans,#FTUIsletOfLangerhans,Pancreas,UBERON:0001264
