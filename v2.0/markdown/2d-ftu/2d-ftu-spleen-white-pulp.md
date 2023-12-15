@@ -8,8 +8,6 @@ Primary references:
 * Steiniger, Birte S. 2015. “Human Spleen Microanatomy: Why Mice Do Not Suffice.” Immunology. 145(3): 334-346.
 * Mebius, R., Kraal, G. 2005. “Structure and Function of the Spleen.” Nat Rev Immunol. 5: 606-616.
 
-Minor revisions were made in v1.1 2D FTU illustrations to fix overlapping labels or labels in different layers of the ai file and to correct missing colors in some sections of the illustrations to use the svg file in the interactive FTU Explorer. 
-
 Note: These illustrations are a stylized representation of the average number and distribution of cell type populations within a functional tissue unit (FTU). Cell types are included based on their linkage to the FTU in each organ’s Anatomical Structures, Cell Type and Biomarkers (ASCT+B) Table. The intention is to illustrate relationships between individual cells and to include visual information on their relative shape, scale and distribution within the tissue. A relationship to blood supply is indicated.
 We are working towards an understanding of cellular relationships within each FTU, as well as perfusion, innervation, structural and extracellular matrix support. Greater relationships of scale within the body are also considered. Smaller FTUs may be nested within larger FTUs.
 This work is iterative and will be updated in regular publication cycles. In future releases, illustrations will be linked to data sets interactively.

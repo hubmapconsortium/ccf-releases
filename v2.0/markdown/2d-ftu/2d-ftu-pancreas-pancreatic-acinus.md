@@ -5,8 +5,6 @@ This functional tissue unit (FTU) illustration includes cell types related to th
 
 Multiple histology atlases, especially “Netter’s Essential Histology with Correlated Histopathology” (William K. Ovalle and Patrick C. Nahirney, 2021), “Junqueira’s Basic Histology Text & Atlas” (Anthony L. Mescher, 2021), “Human Microscopic Anatomy” (R.V. Krstić, 1994), and “Histology: A Text and Atlas” (Michael H. Ross, et al., 2003) were referenced.
 
-Minor revisions were made in v1.1 2D FTU illustrations to fix overlapping labels or labels in different layers of the ai file and to correct missing colors in some sections of the illustrations to use the svg file in the interactive FTU Explorer. 
-
 Primary references:
 
 Hahn, Max, Christoffer Nord, Marika Eriksson, Federico Morini, Tomas Alanentalo, Olle Korsgren, and Ulf Ahlgren. 2021. “3D Imaging of Human Organs with Micrometer Resolution - Applied to the Endocrine Pancreas.” Communications Biology. 4:1063. https://doi.org/10.1038/s42003-021-02589-x.

@@ -3,8 +3,6 @@
 ### Description
 This functional tissue unit (FTU) illustration includes cell types related to the thymus lobule FTU in the Anatomical Structures, Cell Types and Biomarkers table [Thymus v1.2](https://doi.org/10.48539/HBM284.RFDC.542). 
 
-Minor revisions were made in v1.2 to fix overlapping labels or labels in different layers of the ai file and to correct missing colors in some sections of the illustrations to use the svg file in the interactive FTU Explorer. 
-
 Primary references:
 
 Fidan, Pinar Ayran, F. Figen Kaymaz, and Attila Dagdeviren. 2019. “Implications for Thymus Growth in Childhood: Histogenesis of Cortex and Medulla.” Anatomical Science International 94(1): 111–18. https://doi.org/10.1007/s12565-018-0456-8.

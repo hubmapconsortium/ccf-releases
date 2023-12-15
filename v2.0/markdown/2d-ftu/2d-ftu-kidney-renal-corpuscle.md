@@ -3,8 +3,6 @@
 ### Description
 This functional tissue unit (FTU) illustration includes cell types related to the renal corpuscle FTU in the ASCT+B Table [Kidney v1.2](https://cdn.humanatlas.io/hra-releases/v1.2/asct-b/ASCT-B_VH_Kidney.csv).
 
-Minor revisions were made in v1.2 to fix overlapping labels or labels in different layers of the ai file and to correct missing colors in some sections of the illustrations to use the svg file in the interactive FTU Explorer. 
-
 Primary references:
 
 Beeuwkes III, Reinier and Joseph V. Bonventre. 1975. “Tubular Organization and Vascular-Tubular Relations in the Dog Kidney.” Am. J. Physiol. 229(3): 695-713.

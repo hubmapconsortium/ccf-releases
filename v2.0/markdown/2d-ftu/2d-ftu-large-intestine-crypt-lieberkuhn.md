@@ -3,8 +3,6 @@
 ### Description
 This functional tissue unit (FTU) illustration includes cell types related to the Crypt of Lieberkuhn FTU in the Anatomical Structures, Cell Types and Biomarkers table [Large Intestine v1.2](https://doi.org/10.48539/HBM325.NZPB.589). Multiple histology atlases, especially “Netter’s Essential Histology with Correlated Histopathology” (William K. Ovalle and Patrick C. Nahirney, 2021), “Junqueira’s Basic Histology Text & Atlas” (Anthony L. Mescher, 2021), “Human Microscopic Anatomy” (R.V. Krstić, 1994), and “Histology: A Text and Atlas” (Michael H. Ross, et al., 2003) were referenced. Measurements were taken from [(Baker et al. 2014)](https://doi.org/10.1016/j.celrep.2014.07.019).
 
-Minor revisions were made in v1.2 to fix overlapping labels or labels in different layers of the ai file and to correct missing colors in some sections of the illustrations to use the svg file in the interactive FTU Explorer. 
-
 Note: These illustrations are a stylized representation of the average number and distribution of cell type populations within a functional tissue unit (FTU). Cell types are included based on their linkage to the FTU in each organ’s Anatomical Structures, Cell Type and Biomarkers (ASCT+B) Table. The intention is to illustrate relationships between individual cells and to include visual information on their relative shape, scale and distribution within the tissue. A relationship to blood supply is indicated.
 
 We are working towards an understanding of cellular relationships within each FTU, as well as perfusion, innervation, structural and extracellular matrix support. Greater relationships of scale within the body are also considered. Smaller FTUs may be nested within larger FTUs.

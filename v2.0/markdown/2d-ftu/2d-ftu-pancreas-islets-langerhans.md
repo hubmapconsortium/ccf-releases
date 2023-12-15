@@ -3,8 +3,6 @@
 ### Description
 This functional tissue unit (FTU) illustration includes cell types related to the islets of Langerhans FTU in the Anatomical Structures, Cell Types and Biomarkers table ASCT+B Table [Pancreas v1.1](https://doi.org/10.48539/HBM557.XHHV.557). 
 
-Minor revisions were made in v1.2 to fix overlapping labels or labels in different layers of the ai file and to correct missing colors in some sections of the illustrations to use the svg file in the interactive FTU Explorer. 
-
 Primary references:
 
 Hahn, Max, Christoffer Nord, Marika Eriksson, Federico Morini, Tomas Alanentalo, Olle Korsgren, and Ulf Ahlgren. 2021. “3D Imaging of Human Organs with Micrometer Resolution - Applied to the Endocrine Pancreas.” Communications Biology. 4:1063. https://doi.org/10.1038/s42003-021-02589-x.
