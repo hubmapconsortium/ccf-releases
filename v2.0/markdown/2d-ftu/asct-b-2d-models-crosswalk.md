@@ -7,12 +7,12 @@ Minor revisions to add new cell type Cell Ontology mappings to thymus cells, cor
 
 | Label | Value |
 | :------------- |:-------------|
-| **Creator(s):** | Supriya Bidanta |
-| **Creator ORCID:** | [0000-0002-2142-983X](https://orcid.org/0000-0002-2142-983X)|
+| **Creator(s):** | Supriya Bidanta; Ellen M. Quardokus|
+| **Creator ORCID:** | [0000-0002-2142-983X](https://orcid.org/0000-0002-2142-983X); [0000-0001-7655-4833](https://orcid.org/0000-0001-7655-4833)|
 | **Project Lead:** | Katy B&ouml;rner |
 | **Project Lead ORCID:** | [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137) |
-| **Reviewer(s):** | Ellen M. Quardokus; Katy Börner; Rachel Bajema; Bruce W. Herr II | 
-| **Reviewer ORCID(s):** |[0000-0001-7655-4833](https://orcid.org/0000-0001-7655-4833); [0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137); [0000-0002-3775-8574](https://orcid.org/0000-0002-3775-8574); [0000-0002-6703-7647](https://orcid.org/0000-0002-6703-7647) |
+| **Reviewer(s):** | Katy Börner; Rachel Bajema; Bruce W. Herr II | 
+| **Reviewer ORCID(s):** |[0000-0002-3321-6137](https://orcid.org/0000-0002-3321-6137); [0000-0002-3775-8574](https://orcid.org/0000-0002-3775-8574); [0000-0002-6703-7647](https://orcid.org/0000-0002-6703-7647) |
 | **Date:** | 2023-12-15 |
 | **License:** | Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
 | **Publisher:** | HuBMAP |
