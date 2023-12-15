@@ -3,8 +3,6 @@
 ### Description
 This functional tissue unit (FTU) illustration includes cell types related to the bronchial submucosal gland FTU in the Anatomical Structures, Cell Types and Biomarkers table [Lung v1.2](https://doi.org/10.48539/HBM396.QVLQ.449). 
 
-Minor revisions were made in v1.1 2D FTU illustrations to fix overlapping labels or labels in different layers of the ai file and to correct missing colors in some sections of the illustrations to use the svg file in the interactive FTU Explorer. 
-
 Primary references:
 
 Tata, Aleksandra et al. 2018. “Myoepithelial Cells of Submucosal Glands Can Function as Reserve Stem Cells to Regenerate Airways After Injury.” Cell Stem Cell. 22(5): 668-683.e6. https://doi.org/10.1016/j.stem.2018.03.018.
