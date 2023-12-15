@@ -3,7 +3,6 @@
 ### Description
 This lookup table maps [Anatomical Structures, Cell Types and Biomarkers (ASCT+B) Table](https://humanatlas.io/asctb-tables) terms to anatomical structure and cell type terms used in the [CCF-2D-reference-object-library](https://humanatlas.io/2d-ftu-illustrations).
 
-Minor revisions to add new cell type Cell Ontology mappings to thymus cells, correct several entries of cortical collecting duct cells mismapped to connecting duct cells, add cell types for three new nephron insets for cell types present in inner and outer medullary and cortical collecting ducts and add small intestinal villus cells.
 
 | Label | Value |
 | :------------- |:-------------|
